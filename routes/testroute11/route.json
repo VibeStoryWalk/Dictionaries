@@ -1,0 +1,137 @@
+{
+  "id": "testroute11",
+  "cityId": "testcity",
+  "title": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "coverImage": "images/route-cover.jpg",
+  "description": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "intro": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "durationMinutes": 95,
+  "distanceKm": 2.05,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06209799718156,
+    19.939370155334476
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "barb",
+      "toPointId": "point-21",
+      "path": [
+        {
+          "coordinates": [
+            50.06529048717489,
+            19.941437788029052
+          ]
+        },
+        {
+          "coordinates": [
+            50.06545909739161,
+            19.938039552650316
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06516950715435,
+            19.935615182525908
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06132685635874,
+            19.93239626685981
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05934454440345,
+            19.93417661674876
+          ],
+          "type": "info",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.056148689839155,
+            19.935894138569367
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.053915444505186,
+            19.93353303792705
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.052001617894234,
+            19.93405788129038
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "barb",
+    "point-21"
+  ],
+  "debug_entity": false
+}

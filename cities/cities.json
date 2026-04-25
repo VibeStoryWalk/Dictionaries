@@ -12,7 +12,7 @@
       "en": "The historic capital of Poland. A cradle of Polish identity, character, and history.",
       "pl": "Dawna stolica Polski. Kolebka polskiej tożsamości, charakteru i historii."
     },
-    "heroImage": "images/krakow/city-cover.jpg",
+    "heroImage": "krakow/city-cover.jpg",
     "debug_entity": false
   }
 ]

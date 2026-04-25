@@ -17,7 +17,7 @@
       "pl": "Ten plac robi silne wrażenie właśnie swoją powściągliwością.\nKrzesła rozmieszczone w przestrzeni nawiązują do mebli, które żydowskie rodziny wynosiły podczas deportacji z krakowskiego getta.\nTutaj ważna jest nie tyle liczba detali, co odczucie nagłej pustki.\nDzielnica żyła zwyczajnym miejskim życiem, lecz w czasie niemieckiej okupacji została przekształcona w przestrzeń przymusowych przesiedleń, strachu i znikania.\nJeśli zatrzymasz się tu na kilka minut, łatwo zrozumieć, dlaczego współczesny pomnik przyjął nie heroiczną formę, lecz obraz przedmiotu codziennego użytku: tragedia getta wkroczyła do domów, do codzienności i do ludzkich dróg."
     },
     "dwellTimeMinutes": 8,
-    "image": "images/krakow/points/ghetto-heroes-square.jpg",
+    "image": "krakow/points_images/ghetto-heroes-square.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -43,7 +43,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/bernatka-bridge.jpg",
+    "image": "krakow/points_images/bernatka-bridge.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "Вы приближаетесь к мосту Бернатка.",
@@ -69,7 +69,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 6,
-    "image": "images/krakow/points/judah-mural.jpg",
+    "image": "krakow/points_images/judah-mural.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -95,7 +95,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 8,
-    "image": "images/krakow/points/plac-nowy.jpg",
+    "image": "krakow/points_images/plac-nowy.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -121,7 +121,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 9,
-    "image": "images/krakow/points/szeroka-street.jpg",
+    "image": "krakow/points_images/szeroka-street.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -147,7 +147,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 8,
-    "image": "images/krakow/points/remuh-synagogue.jpg",
+    "image": "krakow/points_images/remuh-synagogue.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -173,7 +173,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/vistula-boulevard.jpg",
+    "image": "krakow/points_images/vistula-boulevard.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -199,7 +199,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 8,
-    "image": "images/krakow/points/wawel-dragon.jpg",
+    "image": "krakow/points_images/wawel-dragon.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "Вы приближаетесь к Вавельскому дракону",
@@ -225,7 +225,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 10,
-    "image": "images/krakow/points/wawel-hill.jpg",
+    "image": "krakow/points_images/wawel-hill.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "А вот и вАвельский холм",
@@ -251,7 +251,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/st-peter-paul.jpg",
+    "image": "krakow/points_images/st-peter-paul.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -277,7 +277,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/grodzka-street.jpg",
+    "image": "krakow/points_images/grodzka-street.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -303,7 +303,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/jagiellonian-university.jpg",
+    "image": "krakow/points_images/jagiellonian-university.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -329,7 +329,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 9,
-    "image": "images/krakow/points/collegium-maius.jpg",
+    "image": "krakow/points_images/collegium-maius.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -355,7 +355,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/planty.jpg",
+    "image": "krakow/points_images/planty.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -381,7 +381,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 8,
-    "image": "images/krakow/points/barbican.jpg",
+    "image": "krakow/points_images/barbican.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -407,7 +407,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 6,
-    "image": "images/krakow/points/florian-gate.jpg",
+    "image": "krakow/points_images/florian-gate.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -433,7 +433,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/florianska-street.jpg",
+    "image": "krakow/points_images/florianska-street.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -459,7 +459,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 8,
-    "image": "images/krakow/points/st-marys-basilica.jpg",
+    "image": "krakow/points_images/st-marys-basilica.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -485,7 +485,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 7,
-    "image": "images/krakow/points/cloth-hall.jpg",
+    "image": "krakow/points_images/cloth-hall.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -511,7 +511,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 6,
-    "image": "images/krakow/points/town-hall-tower.jpg",
+    "image": "krakow/points_images/town-hall-tower.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -537,7 +537,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 6,
-    "image": "images/krakow/points/eros-bound.jpg",
+    "image": "krakow/points_images/eros-bound.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -563,7 +563,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 10,
-    "image": "images/krakow/points/main-square.jpg",
+    "image": "krakow/points_images/main-square.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -589,7 +589,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 5,
-    "image": "images/krakow/points/point-5.jpg",
+    "image": "krakow/points_images/point-5.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -615,7 +615,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 5,
-    "image": "images/krakow/points/corner-1.jpg",
+    "image": "krakow/points_images/corner-1.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -641,7 +641,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 5,
-    "image": "images/krakow/points/point-3.jpg",
+    "image": "krakow/points_images/point-3.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -667,7 +667,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 5,
-    "image": "images/krakow/points/point-4.jpg",
+    "image": "krakow/points_images/point-4.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -693,7 +693,7 @@
       "pl": ""
     },
     "dwellTimeMinutes": 5,
-    "image": "images/krakow/points/point-1.jpg",
+    "image": "krakow/points_images/point-1.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",

@@ -196,7 +196,7 @@
       ]
     }
   ],
-  "debug_entity": false,
+  "debug_entity": true,
   "pointIds": [
     "point-5",
     "corner-1",

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "krakow",
+    "countryId": "pl",
+    "names": {
+      "ru": "Краков",
+      "en": "Krakow",
+      "pl": "Kraków"
+    },
+    "summaries": {
+      "ru": "Старинная столица Польши. Колыбель Польши и её национального колорита и истории.",
+      "en": "The historic capital of Poland. A cradle of Polish identity, character, and history.",
+      "pl": "Dawna stolica Polski. Kolebka polskiej tożsamości, charakteru i historii."
+    },
+    "heroImage": "images/krakow/city-cover.jpg",
+    "debug_entity": false
+  }
+]

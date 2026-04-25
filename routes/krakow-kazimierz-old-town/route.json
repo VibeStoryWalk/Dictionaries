@@ -1,0 +1,1375 @@
+{
+  "id": "krakow-kazimierz-old-town",
+  "cityId": "krakow",
+  "title": {
+    "ru": "От Подгуже до Рыночной площади",
+    "en": "",
+    "pl": ""
+  },
+  "coverImage": "images/route-cover.jpg",
+  "description": {
+    "ru": "Большой городской маршрут без музеев и платных объектов. Он связывает Подгуже, Казимеж, Вавель, университетский квартал и Рыночную площадь в одну последовательную прогулку.",
+    "en": "",
+    "pl": ""
+  },
+  "intro": {
+    "ru": "Маршрут построен так, чтобы Краков раскрывался постепенно. Сначала вы проходите через пространство памяти в Подгуже, затем входите в Казимеж с его улицами, синагогами и следами повседневной жизни, после этого выходите к Висле и Вавелю, а в финале переходите в академический и рыночный центр города. Все точки доступны с улицы и не требуют покупки билетов.",
+    "en": "",
+    "pl": ""
+  },
+  "durationMinutes": 240,
+  "distanceKm": 8.6,
+  "routeType": "walk",
+  "mapCenter": [
+    50.05024987409684,
+    19.948160482550758
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 10,
+  "completionMessage": {
+    "ru": "Маршрут завершён. Теперь Краков складывается не в список достопримечательностей, а в связный городской рассказ: память, легенды, университетская традиция и жизнь центральных площадей.",
+    "en": "",
+    "pl": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "ghetto-heroes-square",
+      "toPointId": "bernatka-bridge",
+      "path": [
+        {
+          "coordinates": [
+            50.046693702795736,
+            19.954463332478973
+          ]
+        },
+        {
+          "coordinates": [
+            50.04712075183079,
+            19.95402591451948
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "Поверните левее и двигайтетесь 400 метров по улице Пивна.",
+            "en": "Turn slightly left and continue along Piwna Street for 400 meters.",
+            "pl": "Skręć lekko w lewo i idź ulicą Piwna przez 400 metrów."
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045902248945495,
+            19.949187050102683
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "Двигайтесь прямо",
+            "en": "Idź prosto.",
+            "pl": "Go straight ahead."
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045971784838166,
+            19.94838237592475
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bernatka-bridge",
+      "toPointId": "judah-mural",
+      "path": [
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        },
+        {
+          "coordinates": [
+            50.046512601852385,
+            19.947556258522752
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04719186954892,
+            19.94696933331783
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04750891969007,
+            19.947548322784442
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04972306722089,
+            19.946172236333894
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.050167753596085,
+            19.948151757754275
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05024987409684,
+            19.948160482550758
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "judah-mural",
+      "toPointId": "plac-nowy",
+      "path": [
+        {
+          "coordinates": [
+            50.05024987409684,
+            19.948160482550758
+          ]
+        },
+        {
+          "coordinates": [
+            50.050201938543516,
+            19.947942497895752
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05036723080758,
+            19.947819115431145
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05130413520264,
+            19.947438237222975
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05097004113333,
+            19.94576993149881
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05150736472797,
+            19.94545341810767
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "plac-nowy",
+      "toPointId": "szeroka-street",
+      "path": [
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
+          ]
+        },
+        {
+          "coordinates": [
+            50.051796696233794,
+            19.945185184478763
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.052092677073546,
+            19.9451048157851
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.052732983374895,
+            19.94644103244514
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.051731332593036,
+            19.946928606196874
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.051834591242816,
+            19.947625989025678
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05173125430722,
+            19.94766355126516
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05185102263469,
+            19.948289094456683
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "szeroka-street",
+      "toPointId": "remuh-synagogue",
+      "path": [
+        {
+          "coordinates": [
+            50.05185102263469,
+            19.948289094456683
+          ]
+        },
+        {
+          "coordinates": [
+            50.05233395592096,
+            19.948087333570527
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "remuh-synagogue",
+      "toPointId": "vistula-boulevard",
+      "path": [
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
+          ]
+        },
+        {
+          "coordinates": [
+            50.053181340871085,
+            19.94801759719849
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.053534722288134,
+            19.948307259199275
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04988494164363,
+            19.952201814978583
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.049511601804014,
+            19.95233697789972
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "vistula-boulevard",
+      "toPointId": "wawel-dragon",
+      "path": [
+        {
+          "coordinates": [
+            50.049511601804014,
+            19.95233697789972
+          ]
+        },
+        {
+          "coordinates": [
+            50.048420306207596,
+            19.95004756670034
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04691520968273,
+            19.947029871142664
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04585691889371,
+            19.944455759385715
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04541366029862,
+            19.94283566712333
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04548951945851,
+            19.940453688952623
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04569191246002,
+            19.939434901688074
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04614422072984,
+            19.93814694357795
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04940966394216,
+            19.93546495517143
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05027041097363,
+            19.93483423436273
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.051867981609824,
+            19.934083413820428
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05290232723889,
+            19.933372803856678
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-dragon",
+      "toPointId": "wawel-hill",
+      "path": [
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ]
+        },
+        {
+          "coordinates": [
+            50.0532296062776,
+            19.933131337165833
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05352579392656,
+            19.93291675810743
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.054021671591386,
+            19.932954312858143
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05450047491144,
+            19.933120608967187
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05486232435035,
+            19.933394125233345
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05545092772782,
+            19.935835097977915
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05538918312428,
+            19.936484092777814
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05494143114588,
+            19.93486407530089
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0542448399888,
+            19.935095479566122
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-hill",
+      "toPointId": "st-peter-paul",
+      "path": [
+        {
+          "coordinates": [
+            50.0542448399888,
+            19.935095479566122
+          ]
+        },
+        {
+          "coordinates": [
+            50.05455563343371,
+            19.934885500586756
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05493448358706,
+            19.93486404136116
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05547869993433,
+            19.93685956810017
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05678742520732,
+            19.937664233632933
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.056930693469404,
+            19.93862574317444
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "st-peter-paul",
+      "toPointId": "grodzka-street",
+      "path": [
+        {
+          "coordinates": [
+            50.056930693469404,
+            19.93862574317444
+          ]
+        },
+        {
+          "coordinates": [
+            50.05701479331964,
+            19.938345549578557
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05715203925858,
+            19.938142623647376
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "grodzka-street",
+      "toPointId": "jagiellonian-university",
+      "path": [
+        {
+          "coordinates": [
+            50.05715203925858,
+            19.938142623647376
+          ]
+        },
+        {
+          "coordinates": [
+            50.05809661476528,
+            19.938018431473193
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05914332843694,
+            19.937792866533147
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05948072090495,
+            19.93621589167453
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05939826480841,
+            19.934510218864453
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0599491646957,
+            19.934306269160093
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06062329345992,
+            19.933177708754485
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "jagiellonian-university",
+      "toPointId": "collegium-maius",
+      "path": [
+        {
+          "coordinates": [
+            50.06062329345992,
+            19.933177708754485
+          ]
+        },
+        {
+          "coordinates": [
+            50.06065698700875,
+            19.932943572510293
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06076868000363,
+            19.932589536601466
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06122287825922,
+            19.932697277492032
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06102326807314,
+            19.933641072839464
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06160793947375,
+            19.934014351254042
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "collegium-maius",
+      "toPointId": "planty",
+      "path": [
+        {
+          "coordinates": [
+            50.06160793947375,
+            19.934014351254042
+          ]
+        },
+        {
+          "coordinates": [
+            50.06174564405323,
+            19.934166657483914
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0618158707637,
+            19.934210730656307
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "planty",
+      "toPointId": "barbican",
+      "path": [
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        },
+        {
+          "coordinates": [
+            50.06387018151861,
+            19.934305881945793
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06532032415064,
+            19.93580668095606
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06555459341676,
+            19.9387900793135
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06545041774745,
+            19.94007467709249
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.065106309430035,
+            19.94146883107946
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "barbican",
+      "toPointId": "florian-gate",
+      "path": [
+        {
+          "coordinates": [
+            50.065106309430035,
+            19.94146883107946
+          ]
+        },
+        {
+          "coordinates": [
+            50.06485560579773,
+            19.941347539104083
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "florian-gate",
+      "toPointId": "florianska-street",
+      "path": [
+        {
+          "coordinates": [
+            50.06485560579773,
+            19.941347539104083
+          ]
+        },
+        {
+          "coordinates": [
+            50.0646807011861,
+            19.94193434757765
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.064460556285546,
+            19.942471094792328
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.063916220309444,
+            19.94207383778628
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.063241321133816,
+            19.94154810905457
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0636331433902,
+            19.940430231510796
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "florianska-street",
+      "toPointId": "st-marys-basilica",
+      "path": [
+        {
+          "coordinates": [
+            50.0636331433902,
+            19.940430231510796
+          ]
+        },
+        {
+          "coordinates": [
+            50.06282558840159,
+            19.939820700506047
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.061639274681085,
+            19.938751231785986
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "st-marys-basilica",
+      "toPointId": "cloth-hall",
+      "path": [
+        {
+          "coordinates": [
+            50.061639274681085,
+            19.938751231785986
+          ]
+        },
+        {
+          "coordinates": [
+            50.06185919466138,
+            19.938302601687795
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.062131543175376,
+            19.937710359534353
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "cloth-hall",
+      "toPointId": "town-hall-tower",
+      "path": [
+        {
+          "coordinates": [
+            50.062131543175376,
+            19.937710359534353
+          ]
+        },
+        {
+          "coordinates": [
+            50.061687007214736,
+            19.937358472613433
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.061250850922846,
+            19.936972262387393
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.061411957288584,
+            19.936423011242546
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "town-hall-tower",
+      "toPointId": "eros-bound",
+      "path": [
+        {
+          "coordinates": [
+            50.061411957288584,
+            19.936423011242546
+          ]
+        },
+        {
+          "coordinates": [
+            50.061354189509814,
+            19.93619977981696
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06152899476507,
+            19.936186378801466
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "eros-bound",
+      "toPointId": "main-square",
+      "path": [
+        {
+          "coordinates": [
+            50.06152899476507,
+            19.936186378801466
+          ]
+        },
+        {
+          "coordinates": [
+            50.06171798770969,
+            19.936526977620133
+          ],
+          "type": "turn",
+          "text": {
+            "ru": "",
+            "en": "",
+            "pl": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06189418479692,
+            19.936809299835495
+          ]
+        }
+      ]
+    }
+  ],
+  "debug_entity": false,
+  "pointIds": [
+    "ghetto-heroes-square",
+    "bernatka-bridge",
+    "judah-mural",
+    "plac-nowy",
+    "szeroka-street",
+    "remuh-synagogue",
+    "vistula-boulevard",
+    "wawel-dragon",
+    "wawel-hill",
+    "st-peter-paul",
+    "grodzka-street",
+    "jagiellonian-university",
+    "collegium-maius",
+    "planty",
+    "barbican",
+    "florian-gate",
+    "florianska-street",
+    "st-marys-basilica",
+    "cloth-hall",
+    "town-hall-tower",
+    "eros-bound",
+    "main-square"
+  ]
+}

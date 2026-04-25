@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pl",
+    "isoCode": "PL",
+    "names": {
+      "ru": "Польша",
+      "en": "Poland",
+      "pl": "Polska"
+    },
+    "debug_entity": false
+  }
+]

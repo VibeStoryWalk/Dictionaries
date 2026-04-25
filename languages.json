@@ -1,0 +1,17 @@
+[
+  {
+    "code": "ru",
+    "spelling": "Русский",
+    "debug_entity": false
+  },
+  {
+    "code": "en",
+    "spelling": "English",
+    "debug_entity": false
+  },
+  {
+    "code": "pl",
+    "spelling": "Polski",
+    "debug_entity": false
+  }
+]

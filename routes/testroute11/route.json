@@ -1,0 +1,37 @@
+{
+  "id": "testroute11",
+  "cityId": "testcity",
+  "title": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "coverImage": "images/route-cover.jpg",
+  "description": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "intro": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "durationMinutes": 90,
+  "distanceKm": 0,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06209799718156,
+    19.939370155334476
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "ru": "test route",
+    "en": "",
+    "pl": ""
+  },
+  "segments": [],
+  "pointIds": [],
+  "debug_entity": false
+}

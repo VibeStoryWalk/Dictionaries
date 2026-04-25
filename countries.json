@@ -8,5 +8,15 @@
       "pl": "Polska"
     },
     "debug_entity": false
+  },
+  {
+    "id": "by",
+    "isoCode": "BY",
+    "names": {
+      "ru": "Беларусь",
+      "en": "Belarus",
+      "pl": "Białoruś"
+    },
+    "debug_entity": false
   }
 ]

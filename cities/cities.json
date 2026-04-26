@@ -4,13 +4,19 @@
     "countryId": "pl",
     "names": {
       "ru": "Краков",
+      "de": "Krakau",
       "en": "Krakow",
+      "it": "Cracovia",
+      "ua": "Краків",
       "pl": "Kraków"
     },
     "summaries": {
       "ru": "Древний историко-культурный центр Польши, сформировавшийся как бывшая королевская столица, где переплетаются средневековая архитектура, академические традиции и богатое наследие европейской цивилизации.",
-      "en": "",
-      "pl": ""
+      "de": "Ein altes historisch-kulturelles Zentrum Polens, entstanden als ehemalige königliche Hauptstadt, in der sich mittelalterliche Architektur, akademische Traditionen und ein reiches Erbe der europäischen Zivilisation verbinden.",
+      "en": "An ancient historical and cultural center of Poland, formed as a former royal capital, where medieval architecture, academic traditions, and the rich heritage of European civilization intertwine.",
+      "it": "Un antico centro storico-culturale della Polonia, formatosi come ex capitale reale, dove si intrecciano architettura medievale, tradizioni accademiche e il ricco patrimonio della civiltà europea.",
+      "ua": "Стародавній історико-культурний центр Польщі, що сформувався як колишня королівська столиця, де переплітаються середньовічна архітектура, академічні традиції та багата спадщина європейської цивілізації.",
+      "pl": "Dawne historyczno-kulturowe centrum Polski, ukształtowane jako była stolica królewska, w którym przeplatają się średniowieczna architektura, tradycje akademickie i bogate dziedzictwo cywilizacji europejskiej."
     },
     "heroImage": "krakow/city-cover.jpg",
     "debug_entity": false

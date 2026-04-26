@@ -4,18 +4,27 @@
   "title": {
     "pl": "Podgorze. Kazimerz. Stare Miasto",
     "ru": "Подгуже. Казимеж. Старый город.",
-    "en": ""
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": ""
   },
   "coverImage": "images/route-cover.jpg",
   "description": {
     "pl": "",
     "ru": "ТБД",
-    "en": ""
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": ""
   },
   "intro": {
     "pl": "",
     "ru": "ТБД",
-    "en": ""
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": ""
   },
   "durationMinutes": 240,
   "distanceKm": 6.99,
@@ -29,7 +38,10 @@
   "completionMessage": {
     "pl": "",
     "ru": "ТБД",
-    "en": ""
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": ""
   },
   "segments": [
     {
@@ -51,7 +63,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -64,7 +79,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -77,7 +95,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -90,7 +111,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -103,7 +127,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -116,7 +143,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -147,7 +177,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -160,7 +193,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -173,7 +209,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -186,7 +225,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -199,7 +241,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -230,7 +275,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -243,7 +291,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -256,7 +307,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -269,7 +323,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -282,7 +339,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -295,7 +355,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -308,7 +371,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -321,7 +387,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -334,7 +403,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -347,7 +419,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -360,7 +435,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -373,7 +451,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -386,7 +467,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -417,7 +501,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -430,7 +517,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -443,7 +533,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -456,7 +549,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -469,7 +565,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -482,7 +581,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -495,7 +597,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -526,7 +631,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -539,7 +647,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -552,7 +663,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -565,7 +679,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -578,7 +695,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -591,7 +711,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -604,7 +727,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -617,7 +743,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -630,7 +759,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -643,7 +775,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -656,7 +791,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -669,7 +807,10 @@
           "text": {
             "pl": "",
             "ru": "Держитесь правее, но если хочется в туалет, то его можно найти слева.",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -682,7 +823,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -695,7 +839,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -726,7 +873,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -739,7 +889,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -752,7 +905,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -765,7 +921,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -778,7 +937,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -791,7 +953,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -804,7 +969,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -817,7 +985,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -830,7 +1001,10 @@
           "text": {
             "pl": "",
             "ru": "Вы подходите к площади Вавельского замка. Тут можно походить, погулять, осмотреться по сторонам, так как с территории замка открываются красивые виды на город.",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -861,7 +1035,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -874,7 +1051,10 @@
           "text": {
             "pl": "",
             "ru": "Справа на стене отображаются имена. Это имена тех людей, которые делали свои пожертвования для реставрации замка.",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -887,7 +1067,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -900,7 +1083,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -913,7 +1099,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -944,7 +1133,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -957,7 +1149,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -970,7 +1165,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -983,7 +1181,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -996,7 +1197,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1009,7 +1213,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1022,7 +1229,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1035,7 +1245,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1084,7 +1297,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1097,7 +1313,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1128,7 +1347,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1159,7 +1381,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1172,7 +1397,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1185,7 +1413,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },
@@ -1270,7 +1501,10 @@
           "text": {
             "pl": "",
             "ru": "",
-            "en": ""
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": ""
           },
           "debug_entity": false
         },

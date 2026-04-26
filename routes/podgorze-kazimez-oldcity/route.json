@@ -18,7 +18,7 @@
     "en": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 6.82,
+  "distanceKm": 6.85,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -1118,6 +1118,19 @@
             50.06143270630443,
             19.93400365397726
           ]
+        },
+        {
+          "coordinates": [
+            50.06174328474848,
+            19.934214949607853
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [

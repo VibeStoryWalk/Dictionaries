@@ -18,7 +18,7 @@
     "en": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 5.85,
+  "distanceKm": 6.67,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -519,6 +519,188 @@
         },
         {
           "coordinates": [
+            50.05145111063733,
+            19.944514663207617
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.051245590476725,
+            19.94373143349861
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05102522291622,
+            19.943023391801294
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05092011864926,
+            19.942452945166448
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05172908697986,
+            19.941960031109833
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05180827574937,
+            19.941906371164745
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.052056170183114,
+            19.941605875472337
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05206305612133,
+            19.94137513770852
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05263173492277,
+            19.940715347396896
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.054038894592075,
+            19.939391545218058
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.054056164851204,
+            19.938946285909758
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05245929575158,
+            19.934948333166652
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "Держитесь правее, но если хочется в туалет, то его можно найти слева.",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05248339632855,
+            19.934089774045496
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05293684050503,
+            19.933544422577754
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.05301522815679,
             19.933579866530845
           ]
@@ -537,6 +719,123 @@
         },
         {
           "coordinates": [
+            50.053497102862146,
+            19.932975676366908
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.054374260615525,
+            19.933081345432722
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.054846092167814,
+            19.933408582814913
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05505265787419,
+            19.934068600139305
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05545201571832,
+            19.935898404266325
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05537971842396,
+            19.936494029656657
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05495970341634,
+            19.93494325724401
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05476346563628,
+            19.93482520536486
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.054477377153056,
+            19.934979447753882
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "Вы подходите к площади Вавельского замка. Тут можно походить, погулять, осмотреться по сторонам, так как с территории замка открываются красивые виды на город.",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.0542448399888,
             19.935095479566122
           ]
@@ -552,6 +851,71 @@
             50.0542448399888,
             19.935095479566122
           ]
+        },
+        {
+          "coordinates": [
+            50.054693601834884,
+            19.93483176939854
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05510667459186,
+            19.935507913083057
+          ],
+          "type": "info",
+          "text": {
+            "pl": "",
+            "ru": "Справа на стене отображаются имена. Это имена тех людей, которые делали свои пожертвования для реставрации замка.",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05532717849284,
+            19.93647335698656
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05654205902759,
+            19.937533077842666
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05678056357799,
+            19.93805047696961
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [

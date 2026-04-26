@@ -2,20 +2,20 @@
   "id": "krakow-kazimierz-old-town",
   "cityId": "krakow",
   "title": {
+    "pl": "",
     "ru": "От Подгуже до Рыночной площади",
-    "en": "",
-    "pl": ""
+    "en": ""
   },
   "coverImage": "images/route-cover.jpg",
   "description": {
-    "ru": "Большой маршрут без музеев и платных объектов. Он связывает Подгуже, Казимеж, Вавель, университетский квартал и Рыночную площадь в одну последовательную прогулку.",
-    "en": "",
-    "pl": ""
+    "pl": "",
+    "ru": "Большой краковский маршрут без музеев и платных объектов. Он связывает Подгуже, Казимеж, Вавель, университетский квартал и Рыночную площадь в одну последовательную прогулку.",
+    "en": ""
   },
   "intro": {
+    "pl": "",
     "ru": "Этот маршрут построен так, чтобы Краков раскрывался постепенно. Сначала вы проходите через пространство памяти в Подгуже, затем входите в Казимеж с его улицами, синагогами и следами повседневной жизни, после этого выходите к Висле и Вавелю, а в финале переходите в академический и рыночный центр города. Все точки доступны с улицы и не требуют покупки билетов.",
-    "en": "",
-    "pl": ""
+    "en": ""
   },
   "durationMinutes": 240,
   "distanceKm": 8.6,
@@ -27,9 +27,9 @@
   "zoom": 14,
   "unlockRadiusMeters": 10,
   "completionMessage": {
+    "pl": "",
     "ru": "Маршрут завершён. Теперь Краков складывается не в список достопримечательностей, а в связный городской рассказ: память, легенды, университетская традиция и жизнь центральных площадей.",
-    "en": "",
-    "pl": ""
+    "en": ""
   },
   "segments": [
     {
@@ -49,9 +49,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "Skręć lekko w lewo i idź ulicą Piwna przez 400 metrów.",
             "ru": "Поверните левее и двигайтетесь 400 метров по улице Пивна.",
-            "en": "Turn slightly left and continue along Piwna Street for 400 meters.",
-            "pl": "Skręć lekko w lewo i idź ulicą Piwna przez 400 metrów."
+            "en": "Turn slightly left and continue along Piwna Street for 400 meters."
           },
           "debug_entity": false
         },
@@ -62,9 +62,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "Go straight ahead.",
             "ru": "Двигайтесь прямо",
-            "en": "Idź prosto.",
-            "pl": "Go straight ahead."
+            "en": "Idź prosto."
           },
           "debug_entity": false
         },
@@ -75,9 +75,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -106,9 +106,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -119,9 +119,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -132,9 +132,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -145,9 +145,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -158,9 +158,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -189,9 +189,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -202,9 +202,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -215,9 +215,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -228,9 +228,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -241,9 +241,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -272,9 +272,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -285,9 +285,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -298,9 +298,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -311,9 +311,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -324,9 +324,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -337,9 +337,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -368,9 +368,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -399,9 +399,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -412,9 +412,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -425,9 +425,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -456,9 +456,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -469,9 +469,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -482,9 +482,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -495,9 +495,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -508,9 +508,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -521,9 +521,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -534,9 +534,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -547,9 +547,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -560,9 +560,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -573,9 +573,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -586,9 +586,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -617,9 +617,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -630,9 +630,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -643,9 +643,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -656,9 +656,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -669,9 +669,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -682,9 +682,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -695,9 +695,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -708,9 +708,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -739,9 +739,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -752,9 +752,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -765,9 +765,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -778,9 +778,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -809,9 +809,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -840,9 +840,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -853,9 +853,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -866,9 +866,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -879,9 +879,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -892,9 +892,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -923,9 +923,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -936,9 +936,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -949,9 +949,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -962,9 +962,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -993,9 +993,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1006,9 +1006,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1037,9 +1037,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1050,9 +1050,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1063,9 +1063,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1076,9 +1076,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1125,9 +1125,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1138,9 +1138,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1151,9 +1151,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1164,9 +1164,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1195,9 +1195,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1226,9 +1226,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1257,9 +1257,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1270,9 +1270,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1301,9 +1301,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },
@@ -1332,9 +1332,9 @@
           ],
           "type": "turn",
           "text": {
+            "pl": "",
             "ru": "",
-            "en": "",
-            "pl": ""
+            "en": ""
           },
           "debug_entity": false
         },

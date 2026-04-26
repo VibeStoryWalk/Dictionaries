@@ -18,7 +18,7 @@
     "en": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 5.41,
+  "distanceKm": 5.26,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -34,7 +34,7 @@
   "segments": [
     {
       "fromPointId": "ghetto-heroes-square",
-      "toPointId": "jst-Joseph-church",
+      "toPointId": "rynek-podgurski",
       "path": [
         {
           "coordinates": [
@@ -44,20 +44,20 @@
         },
         {
           "coordinates": [
-            50.04357666570158,
-            19.94966781300885
+            50.044559220338705,
+            19.94902284372779
           ]
         }
       ]
     },
     {
-      "fromPointId": "jst-Joseph-church",
+      "fromPointId": "rynek-podgurski",
       "toPointId": "bernatka-bridge",
       "path": [
         {
           "coordinates": [
-            50.04357666570158,
-            19.94966781300885
+            50.044559220338705,
+            19.94902284372779
           ]
         },
         {
@@ -341,7 +341,7 @@
   ],
   "pointIds": [
     "ghetto-heroes-square",
-    "jst-Joseph-church",
+    "rynek-podgurski",
     "bernatka-bridge",
     "remuh-synagogue",
     "plac-nowy",

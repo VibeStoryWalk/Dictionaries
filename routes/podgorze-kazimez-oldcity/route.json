@@ -1321,5 +1321,5 @@
     "town-hall-tower",
     "main-square"
   ],
-  "debug_entity": true
+  "debug_entity": false
 }

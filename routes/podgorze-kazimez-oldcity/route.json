@@ -18,7 +18,7 @@
     "en": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 0.8,
+  "distanceKm": 5.41,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -67,12 +67,297 @@
           ]
         }
       ]
+    },
+    {
+      "fromPointId": "bernatka-bridge",
+      "toPointId": "remuh-synagogue",
+      "path": [
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        },
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "remuh-synagogue",
+      "toPointId": "plac-nowy",
+      "path": [
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
+          ]
+        },
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "plac-nowy",
+      "toPointId": "wawel-dragon",
+      "path": [
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
+          ]
+        },
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-dragon",
+      "toPointId": "wawel-hill",
+      "path": [
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ]
+        },
+        {
+          "coordinates": [
+            50.0542448399888,
+            19.935095479566122
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-hill",
+      "toPointId": "st-peter-paul",
+      "path": [
+        {
+          "coordinates": [
+            50.0542448399888,
+            19.935095479566122
+          ]
+        },
+        {
+          "coordinates": [
+            50.056930693469404,
+            19.93862574317444
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "st-peter-paul",
+      "toPointId": "jagiellonian-university",
+      "path": [
+        {
+          "coordinates": [
+            50.056930693469404,
+            19.93862574317444
+          ]
+        },
+        {
+          "coordinates": [
+            50.06062329345992,
+            19.933177708754485
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "jagiellonian-university",
+      "toPointId": "mikolaj-kopernik-sculpture",
+      "path": [
+        {
+          "coordinates": [
+            50.06062329345992,
+            19.933177708754485
+          ]
+        },
+        {
+          "coordinates": [
+            50.061236346384916,
+            19.932738413478127
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "mikolaj-kopernik-sculpture",
+      "toPointId": "collegium-maius",
+      "path": [
+        {
+          "coordinates": [
+            50.061236346384916,
+            19.932738413478127
+          ]
+        },
+        {
+          "coordinates": [
+            50.06160793947375,
+            19.934014351254042
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "collegium-maius",
+      "toPointId": "planty",
+      "path": [
+        {
+          "coordinates": [
+            50.06160793947375,
+            19.934014351254042
+          ]
+        },
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "planty",
+      "toPointId": "barbican",
+      "path": [
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        },
+        {
+          "coordinates": [
+            50.065106309430035,
+            19.94146883107946
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "barbican",
+      "toPointId": "florian-gate",
+      "path": [
+        {
+          "coordinates": [
+            50.065106309430035,
+            19.94146883107946
+          ]
+        },
+        {
+          "coordinates": [
+            50.06485560579773,
+            19.941347539104083
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "florian-gate",
+      "toPointId": "st-marys-basilica",
+      "path": [
+        {
+          "coordinates": [
+            50.06485560579773,
+            19.941347539104083
+          ]
+        },
+        {
+          "coordinates": [
+            50.061639274681085,
+            19.938751231785986
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "st-marys-basilica",
+      "toPointId": "cloth-hall",
+      "path": [
+        {
+          "coordinates": [
+            50.061639274681085,
+            19.938751231785986
+          ]
+        },
+        {
+          "coordinates": [
+            50.062131543175376,
+            19.937710359534353
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "cloth-hall",
+      "toPointId": "town-hall-tower",
+      "path": [
+        {
+          "coordinates": [
+            50.062131543175376,
+            19.937710359534353
+          ]
+        },
+        {
+          "coordinates": [
+            50.061411957288584,
+            19.936423011242546
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "town-hall-tower",
+      "toPointId": "main-square",
+      "path": [
+        {
+          "coordinates": [
+            50.061411957288584,
+            19.936423011242546
+          ]
+        },
+        {
+          "coordinates": [
+            50.06189418479692,
+            19.936809299835495
+          ]
+        }
+      ]
     }
   ],
   "pointIds": [
     "ghetto-heroes-square",
     "jst-Joseph-church",
-    "bernatka-bridge"
+    "bernatka-bridge",
+    "remuh-synagogue",
+    "plac-nowy",
+    "wawel-dragon",
+    "wawel-hill",
+    "st-peter-paul",
+    "jagiellonian-university",
+    "mikolaj-kopernik-sculpture",
+    "collegium-maius",
+    "planty",
+    "barbican",
+    "florian-gate",
+    "st-marys-basilica",
+    "cloth-hall",
+    "town-hall-tower",
+    "main-square"
   ],
   "debug_entity": true
 }

@@ -1,0 +1,59 @@
+{
+  "id": "podgorze-kazimez-oldcity",
+  "cityId": "krakow",
+  "title": {
+    "pl": "Podgorze. Kazimerz. Stare Miasto",
+    "ru": "Подгуже. Казимеж. Старый город.",
+    "en": ""
+  },
+  "coverImage": "images/route-cover.jpg",
+  "description": {
+    "pl": "",
+    "ru": "ТБД",
+    "en": ""
+  },
+  "intro": {
+    "pl": "",
+    "ru": "ТБД",
+    "en": ""
+  },
+  "durationMinutes": 240,
+  "distanceKm": 0.47,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06143,
+    19.93658
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "pl": "",
+    "ru": "ТБД",
+    "en": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "ghetto-heroes-square",
+      "toPointId": "bernatka-bridge",
+      "path": [
+        {
+          "coordinates": [
+            50.046693702795736,
+            19.954463332478973
+          ]
+        },
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "ghetto-heroes-square",
+    "bernatka-bridge"
+  ],
+  "debug_entity": true
+}

@@ -14,5 +14,21 @@
     },
     "heroImage": "krakow/city-cover.jpg",
     "debug_entity": false
+  },
+  {
+    "id": "testttt",
+    "countryId": "pl",
+    "names": {
+      "pl": "Test 1",
+      "ru": "Test 1",
+      "en": "Test 1"
+    },
+    "summaries": {
+      "pl": "",
+      "ru": "",
+      "en": ""
+    },
+    "heroImage": "testttt/city-cover.jpg",
+    "debug_entity": false
   }
 ]

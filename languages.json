@@ -13,5 +13,20 @@
     "code": "en",
     "spelling": "English",
     "debug_entity": false
-  }  
+  },
+  {
+    "code": "de",
+    "spelling": "Deutsche",
+    "debug_entity": false
+  },
+  {
+    "code": "ua",
+    "spelling": "Українська",
+    "debug_entity": false
+  },
+  {
+    "code": "it",
+    "spelling": "Italiano",
+    "debug_entity": false
+  }
 ]

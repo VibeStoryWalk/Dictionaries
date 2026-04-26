@@ -18,7 +18,7 @@
     "en": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 6.67,
+  "distanceKm": 6.77,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -934,6 +934,97 @@
             50.056930693469404,
             19.93862574317444
           ]
+        },
+        {
+          "coordinates": [
+            50.056927820579524,
+            19.938388418565598
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05760180433276,
+            19.938086386625297
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.058069084017035,
+            19.937970091099487
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05905340494167,
+            19.937803825670144
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05950480023319,
+            19.936339238653442
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.059399550607885,
+            19.93462073477108
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05991267855083,
+            19.934331434552103
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [

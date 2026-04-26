@@ -1,0 +1,185 @@
+{
+  "app": {
+    "brand": "StoryWalk"
+  },
+  "common": {
+    "actions": {
+      "open": "Открыть"
+    },
+    "navigation": {
+      "toCountries": "К странам",
+      "toCities": "К городам",
+      "toCityRoutes": "К маршрутам города",
+      "toRoutes": "К маршрутам"
+    },
+    "distance": {
+      "locating": "поиск позиции",
+      "meters": "{{value}} м",
+      "kilometers": "{{value}} км"
+    }
+  },
+  "home": {
+    "title": "Выбор страны",
+    "intro": "Выберите страну, в которой хотите открыть прогулочные маршруты.",
+    "countryEyebrow": "Страна",
+    "countryDescription": "Набор маршрутов, сгруппированных по одной стране.",
+    "lastOpened": "Эта страна была открыта последней."
+  },
+  "country": {
+    "title": "Выбор города",
+    "intro": "В этой стране доступно несколько городов. Выберите нужный, чтобы перейти к маршрутам."
+  },
+  "city": {
+    "tooltips": {
+      "backToCities": "К городам"
+    }
+  },
+  "route": {
+    "actions": {
+      "restart": "Пройти маршрут заново",
+      "continue": "Продолжить прогулку",
+      "start": "Начать прогулку"
+    },
+    "tooltips": {
+      "backToCityRoutes": "К маршрутам города",
+      "duration": "Время прохождения",
+      "distance": "Расстояние",
+      "routeType": "Тип маршрута",
+      "openMap": "Открыть полноэкранную карту маршрута"
+    },
+    "types": {
+      "walk": "Пешком",
+      "car": "На машине"
+    },
+    "metrics": {
+      "points_one": "{{count}} точка",
+      "points_few": "{{count}} точки",
+      "points_many": "{{count}} точек",
+      "points_other": "{{count}} точки"
+    }
+  },
+  "walk": {
+    "actions": {
+      "imHere": "Я тут",
+      "finishRoute": "Завершить маршрут",
+      "nextVertex": "Перейти к следующей вершине сегмента",
+      "nextVertexShort": "Следующая вершина"
+    },
+    "labels": {
+      "routeStart": "Начало маршрута - {{title}}",
+      "nextPoint": "Дальше - {{title}}"
+    },
+    "tooltips": {
+      "youAreHere": "Вы здесь"
+    },
+    "story": {
+      "listenAria": "Прочитать точку вслух",
+      "nextAria": "Дальше",
+      "finishAria": "Финиш",
+      "stopListeningAria": "Остановить чтение"
+    },
+    "progress": {
+      "header": "Ход маршрута",
+      "completed": "Пройдено {{completed}} из {{total}} точек",
+      "finished": "маршрут завершён",
+      "nextStop": "Следующая остановка: {{title}}",
+      "allUnlocked": "Все точки маршрута уже открыты."
+    }
+  },
+  "completion": {
+    "summary": {
+      "title": "Ваш итог",
+      "points": "Пройдено точек: {{completed}} из {{total}}",
+      "distance": "Длина маршрута: {{distance}}",
+      "duration": "Время прогулки: {{duration}}"
+    },
+    "actions": {
+      "restart": "Пройти заново",
+      "backToRoutes": "К маршрутам"
+    }
+  },
+  "settings": {
+    "title": "Настройки",
+    "groups": {
+      "main": "Основные настройки",
+      "debug": "Отладочные настройки"
+    },
+    "sections": {
+      "textSize": "Размер текста",
+      "language": "Язык",
+      "theme": "Тема",
+      "autoSpeech": "Автоозвучка",
+      "ads": "Реклама",
+      "adDebug": "Отладка рекламы",
+      "simulation": "Симуляция",
+      "tts": "Синтез речи"
+    },
+    "aria": {
+      "close": "Закрыть настройки",
+      "open": "Открыть настройки",
+      "languageSelect": "Выбор языка приложения",
+      "themeToggle": "Переключить тему",
+      "autoSpeechToggle": "Переключить автоозвучку",
+      "adsToggle": "Переключить рекламу",
+      "simulationToggle": "Переключить симуляцию маршрута",
+      "simulationSpeed": "Скорость симуляции в километрах в час",
+      "ttsRate": "Скорость синтеза речи",
+      "ttsPitch": "Высота голоса синтеза речи",
+      "ttsVolume": "Громкость синтеза речи",
+      "ttsMusicFade": "Длительность затухания фоновой музыки"
+    },
+    "theme": {
+      "light": "Светлая",
+      "dark": "Тёмная"
+    },
+    "speech": {
+      "on": "Вкл",
+      "off": "Выкл"
+    },
+    "ads": {
+      "on": "Вкл",
+      "off": "Выкл",
+      "disabledHint": "Сначала включите рекламу, чтобы вручную запустить показ."
+    },
+    "simulation": {
+      "on": "Вкл",
+      "off": "Выкл",
+      "speed": "Скорость (км/ч)"
+    },
+    "tts": {
+      "native": "Нативный TTS",
+      "web": "TTS браузера",
+      "unavailable": "Недоступно",
+      "rate": "Скорость",
+      "pitch": "Тон",
+      "volume": "Громкость",
+      "musicFade": "Затухание музыки (с)",
+      "supportedLanguages": "Поддерживаемые языки: {{count}}"
+    },
+    "actions": {
+      "triggerAd": "Запустить рекламу"
+    }
+  },
+  "ads": {
+    "banner": {
+      "badge": "Реклама",
+      "title": "Баннерная реклама Google"
+    },
+    "simulated": {
+      "badge": "Симуляция рекламы",
+      "title": "Интерстициальная реклама",
+      "description": "Это симулированное рекламное окно, потому что реальные web-рекламные блоки не настроены для этой сборки.",
+      "close": "Закрыть рекламу"
+    }
+  },
+  "textScale": {
+    "decrease": "Уменьшить текст",
+    "increase": "Увеличить текст"
+  },
+  "geolocation": {
+    "errors": {
+      "positionUnavailable": "Не удалось получить вашу позицию. Разрешите геолокацию или включите демо-режим.",
+      "unsupported": "Геолокация недоступна в этом браузере. Переключитесь в демо-режим."
+    }
+  }
+}

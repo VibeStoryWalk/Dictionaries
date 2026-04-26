@@ -1,0 +1,183 @@
+{
+  "app": {
+    "brand": "StoryWalk"
+  },
+  "common": {
+    "actions": {
+      "open": "Open"
+    },
+    "navigation": {
+      "toCountries": "To countries",
+      "toCities": "To cities",
+      "toCityRoutes": "To city routes",
+      "toRoutes": "To routes"
+    },
+    "distance": {
+      "locating": "locating position",
+      "meters": "{{value}} m",
+      "kilometers": "{{value}} km"
+    }
+  },
+  "home": {
+    "title": "Choose a country",
+    "intro": "Select the country where you want to open walking routes.",
+    "countryEyebrow": "Country",
+    "countryDescription": "A set of routes grouped by one country.",
+    "lastOpened": "This country was opened last."
+  },
+  "country": {
+    "title": "Choose a city",
+    "intro": "Several cities are available in this country. Pick one to continue to routes."
+  },
+  "city": {
+    "tooltips": {
+      "backToCities": "To cities"
+    }
+  },
+  "route": {
+    "actions": {
+      "restart": "Restart route",
+      "continue": "Continue walk",
+      "start": "Start walk"
+    },
+    "tooltips": {
+      "backToCityRoutes": "To city routes",
+      "duration": "Walking time",
+      "distance": "Distance",
+      "routeType": "Route type",
+      "openMap": "Open full-screen route map"
+    },
+    "types": {
+      "walk": "Walking",
+      "car": "Driving"
+    },
+    "metrics": {
+      "points_one": "{{count}} point",
+      "points_other": "{{count}} points"
+    }
+  },
+  "walk": {
+    "actions": {
+      "imHere": "I'm here",
+      "finishRoute": "Finish route",
+      "nextVertex": "Move to next segment vertex",
+      "nextVertexShort": "Next vertex"
+    },
+    "labels": {
+      "routeStart": "Route start - {{title}}",
+      "nextPoint": "Next - {{title}}"
+    },
+    "tooltips": {
+      "youAreHere": "You are here"
+    },
+    "story": {
+      "listenAria": "Read point aloud",
+      "nextAria": "Next",
+      "finishAria": "Finish",
+      "stopListeningAria": "Stop reading aloud"
+    },
+    "progress": {
+      "header": "Route progress",
+      "completed": "{{completed}} of {{total}} points completed",
+      "finished": "route completed",
+      "nextStop": "Next stop: {{title}}",
+      "allUnlocked": "All route points are already unlocked."
+    }
+  },
+  "completion": {
+    "summary": {
+      "title": "Your summary",
+      "points": "Points completed: {{completed}} of {{total}}",
+      "distance": "Route length: {{distance}}",
+      "duration": "Walk duration: {{duration}}"
+    },
+    "actions": {
+      "restart": "Start again",
+      "backToRoutes": "Back to routes"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "groups": {
+      "main": "Main settings",
+      "debug": "Debug settings"
+    },
+    "sections": {
+      "textSize": "Text size",
+      "language": "Language",
+      "theme": "Theme",
+      "autoSpeech": "Auto speech",
+      "ads": "Ads",
+      "adDebug": "Ad debug",
+      "simulation": "Simulation",
+      "tts": "Text-to-speech"
+    },
+    "aria": {
+      "close": "Close settings",
+      "open": "Open settings",
+      "languageSelect": "Choose app language",
+      "themeToggle": "Toggle theme",
+      "autoSpeechToggle": "Toggle automatic speech",
+      "adsToggle": "Toggle ads",
+      "simulationToggle": "Toggle route simulation",
+      "simulationSpeed": "Simulation speed in kilometers per hour",
+      "ttsRate": "Text-to-speech rate",
+      "ttsPitch": "Text-to-speech pitch",
+      "ttsVolume": "Text-to-speech volume",
+      "ttsMusicFade": "Background music fade duration"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "speech": {
+      "on": "On",
+      "off": "Off"
+    },
+    "ads": {
+      "on": "On",
+      "off": "Off",
+      "disabledHint": "Enable ads first to trigger an ad manually."
+    },
+    "simulation": {
+      "on": "On",
+      "off": "Off",
+      "speed": "Speed (km/h)"
+    },
+    "tts": {
+      "native": "Native TTS",
+      "web": "Browser TTS",
+      "unavailable": "Unavailable",
+      "rate": "Rate",
+      "pitch": "Pitch",
+      "volume": "Volume",
+      "musicFade": "Music fade (s)",
+      "supportedLanguages": "Supported languages: {{count}}"
+    },
+    "actions": {
+      "triggerAd": "Trigger ad"
+    }
+  },
+  "ads": {
+    "banner": {
+      "badge": "Advertisement",
+      "title": "Google banner advertisement"
+    },
+    "simulated": {
+      "badge": "Ad simulation",
+      "title": "Interstitial advertisement",
+      "description": "This is a simulated ad shown because real web ads are not configured for this build.",
+      "close": "Close ad"
+    }
+  },
+  "textScale": {
+    "decrease": "Decrease text size",
+    "increase": "Increase text size"
+  },
+  "geolocation": {
+    "errors": {
+      "positionUnavailable": "Unable to get your location. Allow geolocation or switch to demo mode.",
+      "unsupported": "Geolocation is not available in this browser. Switch to demo mode."
+    }
+  }
+}

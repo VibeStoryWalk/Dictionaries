@@ -1,0 +1,185 @@
+{
+  "app": {
+    "brand": "StoryWalk"
+  },
+  "common": {
+    "actions": {
+      "open": "Відкрити"
+    },
+    "navigation": {
+      "toCountries": "До країн",
+      "toCities": "До міст",
+      "toCityRoutes": "До маршрутів міста",
+      "toRoutes": "До маршрутів"
+    },
+    "distance": {
+      "locating": "пошук позиції",
+      "meters": "{{value}} м",
+      "kilometers": "{{value}} км"
+    }
+  },
+  "home": {
+    "title": "Вибір країни",
+    "intro": "Виберіть країну, у якій хочете відкрити пішохідні маршрути.",
+    "countryEyebrow": "Країна",
+    "countryDescription": "Набір маршрутів, згрупованих у межах однієї країни.",
+    "lastOpened": "Цю країну було відкрито останньою."
+  },
+  "country": {
+    "title": "Вибір міста",
+    "intro": "У цій країні доступно кілька міст. Виберіть одне, щоб перейти до маршрутів."
+  },
+  "city": {
+    "tooltips": {
+      "backToCities": "До міст"
+    }
+  },
+  "route": {
+    "actions": {
+      "restart": "Пройти маршрут знову",
+      "continue": "Продовжити прогулянку",
+      "start": "Почати прогулянку"
+    },
+    "tooltips": {
+      "backToCityRoutes": "До маршрутів міста",
+      "duration": "Час проходження",
+      "distance": "Відстань",
+      "routeType": "Тип маршруту",
+      "openMap": "Відкрити повноекранну карту маршруту"
+    },
+    "types": {
+      "walk": "Пішки",
+      "car": "Автомобілем"
+    },
+    "metrics": {
+      "points_one": "{{count}} точка",
+      "points_few": "{{count}} точки",
+      "points_many": "{{count}} точок",
+      "points_other": "{{count}} точки"
+    }
+  },
+  "walk": {
+    "actions": {
+      "imHere": "Я тут",
+      "finishRoute": "Завершити маршрут",
+      "nextVertex": "Перейти до наступної вершини сегмента",
+      "nextVertexShort": "Наступна вершина"
+    },
+    "labels": {
+      "routeStart": "Початок маршруту - {{title}}",
+      "nextPoint": "Далі - {{title}}"
+    },
+    "tooltips": {
+      "youAreHere": "Ви тут"
+    },
+    "story": {
+      "listenAria": "Прочитати точку вголос",
+      "nextAria": "Далі",
+      "finishAria": "Фініш",
+      "stopListeningAria": "Зупинити читання"
+    },
+    "progress": {
+      "header": "Хід маршруту",
+      "completed": "Пройдено {{completed}} з {{total}} точок",
+      "finished": "маршрут завершено",
+      "nextStop": "Наступна зупинка: {{title}}",
+      "allUnlocked": "Усі точки маршруту вже відкриті."
+    }
+  },
+  "completion": {
+    "summary": {
+      "title": "Ваш підсумок",
+      "points": "Пройдено точок: {{completed}} з {{total}}",
+      "distance": "Довжина маршруту: {{distance}}",
+      "duration": "Час прогулянки: {{duration}}"
+    },
+    "actions": {
+      "restart": "Пройти знову",
+      "backToRoutes": "До маршрутів"
+    }
+  },
+  "settings": {
+    "title": "Налаштування",
+    "groups": {
+      "main": "Основні налаштування",
+      "debug": "Налаштування налагодження"
+    },
+    "sections": {
+      "textSize": "Розмір тексту",
+      "language": "Мова",
+      "theme": "Тема",
+      "autoSpeech": "Автоозвучення",
+      "ads": "Реклама",
+      "adDebug": "Налагодження реклами",
+      "simulation": "Симуляція",
+      "tts": "Синтез мовлення"
+    },
+    "aria": {
+      "close": "Закрити налаштування",
+      "open": "Відкрити налаштування",
+      "languageSelect": "Вибір мови застосунку",
+      "themeToggle": "Перемкнути тему",
+      "autoSpeechToggle": "Перемкнути автоозвучення",
+      "adsToggle": "Перемкнути рекламу",
+      "simulationToggle": "Перемкнути симуляцію маршруту",
+      "simulationSpeed": "Швидкість симуляції в кілометрах на годину",
+      "ttsRate": "Швидкість синтезу мовлення",
+      "ttsPitch": "Висота голосу синтезу мовлення",
+      "ttsVolume": "Гучність синтезу мовлення",
+      "ttsMusicFade": "Тривалість затухання фонової музики"
+    },
+    "theme": {
+      "light": "Світла",
+      "dark": "Темна"
+    },
+    "speech": {
+      "on": "Увімк.",
+      "off": "Вимк."
+    },
+    "ads": {
+      "on": "Увімк.",
+      "off": "Вимк.",
+      "disabledHint": "Спочатку увімкніть рекламу, щоб запустити її вручну."
+    },
+    "simulation": {
+      "on": "Увімк.",
+      "off": "Вимк.",
+      "speed": "Швидкість (км/год)"
+    },
+    "tts": {
+      "native": "Нативний TTS",
+      "web": "TTS браузера",
+      "unavailable": "Недоступно",
+      "rate": "Швидкість",
+      "pitch": "Тон",
+      "volume": "Гучність",
+      "musicFade": "Затухання музики (с)",
+      "supportedLanguages": "Підтримувані мови: {{count}}"
+    },
+    "actions": {
+      "triggerAd": "Запустити рекламу"
+    }
+  },
+  "ads": {
+    "banner": {
+      "badge": "Реклама",
+      "title": "Банерна реклама Google"
+    },
+    "simulated": {
+      "badge": "Симуляція реклами",
+      "title": "Інтерстиціальна реклама",
+      "description": "Це симульоване рекламне вікно, тому що реальна вебреклама не налаштована для цієї збірки.",
+      "close": "Закрити рекламу"
+    }
+  },
+  "textScale": {
+    "decrease": "Зменшити текст",
+    "increase": "Збільшити текст"
+  },
+  "geolocation": {
+    "errors": {
+      "positionUnavailable": "Не вдалося отримати вашу позицію. Дозвольте геолокацію або ввімкніть демо-режим.",
+      "unsupported": "Геолокація недоступна в цьому браузері. Перейдіть у демо-режим."
+    }
+  }
+}

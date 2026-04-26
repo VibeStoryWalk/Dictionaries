@@ -1,0 +1,183 @@
+{
+  "app": {
+    "brand": "StoryWalk"
+  },
+  "common": {
+    "actions": {
+      "open": "Apri"
+    },
+    "navigation": {
+      "toCountries": "Ai paesi",
+      "toCities": "Alle città",
+      "toCityRoutes": "Ai percorsi della città",
+      "toRoutes": "Ai percorsi"
+    },
+    "distance": {
+      "locating": "rilevamento posizione",
+      "meters": "{{value}} m",
+      "kilometers": "{{value}} km"
+    }
+  },
+  "home": {
+    "title": "Scegli un paese",
+    "intro": "Seleziona il paese in cui vuoi aprire i percorsi a piedi.",
+    "countryEyebrow": "Paese",
+    "countryDescription": "Un insieme di percorsi raggruppati all'interno di un solo paese.",
+    "lastOpened": "Questo paese è stato aperto per ultimo."
+  },
+  "country": {
+    "title": "Scegli una città",
+    "intro": "In questo paese sono disponibili diverse città. Scegline una per continuare ai percorsi."
+  },
+  "city": {
+    "tooltips": {
+      "backToCities": "Alle città"
+    }
+  },
+  "route": {
+    "actions": {
+      "restart": "Ricomincia il percorso",
+      "continue": "Continua la passeggiata",
+      "start": "Inizia la passeggiata"
+    },
+    "tooltips": {
+      "backToCityRoutes": "Ai percorsi della città",
+      "duration": "Tempo di percorrenza",
+      "distance": "Distanza",
+      "routeType": "Tipo di percorso",
+      "openMap": "Apri la mappa del percorso a schermo intero"
+    },
+    "types": {
+      "walk": "A piedi",
+      "car": "In auto"
+    },
+    "metrics": {
+      "points_one": "{{count}} punto",
+      "points_other": "{{count}} punti"
+    }
+  },
+  "walk": {
+    "actions": {
+      "imHere": "Sono qui",
+      "finishRoute": "Termina il percorso",
+      "nextVertex": "Vai al vertice successivo del segmento",
+      "nextVertexShort": "Vertice successivo"
+    },
+    "labels": {
+      "routeStart": "Inizio percorso - {{title}}",
+      "nextPoint": "Avanti - {{title}}"
+    },
+    "tooltips": {
+      "youAreHere": "Sei qui"
+    },
+    "story": {
+      "listenAria": "Leggi il punto ad alta voce",
+      "nextAria": "Avanti",
+      "finishAria": "Fine",
+      "stopListeningAria": "Interrompi la lettura"
+    },
+    "progress": {
+      "header": "Avanzamento del percorso",
+      "completed": "{{completed}} di {{total}} punti completati",
+      "finished": "percorso completato",
+      "nextStop": "Prossima tappa: {{title}}",
+      "allUnlocked": "Tutti i punti del percorso sono già sbloccati."
+    }
+  },
+  "completion": {
+    "summary": {
+      "title": "Il tuo riepilogo",
+      "points": "Punti completati: {{completed}} di {{total}}",
+      "distance": "Lunghezza del percorso: {{distance}}",
+      "duration": "Durata della passeggiata: {{duration}}"
+    },
+    "actions": {
+      "restart": "Ricominicia",
+      "backToRoutes": "Ai percorsi"
+    }
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "groups": {
+      "main": "Impostazioni principali",
+      "debug": "Impostazioni di debug"
+    },
+    "sections": {
+      "textSize": "Dimensione del testo",
+      "language": "Lingua",
+      "theme": "Tema",
+      "autoSpeech": "Lettura automatica",
+      "ads": "Pubblicità",
+      "adDebug": "Debug pubblicità",
+      "simulation": "Simulazione",
+      "tts": "Sintesi vocale"
+    },
+    "aria": {
+      "close": "Chiudi impostazioni",
+      "open": "Apri impostazioni",
+      "languageSelect": "Scegli la lingua dell'app",
+      "themeToggle": "Cambia tema",
+      "autoSpeechToggle": "Attiva o disattiva la lettura automatica",
+      "adsToggle": "Attiva o disattiva la pubblicità",
+      "simulationToggle": "Attiva o disattiva la simulazione del percorso",
+      "simulationSpeed": "Velocità di simulazione in chilometri orari",
+      "ttsRate": "Velocità della sintesi vocale",
+      "ttsPitch": "Tono della sintesi vocale",
+      "ttsVolume": "Volume della sintesi vocale",
+      "ttsMusicFade": "Durata della dissolvenza della musica di sottofondo"
+    },
+    "theme": {
+      "light": "Chiaro",
+      "dark": "Scuro"
+    },
+    "speech": {
+      "on": "On",
+      "off": "Off"
+    },
+    "ads": {
+      "on": "On",
+      "off": "Off",
+      "disabledHint": "Attiva prima la pubblicità per avviare manualmente un annuncio."
+    },
+    "simulation": {
+      "on": "On",
+      "off": "Off",
+      "speed": "Velocità (km/h)"
+    },
+    "tts": {
+      "native": "TTS nativo",
+      "web": "TTS del browser",
+      "unavailable": "Non disponibile",
+      "rate": "Velocità",
+      "pitch": "Tono",
+      "volume": "Volume",
+      "musicFade": "Dissolvenza musica (s)",
+      "supportedLanguages": "Lingue supportate: {{count}}"
+    },
+    "actions": {
+      "triggerAd": "Avvia annuncio"
+    }
+  },
+  "ads": {
+    "banner": {
+      "badge": "Pubblicità",
+      "title": "Banner pubblicitario Google"
+    },
+    "simulated": {
+      "badge": "Simulazione pubblicità",
+      "title": "Pubblicità interstiziale",
+      "description": "Questa è una pubblicità simulata perché gli annunci web reali non sono configurati per questa build.",
+      "close": "Chiudi pubblicità"
+    }
+  },
+  "textScale": {
+    "decrease": "Riduci testo",
+    "increase": "Aumenta testo"
+  },
+  "geolocation": {
+    "errors": {
+      "positionUnavailable": "Impossibile ottenere la tua posizione. Consenti la geolocalizzazione o passa alla modalità demo.",
+      "unsupported": "La geolocalizzazione non è disponibile in questo browser. Passa alla modalità demo."
+    }
+  }
+}

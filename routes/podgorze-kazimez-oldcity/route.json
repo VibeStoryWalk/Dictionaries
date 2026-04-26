@@ -18,7 +18,7 @@
     "en": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 5.26,
+  "distanceKm": 5.75,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -44,6 +44,84 @@
         },
         {
           "coordinates": [
+            50.04625847047048,
+            19.95403649029913
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04562036115409,
+            19.953736069971196
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045751264538495,
+            19.952470057857294
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.044955065752745,
+            19.952392326607853
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04489997006027,
+            19.949741525321222
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.044714021631236,
+            19.949151265925423
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.044559220338705,
             19.94902284372779
           ]
@@ -62,6 +140,71 @@
         },
         {
           "coordinates": [
+            50.04452974173946,
+            19.948586154467396
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04463514418561,
+            19.948468209889448
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04469025347785,
+            19.94858621920373
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045072635327955,
+            19.948226800042775
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04575210161227,
+            19.948219755183445
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.046149841497375,
             19.94796104242147
           ]
@@ -77,6 +220,175 @@
             50.046149841497375,
             19.94796104242147
           ]
+        },
+        {
+          "coordinates": [
+            50.0470847055503,
+            19.946928811092214
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04718780579375,
+            19.947094920450322
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.047287812607244,
+            19.946939290844842
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.047833372242096,
+            19.946245378050136
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04845660048447,
+            19.945107787214564
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04857026526771,
+            19.944845570925242
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05045642906351,
+            19.944047483289783
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05056140338242,
+            19.944099733947706
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.051236172226496,
+            19.94710458209485
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05167614128243,
+            19.946955442428592
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05179355698515,
+            19.947571423616967
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05172781279154,
+            19.947679634133195
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05179326210822,
+            19.94815706103193
+          ],
+          "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [

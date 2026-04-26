@@ -202,7 +202,7 @@
     "image": "krakow/points_images/wawel-dragon.jpg",
     "debug_entity": false,
     "approachText": {
-      "ru": "Вы приближаетесь к Вавельскому дракону",
+      "ru": "",
       "en": "",
       "pl": ""
     }

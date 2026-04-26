@@ -752,5 +752,31 @@
     "dwellTimeMinutes": 5,
     "image": "",
     "debug_entity": false
+  },
+  {
+    "id": "rynek-podgurski",
+    "order": 30,
+    "title": {
+      "pl": "",
+      "ru": "Площадь Подгорская",
+      "en": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": ""
+    },
+    "coordinates": [
+      50.044559220338705,
+      19.94902284372779
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
   }
 ]

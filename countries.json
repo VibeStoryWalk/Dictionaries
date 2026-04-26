@@ -5,7 +5,10 @@
     "names": {
       "ru": "Польша",
       "en": "Poland",
-      "pl": "Polska"
+      "pl": "Polska",
+      "it": "Polonia",
+      "ua": "Польща",
+      "de": "Polen"
     },
     "debug_entity": false
   }

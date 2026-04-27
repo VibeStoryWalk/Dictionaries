@@ -148,6 +148,7 @@
             19.94981671545642
           ],
           "type": "turn",
+          "radiusMeters": 30,
           "text": {
             "pl": "",
             "ru": "",
@@ -167,6 +168,7 @@
             19.949095837148533
           ],
           "type": "portal",
+          "radiusMeters": 18,
           "text": {
             "pl": "",
             "ru": "",

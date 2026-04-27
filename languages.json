@@ -28,5 +28,20 @@
     "code": "it",
     "spelling": "Italiano",
     "debug_entity": false
+  },
+  {
+    "code": "hr",
+    "spelling": "Hrvatski",
+    "debug_entity": false
+  },
+  {
+    "code": "es",
+    "spelling": "Español",
+    "debug_entity": false
+  },
+  {
+    "code": "fr",
+    "spelling": "Français",
+    "debug_entity": false
   }
 ]

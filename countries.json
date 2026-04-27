@@ -8,7 +8,10 @@
       "pl": "Polska",
       "it": "Polonia",
       "ua": "Польща",
-      "de": "Polen"
+      "de": "Polen",
+      "hr": "Poljska",
+      "es": "Polonia",
+      "fr": "Pologne"
     },
     "debug_entity": false
   }

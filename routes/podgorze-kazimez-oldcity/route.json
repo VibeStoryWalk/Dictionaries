@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 7.16,
+  "distanceKm": 7.17,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -163,8 +163,8 @@
         },
         {
           "coordinates": [
-            50.04472248628079,
-            19.9493015799837
+            50.04457662825707,
+            19.949095837148533
           ],
           "type": "portal",
           "text": {

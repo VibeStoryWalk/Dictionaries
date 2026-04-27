@@ -1,0 +1,185 @@
+{
+  "app": {
+    "brand": "StoryWalk"
+  },
+  "common": {
+    "actions": {
+      "open": "Otvori"
+    },
+    "navigation": {
+      "toCountries": "Na države",
+      "toCities": "Na gradove",
+      "toCityRoutes": "Na rute grada",
+      "toRoutes": "Na rute"
+    },
+    "distance": {
+      "locating": "traženje lokacije",
+      "meters": "{{value}} m",
+      "kilometers": "{{value}} km"
+    }
+  },
+  "home": {
+    "title": "Odaberite državu",
+    "intro": "Odaberite državu u kojoj želite otvoriti pješačke rute.",
+    "countryEyebrow": "Država",
+    "countryDescription": "Skup ruta grupiranih po jednoj državi.",
+    "lastOpened": "Ova je država posljednja otvorena."
+  },
+  "country": {
+    "title": "Odaberite grad",
+    "intro": "U ovoj državi dostupno je nekoliko gradova. Odaberite željeni kako biste prešli na rute."
+  },
+  "city": {
+    "tooltips": {
+      "backToCities": "Na gradove"
+    }
+  },
+  "route": {
+    "actions": {
+      "restart": "Prođi rutu ponovno",
+      "continue": "Nastavi šetnju",
+      "start": "Započni šetnju"
+    },
+    "tooltips": {
+      "backToCityRoutes": "Na rute grada",
+      "duration": "Trajanje",
+      "distance": "Udaljenost",
+      "routeType": "Vrsta rute",
+      "openMap": "Otvori kartu rute preko cijelog zaslona"
+    },
+    "types": {
+      "walk": "Pješice",
+      "car": "Automobilom"
+    },
+    "metrics": {
+      "points_one": "{{count}} točka",
+      "points_few": "{{count}} točke",
+      "points_many": "{{count}} točaka",
+      "points_other": "{{count}} točke"
+    }
+  },
+  "walk": {
+    "actions": {
+      "imHere": "Ja sam ovdje",
+      "finishRoute": "Završi rutu",
+      "nextVertex": "Prijeđi na sljedeći vrh segmenta",
+      "nextVertexShort": "Sljedeći vrh"
+    },
+    "labels": {
+      "routeStart": "Početak rute - {{title}}",
+      "nextPoint": "Dalje - {{title}}"
+    },
+    "tooltips": {
+      "youAreHere": "Vi ste ovdje"
+    },
+    "story": {
+      "listenAria": "Pročitaj točku naglas",
+      "nextAria": "Dalje",
+      "finishAria": "Završetak",
+      "stopListeningAria": "Zaustavi čitanje"
+    },
+    "progress": {
+      "header": "Napredak rute",
+      "completed": "Prijeđeno {{completed}} od {{total}} točaka",
+      "finished": "ruta je završena",
+      "nextStop": "Sljedeća postaja: {{title}}",
+      "allUnlocked": "Sve točke rute već su otključane."
+    }
+  },
+  "completion": {
+    "summary": {
+      "title": "Vaš sažetak",
+      "points": "Prijeđene točke: {{completed}} od {{total}}",
+      "distance": "Duljina rute: {{distance}}",
+      "duration": "Trajanje šetnje: {{duration}}"
+    },
+    "actions": {
+      "restart": "Prođi ponovno",
+      "backToRoutes": "Na rute"
+    }
+  },
+  "settings": {
+    "title": "Postavke",
+    "groups": {
+      "main": "Glavne postavke",
+      "debug": "Postavke za otklanjanje pogrešaka"
+    },
+    "sections": {
+      "textSize": "Veličina teksta",
+      "language": "Jezik",
+      "theme": "Tema",
+      "autoSpeech": "Automatsko čitanje",
+      "ads": "Oglasi",
+      "adDebug": "Otklanjanje pogrešaka oglasa",
+      "simulation": "Simulacija",
+      "tts": "Pretvaranje teksta u govor"
+    },
+    "aria": {
+      "close": "Zatvori postavke",
+      "open": "Otvori postavke",
+      "languageSelect": "Odabir jezika aplikacije",
+      "themeToggle": "Promijeni temu",
+      "autoSpeechToggle": "Uključi ili isključi automatsko čitanje",
+      "adsToggle": "Uključi ili isključi oglase",
+      "simulationToggle": "Uključi ili isključi simulaciju rute",
+      "simulationSpeed": "Brzina simulacije u kilometrima na sat",
+      "ttsRate": "Brzina pretvaranja teksta u govor",
+      "ttsPitch": "Visina glasa pretvaranja teksta u govor",
+      "ttsVolume": "Glasnoća pretvaranja teksta u govor",
+      "ttsMusicFade": "Trajanje stišavanja pozadinske glazbe"
+    },
+    "theme": {
+      "light": "Svijetla",
+      "dark": "Tamna"
+    },
+    "speech": {
+      "on": "Uključeno",
+      "off": "Isključeno"
+    },
+    "ads": {
+      "on": "Uključeno",
+      "off": "Isključeno",
+      "disabledHint": "Najprije uključite oglase kako biste ručno pokrenuli prikaz."
+    },
+    "simulation": {
+      "on": "Uključeno",
+      "off": "Isključeno",
+      "speed": "Brzina (km/h)"
+    },
+    "tts": {
+      "native": "Izvorni TTS",
+      "web": "TTS preglednika",
+      "unavailable": "Nedostupno",
+      "rate": "Brzina",
+      "pitch": "Visina",
+      "volume": "Glasnoća",
+      "musicFade": "Stišavanje glazbe (s)",
+      "supportedLanguages": "Podržani jezici: {{count}}"
+    },
+    "actions": {
+      "triggerAd": "Pokreni oglas"
+    }
+  },
+  "ads": {
+    "banner": {
+      "badge": "Oglas",
+      "title": "Google banner oglas"
+    },
+    "simulated": {
+      "badge": "Simulacija oglasa",
+      "title": "Međustranični oglas",
+      "description": "Ovo je simulirani oglasni prozor jer stvarni web-oglasni blokovi nisu postavljeni za ovu verziju.",
+      "close": "Zatvori oglas"
+    }
+  },
+  "textScale": {
+    "decrease": "Smanji tekst",
+    "increase": "Povećaj tekst"
+  },
+  "geolocation": {
+    "errors": {
+      "positionUnavailable": "Nije moguće dohvatiti vašu lokaciju. Dopustite geolokaciju ili uključite demo način rada.",
+      "unsupported": "Geolokacija nije dostupna u ovom pregledniku. Prebacite se na demo način rada."
+    }
+  }
+}

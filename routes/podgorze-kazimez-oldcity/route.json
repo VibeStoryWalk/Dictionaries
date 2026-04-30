@@ -551,6 +551,7 @@
             19.94405865669251
           ],
           "type": "turn",
+          "radiusMeters": 11,
           "text": {
             "pl": "Przejdź przez ulicę i idź w prawo",
             "ru": "Перейдите дорогу и двигайтесь право",

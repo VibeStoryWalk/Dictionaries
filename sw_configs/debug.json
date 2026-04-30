@@ -1,3 +1,6 @@
 {
-  "showDebugSettings": false
+  "showDebugSettings": false,
+  "defaultUiSettings": {
+    "locale": "auto"
+  }
 }

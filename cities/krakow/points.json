@@ -948,5 +948,49 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points_images/rynek-podgurski.jpg",
     "debug_entity": false
+  },
+  {
+    "id": "schindler-list-passage",
+    "order": 26,
+    "title": {
+      "pl": "",
+      "ru": "Дворик из фильма Список Шиндлера",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.050927939556686,
+      19.94405366489869
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
   }
 ]

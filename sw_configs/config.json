@@ -19,7 +19,12 @@
     "ttsVolume": 1,
     "ttsMusicFadeSeconds": 0.6
   },
-  "textScaleSteps": [0.94, 1, 1.12, 1.24],
+  "textScaleSteps": [
+    0.94,
+    1,
+    1.12,
+    1.24
+  ],
   "geolocationWatchOptions": {
     "enableHighAccuracy": true,
     "maximumAge": 5000,

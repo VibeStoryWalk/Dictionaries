@@ -79,15 +79,15 @@
     "id": "judah-mural",
     "order": 3,
     "title": {
-      "ru": "Мурал Егуда",
-      "en": "Judah Mural",
-      "pl": "Mural Judy",
-      "de": "Mural von Judah",
-      "es": "Mural de Judah",
-      "fr": "Mural de Judah",
-      "hr": "Judahin mural",
-      "it": "Mural di Judah",
-      "ua": "Мурал Єгуда"
+      "ru": "Мурал \"Иуда\"",
+      "en": "Mural \"Judas\"",
+      "pl": "Mural „Juda”",
+      "de": "Mural „Judas“",
+      "es": "Mural «Judas»",
+      "fr": "Mural « Judas »",
+      "hr": "Mural „Juda“",
+      "it": "Murale \"Giuda\"",
+      "ua": "Мурал «Юда»"
     },
     "coordinates": [
       50.05024987409684,

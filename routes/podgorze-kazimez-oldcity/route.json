@@ -75,15 +75,15 @@
           "type": "turn",
           "radiusMeters": 15,
           "text": {
-            "pl": "",
+            "pl": "Idź prosto",
             "ru": "Двигайтесь прямо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Go straight",
+            "de": "Gehen Sie geradeaus",
+            "ua": "Йдіть прямо",
+            "it": "Prosegui dritto",
+            "hr": "Idite ravno",
+            "es": "Siga recto",
+            "fr": "Allez tout droit"
           },
           "debug_entity": false
         },

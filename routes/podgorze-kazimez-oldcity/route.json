@@ -268,20 +268,21 @@
         },
         {
           "coordinates": [
-            50.044460661725104,
-            19.94861832950207
+            50.04435608381992,
+            19.948709620996993
           ],
           "type": "turn",
+          "radiusMeters": 21,
           "text": {
-            "pl": "",
-            "ru": "Перейдите дорогу",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Przejdź przez ulicę z torami tramwajowymi w najbliższym dozwolonym miejscu",
+            "ru": "Перейдите дорогу с трамвайными путями в ближайшем разрешённом месте",
+            "en": "Cross the road with the tram tracks at the nearest permitted place",
+            "de": "Überqueren Sie die Straße mit den Straßenbahnschienen an der nächstgelegenen erlaubten Stelle",
+            "ua": "Перейдіть дорогу з трамвайними коліями у найближчому дозволеному місці",
+            "it": "Attraversa la strada con i binari del tram nel punto consentito più vicino",
+            "hr": "Prijeđite cestu s tramvajskim tračnicama na najbližem dopuštenom mjestu",
+            "es": "Cruce la calle con las vías del tranvía en el lugar permitido más cercano",
+            "fr": "Traversez la route avec les voies de tramway à l'endroit autorisé le plus proche"
           },
           "debug_entity": false
         },

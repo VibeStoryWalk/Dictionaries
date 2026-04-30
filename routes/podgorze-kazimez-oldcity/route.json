@@ -115,15 +115,15 @@
           "type": "turn",
           "radiusMeters": 16,
           "text": {
-            "pl": "",
+            "pl": "Skręć w prawo i przejdź przez ulicę",
             "ru": "Поверните направо и перейдите дорогу",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Turn right and cross the road",
+            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
+            "ua": "Поверніть праворуч і перейдіть дорогу",
+            "it": "Svoltate a destra e attraversate la strada",
+            "hr": "Skrenite desno i prijeđite cestu",
+            "es": "Gire a la derecha y cruce la calle",
+            "fr": "Tournez à droite et traversez la rue"
           },
           "debug_entity": false
         },
@@ -135,15 +135,15 @@
           "type": "turn",
           "radiusMeters": 20,
           "text": {
-            "pl": "",
+            "pl": "Skręć w lewo i przejdź przez ulicę",
             "ru": "Поверните налево и перейдите дорогу",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Turn left and cross the road",
+            "de": "Biegen Sie links ab und überqueren Sie die Straße",
+            "ua": "Поверніть ліворуч і перейдіть дорогу",
+            "it": "Svolta a sinistra e attraversa la strada",
+            "hr": "Skrenite lijevo i prijeđite cestu",
+            "es": "Gire a la izquierda y cruce la calle",
+            "fr": "Tournez à gauche et traversez la rue"
           },
           "debug_entity": false
         },
@@ -155,15 +155,15 @@
           "type": "turn",
           "radiusMeters": 20,
           "text": {
-            "pl": "",
+            "pl": "Skręć w prawo i przejdź przez ulicę",
             "ru": "Поверните направо и перейдите дорогу",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Turn right and cross the road",
+            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
+            "ua": "Поверніть праворуч і перейдіть дорогу",
+            "it": "Svolta a destra e attraversa la strada",
+            "hr": "Skrenite desno i prijeđite cestu",
+            "es": "Gire a la derecha y cruce la calle",
+            "fr": "Tournez à droite et traversez la rue"
           },
           "debug_entity": false
         },
@@ -195,15 +195,15 @@
           "type": "turn",
           "radiusMeters": 20,
           "text": {
-            "pl": "",
+            "pl": "Przejdź przez ulicę i kieruj się w stronę placu",
             "ru": "Перейдите дорогу и двигайтесь в сторону площади",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road and head toward the square",
+            "de": "Überqueren Sie die Straße und gehen Sie in Richtung des Platzes",
+            "ua": "Перейдіть дорогу і рушайте в бік площі",
+            "it": "Attraversa la strada e dirigiti verso la piazza",
+            "hr": "Prijeđite cestu i krenite prema trgu",
+            "es": "Cruce la calle y diríjase hacia la plaza",
+            "fr": "Traversez la rue et dirigez-vous vers la place"
           },
           "debug_entity": false
         },

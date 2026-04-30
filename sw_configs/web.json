@@ -1,4 +1,5 @@
 {
+  "useLocalDicts": true,
   "defaultUiSettings": {
     "locale": "ru"
   }

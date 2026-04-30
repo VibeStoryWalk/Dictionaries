@@ -1,7 +1,7 @@
 {
   "appStorageKey": "urban-story-walks-v1",
   "showDebugSettings": true,
-  "useLocalDicts": true,
+  "useLocalDicts": false,
   "dictionariesRepo": {
     "owner": "VibeStoryWalk",
     "name": "Dictionaries",

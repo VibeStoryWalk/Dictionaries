@@ -992,5 +992,49 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points_images/schindler-list-passage.jpg",
     "debug_entity": false
+  },
+  {
+    "id": "dom-bosak",
+    "order": 27,
+    "title": {
+      "pl": "Dom Marka Bosaka",
+      "ru": "Дом Марека Босака",
+      "en": "Marek Bosak House",
+      "de": "Haus von Marek Bosak",
+      "ua": "Будинок Марека Босака",
+      "it": "Casa di Marek Bosak",
+      "hr": "Kuća Mareka Bosaka",
+      "es": "Casa de Marek Bosak",
+      "fr": "Maison de Marek Bosak"
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.06143,
+      19.93658
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
   }
 ]

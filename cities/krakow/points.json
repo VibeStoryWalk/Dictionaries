@@ -1019,8 +1019,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.06143,
-      19.93658
+      50.05115207336529,
+      19.948657376825167
     ],
     "story": {
       "pl": "",
@@ -1034,7 +1034,7 @@
       "fr": ""
     },
     "dwellTimeMinutes": 5,
-    "image": "",
+    "image": "krakow/points_images/dom-bosak.jpg",
     "debug_entity": false
   }
 ]

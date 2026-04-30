@@ -953,15 +953,15 @@
     "id": "schindler-list-passage",
     "order": 26,
     "title": {
-      "pl": "",
+      "pl": "Dziedziniec z filmu Lista Schindlera",
       "ru": "Дворик из фильма Список Шиндлера",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "Courtyard from the film Schindler's List",
+      "de": "Hof aus dem Film Schindlers Liste",
+      "ua": "Двір із фільму «Список Шиндлера»",
+      "it": "Cortile del film Schindler's List",
+      "hr": "Dvorište iz filma Schindlerova lista",
+      "es": "Patio de la película La lista de Schindler",
+      "fr": "Cour de La Liste de Schindler"
     },
     "approachText": {
       "pl": "",

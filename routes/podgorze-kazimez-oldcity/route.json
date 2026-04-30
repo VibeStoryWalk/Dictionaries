@@ -547,11 +547,11 @@
         },
         {
           "coordinates": [
-            50.05044990183731,
-            19.944042568062642
+            50.05052224791894,
+            19.94403183229025
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 15,
           "text": {
             "pl": "Przejdź przez ulicę i idź w prawo",
             "ru": "Перейдите дорогу и двигайтесь право",

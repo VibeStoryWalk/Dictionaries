@@ -552,6 +552,26 @@
           "type": "turn",
           "radiusMeters": 12,
           "text": {
+            "pl": "Skręć w lewo i przejdź przez ulicę",
+            "ru": "Поверните налево и перейдите дорогу",
+            "en": "Turn left and cross the road",
+            "de": "Biegen Sie links ab und überqueren Sie die Straße",
+            "ua": "Поверніть ліворуч і перейдіть дорогу",
+            "it": "Svolta a sinistra e attraversa la strada",
+            "hr": "Skrenite lijevo i prijeđite cestu",
+            "es": "Gire a la izquierda y cruce la calle",
+            "fr": "Tournez à gauche et traversez la rue"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.050587698879816,
+            19.948666701028532
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 12,
+          "text": {
             "pl": "",
             "ru": "",
             "en": "",

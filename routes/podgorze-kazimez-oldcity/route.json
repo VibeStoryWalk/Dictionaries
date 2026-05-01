@@ -850,15 +850,15 @@
           "type": "turn",
           "radiusMeters": 10,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Przejdź na drugą stronę ulicy po prawej",
+            "ru": "Перейдите дорогу вправо",
+            "en": "Cross the road to the right",
+            "de": "Überqueren Sie die Straße rechts",
+            "ua": "Перейдіть дорогу праворуч",
+            "it": "Attraversa la strada a destra",
+            "hr": "Prijeđite cestu desno",
+            "es": "Cruza la calle hacia la derecha",
+            "fr": "Traversez la rue vers la droite"
           },
           "debug_entity": false
         },
@@ -870,15 +870,15 @@
           "type": "turn",
           "radiusMeters": 9,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Skręć w lewo",
+            "ru": "Поверните налево",
+            "en": "Turn left",
+            "de": "Biegen Sie links ab",
+            "ua": "Поверніть ліворуч",
+            "it": "Svoltate a sinistra",
+            "hr": "Skrenite lijevo",
+            "es": "Gire a la izquierda",
+            "fr": "Tournez à gauche"
           },
           "debug_entity": false
         },
@@ -890,15 +890,15 @@
           "type": "turn",
           "radiusMeters": 11,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Wejdźcie na dziedziniec po lewej stronie",
+            "ru": "Зайдите во дворик налево",
+            "en": "Go into the courtyard on the left",
+            "de": "Gehen Sie in den Hof auf der linken Seite",
+            "ua": "Зайдіть у дворик ліворуч",
+            "it": "Entrate nel cortile a sinistra",
+            "hr": "Uđite u dvorište s lijeve strane",
+            "es": "Entre en el patio de la izquierda",
+            "fr": "Entrez dans la cour sur la gauche"
           },
           "debug_entity": false
         },

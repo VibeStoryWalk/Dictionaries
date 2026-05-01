@@ -431,17 +431,17 @@
             19.94690224217303
           ],
           "type": "turn",
-          "radiusMeters": 25,
+          "radiusMeters": 16,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Skręć w prawo i przejdź przez ulicę",
+            "ru": "Поверните направо и перейдите дорогу",
+            "en": "Turn right and cross the road",
+            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
+            "ua": "Поверніть праворуч і перейдіть дорогу",
+            "it": "Svolta a destra e attraversa la strada",
+            "hr": "Skrenite desno i prijeđite cestu",
+            "es": "Gire a la derecha y cruce la calle",
+            "fr": "Tournez à droite et traversez la rue"
           },
           "debug_entity": false
         },
@@ -451,7 +451,27 @@
             19.947427386361365
           ],
           "type": "turn",
-          "radiusMeters": 25,
+          "radiusMeters": 14,
+          "text": {
+            "pl": "Skręć w lewo, przejdź przez ulicę i idź prosto ulicą Gazowa",
+            "ru": "Поверните налево, перейдите дорогу и идите прямо по улице Gazowa",
+            "en": "Turn left, cross the street and continue straight along Gazowa Street",
+            "de": "Biegen Sie links ab, überqueren Sie die Straße und gehen Sie geradeaus die Gazowa-Straße entlang",
+            "ua": "Поверніть ліворуч, перейдіть дорогу і йдіть прямо вулицею Gazowa",
+            "it": "Svoltate a sinistra, attraversate la strada e proseguite dritto lungo via Gazowa",
+            "hr": "Skrenite lijevo, prijeđite cestu i nastavite ravno ulicom Gazowa",
+            "es": "Gire a la izquierda, cruce la calle y siga recto por la calle Gazowa",
+            "fr": "Tournez à gauche, traversez la rue et allez tout droit le long de la rue Gazowa"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0478078295898,
+            19.947347042632657
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 16,
           "text": {
             "pl": "",
             "ru": "",
@@ -471,7 +491,27 @@
             19.946248723648896
           ],
           "type": "turn",
-          "radiusMeters": 23,
+          "radiusMeters": 15,
+          "text": {
+            "pl": "Skręć w prawo i przejdź przez ulicę",
+            "ru": "Поверните направо и перейдите дорогу",
+            "en": "Turn right and cross the road",
+            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
+            "ua": "Поверніть праворуч і перейдіть дорогу",
+            "it": "Svolta a destra e attraversa la strada",
+            "hr": "Skrenite desno i prijeđite cestu",
+            "es": "Gire a la derecha y cruce la calle",
+            "fr": "Tournez à droite et traversez la rue"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04977680825044,
+            19.946736191177354
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 16,
           "text": {
             "pl": "",
             "ru": "",

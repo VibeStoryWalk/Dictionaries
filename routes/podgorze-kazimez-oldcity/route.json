@@ -611,15 +611,15 @@
           "type": "turn",
           "radiusMeters": 11,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Idźcie w stronę placu",
+            "ru": "Идите в сторону площади",
+            "en": "Head toward the square",
+            "de": "Gehen Sie in Richtung des Platzes",
+            "ua": "Ідіть у бік площі",
+            "it": "Andate verso la piazza",
+            "hr": "Krenite prema trgu",
+            "es": "Dirígete hacia la plaza",
+            "fr": "Allez vers la place"
           },
           "debug_entity": false
         },
@@ -628,7 +628,7 @@
             50.05185102263469,
             19.948289094456683
           ],
-          "radiusMeters": 14
+          "radiusMeters": 21
         }
       ]
     },

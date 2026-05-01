@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 240,
-  "distanceKm": 7.26,
+  "distanceKm": 7.42,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -64,7 +64,169 @@
           "coordinates": [
             50.046693702795736,
             19.954463332478973
-          ]
+          ],
+          "radiusMeters": 27
+        },
+        {
+          "coordinates": [
+            50.046343804184,
+            19.954084747053844
+          ],
+          "type": "turn",
+          "radiusMeters": 12,
+          "text": {
+            "pl": "Idź prosto ulicą Targowa, aż dojdziesz do skrzyżowania",
+            "ru": "Двигайтесь прямо по улице Targowa, пока не дойдёте до перекрёстка",
+            "en": "Continue straight along Targowa Street until you reach the intersection",
+            "de": "Gehen Sie geradeaus die Targowa-Straße entlang, bis Sie die Kreuzung erreichen",
+            "ua": "Йдіть прямо вулицею Targowa, поки не дійдете до перехрестя",
+            "it": "Prosegui dritto lungo via Targowa fino a raggiungere l'incrocio",
+            "hr": "Idite ravno ulicom Targowa dok ne stignete do raskrižja",
+            "es": "Siga recto por la calle Targowa hasta llegar al cruce",
+            "fr": "Continuez tout droit sur la rue Targowa jusqu'à l'intersection"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04611989390262,
+            19.95394527218507
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 13,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0456478820038,
+            19.953671199010756
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "Przejdź przez ulicę i skręć w prawo",
+            "ru": "Перейдите дорогу и поверните направо",
+            "en": "Cross the road and turn right",
+            "de": "Überqueren Sie die Straße und biegen Sie rechts ab",
+            "ua": "Перейдіть дорогу і поверніть праворуч",
+            "it": "Attraversate la strada e svoltate a destra",
+            "hr": "Pređite cestu i skrenite desno",
+            "es": "Cruce la calle y gire a la derecha",
+            "fr": "Traversez la rue et tournez à droite"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045765063336944,
+            19.952550514248884
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "Skręć w lewo i przejdź przez ulicę",
+            "ru": "Поверните налево и перейдите дорогу",
+            "en": "Turn left and cross the road",
+            "de": "Biegen Sie links ab und überqueren Sie die Straße",
+            "ua": "Поверніть ліворуч і перейдіть дорогу",
+            "it": "Svolta a sinistra e attraversa la strada",
+            "hr": "Skrenite lijevo i prijeđite cestu",
+            "es": "Gire a la izquierda y cruce la calle",
+            "fr": "Tournez à gauche et traversez la rue"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04510366496095,
+            19.952362775802616
+          ],
+          "type": "turn",
+          "radiusMeters": 16,
+          "text": {
+            "pl": "Skręć w prawo i przejdź przez ulicę",
+            "ru": "Поверните направо и перейдите дорогу",
+            "en": "Turn right and cross the road",
+            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
+            "ua": "Поверніть праворуч і перейдіть дорогу",
+            "it": "Svolta a destra e attraversa la strada",
+            "hr": "Skrenite desno i prijeđite cestu",
+            "es": "Gire a la derecha y cruce la calle",
+            "fr": "Tournez à droite et traversez la rue"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045068160216935,
+            19.95182186524723
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04492909556551,
+            19.949875227460385
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "Wyjdźcie na plac",
+            "ru": "Выходите на площадь",
+            "en": "Go out onto the square",
+            "de": "Gehen Sie auf den Platz",
+            "ua": "Вийдіть на площу",
+            "it": "Uscite sulla piazza",
+            "hr": "Izađite na trg",
+            "es": "Salga a la plaza",
+            "fr": "Sortez sur la place"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.044535242643455,
+            19.949128045603317
+          ],
+          "type": "portal",
+          "radiusMeters": 26,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false,
+          "targetVertexIndex": 9
         },
         {
           "coordinates": [

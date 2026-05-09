@@ -1041,15 +1041,15 @@
     "id": "point-31",
     "order": 31,
     "title": {
-      "pl": "Mykwa Wielka",
+      "pl": "Duża mykwa przy ulicy Szerokiej",
       "ru": "Большая миква на улице Широкой",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "Large Mikveh on Shirokaya Street",
+      "de": "Große Mikwe in der Schirokaja-Straße",
+      "ua": "Велика міква на вулиці Широкій",
+      "it": "Grande mikveh in via Shirokaya",
+      "hr": "Velika mikva u Ulici Širokaja",
+      "es": "Gran mikve en la calle Shirokaya",
+      "fr": "Grande mikvé rue Shirokaïa"
     },
     "approachText": {
       "pl": "To nie świątynia, lecz codzienna infrastruktura religijna wspólnoty. Wyobraź sobie zejście po schodach do rytualnej wody.",

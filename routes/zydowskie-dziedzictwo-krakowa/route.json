@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 140,
-  "distanceKm": 2.45,
+  "distanceKm": 2.47,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -626,13 +626,35 @@
           "coordinates": [
             50.051671900539105,
             19.94666198988169
-          ]
+          ],
+          "radiusMeters": 20
+        },
+        {
+          "coordinates": [
+            50.05158667203095,
+            19.946247293006493
+          ],
+          "type": "turn",
+          "radiusMeters": 12,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.0526305556,
             19.94575
-          ]
+          ],
+          "radiusMeters": 31
         }
       ]
     },

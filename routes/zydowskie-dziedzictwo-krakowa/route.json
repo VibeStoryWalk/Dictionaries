@@ -1,0 +1,273 @@
+{
+  "id": "",
+  "cityId": "krakow",
+  "title": {
+    "pl": "Żydowskie dziedzictwo Krakowa",
+    "ru": "Еврейское наследие Кракова",
+    "en": "Krakow's Jewish Heritage",
+    "de": "Das jüdische Erbe Krakaus",
+    "ua": "Єврейська спадщина Кракова",
+    "it": "Il patrimonio ebraico di Cracovia",
+    "hr": "Židovska baština Krakova",
+    "es": "El patrimonio judío de Cracovia",
+    "fr": "Le patrimoine juif de Cracovie"
+  },
+  "coverImage": "",
+  "description": {
+    "pl": "Liniowa trasa piesza łączy sakralne i memorialne centrum żydowskiego Krakowa: od ulicy Szerokiej i starych synagog Kazimierza przez Plac Nowy aż po przestrzeń dawnego getta w Podgórzu.",
+    "ru": "Линейный пеший маршрут соединяет сакральное и мемориальное ядро еврейского Кракова: от улицы Широкой и старых синагог Казимежа через Новый рынок к пространству бывшего гетто в Подгуже.",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "intro": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "durationMinutes": 140,
+  "distanceKm": 2.79,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06143,
+    19.93658
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "szeroka-street",
+      "toPointId": "judah-mural",
+      "path": [
+        {
+          "coordinates": [
+            50.05185102263469,
+            19.948289094456683
+          ]
+        },
+        {
+          "coordinates": [
+            50.05024987409684,
+            19.948160482550758
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "judah-mural",
+      "toPointId": "schindler-list-passage",
+      "path": [
+        {
+          "coordinates": [
+            50.05024987409684,
+            19.948160482550758
+          ]
+        },
+        {
+          "coordinates": [
+            50.050927939556686,
+            19.94405366489869
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "schindler-list-passage",
+      "toPointId": "remuh-synagogue",
+      "path": [
+        {
+          "coordinates": [
+            50.050927939556686,
+            19.94405366489869
+          ]
+        },
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "remuh-synagogue",
+      "toPointId": "point-31",
+      "path": [
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
+          ]
+        },
+        {
+          "coordinates": [
+            50.0532,
+            19.9482
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-31",
+      "toPointId": "point-32",
+      "path": [
+        {
+          "coordinates": [
+            50.0532,
+            19.9482
+          ]
+        },
+        {
+          "coordinates": [
+            50.051671900539105,
+            19.94666198988169
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-32",
+      "toPointId": "point-33",
+      "path": [
+        {
+          "coordinates": [
+            50.051671900539105,
+            19.94666198988169
+          ]
+        },
+        {
+          "coordinates": [
+            50.0526305556,
+            19.94575
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-33",
+      "toPointId": "plac-nowy",
+      "path": [
+        {
+          "coordinates": [
+            50.0526305556,
+            19.94575
+          ]
+        },
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "plac-nowy",
+      "toPointId": "point-34",
+      "path": [
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
+          ]
+        },
+        {
+          "coordinates": [
+            50.0529166667,
+            19.9444444444
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-34",
+      "toPointId": "point-35",
+      "path": [
+        {
+          "coordinates": [
+            50.0529166667,
+            19.9444444444
+          ]
+        },
+        {
+          "coordinates": [
+            50.0513888889,
+            19.9473888889
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-35",
+      "toPointId": "ghetto-heroes-square",
+      "path": [
+        {
+          "coordinates": [
+            50.0513888889,
+            19.9473888889
+          ]
+        },
+        {
+          "coordinates": [
+            50.046693702795736,
+            19.954463332478973
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "ghetto-heroes-square",
+      "toPointId": "point-36",
+      "path": [
+        {
+          "coordinates": [
+            50.046693702795736,
+            19.954463332478973
+          ]
+        },
+        {
+          "coordinates": [
+            50.0446639,
+            19.95755
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "szeroka-street",
+    "judah-mural",
+    "schindler-list-passage",
+    "remuh-synagogue",
+    "point-31",
+    "point-32",
+    "point-33",
+    "plac-nowy",
+    "point-34",
+    "point-35",
+    "ghetto-heroes-square",
+    "point-36"
+  ],
+  "debug_entity": true
+}

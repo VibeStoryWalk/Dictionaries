@@ -1217,15 +1217,15 @@
     "id": "point-35",
     "order": 35,
     "title": {
-      "pl": "Synagoga Wysoka",
+      "pl": "Wysoka Synagoga",
       "ru": "Высокая синагога",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "High Synagogue",
+      "de": "Hohe Synagoge",
+      "ua": "Висока синагога",
+      "it": "Sinagoga Alta",
+      "hr": "Visoka sinagoga",
+      "es": "Sinagoga Alta",
+      "fr": "Haute Synagogue"
     },
     "approachText": {
       "pl": "Spójrz wyżej: sala modlitw znajduje się na górnym piętrze, co czyni ten obiekt rzadkim w Polsce. Zwróć uwagę na surową renesansową formę i wąski front uliczny.",

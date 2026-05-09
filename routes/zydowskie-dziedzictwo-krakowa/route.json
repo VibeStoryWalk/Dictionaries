@@ -385,7 +385,48 @@
             50.05115207336529,
             19.948657376825167
           ],
-          "radiusMeters": 25
+          "radiusMeters": 10
+        },
+        {
+          "coordinates": [
+            50.05129382385683,
+            19.948414564132694
+          ],
+          "type": "turn",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05148672291923,
+            19.948296572369216
+          ],
+          "type": "portal",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false,
+          "targetVertexIndex": 3
         },
         {
           "coordinates": [

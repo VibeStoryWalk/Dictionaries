@@ -1036,5 +1036,269 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points_images/dom-bosak.jpg",
     "debug_entity": false
+  },
+  {
+    "id": "point-31",
+    "order": 31,
+    "title": {
+      "pl": "Mykwa Wielka",
+      "ru": "Большая миква на улице Широкой",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "To nie świątynia, lecz codzienna infrastruktura religijna wspólnoty. Wyobraź sobie zejście po schodach do rytualnej wody.",
+      "ru": "Здесь важен не храм, а повседневная религиозная инфраструктура общины. Представьте, как люди спускались вниз по ступеням к ритуальной воде.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.0532,
+      19.9482
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-32",
+    "order": 32,
+    "title": {
+      "pl": "Synagoga Izaaka (Ajzyka)",
+      "ru": "Синагога Изаака (Ажика)",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Spójrz na masywną barokową bryłę i odczytaj okolice jako dawną handlową część dzielnicy żydowskiej. To jedna z najbardziej rozpoznawalnych synagog Kazimierza.",
+      "ru": "Посмотрите на крупный барочный объем и считайте окрестности как бывшую торговую зону еврейского квартала. Это одна из самых заметных синагог Казимежа.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.0516666667,
+      19.9466666667
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-33",
+    "order": 33,
+    "title": {
+      "pl": "Synagoga Kupa",
+      "ru": "Синагога Купа",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Ta synagoga stoi w gęstej bliskości innych zabytków przy Placu Nowym. Zobacz, jak świątynia wspólnotowa została wtopiona w żywy miejski kwartał.",
+      "ru": "Эта синагога стоит в плотной связке с другими памятниками у Нового рынка. Обратите внимание, как общинный храм встроен в живой городской квартал.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.0526305556,
+      19.94575
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-34",
+    "order": 34,
+    "title": {
+      "pl": "Synagoga Tempel",
+      "ru": "Синагога Темпель",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Porównaj tę świątynię z wcześniejszymi synagogami na trasie: tutaj widać inny, zmodernizowany język i odmienną historię wspólnoty. Fasada dobrze pokazuje reformacyjny charakter tego miejsca.",
+      "ru": "Сравните этот храм с более ранними синагогами маршрута: здесь другой, модернизированный язык и другая общинная история. Фасад хорошо показывает реформаторский характер места.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.0529166667,
+      19.9444444444
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-35",
+    "order": 35,
+    "title": {
+      "pl": "Synagoga Wysoka",
+      "ru": "Высокая синагога",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Spójrz wyżej: sala modlitw znajduje się na górnym piętrze, co czyni ten obiekt rzadkim w Polsce. Zwróć uwagę na surową renesansową formę i wąski front uliczny.",
+      "ru": "Поднимите взгляд: молельный зал расположен на верхнем этаже, что делает здание редким для Польши. Обратите внимание на строгий ренессансный облик и узкий городской фронт.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.0513888889,
+      19.9473888889
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-36",
+    "order": 36,
+    "title": {
+      "pl": "Fragment muru getta w Krakowie przy ul. Lwowskiej",
+      "ru": "Фрагмент стены краковского гетто на улице Львовской",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Szukaj krótkiego zachowanego fragmentu muru między kamienicami i tablicy pamiątkowej. To rzadki materialny ślad granicy, która kiedyś izolowała getto.",
+      "ru": "Ищите короткий уцелевший участок стены между домами и памятную табличку. Это редкий материальный след границы, которой когда-то изолировали гетто.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.0446639,
+      19.95755
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "image": "",
+    "debug_entity": false
   }
 ]

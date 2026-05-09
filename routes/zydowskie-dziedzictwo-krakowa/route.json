@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 140,
-  "distanceKm": 2.59,
+  "distanceKm": 2.68,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -828,13 +828,76 @@
           "coordinates": [
             50.050927939556686,
             19.94405366489869
-          ]
+          ],
+          "radiusMeters": 13
+        },
+        {
+          "coordinates": [
+            50.050608351415114,
+            19.944171300222692
+          ],
+          "type": "turn",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.050749622085426,
+            19.944906028963576
+          ],
+          "type": "turn",
+          "radiusMeters": 10,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05132137247262,
+            19.944686483194854
+          ],
+          "type": "portal",
+          "radiusMeters": 14,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false,
+          "targetVertexIndex": 4
         },
         {
           "coordinates": [
             50.05159267501118,
             19.94524775504501
-          ]
+          ],
+          "radiusMeters": 12
         }
       ]
     }

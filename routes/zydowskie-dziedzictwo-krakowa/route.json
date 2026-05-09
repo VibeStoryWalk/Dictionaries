@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 140,
-  "distanceKm": 2.79,
+  "distanceKm": 2.14,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -76,30 +76,12 @@
     },
     {
       "fromPointId": "ghetto-heroes-square",
-      "toPointId": "szeroka-street",
+      "toPointId": "judah-mural",
       "path": [
         {
           "coordinates": [
             50.046693702795736,
             19.954463332478973
-          ]
-        },
-        {
-          "coordinates": [
-            50.05185102263469,
-            19.948289094456683
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "szeroka-street",
-      "toPointId": "judah-mural",
-      "path": [
-        {
-          "coordinates": [
-            50.05185102263469,
-            19.948289094456683
           ]
         },
         {
@@ -112,7 +94,7 @@
     },
     {
       "fromPointId": "judah-mural",
-      "toPointId": "schindler-list-passage",
+      "toPointId": "point-35",
       "path": [
         {
           "coordinates": [
@@ -122,38 +104,56 @@
         },
         {
           "coordinates": [
-            50.050927939556686,
-            19.94405366489869
+            50.0513888889,
+            19.9473888889
           ]
         }
       ]
     },
     {
-      "fromPointId": "schindler-list-passage",
-      "toPointId": "remuh-synagogue",
+      "fromPointId": "point-35",
+      "toPointId": "dom-bosak",
       "path": [
         {
           "coordinates": [
-            50.050927939556686,
-            19.94405366489869
+            50.0513888889,
+            19.9473888889
           ]
         },
         {
           "coordinates": [
-            50.052729707337924,
-            19.947725942598897
+            50.05115207336529,
+            19.948657376825167
           ]
         }
       ]
     },
     {
-      "fromPointId": "remuh-synagogue",
+      "fromPointId": "dom-bosak",
+      "toPointId": "szeroka-street",
+      "path": [
+        {
+          "coordinates": [
+            50.05115207336529,
+            19.948657376825167
+          ]
+        },
+        {
+          "coordinates": [
+            50.05185102263469,
+            19.948289094456683
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "szeroka-street",
       "toPointId": "point-31",
       "path": [
         {
           "coordinates": [
-            50.052729707337924,
-            19.947725942598897
+            50.05185102263469,
+            19.948289094456683
           ]
         },
         {
@@ -166,12 +166,30 @@
     },
     {
       "fromPointId": "point-31",
-      "toPointId": "point-32",
+      "toPointId": "remuh-synagogue",
       "path": [
         {
           "coordinates": [
             50.0532,
             19.9482
+          ]
+        },
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "remuh-synagogue",
+      "toPointId": "point-32",
+      "path": [
+        {
+          "coordinates": [
+            50.052729707337924,
+            19.947725942598897
           ]
         },
         {
@@ -202,30 +220,12 @@
     },
     {
       "fromPointId": "point-33",
-      "toPointId": "plac-nowy",
+      "toPointId": "point-34",
       "path": [
         {
           "coordinates": [
             50.0526305556,
             19.94575
-          ]
-        },
-        {
-          "coordinates": [
-            50.05159267501118,
-            19.94524775504501
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "plac-nowy",
-      "toPointId": "point-34",
-      "path": [
-        {
-          "coordinates": [
-            50.05159267501118,
-            19.94524775504501
           ]
         },
         {
@@ -238,7 +238,7 @@
     },
     {
       "fromPointId": "point-34",
-      "toPointId": "point-35",
+      "toPointId": "schindler-list-passage",
       "path": [
         {
           "coordinates": [
@@ -248,8 +248,26 @@
         },
         {
           "coordinates": [
-            50.0513888889,
-            19.9473888889
+            50.050927939556686,
+            19.94405366489869
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "schindler-list-passage",
+      "toPointId": "plac-nowy",
+      "path": [
+        {
+          "coordinates": [
+            50.050927939556686,
+            19.94405366489869
+          ]
+        },
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
           ]
         }
       ]
@@ -258,16 +276,17 @@
   "pointIds": [
     "point-36",
     "ghetto-heroes-square",
-    "szeroka-street",
     "judah-mural",
-    "schindler-list-passage",
-    "remuh-synagogue",
+    "point-35",
+    "dom-bosak",
+    "szeroka-street",
     "point-31",
+    "remuh-synagogue",
     "point-32",
     "point-33",
-    "plac-nowy",
     "point-34",
-    "point-35"
+    "schindler-list-passage",
+    "plac-nowy"
   ],
   "debug_entity": true
 }

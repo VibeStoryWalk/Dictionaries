@@ -1041,15 +1041,15 @@
     "id": "point-31",
     "order": 31,
     "title": {
-      "pl": "Duża mykwa przy ulicy Szerokiej",
-      "ru": "Большая миква на улице Широкой",
-      "en": "Large Mikveh on Shirokaya Street",
-      "de": "Große Mikwe in der Schirokaja-Straße",
-      "ua": "Велика міква на вулиці Широкій",
-      "it": "Grande mikveh in via Shirokaya",
-      "hr": "Velika mikva u Ulici Širokaja",
-      "es": "Gran mikve en la calle Shirokaya",
-      "fr": "Grande mikvé rue Shirokaïa"
+      "pl": "Wielka mykwa",
+      "ru": "Большая миква",
+      "en": "Great Mikveh",
+      "de": "Große Mikwe",
+      "ua": "Велика міква",
+      "it": "Grande mikveh",
+      "hr": "Velika mikva",
+      "es": "Gran mikvé",
+      "fr": "Grande mikvé"
     },
     "approachText": {
       "pl": "To nie świątynia, lecz codzienna infrastruktura religijna wspólnoty. Wyobraź sobie zejście po schodach do rytualnej wody.",
@@ -1261,15 +1261,15 @@
     "id": "point-36",
     "order": 36,
     "title": {
-      "pl": "Fragment muru krakowskiego getta przy ulicy Lwowskiej",
-      "ru": "Фрагмент стены краковского гетто на улице Львовской",
-      "en": "A fragment of the Kraków Ghetto wall on Lwowska Street",
-      "de": "Fragment der Mauer des Krakauer Ghettos in der Lwowska-Straße",
-      "ua": "Фрагмент стіни краківського гетто на вулиці Львівській",
-      "it": "Frammento del muro del ghetto di Cracovia in via Lwowska",
-      "hr": "Ulomak zida krakovskog geta u ulici Lwowska",
-      "es": "Fragmento del muro del gueto de Cracovia en la calle Lwowska",
-      "fr": "Fragment du mur du ghetto de Cracovie, rue Lwowska"
+      "pl": "Fragment muru getta",
+      "ru": "Фрагмент стены гетто",
+      "en": "Fragment of the ghetto wall",
+      "de": "Fragment der Ghetto-Mauer",
+      "ua": "Фрагмент стіни гетто",
+      "it": "Frammento del muro del ghetto",
+      "hr": "Fragment zida geta",
+      "es": "Fragmento del muro del gueto",
+      "fr": "Fragment du mur du ghetto"
     },
     "approachText": {
       "pl": "Szukaj krótkiego zachowanego fragmentu muru między kamienicami i tablicy pamiątkowej. To rzadki materialny ślad granicy, która kiedyś izolowała getto.",

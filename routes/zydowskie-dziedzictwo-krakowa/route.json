@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 140,
-  "distanceKm": 2.14,
+  "distanceKm": 2.17,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -64,13 +64,115 @@
           "coordinates": [
             50.0446639,
             19.95755
-          ]
+          ],
+          "radiusMeters": 17
+        },
+        {
+          "coordinates": [
+            50.04486478967126,
+            19.957234086745036
+          ],
+          "type": "turn",
+          "radiusMeters": 12,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04512429031029,
+            19.956016023092577
+          ],
+          "type": "turn",
+          "radiusMeters": 12,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04542403790833,
+            19.95568334362672
+          ],
+          "type": "turn",
+          "radiusMeters": 10,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04543779986873,
+            19.955264919020397
+          ],
+          "type": "turn",
+          "radiusMeters": 10,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04627493064202,
+            19.95493232279044
+          ],
+          "type": "turn",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.046693702795736,
             19.954463332478973
-          ]
+          ],
+          "radiusMeters": 34
         }
       ]
     },

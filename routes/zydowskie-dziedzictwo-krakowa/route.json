@@ -57,6 +57,42 @@
   },
   "segments": [
     {
+      "fromPointId": "point-36",
+      "toPointId": "ghetto-heroes-square",
+      "path": [
+        {
+          "coordinates": [
+            50.0446639,
+            19.95755
+          ]
+        },
+        {
+          "coordinates": [
+            50.046693702795736,
+            19.954463332478973
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "ghetto-heroes-square",
+      "toPointId": "szeroka-street",
+      "path": [
+        {
+          "coordinates": [
+            50.046693702795736,
+            19.954463332478973
+          ]
+        },
+        {
+          "coordinates": [
+            50.05185102263469,
+            19.948289094456683
+          ]
+        }
+      ]
+    },
+    {
       "fromPointId": "szeroka-street",
       "toPointId": "judah-mural",
       "path": [
@@ -217,45 +253,11 @@
           ]
         }
       ]
-    },
-    {
-      "fromPointId": "point-35",
-      "toPointId": "ghetto-heroes-square",
-      "path": [
-        {
-          "coordinates": [
-            50.0513888889,
-            19.9473888889
-          ]
-        },
-        {
-          "coordinates": [
-            50.046693702795736,
-            19.954463332478973
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "ghetto-heroes-square",
-      "toPointId": "point-36",
-      "path": [
-        {
-          "coordinates": [
-            50.046693702795736,
-            19.954463332478973
-          ]
-        },
-        {
-          "coordinates": [
-            50.0446639,
-            19.95755
-          ]
-        }
-      ]
     }
   ],
   "pointIds": [
+    "point-36",
+    "ghetto-heroes-square",
     "szeroka-street",
     "judah-mural",
     "schindler-list-passage",
@@ -265,9 +267,7 @@
     "point-33",
     "plac-nowy",
     "point-34",
-    "point-35",
-    "ghetto-heroes-square",
-    "point-36"
+    "point-35"
   ],
   "debug_entity": true
 }

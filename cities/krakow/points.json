@@ -1085,15 +1085,15 @@
     "id": "point-32",
     "order": 32,
     "title": {
-      "pl": "Synagoga Izaaka (Ajzyka)",
-      "ru": "Синагога Изаака (Ажика)",
-      "en": "Isaac's Synagogue (Ajzyk)",
-      "de": "Synagoge Isaaks (Ajzyka)",
-      "ua": "Синагога Ісаака (Айзик)",
-      "it": "Sinagoga di Isacco (Ajzyk)",
-      "hr": "Izaakova sinagoga (Ajzyk)",
-      "es": "Sinagoga de Isaac (Ajzyk)",
-      "fr": "Synagogue d’Isaac (Ajzyk)"
+      "pl": "Synagoga Izaaka",
+      "ru": "Синагога Изаака",
+      "en": "Isaac's Synagogue",
+      "de": "Isaaksynagoge",
+      "ua": "Синагога Ісаака",
+      "it": "Sinagoga di Isacco",
+      "hr": "Isaakova sinagoga",
+      "es": "Sinagoga de Isaac",
+      "fr": "Synagogue d'Isaac"
     },
     "approachText": {
       "pl": "Spójrz na masywną barokową bryłę i odczytaj okolice jako dawną handlową część dzielnicy żydowskiej. To jedna z najbardziej rozpoznawalnych synagog Kazimierza.",

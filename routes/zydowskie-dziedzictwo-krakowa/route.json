@@ -445,13 +445,35 @@
           "coordinates": [
             50.05185102263469,
             19.948289094456683
-          ]
+          ],
+          "radiusMeters": 16
+        },
+        {
+          "coordinates": [
+            50.05218936659806,
+            19.94837699239753
+          ],
+          "type": "turn",
+          "radiusMeters": 16,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.0532,
             19.9482
-          ]
+          ],
+          "radiusMeters": 19
         }
       ]
     },

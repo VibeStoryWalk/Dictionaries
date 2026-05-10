@@ -36,7 +36,7 @@
     "fr": "Une longue promenade riche en découvertes dans les lieux de Cracovie qui intéressent avant tout les enfants, sans pour autant ennuyer leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la promenade, les enfants seront certainement fatigués et affamés, et les parents - satisfaits."
   },
   "durationMinutes": 125,
-  "distanceKm": 3.93,
+  "distanceKm": 3.95,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -798,37 +798,42 @@
     },
     {
       "fromPointId": "eros-bound",
-      "toPointId": "main-square",
+      "toPointId": "horses",
       "path": [
         {
           "coordinates": [
             50.06152899476507,
             19.936186378801466
-          ]
+          ],
+          "radiusMeters": 24
         },
         {
           "coordinates": [
-            50.06189418479692,
-            19.936809299835495
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "main-square",
-      "toPointId": "horses",
-      "path": [
-        {
-          "coordinates": [
-            50.06189418479692,
-            19.936809299835495
-          ]
+            50.0623838078345,
+            19.93712245261944
+          ],
+          "type": "portal",
+          "radiusMeters": 34,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false,
+          "targetVertexIndex": 2
         },
         {
           "coordinates": [
             50.06230751256079,
             19.93797054911831
-          ]
+          ],
+          "radiusMeters": 23
         }
       ]
     }
@@ -839,7 +844,6 @@
     "wawel-dragon",
     "planty",
     "eros-bound",
-    "main-square",
     "horses"
   ],
   "debug_entity": true

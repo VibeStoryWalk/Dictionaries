@@ -75,15 +75,15 @@
           "type": "turn",
           "radiusMeters": 12,
           "text": {
-            "pl": "",
+            "pl": "Zejdźcie po schodach",
             "ru": "Спускайтесь вниз по лестнице",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Go down the stairs",
+            "de": "Gehen Sie die Treppe hinunter",
+            "ua": "Спускайтеся сходами",
+            "it": "Scendete le scale",
+            "hr": "Siđite niz stepenice",
+            "es": "Baje por las escaleras",
+            "fr": "Descendez l'escalier"
           },
           "debug_entity": false
         },
@@ -115,15 +115,15 @@
           "type": "turn",
           "radiusMeters": 19,
           "text": {
-            "pl": "",
+            "pl": "Przejdź przez ulicę i skręć w prawo",
             "ru": "Перейдите дорогу и поверните направо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road and turn right",
+            "de": "Überqueren Sie die Straße und biegen Sie rechts ab",
+            "ua": "Перейдіть дорогу і поверніть праворуч",
+            "it": "Attraversa la strada e gira a destra",
+            "hr": "Pređite cestu i skrenite desno",
+            "es": "Cruza la calle y gira a la derecha",
+            "fr": "Traversez la rue et tournez à droite"
           },
           "debug_entity": false
         },
@@ -155,15 +155,15 @@
           "type": "turn",
           "radiusMeters": 19,
           "text": {
-            "pl": "",
+            "pl": "Skręć w lewo",
             "ru": "Поверните налево",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Turn left",
+            "de": "Biegen Sie links ab",
+            "ua": "Поверніть ліворуч",
+            "it": "Svolta a sinistra",
+            "hr": "Skrenite lijevo",
+            "es": "Gire a la izquierda",
+            "fr": "Tournez à gauche"
           },
           "debug_entity": false
         },
@@ -175,15 +175,15 @@
           "type": "turn",
           "radiusMeters": 14,
           "text": {
-            "pl": "",
+            "pl": "Przejdź przez ulicę z torami tramwajowymi i skręć w prawo",
             "ru": "Перейдите дорогу с трамвайными путями и поверните направо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road with the tram tracks and turn right",
+            "de": "Überqueren Sie die Straße mit den Straßenbahnschienen und biegen Sie rechts ab",
+            "ua": "Перейдіть дорогу з трамвайними коліями та поверніть праворуч",
+            "it": "Attraversate la strada con i binari del tram e girate a destra",
+            "hr": "Pređite cestu s tramvajskim tračnicama i skrenite desno",
+            "es": "Cruce la calle con las vías del tranvía y gire a la derecha",
+            "fr": "Traversez la rue avec les voies de tramway et tournez à droite"
           },
           "debug_entity": false
         },
@@ -195,15 +195,15 @@
           "type": "turn",
           "radiusMeters": 16,
           "text": {
-            "pl": "",
+            "pl": "Przejdź przez ulicę i skręć w lewo",
             "ru": "Перейдите дорогу и поверните налево",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road and turn left",
+            "de": "Überqueren Sie die Straße und biegen Sie links ab",
+            "ua": "Перейдіть дорогу і поверніть ліворуч",
+            "it": "Attraversate la strada e girate a sinistra",
+            "hr": "Prijeđite cestu i skrenite lijevo",
+            "es": "Cruce la calle y gire a la izquierda",
+            "fr": "Traversez la rue et tournez à gauche"
           },
           "debug_entity": false
         },
@@ -215,15 +215,15 @@
           "type": "turn",
           "radiusMeters": 13,
           "text": {
-            "pl": "",
+            "pl": "Trzymaj się prawej strony",
             "ru": "Держитесь правее",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Keep right",
+            "de": "Halten Sie sich rechts",
+            "ua": "Тримайтеся праворуч",
+            "it": "Tenetevi a destra",
+            "hr": "Držite se desne strane",
+            "es": "Manténgase a la derecha",
+            "fr": "Restez à droite"
           },
           "debug_entity": false
         },
@@ -235,15 +235,15 @@
           "type": "turn",
           "radiusMeters": 17,
           "text": {
-            "pl": "",
+            "pl": "Wejdź po schodach, przejdź przez ulicę i idź do mostu.",
             "ru": "Поднимитесь вверх по ступенькам, перейдите дорогу и проходите к мосту",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Go up the steps, cross the road, and continue to the bridge.",
+            "de": "Gehen Sie die Stufen hinauf, überqueren Sie die Straße und gehen Sie zur Brücke.",
+            "ua": "Підніміться сходами, перейдіть дорогу і прямуйте до мосту.",
+            "it": "Salite i gradini, attraversate la strada e proseguite verso il ponte.",
+            "hr": "Popnite se uz stube, prijeđite cestu i krenite prema mostu.",
+            "es": "Suba las escaleras, cruce la calle y continúe hasta el puente.",
+            "fr": "Montez les marches, traversez la rue et continuez jusqu'au pont."
           },
           "debug_entity": false
         },
@@ -274,15 +274,15 @@
           "type": "turn",
           "radiusMeters": 20,
           "text": {
-            "pl": "",
+            "pl": "Skręćcie z mostu w prawo i zejdźcie w dół na bulwar",
             "ru": "Сверните с моста вправо и спускайтесь вниз на набережную",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Turn right off the bridge and head down to the embankment",
+            "de": "Biegen Sie von der Brücke rechts ab und gehen Sie hinunter zur Uferpromenade",
+            "ua": "Зверніть з мосту праворуч і спускайтеся вниз до набережної",
+            "it": "Svoltate a destra dal ponte e scendete verso il lungofiume",
+            "hr": "Skrenite s mosta desno i spustite se prema obali",
+            "es": "Gire a la derecha al salir del puente y baje hacia el paseo fluvial",
+            "fr": "Tournez à droite en quittant le pont et descendez vers la promenade du quai"
           },
           "debug_entity": false
         },
@@ -294,15 +294,15 @@
           "type": "turn",
           "radiusMeters": 17,
           "text": {
-            "pl": "",
+            "pl": "Skręćcie w prawo na promenadzie. Droga wzdłuż promenady będzie długa.",
             "ru": "Поворачивайте на набережной направо. Путь по набережной будет долгий.",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Turn right at the embankment. The walk along the embankment will be long.",
+            "de": "Biegen Sie an der Uferpromenade rechts ab. Der Weg entlang der Uferpromenade wird lang sein.",
+            "ua": "Поверніть праворуч на набережній. Шлях уздовж набережної буде довгим.",
+            "it": "Svoltate a destra sul lungofiume. Il percorso lungo il lungofiume sarà lungo.",
+            "hr": "Skrenite desno na obali. Put uz obalu bit će dug.",
+            "es": "Gire a la derecha en el paseo marítimo. El recorrido por el paseo marítimo será largo.",
+            "fr": "Tournez à droite sur la promenade. Le trajet le long de la promenade sera long."
           },
           "debug_entity": false
         },
@@ -454,15 +454,15 @@
           "type": "turn",
           "radiusMeters": 16,
           "text": {
-            "pl": "",
+            "pl": "Zacznijcie stopniowo iść w prawo i do góry, na górną promenadę",
             "ru": "Начинайте постепенной движение вправо вверх, на верхнюю набережную",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Start moving gradually up and to the right, to the upper embankment",
+            "de": "Beginnen Sie, sich allmählich nach rechts oben zur oberen Uferpromenade zu bewegen",
+            "ua": "Починайте поступово рухатися вправо вгору, на верхню набережну",
+            "it": "Iniziate a muovervi gradualmente verso destra e in alto, verso la passeggiata superiore",
+            "hr": "Krenite se postupno kretati udesno i gore, prema gornjoj promenadi",
+            "es": "Empiece a moverse gradualmente hacia la derecha y hacia arriba, hasta el paseo marítimo superior",
+            "fr": "Commencez à monter progressivement vers la droite, jusqu'à la promenade supérieure"
           },
           "debug_entity": false
         },
@@ -474,15 +474,15 @@
           "type": "turn",
           "radiusMeters": 17,
           "text": {
-            "pl": "",
+            "pl": "Idź prosto",
             "ru": "Двигайтесь прямо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Go straight",
+            "de": "Gehen Sie geradeaus",
+            "ua": "Рухайтеся прямо",
+            "it": "Prosegui dritto",
+            "hr": "Idite ravno",
+            "es": "Siga recto",
+            "fr": "Continuez tout droit"
           },
           "debug_entity": false
         },
@@ -555,15 +555,15 @@
           "type": "turn",
           "radiusMeters": 15,
           "text": {
-            "pl": "",
+            "pl": "Trzymaj się prawej strony. ",
             "ru": "Держитесь правее. ",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Keep right. ",
+            "de": "Halten Sie sich rechts. ",
+            "ua": "Тримайтеся правіше. ",
+            "it": "Tenetevi sulla destra. ",
+            "hr": "Držite se desno. ",
+            "es": "Manténgase a la derecha. ",
+            "fr": "Restez à droite. "
           },
           "debug_entity": false
         },
@@ -575,15 +575,15 @@
           "type": "turn",
           "radiusMeters": 15,
           "text": {
-            "pl": "",
+            "pl": "Przejdź przez ulicę i skręć w prawo",
             "ru": "Перейдите дорогу и поверните вправо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road and turn right",
+            "de": "Überqueren Sie die Straße und biegen Sie rechts ab",
+            "ua": "Перейдіть дорогу і поверніть праворуч",
+            "it": "Attraversa la strada e svolta a destra",
+            "hr": "Prijeđite cestu i skrenite desno",
+            "es": "Cruza la calle y gira a la derecha",
+            "fr": "Traversez la rue et tournez à droite"
           },
           "debug_entity": false
         },
@@ -615,15 +615,15 @@
           "type": "turn",
           "radiusMeters": 12,
           "text": {
-            "pl": "",
+            "pl": "Przejdź prosto przez ulicę",
             "ru": "Перейдите дорогу прямо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road straight ahead",
+            "de": "Überqueren Sie die Straße geradeaus",
+            "ua": "Перейдіть дорогу прямо",
+            "it": "Attraversa la strada dritto",
+            "hr": "Prijeđite cestu ravno",
+            "es": "Cruce la calle recto",
+            "fr": "Traversez la rue tout droit"
           },
           "debug_entity": false
         },
@@ -635,15 +635,15 @@
           "type": "turn",
           "radiusMeters": 20,
           "text": {
-            "pl": "",
+            "pl": "Skręć w lewo w strefę parku",
             "ru": "Поверните налево в парковую зону",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Turn left into the park area",
+            "de": "Biegen Sie links in den Parkbereich ab",
+            "ua": "Поверніть ліворуч у паркову зону",
+            "it": "Svolta a sinistra nell'area del parco",
+            "hr": "Skrenite lijevo u područje parka",
+            "es": "Gire a la izquierda hacia la zona del parque",
+            "fr": "Tournez à gauche dans la zone du parc"
           },
           "debug_entity": false
         },
@@ -675,15 +675,15 @@
           "type": "turn",
           "radiusMeters": 18,
           "text": {
-            "pl": "",
+            "pl": "Idź prosto przez skwer",
             "ru": "Двигайтесь по скверу прямо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Walk straight through the park",
+            "de": "Gehen Sie geradeaus durch den Park",
+            "ua": "Рухайтеся прямо через сквер",
+            "it": "Proseguite dritto attraverso il parco",
+            "hr": "Idite ravno kroz park",
+            "es": "Siga recto por el parque",
+            "fr": "Avancez tout droit à travers le parc"
           },
           "debug_entity": false
         },
@@ -695,15 +695,15 @@
           "type": "turn",
           "radiusMeters": 16,
           "text": {
-            "pl": "",
+            "pl": "Przejdź przez ulicę",
             "ru": "Перейдите дорогу",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road",
+            "de": "Überqueren Sie die Straße",
+            "ua": "Перейдіть дорогу",
+            "it": "Attraversa la strada",
+            "hr": "Prijeđite cestu",
+            "es": "Cruza la calle",
+            "fr": "Traversez la rue"
           },
           "debug_entity": false
         },
@@ -715,15 +715,15 @@
           "type": "turn",
           "radiusMeters": 18,
           "text": {
-            "pl": "",
+            "pl": "Przejdź przez ulicę na przejściu po prawej stronie.",
             "ru": "Передите дорогу через переход справа",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Cross the road at the crossing on the right.",
+            "de": "Überqueren Sie die Straße an der Fußgängerüberquerung rechts.",
+            "ua": "Перейдіть дорогу через перехід праворуч.",
+            "it": "Attraversa la strada sulle strisce pedonali a destra.",
+            "hr": "Prijeđite cestu na prijelazu s desne strane.",
+            "es": "Cruza la calle por el paso de peatones de la derecha.",
+            "fr": "Traversez la route au passage piéton à droite."
           },
           "debug_entity": false
         },
@@ -735,15 +735,15 @@
           "type": "turn",
           "radiusMeters": 13,
           "text": {
-            "pl": "",
+            "pl": "Trzymaj się lewej strony",
             "ru": "Держитесь левее",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Keep left",
+            "de": "Halten Sie sich links",
+            "ua": "Тримайтеся ліворуч",
+            "it": "Tenete la sinistra",
+            "hr": "Držite se lijevo",
+            "es": "Manténgase a la izquierda",
+            "fr": "Restez à gauche"
           },
           "debug_entity": false
         },
@@ -755,15 +755,15 @@
           "type": "turn",
           "radiusMeters": 14,
           "text": {
-            "pl": "",
+            "pl": "Kontynuuj prosto przez strefę parkingową",
             "ru": "Продолжайте движение прямо по паковой зоне",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Continue straight through the parking area",
+            "de": "Fahren Sie geradeaus durch die Parkzone",
+            "ua": "Продовжуйте рух прямо через зону паркування",
+            "it": "Proseguite dritto attraverso l'area di parcheggio",
+            "hr": "Nastavite ravno kroz zonu za parkiranje",
+            "es": "Continúe recto por la zona de aparcamiento",
+            "fr": "Continuez tout droit dans la zone de stationnement"
           },
           "debug_entity": false
         },
@@ -795,15 +795,15 @@
           "type": "info",
           "radiusMeters": 11,
           "text": {
-            "pl": "Po prawej stronie znajdują się Uniwersytet Jagielloński i pomnik Mikołaja Kopernika – wielkiego uczonego, który tam studiował i wykładał.",
+            "pl": "Po prawej stronie znajdują się Uniwersytet Jagielloński i pomnik Mikołaja Kopernika - wielkiego uczonego, który tam studiował i wykładał.",
             "ru": "По правую руку - Ягеллонский университет и памятник Николаю Копернику - великому учёному, который в нём учился и преподавал.",
-            "en": "On the right are the Jagiellonian University and the monument to Nicolaus Copernicus, the great scholar who studied and taught there.",
-            "de": "Zu Ihrer Rechten befinden sich die Jagiellonen-Universität und das Denkmal für Nikolaus Kopernikus – den großen Gelehrten, der dort studierte und lehrte.",
-            "ua": "Праворуч розташовані Ягеллонський університет і пам’ятник Миколаю Копернику — великому вченому, який там навчався й викладав.",
-            "it": "Alla vostra destra si trovano l'Università Jagellonica e il monumento a Niccolò Copernico, il grande studioso che vi studiò e insegnò.",
-            "hr": "S desne strane nalaze se Jagelonsko sveučilište i spomenik Nikoli Koperniku, velikom znanstveniku koji je ondje studirao i predavao.",
-            "es": "A la derecha se encuentran la Universidad Jaguelónica y el monumento a Nicolás Copérnico, el gran científico que estudió y enseñó allí.",
-            "fr": "Sur la droite se trouvent l'université Jagellonne et le monument à Nicolas Copernic, le grand savant qui y a étudié et enseigné."
+            "en": "On your right are the Jagiellonian University and the monument to Nicolaus Copernicus, the great scholar who studied and taught there.",
+            "de": "Zu Ihrer Rechten befinden sich die Jagiellonen-Universität und das Denkmal für Nikolaus Kopernikus – den großen Wissenschaftler, der dort studierte und lehrte.",
+            "ua": "По праву руку — Ягеллонський університет і пам'ятник Миколаю Копернику — великому вченому, який там навчався і викладав.",
+            "it": "Alla vostra destra si trovano l’Università Jagellonica e il monumento a Niccolò Copernico, il grande scienziato che vi studiò e insegnò.",
+            "hr": "S vaše desne strane nalaze se Jagelonsko sveučilište i spomenik Nikoli Koperniku, velikom znanstveniku koji je ondje studirao i predavao.",
+            "es": "A su derecha se encuentran la Universidad Jaguelónica y el monumento a Nicolás Copérnico, el gran científico que estudió y enseñó allí.",
+            "fr": "Sur votre droite se trouvent l’université Jagellonne et le monument à Nicolas Copernic, le grand savant qui y a étudié et enseigné."
           },
           "debug_entity": false
         },
@@ -815,15 +815,15 @@
           "type": "turn",
           "radiusMeters": 15,
           "text": {
-            "pl": "",
+            "pl": "Idź prosto",
             "ru": "Двигайтесь прямо",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Go straight",
+            "de": "Gehen Sie geradeaus",
+            "ua": "Рухайтеся прямо",
+            "it": "Prosegui dritto",
+            "hr": "Idite ravno",
+            "es": "Siga recto",
+            "fr": "Continuez tout droit"
           },
           "debug_entity": false
         },
@@ -875,15 +875,15 @@
           "type": "turn",
           "radiusMeters": 22,
           "text": {
-            "pl": "",
+            "pl": "Wyjdź na rynek i szukaj rzeźby leżącej głowy w pobliżu wieży ratusza",
             "ru": "Выходите на площадь, и ищите скульптуру лежащей головы возле башни ратуши",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "Go out onto the square and look for the sculpture of a lying head near the town hall tower",
+            "de": "Gehen Sie auf den Platz und suchen Sie nach der Skulptur eines liegenden Kopfes in der Nähe des Rathausturms",
+            "ua": "Виходьте на площу і шукайте скульптуру лежачої голови біля вежі ратуші",
+            "it": "Raggiungete la piazza e cercate la scultura di una testa sdraiata vicino alla torre del municipio",
+            "hr": "Izađite na trg i potražite skulpturu ležeće glave blizu tornja gradske vijećnice",
+            "es": "Sal a la plaza y busca la escultura de una cabeza recostada cerca de la torre del ayuntamiento",
+            "fr": "Allez sur la place et cherchez la sculpture d'une tête allongée près de la tour de l'hôtel de ville"
           },
           "debug_entity": false
         },

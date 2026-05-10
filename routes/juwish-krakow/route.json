@@ -89,6 +89,26 @@
         },
         {
           "coordinates": [
+            50.044947740525096,
+            19.9568527275222
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.04512429031029,
             19.956016023092577
           ],

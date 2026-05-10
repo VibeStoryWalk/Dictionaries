@@ -129,6 +129,26 @@
         },
         {
           "coordinates": [
+            50.043221474503625,
+            19.94860283061941
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.043532730831075,
             19.949337244033817
           ],
@@ -288,10 +308,30 @@
         },
         {
           "coordinates": [
+            50.04661189755095,
+            19.946188546556183
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 22,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.04570664333149,
             19.943967836147504
           ],
-          "type": "turn",
+          "type": "advPlatform",
           "radiusMeters": 22,
           "text": {
             "pl": "",
@@ -331,8 +371,8 @@
             50.04572047759735,
             19.93933317549896
           ],
-          "type": "turn",
-          "radiusMeters": 13,
+          "type": "advPlatform",
+          "radiusMeters": 20,
           "text": {
             "pl": "",
             "ru": "",
@@ -352,7 +392,7 @@
             19.937825276929352
           ],
           "type": "turn",
-          "radiusMeters": 17,
+          "radiusMeters": 21,
           "text": {
             "pl": "",
             "ru": "",
@@ -371,8 +411,8 @@
             50.04801099710652,
             19.936516486096043
           ],
-          "type": "turn",
-          "radiusMeters": 15,
+          "type": "advPlatform",
+          "radiusMeters": 19,
           "text": {
             "pl": "",
             "ru": "",
@@ -465,7 +505,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 12
+          "targetVertexIndex": 13
         },
         {
           "coordinates": [
@@ -609,6 +649,26 @@
         },
         {
           "coordinates": [
+            50.05592988368289,
+            19.935464882129857
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 20,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.056468939429564,
             19.93507802484601
           ],
@@ -712,7 +772,7 @@
             50.05952227238314,
             19.933190345764164
           ],
-          "type": "turn",
+          "type": "advPlatform",
           "radiusMeters": 15,
           "text": {
             "pl": "",
@@ -786,6 +846,26 @@
             19.9328649452125
           ],
           "radiusMeters": 26
+        },
+        {
+          "coordinates": [
+            50.062104903830324,
+            19.93352289806406
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [

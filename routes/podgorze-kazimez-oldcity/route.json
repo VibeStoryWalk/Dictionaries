@@ -2,15 +2,15 @@
   "id": "podgorze-kazimez-oldcity",
   "cityId": "krakow",
   "title": {
-    "pl": "Dzenny spacer po Krakowie",
-    "ru": "Дневная прогулка по Кракову",
-    "en": "A Day Walk Through Kraków",
-    "de": "Tagesspaziergang durch Krakau",
-    "ua": "Денна прогулянка Краковом",
-    "it": "Passeggiata diurna a Cracovia",
-    "hr": "Dnevna šetnja Krakovom",
-    "es": "Paseo diurno por Cracovia",
-    "fr": "Promenade de jour à Cracovie"
+    "pl": "Wielki spacer po Krakowie",
+    "ru": "Большая прогулка по Кракову",
+    "en": "A Big Walk Through Kraków",
+    "de": "Großer Spaziergang durch Krakau",
+    "ua": "Велика прогулянка Краковом",
+    "it": "Grande passeggiata a Cracovia",
+    "hr": "Velika šetnja po Krakovu",
+    "es": "Gran paseo por Cracovia",
+    "fr": "Grande promenade à Cracovie"
   },
   "coverImage": "images/route-cover.jpg",
   "description": {

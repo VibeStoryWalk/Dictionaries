@@ -56,6 +56,9 @@
       "points_few": "{{count}} točke",
       "points_many": "{{count}} točaka",
       "points_other": "{{count}} točke"
+    },
+    "directions": {
+      "title": "Kako doći?"
     }
   },
   "walk": {

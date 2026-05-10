@@ -56,6 +56,9 @@
       "points_few": "{{count}} точки",
       "points_many": "{{count}} точек",
       "points_other": "{{count}} точки"
+    },
+    "directions": {
+      "title": "Как добраться?"
     }
   },
   "walk": {

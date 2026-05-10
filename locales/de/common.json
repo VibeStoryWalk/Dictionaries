@@ -54,6 +54,9 @@
     "metrics": {
       "points_one": "{{count}} Punkt",
       "points_other": "{{count}} Punkte"
+    },
+    "directions": {
+      "title": "Wie komme ich hin?"
     }
   },
   "walk": {

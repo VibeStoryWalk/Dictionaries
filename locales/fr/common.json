@@ -54,6 +54,9 @@
     "metrics": {
       "points_one": "{{count}} point",
       "points_other": "{{count}} points"
+    },
+    "directions": {
+      "title": "Comment y aller?"
     }
   },
   "walk": {

@@ -56,6 +56,9 @@
       "points_few": "{{count}} punkty",
       "points_many": "{{count}} punktów",
       "points_other": "{{count}} punktu"
+    },
+    "directions": {
+      "title": "Jak tam dotrzeć?"
     }
   },
   "walk": {

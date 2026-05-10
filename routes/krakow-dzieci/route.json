@@ -2,27 +2,27 @@
   "id": "krakow-dzieci",
   "cityId": "krakow",
   "title": {
-    "pl": "Kraków dla dzieci: od Rynku nad Wisłę i do Podgórza",
-    "ru": "Краков для детей: от Рынка к Висле и Подгужу",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "pl": "Kraków dla rodzin z dziećmi",
+    "ru": "Краков для семей с детьми",
+    "en": "Krakow for families with children",
+    "de": "Krakau für Familien mit Kindern",
+    "ua": "Краків для сімей з дітьми",
+    "it": "Cracovia per famiglie con bambini",
+    "hr": "Krakov za obitelji s djecom",
+    "es": "Cracovia para familias con niños",
+    "fr": "Cracovie pour les familles avec enfants"
   },
   "coverImage": "",
   "description": {
-    "pl": "Kompaktowy rodzinny spacer przez centrum i południowy brzeg Wisły: rynek, zielone Planty, Smok Wawelski, bulwary, most z figurami i park z urozmaiconą rzeźbą terenu.",
+    "pl": "Kompaktowy rodzinny spacer po centrum i południowym brzegu Wisły: Rynek Główny, zielony pierścień Planty, wawelski smok, bulwar nad rzeką, most z figurami i park z rzeźbą na aktywny przystanek.",
     "ru": "Компактная семейная прогулка по центру и южному берегу Вислы: главная площадь, зеленое кольцо Planty, Вавельский дракон, набережная, мост с фигурами и парк с рельефом для активной остановки.",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "en": "A compact family walk through the city center and the southern bank of the Vistula: the main square, the green Planty ring, the Wawel dragon, the riverside promenade, the bridge with figures, and a park with relief for an active break.",
+    "de": "Ein kompakter Familienrundgang durch das Zentrum und das südliche Ufer der Weichsel: Hauptmarkt, das grüne Planty-Ring, der Wawel-Drache, die Uferpromenade, die Brücke mit Figuren und ein Park mit Relief für einen aktiven Zwischenstopp.",
+    "ua": "Компактна сімейна прогулянка центром і південним берегом Вісли: головна площа, зелене кільце Planty, Вавельський дракон, набережна, міст із фігурами та парк з рельєфом для активної зупинки.",
+    "it": "Una passeggiata familiare compatta attraverso il centro e la sponda sud della Vistola: la piazza principale, l'anello verde di Planty, il drago del Wawel, il lungofiume, il ponte con figure e un parco con rilievi per una sosta attiva.",
+    "hr": "Kompaktna obiteljska šetnja kroz središte i južnu obalu Visle: glavni trg, zeleni prsten Planty, wawelski zmaj, obalna šetnica, most s figurama i park s reljefom za aktivnu stanku.",
+    "es": "Un paseo familiar compacto por el centro y la ribera sur del Vístula: la plaza principal, el anillo verde de Planty, el dragón de Wawel, el paseo ribereño, el puente con figuras y un parque con relieve para una parada activa.",
+    "fr": "Une promenade familiale compacte dans le centre-ville et sur la rive sud de la Vistule : la place principale, le cercle vert de Planty, le dragon du Wawel, les quais, le pont aux statues et un parc vallonné pour une pause active."
   },
   "intro": {
     "pl": "",
@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 125,
-  "distanceKm": 8.77,
+  "distanceKm": 3.64,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -140,8 +140,8 @@
         },
         {
           "coordinates": [
-            50.083333,
-            20
+            50.04227759926753,
+            19.94836305613003
           ]
         }
       ]

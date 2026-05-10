@@ -96,14 +96,14 @@
           "radiusMeters": 14,
           "text": {
             "pl": "Idź ulicą, aż dojdziesz do placu.",
-            "ru": "Двигайте по улице пока не дойдёте до площади",
-            "en": "Go along the street until you reach the square.",
+            "ru": "Двигайтесь по улице пока не дойдёте до площади",
+            "en": "Continue along the street until you reach the square.",
             "de": "Gehen Sie die Straße entlang, bis Sie den Platz erreichen.",
             "ua": "Рухайтеся вулицею, доки не дійдете до площі.",
-            "it": "Prosegui lungo la strada fino ad arrivare alla piazza.",
-            "hr": "Idite ulicom dok ne stignete do trga.",
-            "es": "Sigue por la calle hasta llegar a la plaza.",
-            "fr": "Continuez dans la rue jusqu'à la place."
+            "it": "Prosegua lungo la strada fino ad arrivare alla piazza.",
+            "hr": "Krećite se ulicom dok ne dođete do trga.",
+            "es": "Siga por la calle hasta llegar a la plaza.",
+            "fr": "Continuez tout droit dans la rue jusqu'à la place."
           },
           "debug_entity": false
         },

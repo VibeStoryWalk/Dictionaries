@@ -14,26 +14,26 @@
   },
   "coverImage": "",
   "description": {
-    "pl": "Spacerowy маршрут na Instagram po najbardziej fotogenicznych scenach Krakowa: od reprezentacyjnego Starego Miasta przez Wawel i bulwary wiślane do Kazimierza i Podgórza. Trasa łączy klasyczne symbole, most, street art i mocne kadry architektoniczne bez zbędnego cofania się.",
+    "pl": "Instagramowa trasa po najbardziej wyrazistych miejscach Krakowa: od reprezentacyjnego Starego Miasta do Podgórza przez bulwary wiślane.",
     "ru": "Инстаграмный маршрут по самым выразительным точкам Кракова: от парадного Старого города до Подгужа через набережную Вислы.",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "en": "An Instagram-worthy route through Krakow's most striking spots: from the grand Old Town to Podgórze via the Vistula riverbank.",
+    "de": "Instagram-taugliche Route zu den eindrucksvollsten Orten Krakaus: von der repräsentativen Altstadt über die Weichselpromenade bis nach Podgórze.",
+    "ua": "Інстаграмний маршрут найвиразнішими місцями Кракова: від парадного Старого міста до Подгуже через набережну Вісли.",
+    "it": "Un itinerario da Instagram attraverso i punti più suggestivi di Cracovia: dal prestigioso Centro storico a Podgórze, passando per il lungofiume della Vistola.",
+    "hr": "Instagramska ruta kroz najupadljivija mjesta Krakova: od raskošnog Starog grada do Podgórzea preko obale Visle.",
+    "es": "Una ruta muy instagrameable por los lugares más llamativos de Cracovia: desde el majestuoso casco antiguo hasta Podgórze, pasando por el paseo del Vístula.",
+    "fr": "Un itinéraire très instagrammable à travers les lieux les plus marquants de Cracovie: de la majestueuse Vieille Ville à Podgórze en passant par les quais de la Vistule."
   },
   "intro": {
-    "pl": "",
+    "pl": "Instagramowa trasa po najbardziej wyrazistych miejscach Krakowa: od reprezentacyjnego Starego Miasta do Podgórza przez bulwary wiślane.",
     "ru": "Инстаграмный маршрут по самым выразительным точкам Кракова: от парадного Старого города до Подгужа через набережную Вислы.",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "en": "An Instagram-worthy route through Krakow's most striking spots: from the grand Old Town to Podgórze via the Vistula riverbank.",
+    "de": "Instagram-taugliche Route zu den eindrucksvollsten Orten Krakaus: von der repräsentativen Altstadt über die Weichselpromenade bis nach Podgórze.",
+    "ua": "Інстаграмний маршрут найвиразнішими місцями Кракова: від парадного Старого міста до Подгуже через набережну Вісли.",
+    "it": "Un itinerario da Instagram attraverso i punti più suggestivi di Cracovia: dal prestigioso Centro storico a Podgórze, passando per il lungofiume della Vistola.",
+    "hr": "Instagramska ruta kroz najupadljivija mjesta Krakova: od raskošnog Starog grada do Podgórzea preko obale Visle.",
+    "es": "Una ruta muy instagrameable por los lugares más llamativos de Cracovia: desde el majestuoso casco antiguo hasta Podgórze, pasando por el paseo del Vístula.",
+    "fr": "Un itinéraire très instagrammable à travers les lieux les plus marquants de Cracovie: de la majestueuse Vieille Ville à Podgórze en passant par les quais de la Vistule."
   },
   "durationMinutes": 180,
   "distanceKm": 4.32,
@@ -45,15 +45,15 @@
   "zoom": 14,
   "unlockRadiusMeters": 50,
   "completionMessage": {
-    "pl": "",
+    "pl": "Przeszedłeś instagramową trasę po najbardziej wyrazistych miejscach Krakowa: od reprezentacyjnego Starego Miasta do Podgórza przez bulwary wiślane.",
     "ru": "Вы пошли инстаграмный маршрут по самым выразительным точкам Кракова: от парадного Старого города до Подгужа через набережную Вислы.",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "en": "You took the Instagram-worthy route through Krakow's most striking spots: from the grand Old Town to Podgórze via the Vistula riverbank.",
+    "de": "Du bist die Instagram-Route zu den eindrucksvollsten Orten Krakaus gegangen: von der repräsentativen Altstadt über die Weichselpromenade bis nach Podgórze.",
+    "ua": "Ви пройшли інстаграмний маршрут найвиразнішими місцями Кракова: від парадного Старого міста до Подгуже через набережну Вісли.",
+    "it": "Hai percorso l’itinerario da Instagram attraverso i punti più suggestivi di Cracovia: dal prestigioso Centro storico a Podgórze, passando per il lungofiume della Vistola.",
+    "hr": "Krenuli ste instagramskom rutom kroz najupadljivija mjesta Krakova: od raskošnog Starog grada do Podgórzea preko obale Visle.",
+    "es": "Has recorrido la ruta muy instagrameable por los lugares más llamativos de Cracovia: desde el majestuoso casco antiguo hasta Podgórze, pasando por el paseo del Vístula.",
+    "fr": "Vous avez emprunté l’itinéraire très instagrammable à travers les lieux les plus marquants de Cracovie: de la majestueuse Vieille Ville à Podgórze en passant par les quais de la Vistule."
   },
   "segments": [
     {

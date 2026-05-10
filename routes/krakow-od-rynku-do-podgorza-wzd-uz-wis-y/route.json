@@ -36,7 +36,7 @@
     "fr": ""
   },
   "durationMinutes": 180,
-  "distanceKm": 3.5,
+  "distanceKm": 3.35,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -94,30 +94,12 @@
     },
     {
       "fromPointId": "st-marys-basilica",
-      "toPointId": "point-37",
+      "toPointId": "cloth-hall",
       "path": [
         {
           "coordinates": [
             50.061639274681085,
             19.938751231785986
-          ]
-        },
-        {
-          "coordinates": [
-            50.0613,
-            19.9397
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "point-37",
-      "toPointId": "cloth-hall",
-      "path": [
-        {
-          "coordinates": [
-            50.0613,
-            19.9397
           ]
         },
         {
@@ -241,7 +223,6 @@
     "barbican",
     "florian-gate",
     "st-marys-basilica",
-    "point-37",
     "cloth-hall",
     "eros-bound",
     "st-peter-paul",

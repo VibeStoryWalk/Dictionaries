@@ -35,7 +35,7 @@
     "es": "Esta ruta está dedicada al patrimonio judío de Cracovia y recorre dos lugares clave de la memoria histórica. Primero verás Podgórze, la antigua zona del gueto, la plaza de los Héroes del Gueto y un fragmento conservado del muro. Después, la ruta te llevará a Kazimierz: al mural «Juda», a la casa de Marek Bosak, a la calle Szeroka, al gran mikve, a la sinagoga Remuh, a las sinagogas Isaak, Kupa y Tempel, así como al patio de «La lista de Schindler» y al Mercado Nuevo.",
     "fr": "Cet itinéraire est consacré au patrimoine juif de Cracovie et traverse deux lieux clés de la mémoire historique. Vous verrez d’abord Podgórze, l’ancien territoire du ghetto, la place des Héros du ghetto et un fragment conservé du mur. Puis l’itinéraire vous conduira à Kazimierz : vers la fresque « Juda », la maison de Marek Bosak, la rue Szeroka, la grande mikvé, la synagogue Remuh, les synagogues Isaak, Kupa et Tempel, ainsi que la cour de « La Liste de Schindler » et le Nouveau Marché."
   },
-  "durationMinutes": 140,
+  "durationMinutes": 120,
   "distanceKm": 2.65,
   "routeType": "walk",
   "mapCenter": [

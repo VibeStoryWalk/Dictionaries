@@ -36,7 +36,7 @@
     "fr": "Une longue promenade riche en découvertes dans les lieux de Cracovie qui intéressent avant tout les enfants, sans pour autant ennuyer leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la promenade, les enfants seront certainement fatigués et affamés, et les parents - satisfaits."
   },
   "durationMinutes": 125,
-  "distanceKm": 3.16,
+  "distanceKm": 3.72,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -64,13 +64,175 @@
           "coordinates": [
             50.04227759926753,
             19.94836305613003
-          ]
+          ],
+          "radiusMeters": 19
+        },
+        {
+          "coordinates": [
+            50.042606007152806,
+            19.9482214404594
+          ],
+          "type": "turn",
+          "radiusMeters": 12,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04276109513084,
+            19.94840910491821
+          ],
+          "type": "turn",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04309170818218,
+            19.948205365702197
+          ],
+          "type": "turn",
+          "radiusMeters": 19,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04355681964879,
+            19.949423049289116
+          ],
+          "type": "turn",
+          "radiusMeters": 19,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04432508177272,
+            19.948328710323153
+          ],
+          "type": "turn",
+          "radiusMeters": 14,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04462135835816,
+            19.948484301567078
+          ],
+          "type": "turn",
+          "radiusMeters": 16,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04500375848469,
+            19.948264348867305
+          ],
+          "type": "turn",
+          "radiusMeters": 13,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045771966427836,
+            19.948205351829532
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.046149841497375,
             19.94796104242147
-          ]
+          ],
+          "radiusMeters": 23
         }
       ]
     },
@@ -86,9 +248,231 @@
         },
         {
           "coordinates": [
+            50.047074133304754,
+            19.946976879291757
+          ],
+          "type": "turn",
+          "radiusMeters": 20,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04716024298729,
+            19.947572343565685
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04570664333149,
+            19.943967836147504
+          ],
+          "type": "turn",
+          "radiusMeters": 22,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04539989685402,
+            19.94146228992664
+          ],
+          "type": "turn",
+          "radiusMeters": 21,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04572047759735,
+            19.93933317549896
+          ],
+          "type": "turn",
+          "radiusMeters": 13,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04654701039746,
+            19.937825276929352
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04801099710652,
+            19.936516486096043
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04959221455196,
+            19.935266368605358
+          ],
+          "type": "turn",
+          "radiusMeters": 14,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05015422106462,
+            19.934885129612184
+          ],
+          "type": "turn",
+          "radiusMeters": 16,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05200440247648,
+            19.9340386515744
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.052664718688405,
+            19.933506823306857
+          ],
+          "type": "portal",
+          "radiusMeters": 16,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false,
+          "targetVertexIndex": 12
+        },
+        {
+          "coordinates": [
             50.05301522815679,
             19.933579866530845
-          ]
+          ],
+          "radiusMeters": 20
         }
       ]
     },

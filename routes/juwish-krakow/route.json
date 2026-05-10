@@ -1097,5 +1097,5 @@
     "schindler-list-passage",
     "plac-nowy"
   ],
-  "debug_entity": true
+  "debug_entity": false
 }

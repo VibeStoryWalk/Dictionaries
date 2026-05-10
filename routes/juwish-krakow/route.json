@@ -36,7 +36,7 @@
     "fr": "Cet itinéraire est consacré au patrimoine juif de Cracovie et traverse deux lieux clés de la mémoire historique. Vous verrez d’abord Podgórze, l’ancien territoire du ghetto, la place des Héros du ghetto et un fragment conservé du mur. Puis l’itinéraire vous conduira à Kazimierz : vers la fresque « Juda », la maison de Marek Bosak, la rue Szeroka, la grande mikvé, la synagogue Remuh, les synagogues Isaak, Kupa et Tempel, ainsi que la cour de « La Liste de Schindler » et le Nouveau Marché."
   },
   "durationMinutes": 140,
-  "distanceKm": 2.68,
+  "distanceKm": 2.69,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -375,7 +375,7 @@
           "radiusMeters": 11,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Идите до самого конца этой небольшой улицы",
             "en": "",
             "de": "",
             "ua": "",
@@ -456,7 +456,7 @@
           "radiusMeters": 14,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Держитесь правее",
             "en": "",
             "de": "",
             "ua": "",
@@ -496,7 +496,7 @@
           "radiusMeters": 11,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Идите в сторону площади и выходите на неё",
             "en": "",
             "de": "",
             "ua": "",
@@ -550,14 +550,14 @@
         },
         {
           "coordinates": [
-            50.05218936659806,
-            19.94837699239753
+            50.052137715622074,
+            19.948371648788456
           ],
           "type": "turn",
           "radiusMeters": 16,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Продолжайте движение по правой стороне площади до самого её конца",
             "en": "",
             "de": "",
             "ua": "",
@@ -610,6 +610,26 @@
         },
         {
           "coordinates": [
+            50.05285757826798,
+            19.948173169945573
+          ],
+          "type": "turn",
+          "radiusMeters": 13,
+          "text": {
+            "pl": "",
+            "ru": "Поверните направо",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.052729707337924,
             19.947725942598897
           ],
@@ -637,7 +657,7 @@
           "radiusMeters": 12,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Сверните направо",
             "en": "",
             "de": "",
             "ua": "",
@@ -657,7 +677,7 @@
           "radiusMeters": 11,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Держитесь левее",
             "en": "",
             "de": "",
             "ua": "",
@@ -677,7 +697,7 @@
           "radiusMeters": 14,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поверните направо и перейдите дорогу",
             "en": "",
             "de": "",
             "ua": "",
@@ -697,7 +717,7 @@
           "radiusMeters": 13,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Перейдите дорогу и возьмите чуть левее",
             "en": "",
             "de": "",
             "ua": "",
@@ -710,8 +730,8 @@
         },
         {
           "coordinates": [
-            50.05151426403878,
-            19.94632250584009
+            50.05150393205878,
+            19.946327803206994
           ],
           "type": "portal",
           "radiusMeters": 12,
@@ -734,7 +754,7 @@
             50.051671900539105,
             19.94666198988169
           ],
-          "radiusMeters": 9
+          "radiusMeters": 7
         }
       ]
     },
@@ -758,7 +778,7 @@
           "radiusMeters": 12,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Двигайтесь по улице Купа до самого её конца",
             "en": "",
             "de": "",
             "ua": "",
@@ -818,7 +838,7 @@
           "radiusMeters": 15,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поверните направо и перейдите дорогу",
             "en": "",
             "de": "",
             "ua": "",
@@ -879,7 +899,7 @@
           "radiusMeters": 11,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Продолжайте движение прямо",
             "en": "",
             "de": "",
             "ua": "",
@@ -899,7 +919,7 @@
           "radiusMeters": 15,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поверните налево",
             "en": "",
             "de": "",
             "ua": "",
@@ -939,7 +959,7 @@
           "radiusMeters": 13,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поверните налево, перейдите дорогу и заходите во дворик",
             "en": "",
             "de": "",
             "ua": "",
@@ -1000,7 +1020,7 @@
           "radiusMeters": 11,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поверните налево",
             "en": "",
             "de": "",
             "ua": "",
@@ -1020,7 +1040,7 @@
           "radiusMeters": 10,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поверните налево",
             "en": "",
             "de": "",
             "ua": "",

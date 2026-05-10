@@ -36,7 +36,7 @@
     "fr": "Une longue promenade riche en découvertes dans les lieux de Cracovie qui intéressent avant tout les enfants, sans pour autant ennuyer leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la promenade, les enfants seront certainement fatigués et affamés, et les parents - satisfaits."
   },
   "durationMinutes": 125,
-  "distanceKm": 3.95,
+  "distanceKm": 3.94,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -76,7 +76,7 @@
           "radiusMeters": 12,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Спускайтесь вниз по лестнице",
             "en": "",
             "de": "",
             "ua": "",
@@ -109,14 +109,14 @@
         },
         {
           "coordinates": [
-            50.04309170818218,
-            19.948205365702197
+            50.04306764572347,
+            19.948221445083618
           ],
           "type": "turn",
           "radiusMeters": 19,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Перейдите дорогу и поверните направо",
             "en": "",
             "de": "",
             "ua": "",
@@ -129,14 +129,14 @@
         },
         {
           "coordinates": [
-            50.04355681964879,
-            19.949423049289116
+            50.043532730831075,
+            19.949337244033817
           ],
           "type": "turn",
           "radiusMeters": 19,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поверните налево",
             "en": "",
             "de": "",
             "ua": "",
@@ -156,7 +156,7 @@
           "radiusMeters": 14,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Перейдите дорогу с трамвайными путями и поверните направо",
             "en": "",
             "de": "",
             "ua": "",
@@ -176,7 +176,7 @@
           "radiusMeters": 16,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Перейдите дорогу и поверните налево",
             "en": "",
             "de": "",
             "ua": "",
@@ -189,14 +189,14 @@
         },
         {
           "coordinates": [
-            50.04500375848469,
-            19.948264348867305
+            50.044979633460606,
+            19.948318004608158
           ],
           "type": "turn",
           "radiusMeters": 13,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Держитесь правее",
             "en": "",
             "de": "",
             "ua": "",
@@ -209,14 +209,14 @@
         },
         {
           "coordinates": [
-            50.045771966427836,
-            19.948205351829532
+            50.045692722753934,
+            19.948210716247562
           ],
           "type": "turn",
           "radiusMeters": 17,
           "text": {
             "pl": "",
-            "ru": "",
+            "ru": "Поднимитесь вверх по ступенькам, перейдите дорогу и проходите к мосту",
             "en": "",
             "de": "",
             "ua": "",

@@ -155,5 +155,5 @@
     "bernatka-bridge",
     "point-37"
   ],
-  "debug_entity": false
+  "debug_entity": true
 }

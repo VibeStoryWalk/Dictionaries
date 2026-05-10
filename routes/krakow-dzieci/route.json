@@ -1,0 +1,159 @@
+{
+  "id": "krakow-dzieci",
+  "cityId": "krakow",
+  "title": {
+    "pl": "Kraków dla dzieci: od Rynku nad Wisłę i do Podgórza",
+    "ru": "Краков для детей: от Рынка к Висле и Подгужу",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "coverImage": "",
+  "description": {
+    "pl": "Kompaktowy rodzinny spacer przez centrum i południowy brzeg Wisły: rynek, zielone Planty, Smok Wawelski, bulwary, most z figurami i park z urozmaiconą rzeźbą terenu.",
+    "ru": "Компактная семейная прогулка по центру и южному берегу Вислы: главная площадь, зеленое кольцо Planty, Вавельский дракон, набережная, мост с фигурами и парк с рельефом для активной остановки.",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "intro": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "durationMinutes": 125,
+  "distanceKm": 8.77,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06143,
+    19.93658
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "main-square",
+      "toPointId": "planty",
+      "path": [
+        {
+          "coordinates": [
+            50.06189418479692,
+            19.936809299835495
+          ]
+        },
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "planty",
+      "toPointId": "wawel-dragon",
+      "path": [
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        },
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-dragon",
+      "toPointId": "vistula-boulevard",
+      "path": [
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ]
+        },
+        {
+          "coordinates": [
+            50.049511601804014,
+            19.95233697789972
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "vistula-boulevard",
+      "toPointId": "bernatka-bridge",
+      "path": [
+        {
+          "coordinates": [
+            50.049511601804014,
+            19.95233697789972
+          ]
+        },
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bernatka-bridge",
+      "toPointId": "point-37",
+      "path": [
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        },
+        {
+          "coordinates": [
+            50.083333,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "main-square",
+    "planty",
+    "wawel-dragon",
+    "vistula-boulevard",
+    "bernatka-bridge",
+    "point-37"
+  ],
+  "debug_entity": false
+}

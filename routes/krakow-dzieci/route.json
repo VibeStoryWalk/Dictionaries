@@ -36,7 +36,7 @@
     "fr": "Une longue promenade riche en découvertes dans les lieux de Cracovie qui intéressent avant tout les enfants, sans pour autant ennuyer leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la promenade, les enfants seront certainement fatigués et affamés, et les parents - satisfaits."
   },
   "durationMinutes": 125,
-  "distanceKm": 3.64,
+  "distanceKm": 3.04,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -57,67 +57,13 @@
   },
   "segments": [
     {
-      "fromPointId": "main-square",
-      "toPointId": "planty",
-      "path": [
-        {
-          "coordinates": [
-            50.06189418479692,
-            19.936809299835495
-          ]
-        },
-        {
-          "coordinates": [
-            50.062364824535926,
-            19.9328649452125
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "planty",
-      "toPointId": "wawel-dragon",
-      "path": [
-        {
-          "coordinates": [
-            50.062364824535926,
-            19.9328649452125
-          ]
-        },
-        {
-          "coordinates": [
-            50.05301522815679,
-            19.933579866530845
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "wawel-dragon",
-      "toPointId": "vistula-boulevard",
-      "path": [
-        {
-          "coordinates": [
-            50.05301522815679,
-            19.933579866530845
-          ]
-        },
-        {
-          "coordinates": [
-            50.049511601804014,
-            19.95233697789972
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "vistula-boulevard",
+      "fromPointId": "point-37",
       "toPointId": "bernatka-bridge",
       "path": [
         {
           "coordinates": [
-            50.049511601804014,
-            19.95233697789972
+            50.04227759926753,
+            19.94836305613003
           ]
         },
         {
@@ -130,7 +76,7 @@
     },
     {
       "fromPointId": "bernatka-bridge",
-      "toPointId": "point-37",
+      "toPointId": "wawel-dragon",
       "path": [
         {
           "coordinates": [
@@ -140,20 +86,55 @@
         },
         {
           "coordinates": [
-            50.04227759926753,
-            19.94836305613003
+            50.05301522815679,
+            19.933579866530845
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-dragon",
+      "toPointId": "planty",
+      "path": [
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ]
+        },
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "planty",
+      "toPointId": "main-square",
+      "path": [
+        {
+          "coordinates": [
+            50.062364824535926,
+            19.9328649452125
+          ]
+        },
+        {
+          "coordinates": [
+            50.06189418479692,
+            19.936809299835495
           ]
         }
       ]
     }
   ],
   "pointIds": [
-    "main-square",
-    "planty",
-    "wawel-dragon",
-    "vistula-boulevard",
+    "point-37",
     "bernatka-bridge",
-    "point-37"
+    "wawel-dragon",
+    "planty",
+    "main-square"
   ],
   "debug_entity": true
 }

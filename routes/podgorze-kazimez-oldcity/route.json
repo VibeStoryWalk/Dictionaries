@@ -725,6 +725,26 @@
         },
         {
           "coordinates": [
+            50.05214114445762,
+            19.94754016399384
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.051865666725234,
             19.947583096679327
           ],
@@ -943,6 +963,26 @@
         },
         {
           "coordinates": [
+            50.05010544886,
+            19.944262472208134
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 21,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.04937518802268,
             19.94454145431519
           ],
@@ -1018,6 +1058,26 @@
             "hr": "Skrenite lijevo i idite do samog kraja ulice do vrata",
             "es": "Gire a la izquierda y siga hasta el final de la calle hasta la puerta",
             "fr": "Tournez à gauche et allez jusqu'au bout de la rue, jusqu'à la porte"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04899404474179,
+            19.941002609517145
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 23,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
@@ -1103,6 +1163,26 @@
         },
         {
           "coordinates": [
+            50.049021150048404,
+            19.93618551010131
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 22,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.04971256645987,
             19.93565811678434
           ],
@@ -1118,6 +1198,26 @@
             "hr": "Prijeđite preko ceste, a zatim nastavite uz gornju obalu.",
             "es": "Cruce la carretera y luego siga avanzando por el paseo superior junto al río.",
             "fr": "Traversez la route, puis continuez le long de la promenade supérieure."
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05078749281026,
+            19.934874740656007
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 25,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
@@ -1222,6 +1322,26 @@
             19.934068600139305
           ],
           "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.055210042660356,
+            19.934681630855376
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 24,
           "text": {
             "pl": "",
             "ru": "",
@@ -1407,6 +1527,26 @@
         },
         {
           "coordinates": [
+            50.05574488819308,
+            19.936817249017814
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 22,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.05654205902759,
             19.937533077842666
           ],
@@ -1520,6 +1660,26 @@
         },
         {
           "coordinates": [
+            50.05843149917019,
+            19.937900667242744
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 21,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.05905340494167,
             19.937803825670144
           ],
@@ -1543,6 +1703,26 @@
             19.936339238653442
           ],
           "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.059501366659255,
+            19.935679454226868
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 19,
           "text": {
             "pl": "",
             "ru": "",
@@ -1726,6 +1906,26 @@
         },
         {
           "coordinates": [
+            50.06193614918874,
+            19.933834066679296
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 13,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.062364824535926,
             19.9328649452125
           ]
@@ -1741,6 +1941,26 @@
             50.062364824535926,
             19.9328649452125
           ]
+        },
+        {
+          "coordinates": [
+            50.06325495393932,
+            19.933705209665398
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 31,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
@@ -1767,6 +1987,26 @@
             19.936330306834236
           ],
           "type": "turn",
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06552779573533,
+            19.93713857130675
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 24,
           "text": {
             "pl": "",
             "ru": "",
@@ -1834,6 +2074,26 @@
             50.06485560579773,
             19.941347539104083
           ]
+        },
+        {
+          "coordinates": [
+            50.0641229005446,
+            19.94078636169434
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 29,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [

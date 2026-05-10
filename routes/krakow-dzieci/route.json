@@ -36,7 +36,7 @@
     "fr": "Une longue promenade riche en découvertes dans les lieux de Cracovie qui intéressent avant tout les enfants, sans pour autant ennuyer leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la promenade, les enfants seront certainement fatigués et affamés, et les parents - satisfaits."
   },
   "durationMinutes": 125,
-  "distanceKm": 3.07,
+  "distanceKm": 3.16,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -145,6 +145,24 @@
           ]
         }
       ]
+    },
+    {
+      "fromPointId": "main-square",
+      "toPointId": "horses",
+      "path": [
+        {
+          "coordinates": [
+            50.06189418479692,
+            19.936809299835495
+          ]
+        },
+        {
+          "coordinates": [
+            50.06230751256079,
+            19.93797054911831
+          ]
+        }
+      ]
     }
   ],
   "pointIds": [
@@ -153,7 +171,8 @@
     "wawel-dragon",
     "planty",
     "eros-bound",
-    "main-square"
+    "main-square",
+    "horses"
   ],
   "debug_entity": true
 }

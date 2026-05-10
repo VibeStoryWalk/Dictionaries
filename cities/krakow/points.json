@@ -1344,5 +1344,49 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points_images/point-37.jpg",
     "debug_entity": false
+  },
+  {
+    "id": "horses",
+    "order": 35,
+    "title": {
+      "pl": "Przejażdżki dorożką",
+      "ru": "Катание на каретах",
+      "en": "Carriage rides",
+      "de": "Kutschfahrten",
+      "ua": "Катання на каретах",
+      "it": "Giri in carrozza",
+      "hr": "Vožnja kočijom",
+      "es": "Paseos en carruaje",
+      "fr": "Promenades en calèche"
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.06230751256079,
+      19.93797054911831
+    ],
+    "story": {
+      "pl": "Na krakowskim Rynku Głównym postój dorożek znajduje się między kościołem Mariackim a Sukiennicami. \n\nDopuszczone są wyłącznie wozy o długości do 420 cm i tylko z dwoma końmi. Jeśli temperatura w cieniu przekracza 28 °C, postój jest zamykany od 12:00 do 18:00; dzienna praca koni jest ograniczona do 12 godzin i odbywa się co drugi dzień.",
+      "ru": "На Главной рыночной площади Кракова стоянка конных экипажей находится между Мариацким костёлом и Суконными рядами. \n\nК использованию допущены кареты длиной до 420 см и только с двумя лошадьми. Если температура в тени превышает 28 °C, то стоянка закрывается с 12:00 до 18:00; ежедневная работа лошадей ограничена 12 часами и чередуется через день. ",
+      "en": "On Krakow’s Main Market Square, the horse-drawn carriage stand is located between St. Mary’s Church and the Cloth Hall. \n\nOnly carriages up to 420 cm long and only with two horses are allowed. If the temperature in the shade exceeds 28 °C, the stand is closed from 12:00 to 18:00; the horses’ daily working time is limited to 12 hours and alternates every other day.",
+      "de": "Auf dem Hauptmarkt von Krakau befindet sich der Standplatz für Pferdekutschen zwischen der Marienkirche und den Tuchhallen. \n\nZulässig sind nur Kutschen mit einer Länge von bis zu 420 cm und nur mit zwei Pferden. Wenn die Temperatur im Schatten 28 °C überschreitet, ist der Standplatz von 12:00 bis 18:00 Uhr geschlossen; die tägliche Arbeitszeit der Pferde ist auf 12 Stunden begrenzt und wechselt jeden zweiten Tag.",
+      "ua": "На Головній ринковій площі Кракова стоянка кінних екіпажів розташована між Маріацьким костелом і Суконними рядами. \n\nДо використання допущені карети завдовжки до 420 см і лише з двома кіньми. Якщо температура в тіні перевищує 28 °C, стоянку закривають з 12:00 до 18:00; щоденна робота коней обмежена 12 годинами і чергується через день.",
+      "it": "Nella Piazza del Mercato di Cracovia, la stazione delle carrozze trainate da cavalli si trova tra la Basilica di Santa Maria e il Mercato dei Tessuti. \n\nSono ammesse solo carrozze lunghe fino a 420 cm e con soltanto due cavalli. Se la temperatura all’ombra supera i 28 °C, la stazione è chiusa dalle 12:00 alle 18:00; il lavoro quotidiano dei cavalli è limitato a 12 ore e si alterna a giorni alterni.",
+      "hr": "Na Glavnom trgu u Krakovu stajalište konjskih zaprega nalazi se između crkve sv. Marije i Sukiennica. \n\nDozvoljene su samo kočije dužine do 420 cm i samo s dva konja. Ako temperatura u sjeni premaši 28 °C, stajalište je zatvoreno od 12:00 do 18:00; dnevni rad konja ograničen je na 12 sati i izmjenjuje se svaki drugi dan.",
+      "es": "En la Plaza del Mercado de Cracovia, la parada de carruajes tirados por caballos se encuentra entre la iglesia de Santa María y la Lonja de los Paños. \n\nSolo se permiten carruajes de hasta 420 cm de longitud y únicamente con dos caballos. Si la temperatura a la sombra supera los 28 °C, la parada cierra de 12:00 a 18:00; la jornada diaria de trabajo de los caballos está limitada a 12 horas y se alterna día por medio.",
+      "fr": "Sur la place du Marché principal de Cracovie, l’aire de stationnement des voitures à chevaux se trouve entre l’église Sainte-Marie et la Halle aux draps. \n\nSeules les voitures d’une longueur maximale de 420 cm et attelées à deux chevaux sont autorisées. Si la température à l’ombre dépasse 28 °C, l’aire est fermée de 12:00 à 18:00 ; la durée quotidienne de travail des chevaux est limitée à 12 heures et s’effectue en alternance un jour sur deux."
+    },
+    "dwellTimeMinutes": 5,
+    "image": "krakow/points_images/horses.jpg",
+    "debug_entity": false
   }
 ]

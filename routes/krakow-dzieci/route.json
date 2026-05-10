@@ -36,7 +36,7 @@
     "fr": "Une longue promenade riche en découvertes dans les lieux de Cracovie qui intéressent avant tout les enfants, sans pour autant ennuyer leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la promenade, les enfants seront certainement fatigués et affamés, et les parents - satisfaits."
   },
   "durationMinutes": 125,
-  "distanceKm": 3.72,
+  "distanceKm": 3.93,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -484,13 +484,275 @@
           "coordinates": [
             50.05301522815679,
             19.933579866530845
-          ]
+          ],
+          "radiusMeters": 21
+        },
+        {
+          "coordinates": [
+            50.05356020482894,
+            19.93291142608401
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05414243924873,
+            19.932991894666564
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05477950879123,
+            19.933335178114636
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05515495283166,
+            19.934638768689602
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05536844993566,
+            19.934815856911527
+          ],
+          "type": "turn",
+          "radiusMeters": 12,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05553031122397,
+            19.93574866681269
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05759682631569,
+            19.93431687586253
+          ],
+          "type": "turn",
+          "radiusMeters": 16,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05859217501793,
+            19.93365215364034
+          ],
+          "type": "turn",
+          "radiusMeters": 18,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0590536560087,
+            19.933662414550785
+          ],
+          "type": "turn",
+          "radiusMeters": 13,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05918450798562,
+            19.93331910335743
+          ],
+          "type": "turn",
+          "radiusMeters": 14,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06054830891778,
+            19.932712933368467
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06116819554705,
+            19.9325466179127
+          ],
+          "type": "info",
+          "radiusMeters": 11,
+          "text": {
+            "pl": "Po prawej stronie znajdują się Uniwersytet Jagielloński i pomnik Mikołaja Kopernika – wielkiego uczonego, który tam studiował i wykładał.",
+            "ru": "По правую руку - Ягеллонский университет и памятник Николаю Копернику - великому учёному, который в нём учился и преподавал.",
+            "en": "On the right are the Jagiellonian University and the monument to Nicolaus Copernicus, the great scholar who studied and taught there.",
+            "de": "Zu Ihrer Rechten befinden sich die Jagiellonen-Universität und das Denkmal für Nikolaus Kopernikus – den großen Gelehrten, der dort studierte und lehrte.",
+            "ua": "Праворуч розташовані Ягеллонський університет і пам’ятник Миколаю Копернику — великому вченому, який там навчався й викладав.",
+            "it": "Alla vostra destra si trovano l'Università Jagellonica e il monumento a Niccolò Copernico, il grande studioso che vi studiò e insegnò.",
+            "hr": "S desne strane nalaze se Jagelonsko sveučilište i spomenik Nikoli Koperniku, velikom znanstveniku koji je ondje studirao i predavao.",
+            "es": "A la derecha se encuentran la Universidad Jaguelónica y el monumento a Nicolás Copérnico, el gran científico que estudió y enseñó allí.",
+            "fr": "Sur la droite se trouvent l'université Jagellonne et le monument à Nicolas Copernic, le grand savant qui y a étudié et enseigné."
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06171576131408,
+            19.93243412004532
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.062364824535926,
             19.9328649452125
-          ]
+          ],
+          "radiusMeters": 22
         }
       ]
     },
@@ -502,13 +764,35 @@
           "coordinates": [
             50.062364824535926,
             19.9328649452125
-          ]
+          ],
+          "radiusMeters": 26
+        },
+        {
+          "coordinates": [
+            50.06140579447933,
+            19.9353039796464
+          ],
+          "type": "turn",
+          "radiusMeters": 22,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.06152899476507,
             19.936186378801466
-          ]
+          ],
+          "radiusMeters": 22
         }
       ]
     },

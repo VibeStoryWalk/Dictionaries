@@ -1,0 +1,831 @@
+{
+  "id": "",
+  "cityId": "krakow",
+  "title": {
+    "pl": "Instagramowy Kraków",
+    "ru": "Краков Инстаграммный",
+    "en": "Instagrammable Krakow",
+    "de": "Instagram-würdiges Krakau",
+    "ua": "Інстаграмний Краків",
+    "it": "Cracovia da Instagram",
+    "hr": "Instagramički Krakov",
+    "es": "Cracovia para Instagram",
+    "fr": "Cracovie photogénique"
+  },
+  "coverImage": "",
+  "description": {
+    "pl": "Spacerowy маршрут na Instagram po najbardziej fotogenicznych scenach Krakowa: od reprezentacyjnego Starego Miasta przez Wawel i bulwary wiślane do Kazimierza i Podgórza. Trasa łączy klasyczne symbole, most, street art i mocne kadry architektoniczne bez zbędnego cofania się.",
+    "ru": "Инстаграмный маршрут по самым выразительным точкам Кракова: от парадного Старого города до Подгужа через набережную Вислы.",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "intro": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "durationMinutes": 180,
+  "distanceKm": 4.34,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06143,
+    19.93658
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "barbican",
+      "toPointId": "florian-gate",
+      "path": [
+        {
+          "coordinates": [
+            50.065106309430035,
+            19.94146883107946
+          ],
+          "radiusMeters": 25
+        },
+        {
+          "coordinates": [
+            50.06485560579773,
+            19.941347539104083
+          ],
+          "radiusMeters": 17
+        }
+      ]
+    },
+    {
+      "fromPointId": "florian-gate",
+      "toPointId": "st-marys-basilica",
+      "path": [
+        {
+          "coordinates": [
+            50.06485560579773,
+            19.941347539104083
+          ]
+        },
+        {
+          "coordinates": [
+            50.061639274681085,
+            19.938751231785986
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "st-marys-basilica",
+      "toPointId": "cloth-hall",
+      "path": [
+        {
+          "coordinates": [
+            50.061639274681085,
+            19.938751231785986
+          ],
+          "radiusMeters": 27
+        },
+        {
+          "coordinates": [
+            50.062131543175376,
+            19.937710359534353
+          ],
+          "radiusMeters": 22
+        }
+      ]
+    },
+    {
+      "fromPointId": "cloth-hall",
+      "toPointId": "eros-bound",
+      "path": [
+        {
+          "coordinates": [
+            50.062131543175376,
+            19.937710359534353
+          ],
+          "radiusMeters": 20
+        },
+        {
+          "coordinates": [
+            50.06131624590039,
+            19.93705807497886
+          ],
+          "type": "turn",
+          "radiusMeters": 19,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06152899476507,
+            19.936186378801466
+          ],
+          "radiusMeters": 20
+        }
+      ]
+    },
+    {
+      "fromPointId": "eros-bound",
+      "toPointId": "st-peter-paul",
+      "path": [
+        {
+          "coordinates": [
+            50.06152899476507,
+            19.936186378801466
+          ],
+          "radiusMeters": 23
+        },
+        {
+          "coordinates": [
+            50.06116128876345,
+            19.936516224827834
+          ],
+          "type": "turn",
+          "radiusMeters": 18,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.06065846874297,
+            19.937535565986238
+          ],
+          "type": "turn",
+          "radiusMeters": 29,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.059342909523764,
+            19.93781448104217
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05823399029911,
+            19.937964677810672
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05779658663362,
+            19.938045134832674
+          ],
+          "type": "turn",
+          "radiusMeters": 14,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05711122332615,
+            19.938211424855268
+          ],
+          "type": "turn",
+          "radiusMeters": 19,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.056930693469404,
+            19.93862574317444
+          ],
+          "radiusMeters": 19
+        }
+      ]
+    },
+    {
+      "fromPointId": "st-peter-paul",
+      "toPointId": "wawel-hill",
+      "path": [
+        {
+          "coordinates": [
+            50.056930693469404,
+            19.93862574317444
+          ],
+          "radiusMeters": 29
+        },
+        {
+          "coordinates": [
+            50.056732316512566,
+            19.937664455369642
+          ],
+          "type": "turn",
+          "radiusMeters": 29,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.055554451613794,
+            19.93684886036359
+          ],
+          "type": "turn",
+          "radiusMeters": 29,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05492765418657,
+            19.934864081183182
+          ],
+          "type": "turn",
+          "radiusMeters": 32,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0542448399888,
+            19.935095479566122
+          ],
+          "radiusMeters": 49
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-hill",
+      "toPointId": "wawel-dragon",
+      "path": [
+        {
+          "coordinates": [
+            50.0542448399888,
+            19.935095479566122
+          ],
+          "radiusMeters": 21
+        },
+        {
+          "coordinates": [
+            50.05488588609487,
+            19.93482109878782
+          ],
+          "type": "turn",
+          "radiusMeters": 29,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05533405066885,
+            19.936441192338652
+          ],
+          "type": "turn",
+          "radiusMeters": 21,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.055440741339076,
+            19.935883281303003
+          ],
+          "type": "turn",
+          "radiusMeters": 18,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05495171807605,
+            19.933603322716557
+          ],
+          "type": "turn",
+          "radiusMeters": 18,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05431446176257,
+            19.933013294536007
+          ],
+          "type": "turn",
+          "radiusMeters": 16,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05384265304616,
+            19.932906033920695
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05325732659622,
+            19.933195592264674
+          ],
+          "type": "portal",
+          "radiusMeters": 14,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false,
+          "targetVertexIndex": 8
+        },
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ],
+          "radiusMeters": 23
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-dragon",
+      "toPointId": "bernatka-bridge",
+      "path": [
+        {
+          "coordinates": [
+            50.05301522815679,
+            19.933579866530845
+          ],
+          "radiusMeters": 32
+        },
+        {
+          "coordinates": [
+            50.05034548509004,
+            19.93533672337261
+          ],
+          "type": "turn",
+          "radiusMeters": 28,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04882067920634,
+            19.936365988753455
+          ],
+          "type": "turn",
+          "radiusMeters": 25,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04647550626611,
+            19.93821193120695
+          ],
+          "type": "turn",
+          "radiusMeters": 18,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045744265421774,
+            19.939564115990894
+          ],
+          "type": "turn",
+          "radiusMeters": 27,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045482777350806,
+            19.94248186923219
+          ],
+          "type": "turn",
+          "radiusMeters": 21,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.045989000387124,
+            19.944343007841816
+          ],
+          "type": "turn",
+          "radiusMeters": 22,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04677783640504,
+            19.946188298280823
+          ],
+          "type": "turn",
+          "radiusMeters": 20,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0471086743982,
+            19.94692324667197
+          ],
+          "type": "portal",
+          "radiusMeters": 21,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false,
+          "targetVertexIndex": 9
+        },
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bernatka-bridge",
+      "toPointId": "jst-Joseph-church",
+      "path": [
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ],
+          "radiusMeters": 35
+        },
+        {
+          "coordinates": [
+            50.045351639822854,
+            19.948157081315703
+          ],
+          "type": "turn",
+          "radiusMeters": 20,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04484868957059,
+            19.948564767837528
+          ],
+          "type": "turn",
+          "radiusMeters": 22,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04448358702722,
+            19.948468374784785
+          ],
+          "type": "turn",
+          "radiusMeters": 23,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04433885586675,
+            19.94909050854973
+          ],
+          "type": "turn",
+          "radiusMeters": 33,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04357666570158,
+            19.94966781300885
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "barbican",
+    "florian-gate",
+    "st-marys-basilica",
+    "cloth-hall",
+    "eros-bound",
+    "st-peter-paul",
+    "wawel-hill",
+    "wawel-dragon",
+    "bernatka-bridge",
+    "jst-Joseph-church"
+  ],
+  "debug_entity": true
+}

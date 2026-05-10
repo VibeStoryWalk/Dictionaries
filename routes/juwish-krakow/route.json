@@ -36,7 +36,7 @@
     "fr": "Cet itinéraire est consacré au patrimoine juif de Cracovie et traverse deux lieux clés de la mémoire historique. Vous verrez d’abord Podgórze, l’ancien territoire du ghetto, la place des Héros du ghetto et un fragment conservé du mur. Puis l’itinéraire vous conduira à Kazimierz : vers la fresque « Juda », la maison de Marek Bosak, la rue Szeroka, la grande mikvé, la synagogue Remuh, les synagogues Isaak, Kupa et Tempel, ainsi que la cour de « La Liste de Schindler » et le Nouveau Marché."
   },
   "durationMinutes": 140,
-  "distanceKm": 2.69,
+  "distanceKm": 2.65,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -69,8 +69,8 @@
         },
         {
           "coordinates": [
-            50.04486478967126,
-            19.957234086745036
+            50.044828053761705,
+            19.957319498062137
           ],
           "type": "turn",
           "radiusMeters": 12,
@@ -109,8 +109,8 @@
         },
         {
           "coordinates": [
-            50.04512429031029,
-            19.956016023092577
+            50.045113985023185,
+            19.956155359234877
           ],
           "type": "turn",
           "radiusMeters": 12,
@@ -129,8 +129,8 @@
         },
         {
           "coordinates": [
-            50.04542403790833,
-            19.95568334362672
+            50.04538959014882,
+            19.95569407477489
           ],
           "type": "turn",
           "radiusMeters": 10,
@@ -169,11 +169,11 @@
         },
         {
           "coordinates": [
-            50.04627493064202,
-            19.95493232279044
+            50.04625080626552,
+            19.954964509298616
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 16,
           "text": {
             "pl": "Przejdź przez ulicę i wyjdź na plac",
             "ru": "Перейдите дорогу и выходите на площадь",
@@ -204,15 +204,16 @@
           "coordinates": [
             50.046693702795736,
             19.954463332478973
-          ]
+          ],
+          "radiusMeters": 37
         },
         {
           "coordinates": [
-            50.04727735119852,
-            19.954599782051094
+            50.04715679966655,
+            19.95463193618977
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 17,
           "text": {
             "pl": "Idźcie wzdłuż drogi z torami tramwajowymi pod górę w stronę mostu",
             "ru": "Идите вдоль дороги с трамвайными путями вверх в сторону моста",
@@ -228,11 +229,11 @@
         },
         {
           "coordinates": [
-            50.048289861914284,
-            19.954245448383926
+            50.048224692918865,
+            19.95428858337842
           ],
           "type": "turn",
-          "radiusMeters": 15,
+          "radiusMeters": 18,
           "text": {
             "pl": "Wejdźcie na most i idźcie dalej po nim",
             "ru": "Выходите на мост продолжайте движение по нему",
@@ -268,8 +269,8 @@
         },
         {
           "coordinates": [
-            50.04978165516438,
-            19.952384251971615
+            50.0497024615735,
+            19.9525182861228
           ],
           "type": "turn",
           "radiusMeters": 16,
@@ -288,11 +289,11 @@
         },
         {
           "coordinates": [
-            50.05080122664467,
-            19.951300648778005
+            50.050746158342506,
+            19.951381052621546
           ],
           "type": "turn",
-          "radiusMeters": 16,
+          "radiusMeters": 20,
           "text": {
             "pl": "Przejdź przez ulicę i skręć w lewo",
             "ru": "Перейдите дорогу и поверните налево",
@@ -328,11 +329,11 @@
         },
         {
           "coordinates": [
-            50.050531199985116,
-            19.94968640837981
+            50.050567016793096,
+            19.9498093266931
           ],
           "type": "turn",
-          "radiusMeters": 14,
+          "radiusMeters": 18,
           "text": {
             "pl": "Przejdź prosto przez drogę i idź dalej",
             "ru": "Перейдите дорогу прямо и продолжайте движение",
@@ -351,7 +352,7 @@
             50.05024987409684,
             19.948160482550758
           ],
-          "radiusMeters": 16
+          "radiusMeters": 19
         }
       ]
     },
@@ -368,11 +369,11 @@
         },
         {
           "coordinates": [
-            50.050387905594725,
-            19.947819118355604
+            50.05035690596627,
+            19.947840569091394
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 16,
           "text": {
             "pl": "Idź aż do końca tej małej uliczki.",
             "ru": "Идите до самого конца этой небольшой улицы",
@@ -408,11 +409,11 @@
         },
         {
           "coordinates": [
-            50.05117534977052,
-            19.947465495385423
+            50.05112161178414,
+            19.947491872671016
           ],
           "type": "portal",
-          "radiusMeters": 9,
+          "radiusMeters": 15,
           "text": {
             "pl": "",
             "ru": "",
@@ -449,11 +450,11 @@
         },
         {
           "coordinates": [
-            50.051369576234535,
-            19.948151527304812
+            50.05134892550391,
+            19.948044440097593
           ],
           "type": "turn",
-          "radiusMeters": 14,
+          "radiusMeters": 17,
           "text": {
             "pl": "Trzymajcie się prawej strony",
             "ru": "Держитесь правее",
@@ -489,11 +490,11 @@
         },
         {
           "coordinates": [
-            50.05129382385683,
-            19.948414564132694
+            50.05126971234272,
+            19.94843601255637
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 14,
           "text": {
             "pl": "Idźcie w stronę placu i wyjdźcie na niego",
             "ru": "Идите в сторону площади и выходите на неё",
@@ -509,11 +510,11 @@
         },
         {
           "coordinates": [
-            50.05148672291923,
-            19.948296572369216
+            50.05152115744023,
+            19.948269720221667
           ],
           "type": "portal",
-          "radiusMeters": 11,
+          "radiusMeters": 14,
           "text": {
             "pl": "",
             "ru": "",
@@ -546,15 +547,15 @@
             50.05185102263469,
             19.948289094456683
           ],
-          "radiusMeters": 16
+          "radiusMeters": 11
         },
         {
           "coordinates": [
-            50.052137715622074,
-            19.948371648788456
+            50.05210327923223,
+            19.948382373000292
           ],
           "type": "turn",
-          "radiusMeters": 16,
+          "radiusMeters": 20,
           "text": {
             "pl": "Proszę iść prawą stroną placu aż do samego końca.",
             "ru": "Продолжайте движение по правой стороне площади до самого её конца",
@@ -593,7 +594,7 @@
             50.0532,
             19.9482
           ],
-          "radiusMeters": 19
+          "radiusMeters": 23
         }
       ]
     },
@@ -610,11 +611,11 @@
         },
         {
           "coordinates": [
-            50.05285757826798,
-            19.948173169945573
+            50.052888577758175,
+            19.948151716897673
           ],
           "type": "turn",
-          "radiusMeters": 13,
+          "radiusMeters": 17,
           "text": {
             "pl": "Skręć w prawo",
             "ru": "Поверните направо",
@@ -650,11 +651,11 @@
         },
         {
           "coordinates": [
-            50.05249592197772,
-            19.94785650512213
+            50.052516586985426,
+            19.947851302551676
           ],
           "type": "turn",
-          "radiusMeters": 12,
+          "radiusMeters": 14,
           "text": {
             "pl": "Skręć w prawo",
             "ru": "Сверните направо",
@@ -670,11 +671,11 @@
         },
         {
           "coordinates": [
-            50.05232714978352,
-            19.947556261872144
+            50.052354696329054,
+            19.947609878307162
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 13,
           "text": {
             "pl": "Trzymaj się lewej strony",
             "ru": "Держитесь левее",
@@ -690,51 +691,51 @@
         },
         {
           "coordinates": [
-            50.0518829303811,
-            19.947540062261098
+            50.05191724940522,
+            19.94755088820568
           ],
           "type": "turn",
           "radiusMeters": 14,
           "text": {
-            "pl": "Skręć w prawo i przejdź przez ulicę",
-            "ru": "Поверните направо и перейдите дорогу",
-            "en": "Turn right and cross the road",
-            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
-            "ua": "Поверніть праворуч і перейдіть дорогу",
-            "it": "Svolta a destra e attraversa la strada",
-            "hr": "Skrenite desno i prijeđite cestu",
-            "es": "Gire a la derecha y cruce la calle",
-            "fr": "Tournez à droite et traversez la rue"
+            "pl": "Skręć w prawo",
+            "ru": "Поверните направо",
+            "en": "Turn right",
+            "de": "Biegen Sie rechts ab",
+            "ua": "Поверніть праворуч",
+            "it": "Svolta a destra",
+            "hr": "Skrenite desno",
+            "es": "Gire a la derecha",
+            "fr": "Tournez à droite"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.0516520417771,
-            19.9469983508365
+            50.0516795842789,
+            19.94704125462018
           ],
           "type": "turn",
           "radiusMeters": 13,
           "text": {
-            "pl": "Przejdź przez drogę i trzymaj się lekko po lewej stronie.",
-            "ru": "Перейдите дорогу и возьмите чуть левее",
-            "en": "Cross the road and keep slightly to the left.",
-            "de": "Überqueren Sie die Straße und halten Sie sich leicht links.",
-            "ua": "Перейдіть дорогу і тримайтеся трохи лівіше.",
-            "it": "Attraversa la strada e tieniti leggermente a sinistra.",
-            "hr": "Pređite cestu i držite se malo ulijevo.",
-            "es": "Cruza la calle y mantente un poco a la izquierda.",
-            "fr": "Traversez la route et gardez légèrement à gauche."
+            "pl": "Przejdź przez ulicę, skręć w prawo i obejdź budynek jego lewą stroną",
+            "ru": "Перейдите дорогу, сверните вправо и обходите здание с его левой стороны",
+            "en": "Cross the street, turn right, and go around the building on its left side",
+            "de": "Überqueren Sie die Straße, biegen Sie rechts ab und gehen Sie um das Gebäude auf seiner linken Seite herum",
+            "ua": "Перейдіть дорогу, поверніть праворуч і обійдіть будівлю з її лівого боку",
+            "it": "Attraversate la strada, girate a destra e aggirate l'edificio sul suo lato sinistro",
+            "hr": "Prijeđite ulicu, skrenite desno i obiđite zgradu s njezine lijeve strane",
+            "es": "Cruce la calle, gire a la derecha y rodee el edificio por su lado izquierdo",
+            "fr": "Traversez la rue, tournez à droite et contournez le bâtiment par son côté gauche"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.05150393205878,
-            19.946327803206994
+            50.05153147169139,
+            19.946392150790178
           ],
           "type": "portal",
-          "radiusMeters": 12,
+          "radiusMeters": 16,
           "text": {
             "pl": "",
             "ru": "",
@@ -771,11 +772,11 @@
         },
         {
           "coordinates": [
-            50.05158667203095,
-            19.946247293006493
+            50.05160725323582,
+            19.94622589082498
           ],
           "type": "turn",
-          "radiusMeters": 12,
+          "radiusMeters": 17,
           "text": {
             "pl": "Idź ulicą Kupa aż do samego końca",
             "ru": "Двигайтесь по улице Купа до самого её конца",
@@ -791,8 +792,8 @@
         },
         {
           "coordinates": [
-            50.05182663389517,
-            19.946135015669185
+            50.0518896819294,
+            19.946091789622685
           ],
           "type": "advPlatform",
           "radiusMeters": 13,
@@ -831,11 +832,11 @@
         },
         {
           "coordinates": [
-            50.052227265728234,
-            19.94512619668939
+            50.05223070720812,
+            19.945163710621873
           ],
           "type": "turn",
-          "radiusMeters": 15,
+          "radiusMeters": 17,
           "text": {
             "pl": "Skręć w prawo i przejdź przez ulicę",
             "ru": "Поверните направо и перейдите дорогу",
@@ -851,11 +852,11 @@
         },
         {
           "coordinates": [
-            50.05265092187361,
-            19.944766741375552
+            50.05263715607314,
+            19.94477748408428
           ],
           "type": "portal",
-          "radiusMeters": 12,
+          "radiusMeters": 16,
           "text": {
             "pl": "",
             "ru": "",
@@ -892,11 +893,11 @@
         },
         {
           "coordinates": [
-            50.052626811041335,
-            19.94390865876531
+            50.05267501792315,
+            19.943988884576502
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 17,
           "text": {
             "pl": "Jedź prosto",
             "ru": "Продолжайте движение прямо",
@@ -912,8 +913,8 @@
         },
         {
           "coordinates": [
-            50.052168716220216,
-            19.943178903696175
+            50.052254782789646,
+            19.943312944783685
           ],
           "type": "turn",
           "radiusMeters": 15,
@@ -952,8 +953,8 @@
         },
         {
           "coordinates": [
-            50.051342043894536,
-            19.94362948706535
+            50.0513661376471,
+            19.94361877903829
           ],
           "type": "turn",
           "radiusMeters": 13,
@@ -972,8 +973,8 @@
         },
         {
           "coordinates": [
-            50.05117671067475,
-            19.94399428367615
+            50.051221459736006,
+            19.943967473146554
           ],
           "type": "portal",
           "radiusMeters": 11,
@@ -1013,31 +1014,31 @@
         },
         {
           "coordinates": [
-            50.050608351415114,
-            19.944171300222692
+            50.050680678055286,
+            19.944160582947184
           ],
           "type": "turn",
-          "radiusMeters": 11,
+          "radiusMeters": 13,
           "text": {
-            "pl": "Skręć w lewo",
-            "ru": "Поверните налево",
-            "en": "Turn left",
-            "de": "Biegen Sie links ab",
-            "ua": "Поверніть ліворуч",
-            "it": "Svolta a sinistra",
-            "hr": "Skrenite lijevo",
-            "es": "Gire a la izquierda",
-            "fr": "Tournez à gauche"
+            "pl": "Wyjdźcie z podwórka i skręćcie w lewo",
+            "ru": "Выходите из дворика и поверните налево",
+            "en": "Exit the courtyard and turn left",
+            "de": "Verlassen Sie den Innenhof und biegen Sie links ab",
+            "ua": "Вийдіть із дворика та поверніть ліворуч",
+            "it": "Uscite dal cortile e girate a sinistra",
+            "hr": "Izađite iz dvorišta i skrenite lijevo",
+            "es": "Salga del patio y gire a la izquierda",
+            "fr": "Sortez de la cour et tournez à gauche"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.050749622085426,
-            19.944906028963576
+            50.05073580699455,
+            19.944868699999777
           ],
           "type": "turn",
-          "radiusMeters": 10,
+          "radiusMeters": 14,
           "text": {
             "pl": "Skręć w lewo",
             "ru": "Поверните налево",

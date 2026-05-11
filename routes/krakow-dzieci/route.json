@@ -269,26 +269,6 @@
         },
         {
           "coordinates": [
-            50.04659064796463,
-            19.947444063146477
-          ],
-          "type": "rateApp",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.047022464171164,
             19.94698226220663
           ],
@@ -526,7 +506,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 14
+          "targetVertexIndex": 13
         },
         {
           "coordinates": [

@@ -1858,15 +1858,15 @@
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Skręć w lewo",
+            "ru": "Поверните налево",
+            "en": "Turn left",
+            "de": "Biegen Sie links ab",
+            "ua": "Поверніть ліворуч",
+            "it": "Svoltate a sinistra",
+            "hr": "Skrenite lijevo",
+            "es": "Gire a la izquierda",
+            "fr": "Tournez à gauche"
           },
           "debug_entity": false
         },

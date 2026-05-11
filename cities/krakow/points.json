@@ -802,14 +802,14 @@
     "order": 29,
     "title": {
       "pl": "Kościół św. Józefa",
-      "ru": "Церковь Святого Иосифа",
-      "en": "Church of Saint Joseph",
-      "de": "Kirche des Heiligen Josef",
+      "ru": "Костёл Святого Иосифа",
+      "en": "St. Joseph's Church",
+      "de": "Kirche des Heiligen Josephs",
       "es": "Iglesia de San José",
       "fr": "Église Saint-Joseph",
       "hr": "Crkva svetog Josipa",
       "it": "Chiesa di San Giuseppe",
-      "ua": "Церква Святого Йосифа"
+      "ua": "Костел Святого Йосифа"
     },
     "approachText": {
       "pl": "",

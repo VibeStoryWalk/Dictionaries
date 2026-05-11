@@ -710,11 +710,11 @@
         },
         {
           "coordinates": [
-            50.05034548509004,
-            19.93533672337261
+            50.050305246275286,
+            19.935100134073377
           ],
-          "type": "turn",
-          "radiusMeters": 28,
+          "type": "rateApp",
+          "radiusMeters": 33,
           "text": {
             "pl": "",
             "ru": "",
@@ -730,11 +730,11 @@
         },
         {
           "coordinates": [
-            50.04882067920634,
-            19.936365988753455
+            50.04882404263999,
+            19.936076527518033
           ],
           "type": "turn",
-          "radiusMeters": 25,
+          "radiusMeters": 36,
           "text": {
             "pl": "",
             "ru": "",
@@ -750,7 +750,7 @@
         },
         {
           "coordinates": [
-            50.04805930316615,
+            50.04797667972054,
             19.936838150024418
           ],
           "type": "advPlatform",
@@ -770,11 +770,11 @@
         },
         {
           "coordinates": [
-            50.04647550626611,
-            19.93821193120695
+            50.04646783658238,
+            19.938152448626486
           ],
           "type": "turn",
-          "radiusMeters": 18,
+          "radiusMeters": 27,
           "text": {
             "pl": "",
             "ru": "",
@@ -850,28 +850,28 @@
         },
         {
           "coordinates": [
-            50.045989000387124,
-            19.944343007841816
+            50.04594078087993,
+            19.944342970848087
           ],
           "type": "turn",
           "radiusMeters": 22,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Jeśli idziesz dolnym nabrzeżem, wejdź na górne po lewej stronie.",
+            "ru": "Если вы двигаетесь по нижней набережной, поднимайтесь на верхню с левой стороны",
+            "en": "If you are moving along the lower embankment, go up to the upper one on the left side.",
+            "de": "Wenn Sie auf der unteren Uferpromenade unterwegs sind, gehen Sie auf der linken Seite zur oberen hinauf.",
+            "ua": "Якщо ви рухаєтеся нижньою набережною, піднімайтеся на верхню з лівого боку.",
+            "it": "Se state percorrendo il lungofiume inferiore, salite su quello superiore dal lato sinistro.",
+            "hr": "Ako idete uz donju obalu, popnite se na gornju s lijeve strane.",
+            "es": "Si vas por el paseo inferior, sube al superior por el lado izquierdo.",
+            "fr": "Si vous suivez la promenade inférieure, montez vers la promenade supérieure par la gauche."
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.046274146613435,
-            19.944969129768
+            50.04631967097856,
+            19.94521199732047
           ],
           "type": "advPlatform",
           "radiusMeters": 24,

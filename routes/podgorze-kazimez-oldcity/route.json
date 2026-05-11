@@ -2104,15 +2104,15 @@
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Po wyjściu z budynku skręć w prawo",
+            "ru": "При выходе из здания, поверните направо",
+            "en": "When exiting the building, turn right",
+            "de": "Beim Verlassen des Gebäudes biegen Sie rechts ab",
+            "ua": "Виходячи з будівлі, поверніть праворуч",
+            "it": "All'uscita dell'edificio, girate a destra",
+            "hr": "Pri izlasku iz zgrade skrenite desno",
+            "es": "Al salir del edificio, gire a la derecha",
+            "fr": "En sortant du bâtiment, tournez à droite"
           },
           "debug_entity": false
         },

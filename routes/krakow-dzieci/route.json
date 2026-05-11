@@ -264,7 +264,28 @@
           "coordinates": [
             50.046149841497375,
             19.94796104242147
-          ]
+          ],
+          "radiusMeters": 17
+        },
+        {
+          "coordinates": [
+            50.04659064796463,
+            19.947444063146477
+          ],
+          "type": "rateApp",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
@@ -505,7 +526,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 13
+          "targetVertexIndex": 14
         },
         {
           "coordinates": [
@@ -532,7 +553,7 @@
             50.05356020482894,
             19.93291142608401
           ],
-          "type": "turn",
+          "type": "rateApp",
           "radiusMeters": 15,
           "text": {
             "pl": "",

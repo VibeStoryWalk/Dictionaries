@@ -487,26 +487,6 @@
         },
         {
           "coordinates": [
-            50.04863121707443,
-            19.946880298958227
-          ],
-          "type": "advPlatform",
-          "radiusMeters": 16,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.04962019882379,
             19.946248723648896
           ],
@@ -522,6 +502,26 @@
             "hr": "Skrenite desno i prijeđite cestu",
             "es": "Gire a la derecha y cruce la calle",
             "fr": "Tournez à droite et traversez la rue"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04980922828263,
+            19.946740921198014
+          ],
+          "type": "advPlatform",
+          "radiusMeters": 18,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },

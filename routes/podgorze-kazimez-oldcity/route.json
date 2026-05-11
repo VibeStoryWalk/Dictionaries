@@ -1280,58 +1280,39 @@
         },
         {
           "coordinates": [
-            50.054374260615525,
-            19.933081345432722
+            50.05418374420488,
+            19.93299726370882
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Trzymaj się prawej strony",
+            "ru": "Держитесь правее",
+            "en": "Keep to the right",
+            "de": "Halten Sie sich rechts",
+            "ua": "Тримайтеся праворуч",
+            "it": "Tenetevi a destra",
+            "hr": "Držite se desno",
+            "es": "Manténgase a la derecha",
+            "fr": "Restez à droite"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.054846092167814,
-            19.933408582814913
+            50.05480708535427,
+            19.933410286903385
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05505265787419,
-            19.934068600139305
-          ],
-          "type": "turn",
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Trzymaj się prawej strony",
+            "ru": "Держитесь правее",
+            "en": "Keep to the right",
+            "de": "Halten Sie sich rechts",
+            "ua": "Тримайтеся праворуч",
+            "it": "Tenetevi a destra",
+            "hr": "Držite se desno",
+            "es": "Manténgase a la derecha",
+            "fr": "Restez à droite"
           },
           "debug_entity": false
         },
@@ -1381,22 +1362,22 @@
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Skręć w prawo na drogę pod górę do zamku",
+            "ru": "Заворачивайте вправо на дорогу вверх к замку",
+            "en": "Turn right onto the uphill road to the castle",
+            "de": "Biegen Sie rechts auf die Straße bergauf zum Schloss ab",
+            "ua": "Поверніть праворуч на дорогу вгору до замку",
+            "it": "Svoltate a destra sulla strada in salita verso il castello",
+            "hr": "Skrenite desno na cestu uzbrdo prema dvorcu",
+            "es": "Gire a la derecha hacia la carretera que sube al castillo",
+            "fr": "Tournez à droite sur la route en montée vers le château"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.05495970341634,
-            19.93494325724401
+            50.05495170819752,
+            19.93482112884522
           ],
           "type": "turn",
           "text": {
@@ -1414,10 +1395,11 @@
         },
         {
           "coordinates": [
-            50.05476346563628,
-            19.93482520536486
+            50.0546004207002,
+            19.934869408607483
           ],
-          "type": "turn",
+          "type": "portal",
+          "radiusMeters": 13,
           "text": {
             "pl": "",
             "ru": "",
@@ -1429,26 +1411,8 @@
             "es": "",
             "fr": ""
           },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.054477377153056,
-            19.934979447753882
-          ],
-          "type": "turn",
-          "text": {
-            "pl": "",
-            "ru": "Вы подходите к площади Вавельского замка. Тут можно походить, погулять, осмотреться по сторонам, так как с территории замка открываются красивые виды на город.",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
+          "debug_entity": false,
+          "targetVertexIndex": 9
         },
         {
           "coordinates": [

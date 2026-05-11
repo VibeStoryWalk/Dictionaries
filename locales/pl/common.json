@@ -168,7 +168,8 @@
       "supportedLanguages": "Obsługiwane języki: {{count}}"
     },
     "actions": {
-      "triggerAd": "Uruchom reklamę"
+      "triggerAd": "Uruchom reklamę",
+      "openLanguageSelector": "Otwórz wybór języka"
     }
   },
   "ads": {

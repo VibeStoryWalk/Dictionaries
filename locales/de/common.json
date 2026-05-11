@@ -166,7 +166,8 @@
       "supportedLanguages": "Unterstützte Sprachen: {{count}}"
     },
     "actions": {
-      "triggerAd": "Werbung auslösen"
+      "triggerAd": "Werbung auslösen",
+      "openLanguageSelector": "Sprachauswahl öffnen"
     }
   },
   "ads": {

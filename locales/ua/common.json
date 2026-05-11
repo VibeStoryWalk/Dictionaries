@@ -168,7 +168,8 @@
       "supportedLanguages": "Підтримувані мови: {{count}}"
     },
     "actions": {
-      "triggerAd": "Запустити рекламу"
+      "triggerAd": "Запустити рекламу",
+      "openLanguageSelector": "Відкрити вибір мови"
     }
   },
   "ads": {

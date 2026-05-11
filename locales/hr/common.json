@@ -168,7 +168,8 @@
       "supportedLanguages": "Podržani jezici: {{count}}"
     },
     "actions": {
-      "triggerAd": "Pokreni oglas"
+      "triggerAd": "Pokreni oglas",
+      "openLanguageSelector": "Otvori odabir jezika"
     }
   },
   "ads": {

@@ -380,44 +380,6 @@
     }
   },
   {
-    "id": "grodzka-street",
-    "order": 11,
-    "title": {
-      "ru": "Улица Гродзька",
-      "en": "Grodzka Street",
-      "pl": "Ulica Grodzka",
-      "de": "Grodzka-Straße",
-      "es": "Calle Grodzka",
-      "fr": "Rue Grodzka",
-      "hr": "Ulica Grodzka",
-      "it": "Via Grodzka",
-      "ua": "Вулиця Гродзька"
-    },
-    "coordinates": [
-      50.05715203925858,
-      19.938142623647376
-    ],
-    "story": {
-      "ru": "Grodzka — одна из главных исторических осей Кракова. По сути, это улица-переход: она связывает Вавель с Рыночной площадью и давно служит маршрутом процессий, визитов и повседневных перемещений. Здесь город чувствуется не как набор объектов, а как поток. С одной стороны, улица очень туристическая, с другой — именно она помогает понять, каким образом Краков внутренне собран. На таких улицах история живёт не в отдельной точке, а в движении между точками.",
-      "en": "",
-      "pl": "Grodzka to jedna z głównych historycznych osi Krakowa. W istocie jest to ulica-przejście: łączy Wawel z Rynkiem Głównym i od dawna służy jako trasa procesji, wizyt i codziennych przejść. Tutaj miasto czuje się nie jako zbiór obiektów, lecz jako strumień. Z jednej strony ulica jest bardzo turystyczna, z drugiej właśnie ona pomaga zrozumieć, w jaki sposób Kraków jest wewnętrznie zbudowany. Na takich ulicach historia żyje nie w jednym punkcie, ale w ruchu między punktami.",
-      "de": "Grodzka ist eine der wichtigsten historischen Achsen Krakaus. Im Grunde ist sie eine Übergangsstraße: Sie verbindet den Wawel mit dem Marktplatz und dient seit Langem als Route für Prozessionen, Besuche und alltägliche Wege. Hier erlebt man die Stadt nicht als Ansammlung von Objekten, sondern als einen Fluss. Einerseits ist die Straße sehr touristisch, andererseits hilft gerade sie zu verstehen, wie Krakau innerlich zusammengefügt ist. Auf solchen Straßen lebt die Geschichte nicht an einem einzelnen Punkt, sondern in der Bewegung zwischen den Punkten.",
-      "es": "Grodzka es uno de los principales ejes históricos de Cracovia. En esencia, es una calle de paso: conecta Wawel con la Plaza del Mercado y desde hace mucho sirve de ruta para procesiones, visitas y desplazamientos cotidianos. Aquí la ciudad se siente no como un conjunto de objetos, sino como un flujo. Por un lado, la calle es muy turística; por otro, precisamente ayuda a comprender cómo Cracovia está unida por dentro. En calles así, la historia no vive en un punto aislado, sino en el movimiento entre puntos.",
-      "fr": "Grodzka est l’un des principaux axes historiques de Cracovie. En substance, c’est une rue de passage : elle relie le Wawel à la place du Marché et sert depuis longtemps d’itinéraire pour les processions, les visites et les déplacements quotidiens. Ici, la ville se ressent non comme un ensemble d’objets, mais comme un flux. D’un côté, la rue est très touristique ; de l’autre, c’est précisément elle qui aide à comprendre comment Cracovie est intérieurement assemblée. Dans des rues comme celle-ci, l’histoire ne vit pas en un seul point, mais dans le mouvement entre les points.",
-      "hr": "Grodzka je jedna od glavnih povijesnih osi Krakova. U biti, to je prolazna ulica: povezuje Wawel s Glavnim trgom i već dugo služi kao ruta za procesije, posjete i svakodnevna kretanja. Ovdje se grad ne osjeća kao skup objekata, nego kao tok. S jedne je strane ulica vrlo turistička, a s druge upravo ona pomaže razumjeti kako je Krakov iznutra sastavljen. Na takvim ulicama povijest ne živi na jednoj točki, nego u kretanju između točaka.",
-      "it": "Grodzka è uno dei principali assi storici di Cracovia. In sostanza, è una via di passaggio: collega il Wawel con la Piazza del Mercato e da tempo serve come percorso per processioni, visite e spostamenti quotidiani. Qui la città si percepisce non come un insieme di oggetti, ma come un flusso. Da un lato la via è molto turistica; dall’altro è proprio lei ad aiutare a capire in che modo Cracovia sia organizzata dall’interno. In strade come questa, la storia non vive in un punto separato, ma nel movimento tra i punti.",
-      "ua": "Grodzka — одна з головних історичних осей Кракова. По суті, це вулиця-перехід: вона з'єднує Вавель із Ринковою площею і давно слугує маршрутом процесій, візитів та повсякденних переміщень. Тут місто відчувається не як набір об'єктів, а як потік. З одного боку, вулиця дуже туристична, з іншого — саме вона допомагає зрозуміти, яким чином Краків внутрішньо зібраний. На таких вулицях історія живе не в окремій точці, а в русі між точками."
-    },
-    "dwellTimeMinutes": 7,
-    "image": "krakow/points_images/grodzka-street.jpg",
-    "debug_entity": false,
-    "approachText": {
-      "ru": "",
-      "en": "",
-      "pl": ""
-    }
-  },
-  {
     "id": "jagiellonian-university",
     "order": 12,
     "title": {
@@ -600,44 +562,6 @@
     },
     "dwellTimeMinutes": 6,
     "image": "krakow/points_images/florian-gate.jpg",
-    "debug_entity": false,
-    "approachText": {
-      "ru": "",
-      "en": "",
-      "pl": ""
-    }
-  },
-  {
-    "id": "florianska-street",
-    "order": 17,
-    "title": {
-      "ru": "Улица Флорианская",
-      "en": "Floriańska Street",
-      "pl": "Ulica Floriańska",
-      "de": "Floriańska-Straße",
-      "es": "calle Floriańska",
-      "fr": "rue Floriańska",
-      "hr": "Ulica Floriańska",
-      "it": "via Floriańska",
-      "ua": "вулиця Флоріанська"
-    },
-    "coordinates": [
-      50.0636331433902,
-      19.940430231510796
-    ],
-    "story": {
-      "ru": "Флорианская соединяет Флорианские ворота с главным рынком и потому одновременно принадлежит и торжественному, и повседневному Кракову. По ней шли официальные въезды, но здесь же веками кипела городская жизнь с ремеслом, торговлей и плотным движением людей. Это хороший пример того, как в исторических городах парадность и практичность не мешают друг другу, а сосуществуют. Улица напоминает: большое городское прошлое держится не только на символах, но и на повседневном использовании пространства.",
-      "en": "",
-      "pl": "Ulica Floriańska łączy Bramę Floriańską z Rynkiem Głównym i dlatego należy zarazem do uroczystego i codziennego Krakowa. Tędy odbywały się oficjalne wjazdy, ale przez wieki tętniło tu także miejskie życie z rzemiosłem, handlem i gęstym ruchem ludzi. To dobry przykład tego, jak w historycznych miastach okazałość i praktyczność nie przeszkadzają sobie nawzajem, lecz współistnieją. Ulica przypomina, że wielka miejska przeszłość opiera się nie tylko na symbolach, ale także na codziennym użytkowaniu przestrzeni.",
-      "de": "Die Floriańska-Straße verbindet das Florianstor mit dem Hauptmarkt und gehört damit zugleich zum festlichen und zum alltäglichen Krakau. Hier zogen einst offizielle Einzüge entlang, doch zugleich pulsierte über Jahrhunderte das städtische Leben mit Handwerk, Handel und dichtem Menschenverkehr. Sie ist ein gutes Beispiel dafür, wie sich in historischen Städten Pracht und Zweckmäßigkeit nicht im Weg stehen, sondern nebeneinander bestehen. Die Straße erinnert daran, dass die große Vergangenheit einer Stadt nicht nur auf Symbolen beruht, sondern auch auf der alltäglichen Nutzung des Raums.",
-      "es": "La calle Floriańska conecta la Puerta de San Florián con la plaza del mercado principal y por eso pertenece a la vez al Cracovia ceremonial y al cotidiano. Por ella pasaban los desfiles oficiales, pero durante siglos aquí también bulló la vida urbana con oficios, comercio y un intenso tránsito de personas. Es un buen ejemplo de cómo, en las ciudades históricas, la solemnidad y la funcionalidad no se estorban, sino que conviven. La calle recuerda que el gran pasado de una ciudad no se sostiene solo en los símbolos, sino también en el uso cotidiano del espacio.",
-      "fr": "La rue Floriańska relie la porte Saint-Florian à la place du Grand Marché et appartient ainsi à la fois au Cracovie cérémoniel et au Cracovie quotidien. Les cortèges officiels y passaient autrefois, mais pendant des siècles la vie urbaine y a aussi foisonné, entre artisanat, commerce et dense circulation de passants. C’est un bon exemple de la façon dont, dans les villes historiques, le caractère solennel et l’aspect pratique ne se gênent pas, mais coexistent. La rue rappelle que le grand passé d’une ville repose non seulement sur des symboles, mais aussi sur l’usage quotidien de l’espace.",
-      "hr": "Ulica Floriańska povezuje Floriańska vrata s glavnim trgom i zato istodobno pripada i svečanom i svakodnevnom Krakovu. Njome su prolazili službeni ulasci, ali je ovdje stoljećima bujao i gradski život s obrtom, trgovinom i gustim prometom ljudi. To je dobar primjer kako se u povijesnim gradovima svečanost i praktičnost ne isključuju, nego žive zajedno. Ulica podsjeća da se veliko gradsko prošlo vrijeme ne temelji samo na simbolima, nego i na svakodnevnoj uporabi prostora.",
-      "it": "La via Floriańska collega la Porta di San Floriano al Mercato Principale e perciò appartiene sia alla Cracovia cerimoniale sia a quella quotidiana. Qui passavano gli ingressi ufficiali, ma per secoli è pulsata anche la vita cittadina, con artigianato, commercio e un fitto movimento di persone. È un buon esempio di come, nelle città storiche, solennità e praticità non si ostacolino, ma convivano. La via ricorda che il grande passato di una città si regge non solo sui simboli, ma anche sull’uso quotidiano dello spazio.",
-      "ua": "Флоріанська з'єднує Флоріанські ворота з Головним ринком і тому належить водночас і до урочистого, і до повсякденного Кракова. Нею проходили офіційні в'їзди, але тут же століттями вирувало міське життя з ремеслами, торгівлею та щільним потоком людей. Це добрий приклад того, як у історичних містах парадність і практичність не заважають одна одній, а співіснують. Вулиця нагадує: велике міське минуле тримається не лише на символах, а й на повсякденному використанні простору."
-    },
-    "dwellTimeMinutes": 7,
-    "image": "krakow/points_images/florianska-street.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",

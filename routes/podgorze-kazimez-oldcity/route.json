@@ -1930,20 +1930,20 @@
         },
         {
           "coordinates": [
-            50.06518046565149,
-            19.93560419739394
+            50.065111168351386,
+            19.93555068969727
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Idź prosto",
+            "ru": "Двигайтесь прямо",
+            "en": "Go straight",
+            "de": "Gehen Sie geradeaus",
+            "ua": "Рухайтеся прямо",
+            "it": "Prosegui dritto",
+            "hr": "Idite ravno",
+            "es": "Siga recto",
+            "fr": "Continuez tout droit"
           },
           "debug_entity": false
         },

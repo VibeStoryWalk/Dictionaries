@@ -36,7 +36,7 @@
     "fr": "Cet itinéraire relie plusieurs Cracovie différentes en une longue promenade. Vous commencerez sur la place des Héros du ghetto à Podgórze, traverserez la Vistule vers le Kazimierz juif, avec ses rues, ses synagogues et ses traces de l'histoire de la guerre, puis gagnerez le Wawel avant de terminer dans la Vieille Ville. C'est un itinéraire sur la vie urbaine et l'histoire à plusieurs couches de Cracovie, qui a façonné son atmosphère contemporaine si riche. "
   },
   "durationMinutes": 330,
-  "distanceKm": 7.42,
+  "distanceKm": 7.43,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -1434,8 +1434,8 @@
         },
         {
           "coordinates": [
-            50.054693601834884,
-            19.93483176939854
+            50.05484494803777,
+            19.934799685045764
           ],
           "type": "turn",
           "text": {
@@ -1458,15 +1458,15 @@
           ],
           "type": "info",
           "text": {
-            "pl": "",
+            "pl": "Po prawej stronie na ścianie widnieją imiona. To imiona osób, które przekazały darowizny na restaurację zamku.",
             "ru": "Справа на стене отображаются имена. Это имена тех людей, которые делали свои пожертвования для реставрации замка.",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "en": "On the right wall, names are displayed. These are the names of the people who made donations for the restoration of the castle.",
+            "de": "Rechts an der Wand sind Namen zu sehen. Das sind die Namen der Menschen, die für die Restaurierung des Schlosses gespendet haben.",
+            "ua": "Праворуч на стіні відображаються імена. Це імена тих людей, які робили свої пожертви на реставрацію замку.",
+            "it": "Sulla destra, sulla parete, sono visibili dei nomi. Sono i nomi delle persone che hanno fatto delle donazioni per il restauro del castello.",
+            "hr": "S desne strane na zidu prikazana su imena. To su imena ljudi koji su davali svoje donacije za obnovu dvorca.",
+            "es": "A la derecha, en la pared, se ven nombres. Son los nombres de las personas que hicieron donaciones para la restauración del castillo.",
+            "fr": "À droite, sur le mur, sont affichés des noms. Ce sont les noms des personnes qui ont fait des dons pour la restauration du château."
           },
           "debug_entity": false
         },
@@ -1477,15 +1477,15 @@
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Przejdź przez ulicę i idź dalej w głąb ulicy",
+            "ru": "Переходите дорогу и направляйтесь вглубь улицы",
+            "en": "Cross the road and head further into the street",
+            "de": "Überqueren Sie die Straße und gehen Sie weiter die Straße hinein",
+            "ua": "Перейдіть дорогу і прямуйте далі вглиб вулиці",
+            "it": "Attraversate la strada e proseguite più a fondo lungo la strada",
+            "hr": "Prijeđite cestu i krenite dublje u ulicu",
+            "es": "Cruce la calle y adéntrese en la calle",
+            "fr": "Traversez la rue et allez plus loin dans la rue"
           },
           "debug_entity": false
         },
@@ -1516,15 +1516,15 @@
           ],
           "type": "turn",
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Skręć w prawo i przejdź przez mały plac",
+            "ru": "Повораните направо и идите через маленькую площадь",
+            "en": "Turn right and walk across the small square",
+            "de": "Biegen Sie rechts ab und gehen Sie über den kleinen Platz",
+            "ua": "Поверніть праворуч і йдіть через маленьку площу",
+            "it": "Svoltate a destra e attraversate la piccola piazza",
+            "hr": "Skrenite desno i prođite kroz mali trg",
+            "es": "Gire a la derecha y cruce la pequeña plaza",
+            "fr": "Tournez à droite et traversez la petite place"
           },
           "debug_entity": false
         },
@@ -1533,7 +1533,7 @@
             50.05678056357799,
             19.93805047696961
           ],
-          "type": "turn",
+          "type": "portal",
           "text": {
             "pl": "",
             "ru": "",
@@ -1545,7 +1545,8 @@
             "es": "",
             "fr": ""
           },
-          "debug_entity": false
+          "debug_entity": false,
+          "targetVertexIndex": 7
         },
         {
           "coordinates": [

@@ -104,7 +104,9 @@
     },
     "actions": {
       "restart": "Prođi ponovno",
-      "backToRoutes": "Na rute"
+      "backToRoutes": "Na rute",
+      "listen": "Čitaj naglas",
+      "stopListen": "Zaustavi čitanje"
     }
   },
   "settings": {

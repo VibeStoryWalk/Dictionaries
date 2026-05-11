@@ -102,7 +102,9 @@
     },
     "actions": {
       "restart": "Start again",
-      "backToRoutes": "Back to routes"
+      "backToRoutes": "Back to routes",
+      "listen": "Read aloud",
+      "stopListen": "Stop reading"
     }
   },
   "settings": {

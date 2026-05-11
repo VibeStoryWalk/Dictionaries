@@ -104,7 +104,9 @@
     },
     "actions": {
       "restart": "Пройти знову",
-      "backToRoutes": "До маршрутів"
+      "backToRoutes": "До маршрутів",
+      "listen": "Прочитати вголос",
+      "stopListen": "Зупинити читання"
     }
   },
   "settings": {

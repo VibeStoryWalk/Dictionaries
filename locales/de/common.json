@@ -102,7 +102,9 @@
     },
     "actions": {
       "restart": "Noch einmal starten",
-      "backToRoutes": "Zu den Routen"
+      "backToRoutes": "Zu den Routen",
+      "listen": "Vorlesen",
+      "stopListen": "Vorlesen stoppen"
     }
   },
   "settings": {

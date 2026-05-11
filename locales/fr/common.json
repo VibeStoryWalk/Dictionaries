@@ -102,7 +102,9 @@
     },
     "actions": {
       "restart": "Recommencer",
-      "backToRoutes": "Vers les itinéraires"
+      "backToRoutes": "Vers les itinéraires",
+      "listen": "Lire à voix haute",
+      "stopListen": "Arrêter la lecture"
     }
   },
   "settings": {

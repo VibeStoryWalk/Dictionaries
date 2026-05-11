@@ -102,7 +102,9 @@
     },
     "actions": {
       "restart": "Recorrer de nuevo",
-      "backToRoutes": "A las rutas"
+      "backToRoutes": "A las rutas",
+      "listen": "Leer en voz alta",
+      "stopListen": "Detener lectura"
     }
   },
   "settings": {

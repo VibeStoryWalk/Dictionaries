@@ -104,7 +104,9 @@
     },
     "actions": {
       "restart": "Przejdź ponownie",
-      "backToRoutes": "Do tras"
+      "backToRoutes": "Do tras",
+      "listen": "Czytaj na głos",
+      "stopListen": "Zatrzymaj czytanie"
     }
   },
   "settings": {

@@ -104,7 +104,9 @@
     },
     "actions": {
       "restart": "Пройти заново",
-      "backToRoutes": "К маршрутам"
+      "backToRoutes": "К маршрутам",
+      "listen": "Прочитать вслух",
+      "stopListen": "Остановить чтение"
     }
   },
   "settings": {

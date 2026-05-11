@@ -102,7 +102,9 @@
     },
     "actions": {
       "restart": "Ricominicia",
-      "backToRoutes": "Ai percorsi"
+      "backToRoutes": "Ai percorsi",
+      "listen": "Leggi ad alta voce",
+      "stopListen": "Interrompi lettura"
     }
   },
   "settings": {

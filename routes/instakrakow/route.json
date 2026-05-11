@@ -45,15 +45,15 @@
   "zoom": 14,
   "unlockRadiusMeters": 50,
   "completionMessage": {
-    "pl": "Przeszedłeś instagramową trasę po najbardziej wyrazistych miejscach Krakowa: od reprezentacyjnego Starego Miasta do Podgórza przez bulwary wiślane.",
-    "ru": "Вы пошли инстаграмный маршрут по самым выразительным точкам Кракова: от парадного Старого города до Подгужа через набережную Вислы.",
-    "en": "You took the Instagram-worthy route through Krakow's most striking spots: from the grand Old Town to Podgórze via the Vistula riverbank.",
-    "de": "Du bist die Instagram-Route zu den eindrucksvollsten Orten Krakaus gegangen: von der repräsentativen Altstadt über die Weichselpromenade bis nach Podgórze.",
-    "ua": "Ви пройшли інстаграмний маршрут найвиразнішими місцями Кракова: від парадного Старого міста до Подгуже через набережну Вісли.",
-    "it": "Hai percorso l’itinerario da Instagram attraverso i punti più suggestivi di Cracovia: dal prestigioso Centro storico a Podgórze, passando per il lungofiume della Vistola.",
-    "hr": "Krenuli ste instagramskom rutom kroz najupadljivija mjesta Krakova: od raskošnog Starog grada do Podgórzea preko obale Visle.",
-    "es": "Has recorrido la ruta muy instagrameable por los lugares más llamativos de Cracovia: desde el majestuoso casco antiguo hasta Podgórze, pasando por el paseo del Vístula.",
-    "fr": "Vous avez emprunté l’itinéraire très instagrammable à travers les lieux les plus marquants de Cracovie: de la majestueuse Vieille Ville à Podgórze en passant par les quais de la Vistule."
+    "pl": "Na tym nasza trasa dobiega końca.  \nDziękujemy za korzystanie z naszej aplikacji. Mamy nadzieję, że spacer był interesujący i pełen wrażeń, i będziemy рады, jeśli nasza aplikacja stanie się Państwa niezawodnym przewodnikiem w przyszłych podróżach.",
+    "ru": "На этом наш маршрут подходит к концу.  \nБлагодарим вас за использование нашего приложения. Мы надеемся, что Ваша прогулка была интересной и насыщенной, и будем рады, если наше приложение станет Вашим надёжным гидом в будущих путешествиях. ",
+    "en": "This brings our route to an end.  \nThank you for using our app. We hope your walk was interesting and full of experiences, and we would be glad if our app became your reliable guide on future trips.",
+    "de": "Damit ist unsere Route zu Ende.  \nVielen Dank, dass Sie unsere App verwendet haben. Wir hoffen, dass Ihr Spaziergang interessant und abwechslungsreich war, und würden uns freuen, wenn unsere App Ihr zuverlässiger Begleiter auf zukünftigen Reisen wird.",
+    "ua": "На цьому наш маршрут підходить до кінця.  \nДякуємо вам за використання нашого додатка. Сподіваємося, що ваша прогулянка була цікавою та насиченою, і будемо раді, якщо наш додаток стане вашим надійним гідом у майбутніх подорожах.",
+    "it": "Con questo il nostro percorso giunge al termine.  \nGrazie per aver utilizzato la nostra app. Speriamo che la vostra passeggiata sia stata interessante e ricca di contenuti e saremo lieti se la nostra app diventerà la vostra guida affidabile nei futuri viaggi.",
+    "hr": "Time završava naša ruta.  \nHvala vam što koristite našu aplikaciju. Nadamo se da je vaša šetnja bila zanimljiva i sadržajna te ćemo biti sretni ako naša aplikacija postane vaš pouzdani vodič na budućim putovanjima.",
+    "es": "Con esto concluye nuestra ruta.  \nGracias por usar nuestra aplicación. Esperamos que su paseo haya sido interesante y enriquecedor, y estaremos encantados de que nuestra aplicación se convierta en su guía de confianza en futuros viajes.",
+    "fr": "Ainsi s’achève notre itinéraire.  \nMerci d’avoir utilisé notre application. Nous espérons que votre promenade a été intéressante et riche en découvertes, et nous serons ravis que notre application devienne votre guide de confiance lors de vos futurs voyages."
   },
   "segments": [
     {

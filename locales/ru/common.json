@@ -75,6 +75,12 @@
     "tooltips": {
       "youAreHere": "Вы здесь"
     },
+    "rateApp": {
+      "title": "Нравится приложение?",
+      "body": "",
+      "confirm": "Оценить",
+      "dismiss": "Позже"
+    },
     "story": {
       "listenAria": "Прочитать точку вслух",
       "nextAria": "Дальше",

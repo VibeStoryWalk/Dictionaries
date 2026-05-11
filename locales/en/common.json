@@ -73,6 +73,12 @@
     "tooltips": {
       "youAreHere": "You are here"
     },
+    "rateApp": {
+      "title": "Enjoying the app?",
+      "body": "",
+      "confirm": "Rate now",
+      "dismiss": "Later"
+    },
     "story": {
       "listenAria": "Read point aloud",
       "nextAria": "Next",

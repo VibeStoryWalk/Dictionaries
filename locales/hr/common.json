@@ -75,6 +75,12 @@
     "tooltips": {
       "youAreHere": "Vi ste ovdje"
     },
+    "rateApp": {
+      "title": "Sviđa li vam se aplikacija?",
+      "body": "",
+      "confirm": "Ocijeni sada",
+      "dismiss": "Kasnije"
+    },
     "story": {
       "listenAria": "Pročitaj točku naglas",
       "nextAria": "Dalje",

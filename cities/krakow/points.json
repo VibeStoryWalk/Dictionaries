@@ -836,44 +836,6 @@
     "debug_entity": false
   },
   {
-    "id": "rynek-podgurski",
-    "order": 30,
-    "title": {
-      "pl": "Rynek Podgórski",
-      "ru": "Площадь Подгорская",
-      "en": "Podgórski Square",
-      "de": "Podgórski-Platz",
-      "es": "Plaza Podgórski",
-      "fr": "Place Podgórski",
-      "hr": "Trg Podgórski",
-      "it": "Piazza Podgórski",
-      "ua": "Площа Підгірська"
-    },
-    "approachText": {
-      "pl": "",
-      "ru": "",
-      "en": ""
-    },
-    "coordinates": [
-      50.044559220338705,
-      19.94902284372779
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "es": "",
-      "fr": "",
-      "hr": "",
-      "it": "",
-      "ua": ""
-    },
-    "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/rynek-podgurski.jpg",
-    "debug_entity": false
-  },
-  {
     "id": "schindler-list-passage",
     "order": 26,
     "title": {

@@ -1031,5 +1031,5 @@
     "bernatka-bridge",
     "jst-Joseph-church"
   ],
-  "debug_entity": true
+  "debug_entity": false
 }

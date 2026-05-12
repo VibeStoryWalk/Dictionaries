@@ -1,5 +1,5 @@
 {
-  "showDebugSettings": false,
+  "showDebugSettings": true,
   "useLocalDicts": true,
   "defaultUiSettings": {
     "locale": "ru"

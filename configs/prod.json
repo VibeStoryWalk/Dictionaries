@@ -1,5 +1,6 @@
 {
   "defaultUiSettings": {
-    "adsEnabled": false
+    "adsEnabled": false,
+    "locale": "auto"
   }
 }

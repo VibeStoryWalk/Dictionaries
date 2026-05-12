@@ -29,7 +29,7 @@
       "ua": "Площа Героїв гетто в краківському Подґужі сьогодні є меморіальним простором. Після міського конкурсу її перебудували й відкрили 8 грудня 2005 року; нинішній вигляд площі одразу показує, що це місце великої трагедії цілого народу, а не звичайна міська площа.\n\nДо війни тут була допоміжна ринкова площа, створена приблизно 1838 року для району Подґуже. Від 1880-х років вона називалася Mały Rynek, а після включення Подґужа до складу Кракова 1915 року отримала назву Plac Zgody, оскільки в Кракові на той час уже була площа з такою ж назвою.\n\nУсе змінилося в березні 1941 року, коли нацисти створили краківське гетто в Подґужі й зробили цю площу його центральною точкою. Під час депортаційних акцій 1942 і 1943 років тут збирали євреїв для подальшого відправлення до концтаборів. \n\nНа краю площі знаходилася Apteka pod Orłem за адресою Plac Zgody 18. Це була єдина аптека всередині гетто, а її власник Тадеуш Панькевич був єдиним поляком, якому дозволили постійно в ній жити й працювати. Він відмовився покинути її, навіть коли нацисти запропонували йому переведення до іншої аптеки в Кракові. Ця аптека стала підпільним місцем допомоги євреям - через неї вони отримували медикаменти, продукти, листи та іншу допомогу з-за меж гетто.\n\nМеморіальна інсталяція на площі складається з 70  залізних стільців, розставлених по одному; у ній використано патиновану бронзу, кородований чавун, бетон і сірий сієніт. Її задум - це покинуті особисті речі та меблі євреїв, яких насильно вивезли й убили."
     },
     "dwellTimeMinutes": 8,
-    "image": "krakow/points_images/ghetto-heroes-square.jpg",
+    "image": "krakow/points/points_images/ghetto-heroes-square.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -67,7 +67,7 @@
       "ua": "Над спокійними водами Вісли простягнувся витончений Міст Бернатка - сучасний пішохідний перехід, що з'єднав райони Казімєж і Подгуже. Відкритий у 2010 році, він став не лише зручним зв'язком між берегами, а й виразним архітектурним елементом міста. Легка металева конструкція з характерними дугами ніби ширяє над річкою, відбиваючись у воді та змінюючи вигляд залежно від часу доби й освітлення.\n\nМіст названо на честь інженера Людвіка Бернатка, який зробив внесок у розвиток міської інфраструктури, і від самого початку замислювався як місце для прогулянок, зустрічей і неквапливого споглядання. Він швидко став частиною повсякденного життя містян, а також популярним маршрутом для туристів.\n\nЗ часом у мосту з'явилася власна романтична традиція. Перила прикрашені численними замками, залишеними закоханими як символ міцності почуттів. Цей жест, поширений у багатьох європейських містах, тут набув особливої атмосфери: легкі фігурки акробатів, встановлені вздовж конструкції, створюють відчуття руху й гри, ніби самі беруть участь в історії кохання, що розгортається на мосту."
     },
     "dwellTimeMinutes": 7,
-    "image": "krakow/points_images/bernatka-bridge.jpg",
+    "image": "krakow/points/points_images/bernatka-bridge.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "Вы приближаетесь к мосту Бернатка.",
@@ -105,7 +105,7 @@
       "ua": "Ви бачите на стіні будівлі мурал «Judah» Піла Пеледа. Це велике чорно-біле стінописне полотно, яке формує візуальний образ цього місця.\n\nРоботу створили 2013 року під час 23-го Фестивалю єврейської культури в Кракові. Фестиваль замислював її як тематичний проєкт, а не як декоративне оформлення району: мурал мав зробити єврейську ідентичність помітнішою в Казімєжі, однак із часом це місце отримало й неофіційну міську назву: спочатку власники фуд-траків, встановлених на площі біля муралу, а згодом і містяни почали називати його Judah Square. Дехто з мешканців міста зазначає, що до появи муралу ця вулиця була доволі порожньою, а потім почала приваблювати людей.\n\nПелед пов’язав розпис із новим логотипом фестивалю, Левом Юди. За його поясненням, дитина означає внутрішню дитину та малий, наляканий народ, а лев - єврейську силу, виживання і опір страху. Розпис створювали публічно: до роботи долучалися волонтери, художники, гості фестивалю та перехожі."
     },
     "dwellTimeMinutes": 6,
-    "image": "krakow/points_images/judah-mural.jpg",
+    "image": "krakow/points/points_images/judah-mural.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -143,7 +143,7 @@
       "ua": "Новий Ринок добре показує буденний бік Казімежа. Це не парадна площа й не листівковий краєвид, а жваве місце, де протягом тривалого часу перетиналися торгівля, вулична їжа, місцеві звички та туристичний інтерес. Центральний круглий павільйон колись будували як ритуальну бійню для птиці, згодом він став ринком, а сьогодні асоціюється ще й із відомими краківськими запіканками. "
     },
     "dwellTimeMinutes": 8,
-    "image": "krakow/points_images/plac-nowy.jpg",
+    "image": "krakow/points/points_images/plac-nowy.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -181,7 +181,7 @@
       "ua": "Вулиця Широка в краківському Казімежі є історичним ядром єврейського кварталу та одним із найавтентичніших місць міста. По суті, це видовжена площа, де зосереджені найважливіші пам'ятки релігійного та повсякденного життя громади. У минулому тут було аж чотири синагоги, що є дуже рідкісним випадком для Європи. До наших днів збереглися синагоги Ремух і Стара, тоді як інші були втрачені.\n\nЄврейське населення почало активно селитися тут наприкінці XV століття після указу короля Яна Альберта. З часом сформувався і сам квартал Казімеж. Тут також була міква, ритуальна лазня з джерельною водою, пов'язана з трагічною подією XVI століття, коли через обвал підлоги загинули кілька жінок.\n\nІз цим місцем пов'язані й легенди.\nРозповідають, що на місці цвинтаря, який прилягає до синагоги Ремух, колись стояв будинок, зруйнований прокляттям рабина за порушення шабату. Інша легенда стосується кабаліста Натана Спіри, чиє ім'я оточене містичними історіями; за переказом, світло його свічки й досі з'являється у вікнах будинку, зведеного на місці однієї з утрачених синагог.\n\nСьогодні Широка зберігає свою історичну бруківку та атмосферу старого Казімежа. Тут відбуваються культурні події, зокрема фінал Єврейського фестивалю, а сама вулиця стала важливою частиною мистецької та історичної спадщини міста, зокрема завдяки фільму «Список Шиндлера»."
     },
     "dwellTimeMinutes": 9,
-    "image": "krakow/points_images/szeroka-street.jpg",
+    "image": "krakow/points/points_images/szeroka-street.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -219,7 +219,7 @@
       "ua": "У історичному районі Казімєж у Кракові розташована Синагога Рему — одна з найстаріших збережених синагог міста та важлива пам’ятка єврейської спадщини Польщі. Її було збудовано в середині XVI століття з ініціативи родини купця Ізраеля Іссерлеса, а назву вона отримала на честь його сина — видатного рабина Моше Іссерлеса, відомого як Рему.\n\nСинагога вирізняється скромним зовнішнім виглядом, що контрастує з її глибоким духовним значенням. Внутрішній простір оформлено стримано, проте він зберігає традиційні елементи, характерні для ашкеназької релігійної архітектури. Протягом століть вона служила місцем молитви та вивчення Тори, залишаючись центром релігійного життя єврейської громади Казімєжа.\n\nПоруч із синагогою розташований старовинний кладовищенський двір, де спочивають представники місцевої громади, зокрема й сам Моше Іссерлес. Його могила стала місцем паломництва, а пам’ять про нього зберігається як про видатного мислителя й тлумача релігійного закону. Попри руйнування та втрати, спричинені трагічними подіями XX століття, Синагога Рему вціліла й була відновлена."
     },
     "dwellTimeMinutes": 8,
-    "image": "krakow/points_images/remuh-synagogue.jpg",
+    "image": "krakow/points/points_images/remuh-synagogue.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -257,7 +257,7 @@
       "ua": "Підніжжя Вавельського пагорба, на березі Вісли, знаходиться Вавельський дракон — одна з найвідоміших і найулюбленіших міських пам’яток. Ця металева скульптура, встановлена у 1972 році, зображає міфічну істоту з розкритою пащею та напруженим тілом, ніби готову до ривка. Особливу популярність їй приносить вогняний ефект: кожні п’ять хвилин дракон випускає справжнє полум’я, привертаючи увагу перехожих. \n\nОбраз дракона пов’язаний із давньою легендою, глибоко вкоріненою в історії Кракова. За переказом, у печері під пагорбом жив лютий дракон, який наводив жах на мешканців і вимагав жертв. Перемогти його вдалося хитрістю: сміливий юнак нагодував чудовисько овечою шкурою, наповненою сіркою. Страждаючи від нестерпної спраги, дракон випив стільки води з річки, що зрештою загинув."
     },
     "dwellTimeMinutes": 8,
-    "image": "krakow/points_images/wawel-dragon.jpg",
+    "image": "krakow/points/points_images/wawel-dragon.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -295,7 +295,7 @@
       "ua": "На високому пагорбі над річкою та містом височіє Вавельський замок - один із найважливіших символів польської державності та культури. Протягом століть він служив резиденцією королів і центром політичного життя країни, уособлюючи її силу та історичну тяглість.\n\nПерші укріплення на цьому місці з'явилися ще в ранньому Середньовіччі, однак сучасного вигляду замок набув у добу Ренесансу, коли з ініціативи правителів династії Ягеллонів його перебудували в розкішну королівську резиденцію. Італійські майстри створили гармонійний ансамбль із внутрішнім двором, оточеним аркадами, який і сьогодні залишається одним із найвпізнаваніших образів Вавеля.\n\nЗамок був свідком ключових подій польської історії - коронацій, дипломатичних зустрічей і урочистих церемоній. Тут ухвалювалися рішення, що визначали долю держави. Після перенесення столиці до Варшави на початку сімнадцятого століття його значення змінилося, але він не втратив своєї символічної ролі.\n\nСьогодні замок відкритий для відвідувачів як музейний комплекс, де представлені королівські покої, твори мистецтва та історичні реліквії. Його стіни зберігають пам'ять про минуле, а панорами, що відкриваються з пагорба, дозволяють побачити Краків таким, яким він формувався впродовж століть. Вавельський замок залишається не лише архітектурною пам'яткою, а й живим символом національної історії."
     },
     "dwellTimeMinutes": 10,
-    "image": "krakow/points_images/wawel-hill.jpg",
+    "image": "krakow/points/points_images/wawel-hill.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -333,7 +333,7 @@
       "ua": "На вулиці Гродзькій височіє костел Святих Петра і Павла — перший бароковий храм міста, що різко вирізняється серед готичної забудови своїм суворим і гармонійним виглядом. Його було зведено наприкінці XVI — на початку XVII століття з ініціативи ордену єзуїтів, які прагнули утвердити нові мистецькі та духовні ідеали доби Контрреформації.\n\nФасад костелу, натхненний римськими зразками, відзначається чіткою симетрією та монументальністю. Перед входом влаштовано галерею статуй дванадцяти апостолів, ніби вони зустрічають відвідувачів і створюють урочистий вступ до простору храму. Внутрішнє оздоблення продовжує цю лінію: світлий інтер’єр, прикрашений ліпниною та живописом, підкреслює ідею порядку та піднесеності.\n\nСьогодні костел і далі приваблює не лише вірян, а й поціновувачів архітектури, пропонуючи рідкісну нагоду побачити, як бароко увійшло в тканину ашкеназького та неоготичного Кракова, не руйнуючи її, а збагачуючи новим мистецьким стилем.\n\nКостел відомий не лише своєю архітектурою, а й одним науково-релігійним парадоксом. У дворі встановлено маятник Фуко, що демонструє обертання Землі — наочне свідчення інтересу до науки, який тут сусідить із релігійною традицією. Це незвичне поєднання підкреслює дух епохи, коли віра й знання прагнули до взаємного діалогу."
     },
     "dwellTimeMinutes": 7,
-    "image": "krakow/points_images/st-peter-paul.jpg",
+    "image": "krakow/points/points_images/st-peter-paul.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -371,7 +371,7 @@
       "ua": "У самому серці Кракова розташований Ягеллонський університет — один із найстаріших навчальних закладів Європи та важливий центр інтелектуального життя Польщі. Заснований у 1364 році королем Казимиром III Великим, університет став символом прагнення до знань і просвітництва. Уже в Середньовіччі сюди прибували студенти з різних країн, формуючи міжнародну наукову еліту.\n\nОсобливого розквіту університет зазнав у XV–XVI століттях, коли став одним із провідних освітніх центрів континенту. Тут навчався Миколай Коперник, чиї ідеї про геліоцентричну систему перевернули уявлення про світ. Тут викладали видатні мислителі, велися наукові диспути та закладалися основи гуманістичної традиції.\n\nЯгеллонський університет пережив складні часи, зокрема поділи Польщі та роки Другої світової війни, коли його діяльність було тимчасово призупинено. Попри це, він зберіг свою значущість і сьогодні залишається одним із провідних наукових центрів країни та Європи."
     },
     "dwellTimeMinutes": 7,
-    "image": "krakow/points_images/jagiellonian-university.jpg",
+    "image": "krakow/points/points_images/jagiellonian-university.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -409,7 +409,7 @@
       "ua": "Серед вузьких вулиць старого Кракова ховається Колегіум Майус - найстаріша будівля Ягеллонського університету та один із найважливіших символів академічної традиції Європи. Зведений у XV столітті, він став центром наукового життя міста в епоху, коли університет переживав розквіт і приваблював студентів з усього континенту.\n\nГотичне подвір'я з аркадами та характерними цегляними фасадами створює атмосферу зосередженості й тиші, ніби час тут плине інакше. Саме в цих стінах викладав і навчався Миколай Коперник, чиї ідеї змінили уявлення про будову світу. Колегіум Майус служив місцем, де формувалися наукові погляди, точилися диспути та закладалися основи європейської інтелектуальної культури.\n\nПротягом століть будівлю неодноразово перебудовували, але вона зберегла свій історичний вигляд. Сьогодні тут розташований університетський музей, у якому зібрані старовинні наукові інструменти, глобуси та рукописи. Особливу увагу привертають годинник у внутрішньому дворику: щогодини його фігурки розігрують невелике дійство, нагадуючи про великих учених, пов'язаних із цим місцем."
     },
     "dwellTimeMinutes": 9,
-    "image": "krakow/points_images/collegium-maius.jpg",
+    "image": "krakow/points/points_images/collegium-maius.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -447,7 +447,7 @@
       "ua": "Зелений пояс, що обіймає історичний центр Кракова, Планти є одним із наймальовничіших міських парків Польщі. Вони з’явилися на початку XIX століття на місці розібраних середньовічних укріплень, коли міська влада вирішила перетворити колишні рови та мури на простір для прогулянок і відпочинку. Так на місці оборонної лінії постала зелена межа, що відділяє Старе Місто від пізнішої забудови.\n\nПланти являють собою ланцюг алей, скверів і затишних затінених куточків, що простягається майже на чотири кілометри. Тут змінюються ділянки різного характеру: строгі алеї з рівними рядами дерев поступаються місцем фонтанам, декоративним квітникам і тихим лавкам. Уздовж доріжок трапляються пам’ятники видатним діячам польської культури, нагадуючи, що цей простір є не лише природним, а й культурним.\n\nЗ часом Планти стали невід’ємною частиною міського життя. Тут прогулюються, відпочивають, читають, зустрічаються й просто спостерігають за перебігом дня. Парк м’яко згладжує межу між минулим і теперішнім: за зеленню ховаються старовинні мури, вежі та брами, а самі алеї повторюють контури колишніх укріплень."
     },
     "dwellTimeMinutes": 7,
-    "image": "krakow/points_images/planty.jpg",
+    "image": "krakow/points/points_images/planty.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -485,7 +485,7 @@
       "ua": "Серед могутніх оборонних споруд старого Кракова особливе місце посідає Барбакан - рідкісний зразок середньовічної фортифікаційної архітектури, що зберігся майже в первозданному вигляді. Його було зведено наприкінці XV століття як частину міської системи укріплень, і він служив найважливішим елементом захисту північного в’їзду до міста.\n\nБарбакан створювали в епоху, коли Ян Ольбрахт зміцнював обороноздатність королівства, побоюючись загрози з боку Османської імперії. Споруда витримувала облоги й протягом кількох століть була важливим оборонним пунктом, хоча з розвитком артилерії її значення поступово зменшувалося. Попри це, барбакан уникнув руйнування, коли в XIX столітті було розібрано багато міських мурів, і сьогодні залишається одним із небагатьох збережених подібних об’єктів у Європі.\n\nЗ цим місцем пов’язана одна міська легенда. Вона розповідає про простого ремісника, який під час облоги зумів влучним пострілом уразити ворожого командира, врятувавши місто від захоплення."
     },
     "dwellTimeMinutes": 8,
-    "image": "krakow/points_images/barbican.jpg",
+    "image": "krakow/points/points_images/barbican.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -523,7 +523,7 @@
       "ua": "На північній межі старого Кракова височіє Флоріанська брама — один із небагатьох уцілілих фрагментів середньовічних укріплень міста. Збудована в XIV столітті, вона слугувала головним входом до Кракова з королівського тракту, яким у місто в’їжджали правителі, посли та торговці. Через ці ворота починався шлях, що вів до Головної площі, а далі до Вавельського замку, формуючи головну артерію міського життя.\n\nМасивна башта з каменю та цегли, увінчана бароковим дахом, поєднує суворість оборонної споруди й виразність архітектурної домінанти. Брама була частиною складної системи захисту, що включала мури, башти та барбакан, утворюючи безперервну лінію оборони. Протягом століть вона витримувала облоги й слугувала символом неприступності міста.\n\nІз брамою пов’язана постать святого Флоріана — покровителя від пожеж, чиє зображення розміщене на фасаді. Його культ був особливо важливим для Кракова, що пережив багато руйнівних пожеж. Вважається, що святий Флоріан оберігає місто, а його присутність на брамі сприймається як захист для всіх, хто входить усередину мурів.\n\nУ XIX столітті, коли старі укріплення почали розбирати, Флоріанська брама уникла руйнування завдяки зусиллям містян, яким вдалося захистити її історичну та культурну цінність."
     },
     "dwellTimeMinutes": 6,
-    "image": "krakow/points_images/florian-gate.jpg",
+    "image": "krakow/points/points_images/florian-gate.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -561,7 +561,7 @@
       "ua": "На східному боці Ринкової площі височіє Маріацький костел — один із головних символів міста та видатна пам’ятка готичної архітектури. Його асиметричні вежі відразу привертають увагу: вища служить оглядовою та сигнальною, а друга виконує функцію дзвіниці. Цей незвичний силует став невід’ємною частиною краківського краєвиду.\n\nХрам було зведено у XIV столітті на місці давнішої споруди, і відтоді він не раз оновлювався. Усередині він вражає багатством оздоблення: особливо вирізняється різьблений вівтар роботи німецько-польського скульптора Віта Ствоша — один із найбільших готичних творів такого типу в Європі. Розписана стеля, прикрашена зоряним орнаментом, створює відчуття безмежного небесного склепіння, підсилюючи враження урочистості та духовної глибини.\n\nЗ Маріацьким костелом пов’язана одна з найвідоміших міських традицій. Щогодини з високої вежі лунає хейнал — сигнал, що раптово обривається посеред мелодії. За легендою, він нагадує про сурмача, який під час навали попередив мешканців про ворога, але був уражений стрілою. "
     },
     "dwellTimeMinutes": 8,
-    "image": "krakow/points_images/st-marys-basilica.jpg",
+    "image": "krakow/points/points_images/st-marys-basilica.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -599,7 +599,7 @@
       "ua": "У самому серці Старого міста, на просторій ринковій площі, розташовані Сукенні ряди - одна з найвпізнаваніших будівель міста та символ його торгового минулого. Ця протяжна споруда з аркадною галереєю виникла ще в XIII столітті, коли Краків став важливим центром міжнародної торгівлі. Тут перетиналися шляхи купців зі Східної та Західної Європи, а сукно, від якого будівля й отримала свою назву, було одним із головних товарів.\n\nСучасний вигляд Сукенних рядів сформувався в епоху Ренесансу після руйнівної пожежі 1555 року. Тоді будівля набула вишуканого аттика з декоративними маскаронами та характерними арками, під якими й сьогодні розташовані торгові крамниці. Попри багатовікові зміни, вона зберегла свою функцію: всередині й досі вирувала торгівля, пропонуючи вироби народних ремесел, прикраси та сувеніри.\n\nСукенні ряди були не лише місцем купівлі-продажу, а й важливою частиною міського життя. Тут укладали угоди, обговорювали новини, формувалася атмосфера ділового й культурного спілкування. На другому поверсі сьогодні розміщується Галерея польського мистецтва XIX століття - філія Національного музею в Кракові, що надає будівлі додаткового культурного значення."
     },
     "dwellTimeMinutes": 7,
-    "image": "krakow/points_images/cloth-hall.jpg",
+    "image": "krakow/points/points_images/cloth-hall.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -637,7 +637,7 @@
       "ua": "На головній площі Кракова височіє Ратушна вежа — один із небагатьох збережених фрагментів середньовічної ратуші, яка колись визначала адміністративний центр міста. Збудована у XIV столітті, вежа була частиною комплексу, де розміщувалися міська влада, судові установи та скарбниця. З часом саму ратушу розібрали, але вежа вціліла, ставши самостійним архітектурним символом.\n\nЇї могутній вигляд із масивними стінами та виразним силуетом відображає практичне призначення: вона слугувала сторожовим і спостережним пунктом. Із вершини відкривався краєвид на місто та його околиці, що було важливо для безпеки.\n\nВнутрішній простір вежі в різні епохи виконував різні функції — від адміністративних приміщень до тюремних камер. Сьогодні тут розташований музей, що дає змогу доторкнутися до історії міської влади та побуту середньовічного Кракова. Піднявшись угору, можна побачити місто з висоти й відчути масштаб історичного центру."
     },
     "dwellTimeMinutes": 6,
-    "image": "krakow/points_images/town-hall-tower.jpg",
+    "image": "krakow/points/points_images/town-hall-tower.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -675,7 +675,7 @@
       "ua": "На Головному Ринку в Кракові, поруч із Ратушною вежею, стоїть Eros Bendato Ігоря Міторая — бронзова голова, що лежить на боці просто на землі.\n\nТакий образ характерний для Міторая. Він свідомо переосмислював античну скульптуру, вводячи тріщини й сліди пошкоджень, щоб показати недосконалість людської природи. Тому цей приземлений, розбитий класичний лик є частиною його художньої мови, а не помилкою.\n\nЄ й деталь, помітна зблизька: губи фігури змодельовані за власним ротом художника. Твір часто тлумачать як образ любові, що робить людину покірною і сліпою та веде до несвободи.\n\nІсторія скульптури в Кракові почалася як експеримент. У 2003 році Міжнародний культурний центр показав монументальні роботи Міторая, розмістивши їх прямо на землі, щоб глядач зустрічав їх у своєму просторі, а не на віддаленому п'єдесталі. Тоді виставку скульптур задумували як тимчасову: місто планувало залишити її приблизно на чотири місяці, а потім вирішити її подальшу долю. Але ця скульптура приваблювала мешканців і туристів. 6 жовтня 2005 року скульптуру урочисто відкрили на Головному Ринку як дар Міторая Кракову; сам художник говорив, що повертає роботу місту, яке дало йому юність і мистецьку освіту."
     },
     "dwellTimeMinutes": 6,
-    "image": "krakow/points_images/eros-bound.jpg",
+    "image": "krakow/points/points_images/eros-bound.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -713,7 +713,7 @@
       "ua": "У самому серці Кракова розкинувся Головний ринок — одна з найбільших середньовічних площ Європи та символ міського життя, що незмінно приваблює людей упродовж століть. Його просторий майдан сформувався у XIII столітті, коли Краків отримав нове планування, і відтоді площа стала центром торгівлі, політики та громадських подій.\n\nТут перетиналися шляхи купців із різних країн, відбувалися урочисті процесії та найважливіші міські церемонії. Площу оточують будівлі різних епох, кожна з яких відображає свій історичний шар: від готичних храмів до фасадів ренесансу й бароко. \n\nПопри багатовікову історію, площа залишається живою та динамічною. Тут проходять фестивалі, концерти та ярмарки, а вуличні музиканти й художники створюють відчуття безперервного руху. Удень вона сповнена світла і голосів, а ввечері перетворюється в м’якому сяйві вогнів, що віддзеркалюють велич навколишньої архітектури."
     },
     "dwellTimeMinutes": 10,
-    "image": "krakow/points_images/main-square.jpg",
+    "image": "krakow/points/points_images/main-square.jpg",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -756,7 +756,7 @@
       "ua": "Ім’я Миколая Коперника нерозривно пов’язане з історією Кракова та його науковою традицією. Майбутній астроном навчався в Ягеллонському університеті наприкінці XV століття, коли місто було одним із найважливіших інтелектуальних центрів Європи. Саме тут він здобув перші знання з математики та астрономії, які згодом стали основою його революційних ідей.\n\nКоперник увійшов в історію як учений, який запропонував геліоцентричну модель світу, згідно з якою Земля та інші планети обертаються навколо Сонця. Ця теорія, викладена в його праці «Про обертання небесних сфер», змінила уявлення про Всесвіт і стала відправною точкою наукової революції. Однак за життя його ідеї сприймалися обережно та скептично, а визнання прийшло значно пізніше.\n\nХоча Коперник провів більшу частину життя поза Краковом, роки, проведені в університеті, значно вплинули на його світогляд. У місті, де перетиналися різні наукові традиції, він ознайомився з працями античних і середньовічних мислителів, що дало йому змогу сформувати власний погляд на будову світу.\n\nСьогодні пам’ять про Коперника зберігається в Кракові як про видатного вченого, чиї відкриття вийшли далеко за межі свого часу."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/mikolaj-kopernik-sculpture.jpg",
+    "image": "krakow/points/points_images/mikolaj-kopernik-sculpture.jpg",
     "debug_entity": false
   },
   {
@@ -794,7 +794,7 @@
       "ua": "Костел святого Йосифа в Подгужі — парафіяльний костел Кракова на Ринку Подгужі, що стоїть на місці старого кар’єру. Парафіяльне життя тут офіційно організували 1818 року, але воно почалося з тимчасової каплиці в урядовій будівлі. Перший костел на цьому місці збудували 1832 року; це був стриманий класичний храм. На початку XX століття його визнали дефектним і небезпечним, і 1905 року будівлю розібрали.\n\nНовий проєкт просував ксьондз Антоній Грушецький. Він звернув увагу на виставковий проєкт Яна Сас-Зубржицького в Краківському Палаці мистецтв і домігся його реалізації в спрощеному, дешевшому варіанті. Старий костел розібрали 1905 року, ділянку освятили 13 травня, наріжний камінь заклали 17 вересня, а новий храм освятили 24 жовтня 1909 року.\n\nГоловну башту свідомо співвіднесли з хейналачкою базиліки Святої Марії в Кракові. Портал несе герб Сас і девіз SUSTINAE, який містяни тлумачать як заклик підтримати й не дати впасти. Усередині збереглися хрестове ребристе склепіння, обхідна галерея з капелами навколо пресбітерію та насичене неоготичне оздоблення майже з 60 зображеннями святих.\n\nОрган до Першої світової війни побудувала варшавська майстерня Адольфа Антонія Гомана; інструмент спочатку призначався для Азербайджанського Баку, а в Подгужі його купили 1922 року. Реставрація триває з 1978 року: вона зміцнила пошкоджену башту, оновила зовнішній і внутрішній вигляд, повернула початкову кольорову логіку та відновила статую святого Йосифа, зняту в 1950-х роках. Сьогодні це перебудована й досі реставрована пам’ятка, в якій видно різні шари історії."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/jst-joseph-church.jpg",
+    "image": "krakow/points/points_images/jst-joseph-church.jpg",
     "debug_entity": false
   },
   {
@@ -838,7 +838,7 @@
       "fr": "Cette cour discrète est devenue célèbre grâce au film La Liste de Schindler de Steven Spielberg. C’est ici qu’ont été tournées des scènes de la liquidation du ghetto de Cracovie, des épisodes où la vie quotidienne s’interrompt brusquement sous la violence des événements historiques. Les escaliers de pierre, les passages étroits et l’espace clos de la cour ont conservé l’atmosphère qui a permis au réalisateur de transmettre un sentiment de désespoir et d’angoisse."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/schindler-list-passage.jpg",
+    "image": "krakow/points/points_images/schindler-list-passage.jpg",
     "debug_entity": false
   },
   {
@@ -882,7 +882,7 @@
       "fr": "La maison de la famille Bosak est un immeuble historique lié à la vie de la communauté juive de la ville. Pendant plusieurs siècles, la famille Bosak y a vécu, jusqu’à ce qu’elle soit expulsée pendant la Seconde Guerre mondiale. Marek Bosak, l’un des membres de la famille, faisait partie des Juifs sauvés par Oskar Schindler.\n\nAujourd’hui, le bâtiment se distingue par la fresque noir et blanc sur sa façade, réalisée par le collectif artistique Broken Fingaz avec l’accord des descendants de la famille.\n\nLa maison est fermée aux visiteurs."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/dom-bosak.jpg",
+    "image": "krakow/points/points_images/dom-bosak.jpg",
     "debug_entity": false
   },
   {
@@ -926,7 +926,7 @@
       "fr": "La grande mikvé située au 6, rue Szeroka, dans le quartier de Kazimierz à Cracovie, fait aujourd'hui partie du complexe hôtelier et de restauration Klezmer-Hois. Depuis la rue, le bâtiment peut sembler ordinaire, mais des traces du bain rituel juif ont été conservées sous lui.\n\nC'était la mikvé de la communauté de Kazimierz. La première mention fiable remonte à 1567, le bâtiment est donc probablement apparu un peu plus tôt. Son plan était dicté par l'usage rituel et non par des besoins domestiques. Environ quarante marches menaient au bain, car la source d'eau se trouvait bien en dessous du niveau de la rue.\n\nJusqu'au début de la Seconde Guerre mondiale, la mikvé a continué à fonctionner. Puis, pendant l'occupation allemande, elle a été détruite. Le bassin situé dans la cave a survécu, mais il a été enseveli avec les autres pièces du sous-sol.\n\nAprès une importante rénovation en 1974-1976, le bâtiment a été utilisé par la succursale de Cracovie de l'Atelier de réparation et de restauration des monuments. Dans les années 1990, le bien a été rendu à la communauté religieuse juive, et en 1995, celle-ci a accepté de le confier à la gestion de Klezmer-Hois. Ainsi, l'espace rituel est devenu partie intégrante d'un café, d'un restaurant, d'un hôtel et d'une librairie.\n\nAujourd'hui, dans les caves subsistent des fragments de maçonnerie, des parties de l'arcade et la distribution des pièces. Dans l'une des salles du rez-de-chaussée, soutenue par quatre piliers, on peut voir l'endroit où commençait la descente vers le bassin. L'utilisation actuelle dissimule l'ancienne fonction, mais les traces de la mikvé restent encore perceptibles."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/point-31.jpg",
+    "image": "krakow/points/points_images/point-31.jpg",
     "debug_entity": false
   },
   {
@@ -970,7 +970,7 @@
       "fr": "La synagogue Isaac, au 18 rue Kupa, a été créée pour la communauté juive de Kazimierz grâce aux fonds d’Isaac Jakubowicz, marchand et doyen du kahal. La tradition locale associe cette initiative à son épouse, Brajndla, qui, dit-on, aurait incité son mari à fonder la synagogue en signe de gratitude pour la prospérité de la famille. La date exacte de sa fondation n’est pas connue. \n\nLa synagogue a subi ses plus grandes destructions pendant la Seconde Guerre mondiale. Les Allemands ont pillé les objets rituels et ont transformé la synagogue en atelier de théâtre. Le 5 décembre 1939, Maksymilian Redlich refusa d’exécuter l’ordre de brûler les rouleaux de la Torah et fut abattu à l’entrée. En 1943-1944, le célèbre réalisateur et scénariste polonais Tadeusz Kantor y travailla comme scénographe. \n\nAprès la guerre, le bâtiment servit d’entrepôt municipal, puis d’atelier de sculpture et de restauration. En 1981, un incendie détruisit l’intérieur. La synagogue fut restituée à la communauté juive en 1989, et les travaux de conservation se poursuivirent par la suite. Aujourd’hui, on voit de l’extérieur un volume simple, un portail baroque et deux volées d’escaliers symétriques menant à un porche à arcades et à la galerie des femmes. À l’intérieur, la salle de prière possède une voûte en berceau à lunettes et en stuc, tandis que la partie occidentale réservée aux femmes se trouve au-dessus du vestibule. Les murs conservent des polychromies liturgiques des XVIIe et XVIIIe siècles, mises au jour lors de la restauration, et le mur oriental abrite un Aron ha-Kodesh reconstruit, de style baroque précoce."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/point-32.jpg",
+    "image": "krakow/points/points_images/point-32.jpg",
     "debug_entity": false
   },
   {
@@ -1014,7 +1014,7 @@
       "fr": "La synagogue Kupa fonctionne à nouveau aujourd’hui comme synagogue et sert de lieu de offices, de rencontres, de concerts, d’expositions et d’événements du Festival de la culture juive. Elle demeure un élément vivant du quartier et non un site muséal fermé.\n\nLa synagogue a été construite dans les années 1640, lorsque Kazimierz était encore une ville juive. Sa construction a été financée par la caisse du kahal; c’était la dernière synagogue érigée ici avant les transformations de l’ancien monde urbain. À l’origine, le bâtiment était baroque : un corps rectangulaire en brique, une salle de prière carrée, un vestibule occidental et une galerie des femmes à l’étage. \n\nLe bâtiment était adossé au côté nord de la muraille défensive de Kazimierz. Son sol d’origine se trouvait environ 80 centimètres plus bas que le niveau actuel, si bien que depuis la rue il paraissait plus bas et plaqué contre la muraille.\n\nPendant la Seconde Guerre mondiale, les nazis ont ravagé l’intérieur, détruit la bimah et d’autres objets religieux, puis profané et incendié la synagogue elle-même. Le 11 août 1945, le pogrom de Cracovie éclata à la synagogue : une fausse rumeur selon laquelle des Juifs auraient tué un enfant chrétien pour la matsa déclencha des violences et une tentative d’incendie criminel.\n\nAprès 1945, la prière y a repris pendant un temps, et des rapatriés juifs de l’URSS ont vécu dans l’annexe nord-ouest. Plus tard, le bâtiment a été utilisé comme fabrique de matsa, poste d’abattage pour la volaille rituelle, entrepôts et atelier de chaussures.\n\nLa restauration s’est poursuivie jusqu’en 2002. L’arche et les peintures murales ont été restaurées, notamment grâce à une aide importante du Fonds de sauvegarde des monuments de Cracovie. De l’intérieur d’origine subsiste l’aron ha-kodesh en pierre du début du XVIIe siècle. "
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/point-33.jpg",
+    "image": "krakow/points/points_images/point-33.jpg",
     "debug_entity": false
   },
   {
@@ -1058,7 +1058,7 @@
       "fr": "La synagogue Tempel, rue Miodowa à Cracovie, est une synagogue en activité qui sert aujourd’hui surtout aux concerts, aux conférences, aux rites festifs et aux événements de festival ; la prière régulière n’y a lieu que quelques fois par an.\n\nLa synagogue a été construite en 1860–1862 pour les Juifs réformés de Cracovie. Dès le départ, le bâtiment devait se distinguer des maisons de prière orthodoxes plus anciennes situées à proximité. On y prononçait des sermons en polonais et en allemand, et les femmes pouvaient chanter avec le hazzan et le chœur. C’est précisément cela qui suscita les critiques des Juifs orthodoxes liés à la synagogue Remuh, mais qui fit en même temps de Tempel un lieu de cérémonies et de discours patriotiques publics.\n\nLa transformation la plus importante eut lieu en 1893–1894 : le bâtiment fut agrandi et prit un aspect plus monumental. En 1924, on lui ajouta des bas-côtés. L’aspect actuel de Tempel s’est formé par étapes, et non d’après un seul projet initial.\nSelon un témoignage oral, la Miodowa d’avant-guerre était une rue de Juifs plus laïcs et intellectuels, et le chemin vers Tempel était comparé à une sortie pour un événement laïque.\n\nPendant la Seconde Guerre mondiale, les autorités allemandes emportèrent les éléments de décor et les objets religieux, et le bâtiment lui-même fut utilisé comme écurie. Après la guerre, la prière reprit ; en 1947, un mikvé fut installé dans la partie nord du bâtiment."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/point-34.jpg",
+    "image": "krakow/points/points_images/point-34.jpg",
     "debug_entity": false
   },
   {
@@ -1102,7 +1102,7 @@
       "fr": "La Haute Synagogue de Kazimierz, à Cracovie, est aujourd'hui utilisée comme espace d'exposition et de conférence. Il s'agit d'une ancienne synagogue du milieu du XVIe siècle, la troisième de Kazimierz, et son histoire se lit dans la structure même du bâtiment.\n\nDès l'origine, le plan était inhabituel : la salle de prière des hommes était aménagée à l'étage, tandis que des boutiques et des locaux de service se trouvaient au rez-de-chaussée et au sous-sol. L'entrée est menait à la partie commerciale, l'entrée ouest à la synagogue. Cette disposition s'expliquait par le fait que le bâtiment se dressait près des portes de la ville juive, à proximité de biens chrétiens, et que la salle supérieure était jugée plus sûre. \n\nDepuis la rue, on voit quatre contreforts et trois hautes fenêtres semi-circulaires qui éclairent la salle de prière. À l'intérieur, l'arche sainte en pierre a été conservée; elle est considérée comme la plus ancienne et la plus grande aron ha-kodesh de la Renaissance en Pologne. Deux griffons y sont placés au-dessus, et des peintures murales du XVIIe siècle subsistent sur les murs. \n\nLe tournant dans l'histoire du bâtiment est survenu pendant la Seconde Guerre mondiale. Les nazis ont pillé l'intérieur, détruit la voûte en berceau, et la galerie des femmes a cessé d'exister. Le grand candélabre de bronze a survécu parce qu'il avait été transféré à l'avance au château du Wawel; il s'est ensuite retrouvé parmi les objets décorant les pièces occupées pendant la guerre par le gouverneur général de Pologne, Hans Frank. Après 1945, le bâtiment a été utilisé pendant une trentaine d'années principalement comme entrepôt. En 1966, il a été confié à des ateliers de restauration, et la reconstruction de 1969–1971 a modifié la ligne du toit et relié la synagogue au bâtiment voisin. En 2008, l'édifice a été rendu à la communauté juive, et le premier office d'après-guerre a marqué son retour à la vie religieuse."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/point-35.jpg",
+    "image": "krakow/points/points_images/point-35.jpg",
     "debug_entity": false
   },
   {
@@ -1146,7 +1146,7 @@
       "fr": "Ce tronçon du mur du ghetto de Cracovie, rue Lwowska, se trouve à Podgórze, près des numéros 25–29, et constitue l’un des deux segments préservés du mur du ghetto à Cracovie. Le mur se dresse parmi de ჩვეულits immeubles d’habitation et marque l’emplacement de l’ancienne frontière du ghetto. Sa hauteur était d’environ trois mètres. Les arcades supérieures sont réalisées dans une forme rappelant des matzevot, des stèles funéraires juives. \nUne plaque commémorative est fixée au mur avec un texte en deux langues - polonais et hébreu - qui décrit ce ghetto comme un lieu où des milliers de Juifs ont été fusillés et des dizaines de milliers déportés vers les camps de concentration de Płaszów et d’Auschwitz. \nLe ghetto a été liquidé les 13 et 14 mars 1943."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/point-36.jpg",
+    "image": "krakow/points/points_images/point-36.jpg",
     "debug_entity": false
   },
   {
@@ -1190,7 +1190,7 @@
       "fr": "Le parc Bednarski est un parc urbain du quartier de Podgórze à Cracovie, près des rues Parkowa et Krzemionki. Il est situé à l’emplacement d’une ancienne carrière de calcaire, ce qui explique que son relief conserve encore les traces de l’extraction.\n\nL’idée du parc a été portée dans les années 1890 par Wojciech Bednarski ; le parc a ouvert le 19 juillet 1896. Bednarski était directeur d’école à Podgórze et conseiller municipal, et il a également investi ses propres fonds dans la création du parc.\n\nUne légende locale est aussi liée au parc : une partie de la carrière était appelée Szkoła Twardowskiego, où Pan Twardowski aurait tenu un atelier d’alchimie.\n\nConseil : montez absolument jusqu’à la rotonde et aux sentiers derrière elle. Ils offrent une belle vue sur la ville et l’église Saint-Joseph."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/point-37.jpg",
+    "image": "krakow/points/points_images/point-37.jpg",
     "debug_entity": false
   },
   {
@@ -1234,7 +1234,7 @@
       "fr": "Sur la place du Marché principal de Cracovie, l’aire de stationnement des voitures à chevaux se trouve entre l’église Sainte-Marie et la Halle aux draps. \n\nSeules les voitures d’une longueur maximale de 420 cm et attelées à deux chevaux sont autorisées. Si la température à l’ombre dépasse 28 °C, l’aire est fermée de 12:00 à 18:00 ; la durée quotidienne de travail des chevaux est limitée à 12 heures et s’effectue en alternance un jour sur deux."
     },
     "dwellTimeMinutes": 5,
-    "image": "krakow/points_images/horses.jpg",
+    "image": "krakow/points/points_images/horses.jpg",
     "debug_entity": false
   }
 ]

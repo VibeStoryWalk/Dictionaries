@@ -8,7 +8,7 @@
     "branch": "refs/heads/main"
   },
   "defaultUiSettings": {
-    "locale": "pl",
+    "locale": "auto",
     "textScale": 1,
     "simulationEnabled": false,
     "simulationSpeedKmh": 120,

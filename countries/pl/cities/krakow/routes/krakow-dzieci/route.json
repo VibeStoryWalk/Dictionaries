@@ -947,5 +947,5 @@
     "eros-bound",
     "horses"
   ],
-  "debug_entity": true
+  "debug_entity": false
 }

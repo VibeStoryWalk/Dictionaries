@@ -34,6 +34,28 @@
       "backToCities": "To cities"
     }
   },
+  "offline": {
+    "actions": {
+      "open": "Offline mode",
+      "cancel": "Cancel",
+      "download": "Download",
+      "redownload": "Download again"
+    },
+    "dialog": {
+      "title": "Offline for {{city}}",
+      "downloadTitle": "Downloading data for {{city}}",
+      "confirmBody": "Download city dictionaries, route and point images, and map tiles so the app can work without internet?",
+      "offlineUnavailable": "This city has not been downloaded for offline use yet.",
+      "downloadError": "Unable to download offline data.",
+      "downloadedReady": "Offline data for this city is already stored on the device.",
+      "backgroundSync": "The app is checking changed dictionaries and images for this city in the background."
+    },
+    "progress": {
+      "overall": "Full city package",
+      "cityTiles": "City map tiles",
+      "routeAssets": "Route images"
+    }
+  },
   "route": {
     "actions": {
       "restart": "Restart route",

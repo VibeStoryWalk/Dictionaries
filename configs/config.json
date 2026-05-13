@@ -2,6 +2,7 @@
   "appStorageKey": "samowalk-v1",
   "showDebugSettings": false,
   "useLocalDicts": false,
+  "offlineModeEnabled": false,
   "dictionariesRepo": {
     "owner": "VibeStoryWalk",
     "name": "Dictionaries",

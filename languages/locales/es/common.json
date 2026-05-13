@@ -34,6 +34,28 @@
       "backToCities": "A las ciudades"
     }
   },
+  "offline": {
+    "actions": {
+      "open": "Modo sin conexión",
+      "cancel": "Cancelar",
+      "download": "Descargar",
+      "redownload": "Descargar de nuevo"
+    },
+    "dialog": {
+      "title": "Sin conexión para {{city}}",
+      "downloadTitle": "Descargando datos para {{city}}",
+      "confirmBody": "¿Descargar diccionarios de la ciudad, imágenes de puntos y rutas, y teselas del mapa para que la aplicación funcione sin internet?",
+      "offlineUnavailable": "Esta ciudad aún no se ha descargado para su uso sin conexión.",
+      "downloadError": "No se pudieron descargar los datos sin conexión.",
+      "downloadedReady": "Los datos sin conexión de esta ciudad ya están guardados en el dispositivo.",
+      "backgroundSync": "La aplicación está comprobando en segundo plano diccionarios e imágenes modificados para esta ciudad."
+    },
+    "progress": {
+      "overall": "Paquete completo de la ciudad",
+      "cityTiles": "Teselas del mapa de la ciudad",
+      "routeAssets": "Imágenes de las rutas"
+    }
+  },
   "route": {
     "actions": {
       "restart": "Volver a recorrer la ruta",

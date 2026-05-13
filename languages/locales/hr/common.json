@@ -34,6 +34,28 @@
       "backToCities": "Na gradove"
     }
   },
+  "offline": {
+    "actions": {
+      "open": "Offline način rada",
+      "cancel": "Odustani",
+      "download": "Preuzmi",
+      "redownload": "Preuzmi ponovno"
+    },
+    "dialog": {
+      "title": "Offline za {{city}}",
+      "downloadTitle": "Preuzimanje podataka za {{city}}",
+      "confirmBody": "Preuzeti gradske rječnike, slike točaka i ruta te kartografske pločice kako bi aplikacija radila bez interneta?",
+      "offlineUnavailable": "Ovaj grad još nije preuzet za offline rad.",
+      "downloadError": "Nije moguće preuzeti offline podatke.",
+      "downloadedReady": "Offline podaci za ovaj grad već su spremljeni na uređaj.",
+      "backgroundSync": "Aplikacija u pozadini provjerava izmijenjene rječnike i slike za ovaj grad."
+    },
+    "progress": {
+      "overall": "Cijeli paket grada",
+      "cityTiles": "Pločice karte grada",
+      "routeAssets": "Slike ruta"
+    }
+  },
   "route": {
     "actions": {
       "restart": "Prođi rutu ponovno",

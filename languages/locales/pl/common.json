@@ -34,6 +34,28 @@
       "backToCities": "Do miast"
     }
   },
+  "offline": {
+    "actions": {
+      "open": "Tryb offline",
+      "cancel": "Anuluj",
+      "download": "Pobierz",
+      "redownload": "Pobierz ponownie"
+    },
+    "dialog": {
+      "title": "Offline dla {{city}}",
+      "downloadTitle": "Pobieranie danych dla {{city}}",
+      "confirmBody": "Pobrać słowniki miasta, obrazy punktów i tras oraz kafelki mapy, aby korzystać z aplikacji bez internetu?",
+      "offlineUnavailable": "To miasto nie zostało jeszcze pobrane do pracy offline.",
+      "downloadError": "Nie udało się pobrać danych offline.",
+      "downloadedReady": "Dane offline tego miasta są już zapisane na urządzeniu.",
+      "backgroundSync": "Aplikacja sprawdza w tle zmienione słowniki i obrazy dla tego miasta."
+    },
+    "progress": {
+      "overall": "Cały pakiet miasta",
+      "cityTiles": "Kafelki mapy miasta",
+      "routeAssets": "Obrazy tras"
+    }
+  },
   "route": {
     "actions": {
       "restart": "Rozpocznij trasę od nowa",

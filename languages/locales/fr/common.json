@@ -34,6 +34,28 @@
       "backToCities": "Vers les villes"
     }
   },
+  "offline": {
+    "actions": {
+      "open": "Mode hors ligne",
+      "cancel": "Annuler",
+      "download": "Télécharger",
+      "redownload": "Télécharger à nouveau"
+    },
+    "dialog": {
+      "title": "Hors ligne pour {{city}}",
+      "downloadTitle": "Téléchargement des données pour {{city}}",
+      "confirmBody": "Télécharger les dictionnaires de la ville, les images des points et des itinéraires, ainsi que les tuiles de carte pour que l'application fonctionne sans internet ?",
+      "offlineUnavailable": "Cette ville n'a pas encore été téléchargée pour une utilisation hors ligne.",
+      "downloadError": "Impossible de télécharger les données hors ligne.",
+      "downloadedReady": "Les données hors ligne de cette ville sont déjà enregistrées sur l'appareil.",
+      "backgroundSync": "L'application vérifie en arrière-plan les dictionnaires et images modifiés pour cette ville."
+    },
+    "progress": {
+      "overall": "Paquet complet de la ville",
+      "cityTiles": "Tuiles de carte de la ville",
+      "routeAssets": "Images des itinéraires"
+    }
+  },
   "route": {
     "actions": {
       "restart": "Refaire l’itinéraire",

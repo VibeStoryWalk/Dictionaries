@@ -34,6 +34,28 @@
       "backToCities": "Alle città"
     }
   },
+  "offline": {
+    "actions": {
+      "open": "Modalità offline",
+      "cancel": "Annulla",
+      "download": "Scarica",
+      "redownload": "Scarica di nuovo"
+    },
+    "dialog": {
+      "title": "Offline per {{city}}",
+      "downloadTitle": "Download dei dati per {{city}}",
+      "confirmBody": "Scaricare dizionari della città, immagini di punti e percorsi e tasselli della mappa per usare l'app senza internet?",
+      "offlineUnavailable": "Questa città non è ancora stata scaricata per l'uso offline.",
+      "downloadError": "Impossibile scaricare i dati offline.",
+      "downloadedReady": "I dati offline di questa città sono già salvati sul dispositivo.",
+      "backgroundSync": "L'app controlla in background dizionari e immagini modificati per questa città."
+    },
+    "progress": {
+      "overall": "Pacchetto completo della città",
+      "cityTiles": "Tasselli della mappa della città",
+      "routeAssets": "Immagini dei percorsi"
+    }
+  },
   "route": {
     "actions": {
       "restart": "Ricomincia il percorso",

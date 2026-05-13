@@ -30,7 +30,7 @@
     },
     "dwellTimeMinutes": 8,
     "image": "krakow/points/points_images/ghetto-heroes-square.jpg",
-    "imageHash": "04b08bab818a67fe8681aa5d5cb1a7929a10b77d39a90efb0b8d88280c5f457f",
+    "imageHash": "839b9ca83bae7b9dd5443a3ed4fd2bde2a4fc386fce5b7e569c1f414c62d71a8",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -69,7 +69,7 @@
     },
     "dwellTimeMinutes": 7,
     "image": "krakow/points/points_images/bernatka-bridge.jpg",
-    "imageHash": "169854eaee17223ee7abfb9b164d1c2e2477f420116abf6678a78c71d32470f2",
+    "imageHash": "2774ae88e6dd7d64f44249aca34bcf7324b52513f2a3c687a1120ff64755f9e9",
     "debug_entity": false,
     "approachText": {
       "ru": "Вы приближаетесь к мосту Бернатка.",
@@ -108,7 +108,7 @@
     },
     "dwellTimeMinutes": 6,
     "image": "krakow/points/points_images/judah-mural.jpg",
-    "imageHash": "dddd9af7c9d130c839cd2a6f2e43b53abc8a169f59f6ab5dadeffc6fb0123e66",
+    "imageHash": "b382121fcf0f4b483f12488a8c9a294d05896ced8ada8fe609a0d5d706dad213",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -147,7 +147,7 @@
     },
     "dwellTimeMinutes": 8,
     "image": "krakow/points/points_images/plac-nowy.jpg",
-    "imageHash": "a74cbb90364bfec5f0f3b81245a2691b968c4481909d4cd302c4aeb94a7b8519",
+    "imageHash": "559729cd6c4b114968690cdb357395a40328bab7741515733e88083b037aab74",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -186,7 +186,7 @@
     },
     "dwellTimeMinutes": 9,
     "image": "krakow/points/points_images/szeroka-street.jpg",
-    "imageHash": "30574140763cea29f0e233fcb5f3a0691de43d83aea02f2f53e6df17bd05a0e4",
+    "imageHash": "4b16f947095673eb398221d8af93380fb4269014c3897b40c31dee6c0529c3b7",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -225,7 +225,7 @@
     },
     "dwellTimeMinutes": 8,
     "image": "krakow/points/points_images/remuh-synagogue.jpg",
-    "imageHash": "05386a375f4a3aacd59a0baf4075497d54589d1fec90c93d701555897439a59c",
+    "imageHash": "38e142091bb5235f137f126c1ea42ba8ff62b038c6a13639375a8bef65903f6c",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -264,7 +264,7 @@
     },
     "dwellTimeMinutes": 8,
     "image": "krakow/points/points_images/wawel-dragon.jpg",
-    "imageHash": "b46d1429f4028c3f4823bc0c0185e9a1c9f14ff221fba080a023b1bce1ba3d13",
+    "imageHash": "0307a717b05ac987d93eae9699dfed2a4cdbc8d99f5ec9e61a20abf3ac58c06b",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -303,7 +303,7 @@
     },
     "dwellTimeMinutes": 10,
     "image": "krakow/points/points_images/wawel-hill.jpg",
-    "imageHash": "c6b8c19a31df3c758763c321d7858953849c52eb3003304285306dcaa5f83e27",
+    "imageHash": "538f5c1f8ea9df51f3d7440a3abb7ef2d7b089f8efd17564ead8867f57c057ea",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -342,7 +342,7 @@
     },
     "dwellTimeMinutes": 7,
     "image": "krakow/points/points_images/st-peter-paul.jpg",
-    "imageHash": "bf53566a82536f6d9e12954510c370bc4c544570b7e1ba9e137c866f3f8952db",
+    "imageHash": "92cff591b3d4c211d2c029662d7c53cd0cf01148aae8efb3a71eeeb3b2924fc1",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -381,7 +381,7 @@
     },
     "dwellTimeMinutes": 7,
     "image": "krakow/points/points_images/jagiellonian-university.jpg",
-    "imageHash": "97b611f2eaa0121f73cb499fc23ada7254e78a3715be354c2be199d405c58231",
+    "imageHash": "abb4eb6420445f849c5ba18237f9168a3759e3de15ad4f6c5b12abb640c57a34",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -420,7 +420,7 @@
     },
     "dwellTimeMinutes": 9,
     "image": "krakow/points/points_images/collegium-maius.jpg",
-    "imageHash": "b378ee769020435d811ba4923ba1dc6d6e267f9371b17fa0b3c955199d811ac9",
+    "imageHash": "899cab8e703907c1f9b9ab69ab97b61d5f9ee38b6fca67e85e24e73f18812af0",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -459,7 +459,7 @@
     },
     "dwellTimeMinutes": 7,
     "image": "krakow/points/points_images/planty.jpg",
-    "imageHash": "dd52f01a8d929a659760e184bfc5ffca9e61960686b081183e222ba4fd645c72",
+    "imageHash": "78788cb14adc430f22bdfae85da52be29d46feab380d6679bc29e815bc0cded7",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -498,7 +498,7 @@
     },
     "dwellTimeMinutes": 8,
     "image": "krakow/points/points_images/barbican.jpg",
-    "imageHash": "85bbea34c5a0a430d9ab93ef3e676075190c692d63694e7a34d3eb08a9b1ed11",
+    "imageHash": "2657af337856ac9729ffdd4dc87d1ba915b53876d898b314ea66f0e18e8e991c",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -537,7 +537,7 @@
     },
     "dwellTimeMinutes": 6,
     "image": "krakow/points/points_images/florian-gate.jpg",
-    "imageHash": "5d678629d7a3bec54a335838176f666422331dd8e4473b4d3814c43dc252a56e",
+    "imageHash": "4f9130204b18ece83ad36066c50ca0e473224d6334cf259b4dd1107d8154e96f",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -576,7 +576,7 @@
     },
     "dwellTimeMinutes": 8,
     "image": "krakow/points/points_images/st-marys-basilica.jpg",
-    "imageHash": "4cdad5f59f8ad5c9a638b9e7137c0f7dd6ce5645acafbe9314854b9b53af057f",
+    "imageHash": "d2ee61bc22bc67d2581c67ce80749b7cfd74fa1fadb3fe23be27f61eb2a0da14",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -615,7 +615,7 @@
     },
     "dwellTimeMinutes": 7,
     "image": "krakow/points/points_images/cloth-hall.jpg",
-    "imageHash": "f06a0da1946fc327e909e4ef2b188b60ab93f93c99e18d3fead6c501c387f45e",
+    "imageHash": "5a3ccae793cb24d71cafcb312f3b8f72b19b85a100d9753ec8f495870c268734",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -654,7 +654,7 @@
     },
     "dwellTimeMinutes": 6,
     "image": "krakow/points/points_images/town-hall-tower.jpg",
-    "imageHash": "2f4dd7375e84eacb5373ad7ee9180fc25be2cd8c3bc8d3790e49fe943863f257",
+    "imageHash": "7af0ca6077cdab617f2e48d98426c439211d667955026a00f11e85451ac26106",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -693,7 +693,7 @@
     },
     "dwellTimeMinutes": 6,
     "image": "krakow/points/points_images/eros-bound.jpg",
-    "imageHash": "fa5149cbe6848c6d0c427024c682de20c97a1281e26be1a7019c3d11c5bce925",
+    "imageHash": "e388dc94f026b1cb07c01a284940eb926f84bc39176f7888f1dd99528844ebf2",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -732,7 +732,7 @@
     },
     "dwellTimeMinutes": 10,
     "image": "krakow/points/points_images/main-square.jpg",
-    "imageHash": "009640c8e96e7750af484df7290f38b6b955a8abccee4f40b3da80ed4ad3756a",
+    "imageHash": "b55ccc12c8d054f845eb2a9d6d5638bcd2d9e0663bcd77795fdfb65e18ed345b",
     "debug_entity": false,
     "approachText": {
       "ru": "",
@@ -776,7 +776,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/mikolaj-kopernik-sculpture.jpg",
-    "imageHash": "66585ad13c8ca248c6a94e95614a1af806ef700ad06b7078227d4e17f8abd2f1",
+    "imageHash": "8b745e210240870e2c42a5ed871192b0ede53f9e195a5fd435388b70d5af7a1f",
     "debug_entity": false
   },
   {
@@ -815,7 +815,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/jst-joseph-church.jpg",
-    "imageHash": "6e577275b361a3989bf1828c172e1ae1ab376e35ba2ff1e52531d0264c99fc28",
+    "imageHash": "a10122233742cec238da8956f2227231e05557672e35406c3a68f9964634dc89",
     "debug_entity": false
   },
   {
@@ -860,7 +860,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/schindler-list-passage.jpg",
-    "imageHash": "313c46b86d1c9b7a3ef74f8c13036229d401b61f59e6d9400c256c006c99711c",
+    "imageHash": "96fd73a8fbc3c5f89a343fd60f0065d06a44ca9bb0873ff413a60f262f287087",
     "debug_entity": false
   },
   {
@@ -905,7 +905,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/dom-bosak.jpg",
-    "imageHash": "53ab530491666141bd67ba3560b0ae4dd641781d1922733b5c7466ef9aaeb2b6",
+    "imageHash": "f014c361ebc20d4999df5434638778bda07b8a0cc72bc7399f376d24ec54bbd0",
     "debug_entity": false
   },
   {
@@ -950,7 +950,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-31.jpg",
-    "imageHash": "d45466cb1dc5a1ec45a935db63b10363059296181f3b92a48e7097449df4c6a5",
+    "imageHash": "49f439ea0b372676128335f849867f372314ae006b5f6f647ffd817d48b2beca",
     "debug_entity": false
   },
   {
@@ -995,7 +995,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-32.jpg",
-    "imageHash": "b3a2f0839b6de5a3a4f27f3840a448ae4615a87af91e006dcb759a4236145b49",
+    "imageHash": "3977603418be0161e82b931d9d29fca6a65495f4f3965e4f5d2027ed3694942b",
     "debug_entity": false
   },
   {
@@ -1040,7 +1040,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-33.jpg",
-    "imageHash": "1defdb375dffb00474392f22a212a89988aa9e64f027c42d6d77165430cfa0ff",
+    "imageHash": "6335b46a41b75bd0f6fe314d54b23b2c368d65e182811d523db4deafa75fca8d",
     "debug_entity": false
   },
   {
@@ -1085,7 +1085,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-34.jpg",
-    "imageHash": "43da73e79054e45b8a2e812d53db935c66699735504aad3976e63da3fe94aaed",
+    "imageHash": "ba90c93231f66f3665ba5e9eb56e28d74f0c249a37349d01891c25e674b1459b",
     "debug_entity": false
   },
   {
@@ -1130,7 +1130,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-35.jpg",
-    "imageHash": "476235daa185458f6b938e709de8ce7f2e8f9f381d1fd3bbaf97f852ce1513bd",
+    "imageHash": "1af01b298a0f6210274ed02514a25586ae070c959637ac41a4bd1a68e005b302",
     "debug_entity": false
   },
   {
@@ -1175,7 +1175,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-36.jpg",
-    "imageHash": "0b0a930de12620d6410082668590f4094e04365e4dc755c12281547545425018",
+    "imageHash": "9c786e7fbe4d0d6bca8c6ba6c8b47b5c38dd35592deaa7a5311ee9555e4c1941",
     "debug_entity": false
   },
   {
@@ -1220,7 +1220,7 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-37.jpg",
-    "imageHash": "0ddb832a7fb80ea017ad49c70db9aeb9ce30b09710c9faf8893fa9a621bf630a",
+    "imageHash": "96190734ea279b986f22d05dd56b6b29f50d5b5acc026e8a598e12f5c1c425f1",
     "debug_entity": false
   },
   {
@@ -1265,7 +1265,52 @@
     },
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/horses.jpg",
-    "imageHash": "0adf4eb477b2452c9cf61289844807f04f5b0c6da53c0c8970555993539d3d45",
+    "imageHash": "39672338076bba5ed63ea971979adb12daaa2a646f1da5ff16ede8a88041f13e",
+    "debug_entity": false
+  },
+  {
+    "id": "point-mp4fylhy",
+    "order": 32,
+    "title": {
+      "pl": "Punkt testowy",
+      "ru": "Тестовая точка",
+      "en": "Test point",
+      "de": "Testpunkt",
+      "ua": "Тестова точка",
+      "it": "Punto di prova",
+      "hr": "Testna točka",
+      "es": "Punto de prueba",
+      "fr": "Point de test"
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.06143,
+      19.93658
+    ],
+    "story": {
+      "pl": "opis testowy",
+      "ru": "тестовое описание",
+      "en": "test description",
+      "de": "Testbeschreibung",
+      "ua": "тестовий опис",
+      "it": "descrizione di prova",
+      "hr": "probni opis",
+      "es": "descripción de prueba",
+      "fr": "description de test"
+    },
+    "dwellTimeMinutes": 5,
+    "image": "krakow/points/points_images/point-mp4fylhy.jpg",
+    "imageHash": "8281937f45515038799fdb488998098e33acdad7ca3111755bc9e991ad47b2ad",
     "debug_entity": false
   }
 ]

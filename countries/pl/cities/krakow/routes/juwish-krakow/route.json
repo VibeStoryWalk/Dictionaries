@@ -13,7 +13,7 @@
     "fr": "Héritage juif de Cracovie"
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "5377319f11c6ef4bc9d1484d64dc62cf09f0f9a2387dc975aa0156db38896ba6",
+  "imageHash": "5b67d35f1719f29dea54f6338d4be6e5beb8dcebe1237ed0ae24af1a6eb50495",
   "description": {
     "pl": "Spacerowa trasa po żydowskim Krakowie: od murów getta w Podgórzu do historycznie żydowskiego Kazimierza, pełnego synagog i innych żydowskich miejsc.",
     "ru": "Пеший маршрут по еврейскому Кракову: от стен гетто в Подгуже до исторически еврейского Казимежа, насыщенного синагогами и другими еврейскими объектами.",
@@ -37,7 +37,7 @@
     "fr": "Cet itinéraire est consacré au patrimoine juif de Cracovie et traverse deux lieux clés de la mémoire historique. Vous verrez d’abord Podgórze, l’ancien quartier du ghetto avec les traces de son passé tragique. Vous arriverez ensuite à Kazimierz - le quartier où les Juifs vivent depuis le Moyen Âge, laissant leur empreinte culturelle dans le paysage architectural de la ville. Synagogues, fresques murales, monuments - tout cela est pour vous - dans un itinéraire spécialement préparé."
   },
   "durationMinutes": 120,
-  "distanceKm": 2.65,
+  "distanceKm": 3.28,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -1102,6 +1102,24 @@
           "radiusMeters": 12
         }
       ]
+    },
+    {
+      "fromPointId": "plac-nowy",
+      "toPointId": "bernatka-bridge",
+      "path": [
+        {
+          "coordinates": [
+            50.05159267501118,
+            19.94524775504501
+          ]
+        },
+        {
+          "coordinates": [
+            50.046149841497375,
+            19.94796104242147
+          ]
+        }
+      ]
     }
   ],
   "pointIds": [
@@ -1117,7 +1135,8 @@
     "point-33",
     "point-34",
     "schindler-list-passage",
-    "plac-nowy"
+    "plac-nowy",
+    "bernatka-bridge"
   ],
   "debug_entity": false
 }

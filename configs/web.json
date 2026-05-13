@@ -1,7 +1,7 @@
 {
-  "showDebugSettings": false,
+  "showDebugSettings": true,
   "useLocalDicts": true,
-  "offlineModeEnabled": true,
+  "offlineModeEnabled": false,
   "defaultUiSettings": {
     "locale": "ru"
   }

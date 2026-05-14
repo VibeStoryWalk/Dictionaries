@@ -1267,5 +1267,50 @@
     "image": "krakow/points/points_images/horses.jpg",
     "imageHash": "39672338076bba5ed63ea971979adb12daaa2a646f1da5ff16ede8a88041f13e",
     "debug_entity": false
+  },
+  {
+    "id": "point-mp5bms1u",
+    "order": 32,
+    "title": {
+      "pl": "Punkt testowy",
+      "ru": "Тестовая точка",
+      "en": "Test point",
+      "de": "Testpunkt",
+      "ua": "Тестова точка",
+      "it": "Punto di prova",
+      "hr": "Testna točka",
+      "es": "Punto de prueba",
+      "fr": "Point de test"
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.06143,
+      19.93658
+    ],
+    "story": {
+      "pl": "Opis testowy",
+      "ru": "Тестовое описание",
+      "en": "Test description",
+      "de": "Testbeschreibung",
+      "ua": "Тестовий опис",
+      "it": "Descrizione di prova",
+      "hr": "Testni opis",
+      "es": "Descripción de prueba",
+      "fr": "Description de test"
+    },
+    "dwellTimeMinutes": 5,
+    "image": "krakow/points/points_images/point-mp5bms1u.jpg",
+    "imageHash": "8281937f45515038799fdb488998098e33acdad7ca3111755bc9e991ad47b2ad",
+    "debug_entity": false
   }
 ]

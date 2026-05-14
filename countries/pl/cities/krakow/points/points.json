@@ -504,7 +504,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 100
   },
   {
     "id": "florian-gate",

@@ -39,10 +39,8 @@
       "tooltipReady": "Offline-ready"
     },
     "menu": {
-      "packageOutdated": "Package is outdated. Click to renew.",
-      "mapOutdated": "Map is outdated. Click to renew.",
-      "routesOutdated": "Routes are outdated. Click to renew.",
-      "clearOffline": "Clean up offline city package"
+      "updatePackage": "Update",
+      "clearOffline": "Remove"
     }
   },
   "route": {

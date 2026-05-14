@@ -39,10 +39,8 @@
       "tooltipReady": "Offline bereit"
     },
     "menu": {
-      "packageOutdated": "Paket ist veraltet. Klicken zum Erneuern.",
-      "mapOutdated": "Karte ist veraltet. Klicken zum Erneuern.",
-      "routesOutdated": "Routen sind veraltet. Klicken zum Erneuern.",
-      "clearOffline": "Offline-Stadtpaket bereinigen"
+      "updatePackage": "Aktualisieren",
+      "clearOffline": "Entfernen"
     }
   },
   "route": {

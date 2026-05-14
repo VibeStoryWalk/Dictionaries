@@ -39,10 +39,8 @@
       "tooltipReady": "Prêt pour une utilisation hors ligne"
     },
     "menu": {
-      "packageOutdated": "Le paquet est obsolète. Cliquez pour renouveler.",
-      "mapOutdated": "La carte est obsolète. Cliquez pour renouveler.",
-      "routesOutdated": "Les itinéraires sont obsolètes. Cliquez pour renouveler.",
-      "clearOffline": "Nettoyer le paquet hors ligne de la ville"
+      "updatePackage": "Mettre à jour",
+      "clearOffline": "Supprimer"
     }
   },
   "route": {

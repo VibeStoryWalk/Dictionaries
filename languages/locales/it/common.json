@@ -39,10 +39,8 @@
       "tooltipReady": "Pronto per l'uso offline"
     },
     "menu": {
-      "packageOutdated": "Il pacchetto non è aggiornato. Fai clic per rinnovarlo.",
-      "mapOutdated": "La mappa non è aggiornata. Fai clic per rinnovarla.",
-      "routesOutdated": "I percorsi non sono aggiornati. Fai clic per rinnovarli.",
-      "clearOffline": "Rimuovi il pacchetto offline della città"
+      "updatePackage": "Aggiorna",
+      "clearOffline": "Rimuovi"
     }
   },
   "route": {

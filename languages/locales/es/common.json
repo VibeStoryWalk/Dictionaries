@@ -39,10 +39,8 @@
       "tooltipReady": "Listo para uso sin conexión"
     },
     "menu": {
-      "packageOutdated": "El paquete está desactualizado. Pulse para renovar.",
-      "mapOutdated": "El mapa está desactualizado. Pulse para renovar.",
-      "routesOutdated": "Las rutas están desactualizadas. Pulse para renovar.",
-      "clearOffline": "Limpiar el paquete de ciudad sin conexión"
+      "updatePackage": "Actualizar",
+      "clearOffline": "Eliminar"
     }
   },
   "route": {

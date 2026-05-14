@@ -39,10 +39,8 @@
       "tooltipReady": "Spremo za offline korištenje"
     },
     "menu": {
-      "packageOutdated": "Paket je zastario. Kliknite za obnovu.",
-      "mapOutdated": "Karta je zastarjela. Kliknite za obnovu.",
-      "routesOutdated": "Rute su zastarjele. Kliknite za obnovu.",
-      "clearOffline": "Ukloni offline paket grada"
+      "updatePackage": "Ažuriraj",
+      "clearOffline": "Ukloni"
     }
   },
   "route": {

@@ -32,28 +32,17 @@
   "city": {
     "tooltips": {
       "backToCities": "Na gradove"
-    }
-  },
-  "offline": {
-    "actions": {
-      "open": "Offline način rada",
-      "cancel": "Odustani",
-      "download": "Preuzmi",
-      "redownload": "Preuzmi ponovno"
     },
-    "dialog": {
-      "title": "Offline za {{city}}",
-      "downloadTitle": "Preuzimanje podataka za {{city}}",
-      "confirmBody": "Preuzeti gradske rječnike, slike točaka i ruta te kartografske pločice kako bi aplikacija radila bez interneta?",
-      "offlineUnavailable": "Ovaj grad još nije preuzet za offline rad.",
-      "downloadError": "Nije moguće preuzeti offline podatke.",
-      "downloadedReady": "Offline podaci za ovaj grad već su spremljeni na uređaj.",
-      "backgroundSync": "Aplikacija u pozadini provjerava izmijenjene rječnike i slike za ovaj grad."
+    "offline": {
+      "tooltipNone": "Samo online. Kliknite za preuzimanje paketa grada i offline korištenje.",
+      "tooltipOutdated": "Paket grada je zastario",
+      "tooltipReady": "Spremo za offline korištenje"
     },
-    "progress": {
-      "overall": "Cijeli paket grada",
-      "cityTiles": "Pločice karte grada",
-      "routeAssets": "Slike ruta"
+    "menu": {
+      "packageOutdated": "Paket je zastario. Kliknite za obnovu.",
+      "mapOutdated": "Karta je zastarjela. Kliknite za obnovu.",
+      "routesOutdated": "Rute su zastarjele. Kliknite za obnovu.",
+      "clearOffline": "Ukloni offline paket grada"
     }
   },
   "route": {

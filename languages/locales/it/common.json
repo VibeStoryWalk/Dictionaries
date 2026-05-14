@@ -32,28 +32,17 @@
   "city": {
     "tooltips": {
       "backToCities": "Alle città"
-    }
-  },
-  "offline": {
-    "actions": {
-      "open": "Modalità offline",
-      "cancel": "Annulla",
-      "download": "Scarica",
-      "redownload": "Scarica di nuovo"
     },
-    "dialog": {
-      "title": "Offline per {{city}}",
-      "downloadTitle": "Download dei dati per {{city}}",
-      "confirmBody": "Scaricare dizionari della città, immagini di punti e percorsi e tasselli della mappa per usare l'app senza internet?",
-      "offlineUnavailable": "Questa città non è ancora stata scaricata per l'uso offline.",
-      "downloadError": "Impossibile scaricare i dati offline.",
-      "downloadedReady": "I dati offline di questa città sono già salvati sul dispositivo.",
-      "backgroundSync": "L'app controlla in background dizionari e immagini modificati per questa città."
+    "offline": {
+      "tooltipNone": "Solo online. Fai clic per scaricare il pacchetto della città e usarla offline.",
+      "tooltipOutdated": "Il pacchetto della città non è aggiornato",
+      "tooltipReady": "Pronto per l'uso offline"
     },
-    "progress": {
-      "overall": "Pacchetto completo della città",
-      "cityTiles": "Tasselli della mappa della città",
-      "routeAssets": "Immagini dei percorsi"
+    "menu": {
+      "packageOutdated": "Il pacchetto non è aggiornato. Fai clic per rinnovarlo.",
+      "mapOutdated": "La mappa non è aggiornata. Fai clic per rinnovarla.",
+      "routesOutdated": "I percorsi non sono aggiornati. Fai clic per rinnovarli.",
+      "clearOffline": "Rimuovi il pacchetto offline della città"
     }
   },
   "route": {

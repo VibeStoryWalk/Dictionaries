@@ -32,28 +32,17 @@
   "city": {
     "tooltips": {
       "backToCities": "Zu den Städten"
-    }
-  },
-  "offline": {
-    "actions": {
-      "open": "Offline-Modus",
-      "cancel": "Abbrechen",
-      "download": "Herunterladen",
-      "redownload": "Erneut herunterladen"
     },
-    "dialog": {
-      "title": "Offline für {{city}}",
-      "downloadTitle": "Daten für {{city}} werden heruntergeladen",
-      "confirmBody": "Stadtwörterbücher, Bilder von Punkten und Routen sowie Kartenkacheln herunterladen, damit die App ohne Internet funktioniert?",
-      "offlineUnavailable": "Diese Stadt wurde noch nicht für die Offline-Nutzung heruntergeladen.",
-      "downloadError": "Offline-Daten konnten nicht heruntergeladen werden.",
-      "downloadedReady": "Offline-Daten für diese Stadt sind bereits auf dem Gerät gespeichert.",
-      "backgroundSync": "Die App prüft im Hintergrund geänderte Wörterbücher und Bilder für diese Stadt."
+    "offline": {
+      "tooltipNone": "Nur online. Klicken, um das Stadtpaket herunterzuladen und es offline nutzbar zu machen.",
+      "tooltipOutdated": "Stadtpaket ist veraltet",
+      "tooltipReady": "Offline bereit"
     },
-    "progress": {
-      "overall": "Gesamtes Stadtpaket",
-      "cityTiles": "Kartenkacheln der Stadt",
-      "routeAssets": "Routenbilder"
+    "menu": {
+      "packageOutdated": "Paket ist veraltet. Klicken zum Erneuern.",
+      "mapOutdated": "Karte ist veraltet. Klicken zum Erneuern.",
+      "routesOutdated": "Routen sind veraltet. Klicken zum Erneuern.",
+      "clearOffline": "Offline-Stadtpaket bereinigen"
     }
   },
   "route": {

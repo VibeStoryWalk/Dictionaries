@@ -32,28 +32,17 @@
   "city": {
     "tooltips": {
       "backToCities": "To cities"
-    }
-  },
-  "offline": {
-    "actions": {
-      "open": "Offline mode",
-      "cancel": "Cancel",
-      "download": "Download",
-      "redownload": "Download again"
     },
-    "dialog": {
-      "title": "Offline for {{city}}",
-      "downloadTitle": "Downloading data for {{city}}",
-      "confirmBody": "Download city dictionaries, route and point images, and map tiles so the app can work without internet?",
-      "offlineUnavailable": "This city has not been downloaded for offline use yet.",
-      "downloadError": "Unable to download offline data.",
-      "downloadedReady": "Offline data for this city is already stored on the device.",
-      "backgroundSync": "The app is checking changed dictionaries and images for this city in the background."
+    "offline": {
+      "tooltipNone": "Online only. Click to download city package to make it offline-ready.",
+      "tooltipOutdated": "City package is outdated",
+      "tooltipReady": "Offline-ready"
     },
-    "progress": {
-      "overall": "Full city package",
-      "cityTiles": "City map tiles",
-      "routeAssets": "Route images"
+    "menu": {
+      "packageOutdated": "Package is outdated. Click to renew.",
+      "mapOutdated": "Map is outdated. Click to renew.",
+      "routesOutdated": "Routes are outdated. Click to renew.",
+      "clearOffline": "Clean up offline city package"
     }
   },
   "route": {

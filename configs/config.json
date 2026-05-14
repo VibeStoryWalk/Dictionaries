@@ -34,5 +34,5 @@
   "movingHumanRadiusMeters": 7,
   "osmTileUrl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
   "osmAttribution": "&copy; OpenStreetMap contributors",
-  "osmTilesExpirationPeriod": "365.0.0"
+  "osmTilesExpirationPeriod": "0.0.1"
 }

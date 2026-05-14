@@ -195,6 +195,13 @@
     "decrease": "Decrease text size",
     "increase": "Increase text size"
   },
+  "offline": {
+    "noData": {
+      "title": "You're offline",
+      "body": "No city packages have been downloaded for offline use. Connect to the internet to browse routes.",
+      "retry": "Retry"
+    }
+  },
   "geolocation": {
     "errors": {
       "positionUnavailable": "Unable to get your location. Allow geolocation or switch to demo mode.",

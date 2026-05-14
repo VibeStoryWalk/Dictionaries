@@ -195,6 +195,13 @@
     "decrease": "Text verkleinern",
     "increase": "Text vergrößern"
   },
+  "offline": {
+    "noData": {
+      "title": "Kein Internetzugang",
+      "body": "Es wurden keine Stadtpakete für die Offline-Nutzung heruntergeladen. Verbinde dich mit dem Internet, um Routen zu durchsuchen.",
+      "retry": "Erneut versuchen"
+    }
+  },
   "geolocation": {
     "errors": {
       "positionUnavailable": "Dein Standort konnte nicht ermittelt werden. Erlaube Geolokalisierung oder aktiviere den Demo-Modus.",

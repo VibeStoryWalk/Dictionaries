@@ -195,6 +195,13 @@
     "decrease": "Réduire le texte",
     "increase": "Agrandir le texte"
   },
+  "offline": {
+    "noData": {
+      "title": "Hors connexion",
+      "body": "Aucun paquet de ville n'a été téléchargé pour une utilisation hors ligne. Connectez-vous à Internet pour parcourir les itinéraires.",
+      "retry": "Réessayer"
+    }
+  },
   "geolocation": {
     "errors": {
       "positionUnavailable": "Impossible d’obtenir votre position. Autorisez la géolocalisation ou activez le mode démo.",

@@ -197,6 +197,13 @@
     "decrease": "Smanji tekst",
     "increase": "Povećaj tekst"
   },
+  "offline": {
+    "noData": {
+      "title": "Nema veze",
+      "body": "Nisu preuzeti paketi gradova za offline korištenje. Povežite se s internetom za pregled ruta.",
+      "retry": "Pokušaj ponovo"
+    }
+  },
   "geolocation": {
     "errors": {
       "positionUnavailable": "Nije moguće dohvatiti vašu lokaciju. Dopustite geolokaciju ili uključite demo način rada.",

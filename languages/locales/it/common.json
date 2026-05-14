@@ -195,6 +195,13 @@
     "decrease": "Riduci testo",
     "increase": "Aumenta testo"
   },
+  "offline": {
+    "noData": {
+      "title": "Sei offline",
+      "body": "Nessun pacchetto città è stato scaricato per l'uso offline. Connettiti a Internet per sfogliare i percorsi.",
+      "retry": "Riprova"
+    }
+  },
   "geolocation": {
     "errors": {
       "positionUnavailable": "Impossibile ottenere la tua posizione. Consenti la geolocalizzazione o passa alla modalità demo.",

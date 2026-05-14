@@ -195,6 +195,13 @@
     "decrease": "Reducir texto",
     "increase": "Aumentar texto"
   },
+  "offline": {
+    "noData": {
+      "title": "Sin conexión",
+      "body": "No se han descargado paquetes de ciudad para uso sin conexión. Conéctate a internet para explorar rutas.",
+      "retry": "Reintentar"
+    }
+  },
   "geolocation": {
     "errors": {
       "positionUnavailable": "No se pudo obtener su ubicación. Permita la geolocalización o active el modo demo.",

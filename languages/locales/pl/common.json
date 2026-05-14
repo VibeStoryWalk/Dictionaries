@@ -197,6 +197,13 @@
     "decrease": "Zmniejsz tekst",
     "increase": "Powiększ tekst"
   },
+  "offline": {
+    "noData": {
+      "title": "Brak połączenia",
+      "body": "Żadne pakiety miast nie zostały pobrane do użytku offline. Połącz się z internetem, aby przeglądać trasy.",
+      "retry": "Spróbuj ponownie"
+    }
+  },
   "geolocation": {
     "errors": {
       "positionUnavailable": "Nie udało się pobrać Twojej pozycji. Zezwól na geolokalizację albo włącz tryb demo.",

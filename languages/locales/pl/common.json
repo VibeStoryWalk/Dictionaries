@@ -209,5 +209,12 @@
       "positionUnavailable": "Nie udało się pobrać Twojej pozycji. Zezwól na geolokalizację albo włącz tryb demo.",
       "unsupported": "Geolokalizacja nie jest dostępna w tej przeglądarce. Przełącz się na tryb demo."
     }
+  },
+  "freeWalk": {
+    "title": "Wolny spacer",
+    "tooltips": {
+      "openFreeWalk": "Wolny spacer",
+      "back": "Powrót do miasta"
+    }
   }
 }

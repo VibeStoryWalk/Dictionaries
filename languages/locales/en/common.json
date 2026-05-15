@@ -207,5 +207,12 @@
       "positionUnavailable": "Unable to get your location. Allow geolocation or switch to demo mode.",
       "unsupported": "Geolocation is not available in this browser. Switch to demo mode."
     }
+  },
+  "freeWalk": {
+    "title": "Free Walk",
+    "tooltips": {
+      "openFreeWalk": "Free walk",
+      "back": "Back to city"
+    }
   }
 }

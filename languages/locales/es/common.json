@@ -207,5 +207,12 @@
       "positionUnavailable": "No se pudo obtener su ubicación. Permita la geolocalización o active el modo demo.",
       "unsupported": "La geolocalización no está disponible en este navegador. Cambie al modo demo."
     }
+  },
+  "freeWalk": {
+    "title": "Paseo libre",
+    "tooltips": {
+      "openFreeWalk": "Paseo libre",
+      "back": "Volver a la ciudad"
+    }
   }
 }

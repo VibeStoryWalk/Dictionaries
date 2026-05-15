@@ -207,5 +207,12 @@
       "positionUnavailable": "Dein Standort konnte nicht ermittelt werden. Erlaube Geolokalisierung oder aktiviere den Demo-Modus.",
       "unsupported": "Geolokalisierung ist in diesem Browser nicht verfügbar. Wechsle in den Demo-Modus."
     }
+  },
+  "freeWalk": {
+    "title": "Freier Spaziergang",
+    "tooltips": {
+      "openFreeWalk": "Freier Spaziergang",
+      "back": "Zurück zur Stadt"
+    }
   }
 }

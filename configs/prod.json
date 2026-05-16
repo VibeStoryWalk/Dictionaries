@@ -1,5 +1,6 @@
 {
   "defaultUiSettings": {
-    "adsEnabled": false
+    "adsEnabled": false,
+    "adsFrequency": 10
   }
 }

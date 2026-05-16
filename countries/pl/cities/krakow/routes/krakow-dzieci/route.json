@@ -13,7 +13,7 @@
     "fr": "Cracovie pour les familles avec enfants"
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "d5448d019932fc2ba08fcb39ccf687c86a70406a253c2feab78ba3c2aa41afbd",
+  "imageHash": "81ca03301e94f652cb070bfede4217982c81631754a0b30a7d73b201347a3816",
   "description": {
     "pl": "Rodzinny spacer po centrum i południowym brzegu Wisły: Rynek Główny, zielony pierścień Plant, Smok Wawelski, bulwar, most z figurami i park z urozmaiconym terenem na aktywny postój.",
     "ru": "Семейная прогулка по центру и южному берегу Вислы: главная площадь, зеленое кольцо Planty, Вавельский дракон, набережная, мост с фигурами и парк с рельефом для активной остановки.",
@@ -125,26 +125,6 @@
             "hr": "Pređite cestu i skrenite desno",
             "es": "Cruza la calle y gira a la derecha",
             "fr": "Traversez la rue et tournez à droite"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.043221474503625,
-            19.94860283061941
-          ],
-          "type": "advPlatform",
-          "radiusMeters": 11,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
           },
           "debug_entity": false
         },
@@ -313,7 +293,7 @@
             50.04661189755095,
             19.946188546556183
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 22,
           "text": {
             "pl": "",
@@ -333,7 +313,7 @@
             50.04570664333149,
             19.943967836147504
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 22,
           "text": {
             "pl": "",
@@ -373,7 +353,7 @@
             50.04572047759735,
             19.93933317549896
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 20,
           "text": {
             "pl": "",
@@ -413,7 +393,7 @@
             50.04801099710652,
             19.936516486096043
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 19,
           "text": {
             "pl": "",
@@ -511,8 +491,8 @@
         },
         {
           "coordinates": [
-            50.05301522815679,
-            19.933579866530845
+            50.05299860480388,
+            19.93355588202738
           ],
           "radiusMeters": 20
         }
@@ -524,8 +504,8 @@
       "path": [
         {
           "coordinates": [
-            50.05301522815679,
-            19.933579866530845
+            50.05299860480388,
+            19.93355588202738
           ],
           "radiusMeters": 21
         },
@@ -654,7 +634,7 @@
             50.05592988368289,
             19.935464882129857
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 20,
           "text": {
             "pl": "",
@@ -774,7 +754,7 @@
             50.05952227238314,
             19.933190345764164
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 15,
           "text": {
             "pl": "",
@@ -854,7 +834,7 @@
             50.062104903830324,
             19.93352289806406
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 17,
           "text": {
             "pl": "",

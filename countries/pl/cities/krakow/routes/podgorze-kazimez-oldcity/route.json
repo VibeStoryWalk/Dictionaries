@@ -13,7 +13,7 @@
     "fr": "Grande promenade à Cracovie"
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "cdef7c7c39750e9361c074b0d689ebbe4266fc6b8835dee34b3c414b266aa7c6",
+  "imageHash": "92da856447c0b176b215c521a817439b16f45bbd116909ea4e6045af15812186",
   "description": {
     "pl": "Długi spacer przez trzy losy Krakowa: od tragicznego Podgórza przez żydowski Kazimierz do Starego Miasta z jego głównymi symbolami średniowiecznego centrum.",
     "ru": "Длинная прогулка через три судьбы Кракова: от трагического Подгуже через еврейский Казимеж к Старому городу с его главными символами средневекового центра.",
@@ -37,7 +37,7 @@
     "fr": "Ce grand itinéraire relie plusieurs quartiers de Cracovie en une longue promenade. Vous commencerez sur la place des Héros du ghetto à Podgórze, traverserez la Vistule pour rejoindre le Kazimierz juif avec ses rues, ses synagogues et ses traces de l’histoire de la guerre, puis gagnerez le Wawel avant de terminer dans la vieille ville. Cet itinéraire parle de la vie urbaine et de l’histoire stratifiée de Cracovie, qui a façonné son visage riche et moderne. "
   },
   "durationMinutes": 330,
-  "distanceKm": 7.43,
+  "distanceKm": 7.47,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -1244,8 +1244,8 @@
         },
         {
           "coordinates": [
-            50.05301522815679,
-            19.933579866530845
+            50.05299860480388,
+            19.93355588202738
           ]
         }
       ]
@@ -1256,8 +1256,8 @@
       "path": [
         {
           "coordinates": [
-            50.05301522815679,
-            19.933579866530845
+            50.05299860480388,
+            19.93355588202738
           ]
         },
         {
@@ -2008,8 +2008,8 @@
         },
         {
           "coordinates": [
-            50.065106309430035,
-            19.94146883107946
+            50.06545510611199,
+            19.94161845415
           ]
         }
       ]
@@ -2020,8 +2020,8 @@
       "path": [
         {
           "coordinates": [
-            50.065106309430035,
-            19.94146883107946
+            50.06545510611199,
+            19.94161845415
           ]
         },
         {

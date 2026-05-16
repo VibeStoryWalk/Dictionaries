@@ -248,8 +248,8 @@
       "ua": "Вавельський дракон"
     },
     "coordinates": [
-      50.05301522815679,
-      19.933579866530845
+      50.05299860480388,
+      19.93355588202738
     ],
     "story": {
       "ru": "У подножия Вавельского холма, на берегу Вислы, находится Вавельский дракон — одна из самых известных и любимых городских достопримечательностей. Эта металлическая скульптура, установленная в 1972 году, изображает мифическое существо с раскрытой пастью и напряжённым телом, словно готовым к рывку. Особую популярность ей приносит огненный эффект: через каждые пять минут дракон извергает настоящее пламя, привлекая внимание прохожих. \n\nОбраз дракона связан с древней легендой, глубоко укоренившейся в истории Кракова. Согласно преданию, в пещере под холмом жил свирепый дракон, наводивший ужас на жителей и требовавший жертв. Победить его удалось хитростью: смелый юноша накормил чудовище овечьей шкурой, наполненной серой. Испытывая нестерпимую жажду, дракон выпил столько воды из реки, что в конце концов погиб.",
@@ -270,7 +270,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 18
   },
   {
     "id": "wawel-hill",
@@ -309,7 +310,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 60
   },
   {
     "id": "st-peter-paul",
@@ -482,8 +484,8 @@
       "ua": "Барбакан"
     },
     "coordinates": [
-      50.065106309430035,
-      19.94146883107946
+      50.06545510611199,
+      19.94161845415
     ],
     "story": {
       "ru": "Среди мощных оборонительных сооружений старого Кракова особое место занимает Барбакан - редкий образец средневековой фортификационной архитектуры, сохранившийся почти в первозданном виде. Он был возведён в конце XV века как часть городской системы укреплений и служил важнейшим элементом защиты северного въезда в город. \n\nБарбакан создавался в эпоху, когда Ян Ольбрахт укреплял обороноспособность королевства, опасаясь угроз со стороны Османской империи. Сооружение выдерживало осады и служило важным оборонительным пунктом на протяжении нескольких столетий, хотя с развитием артиллерии его значение постепенно уменьшалось. Несмотря на это, барбакан избежал разрушения, когда многие городские стены были разобраны в XIX веке, и сегодня остаётся одним из немногих сохранившихся подобных объектов в Европе.\n\nС этим местом связана одна городская легенда. Она рассказывает о простом ремесленнике, который во время осады сумел поразить вражеского командира метким выстрелом, спасая город от захвата. ",
@@ -505,7 +507,7 @@
       "en": "",
       "pl": ""
     },
-    "radius": 100
+    "radius": 36
   },
   {
     "id": "florian-gate",
@@ -935,8 +937,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.0532,
-      19.9482
+      50.05321541255922,
+      19.948243489248753
     ],
     "story": {
       "pl": "Duża mykwa przy ulicy Szerokiej 6 w krakowskim Kazimierzu jest dziś włączona w kompleks restauracyjno-hotelowy Klezmer-Hois. Z ulicy budynek może wyglądać zwyczajnie, lecz pod nim zachowały się ślady żydowskiej łaźni rytualnej.\n\nByła to mykwa społeczności Kazimierza. Pierwsza pewna wzmianka pochodzi z 1567 roku, więc budynek powstał zapewne nieco wcześniej. Jego układ był podporządkowany użytkowi rytualnemu, a nie codziennym potrzebom. Do łaźni prowadziło około czterdziestu stopni, ponieważ źródło wody znajdowało się głęboko poniżej poziomu ulicy.\n\nDo początku II wojny światowej mykwa nadal funkcjonowała. Następnie, podczas okupacji niemieckiej, została zniszczona. Basen w piwnicy ocalał, ale został zasypany wraz z innymi pomieszczeniami piwnicznymi.\n\nPo gruntownym remoncie w latach 1974-1976 budynek wykorzystywał krakowski oddział Pracowni Naprawy i Konserwacji Zabytków. W latach 90. obiekt zwrócono Żydowskiej Gminie Wyznaniowej, a w 1995 roku gmina zgodziła się przekazać go pod zarząd Klezmer-Hois. W rezultacie przestrzeń rytualna stała się częścią kawiarni, restauracji, hotelu i księgarni.\n\nDziś w piwnicach zachowały się fragmenty murów, części arkady i układ pomieszczeń. W jednym z pomieszczeń na parterze, wspartym na czterech kolumnach, można zobaczyć miejsce zejścia do basenu. Obecne wykorzystanie ukrywa dawną funkcję, ale ślady mykwy wciąż są rozpoznawalne.",
@@ -952,7 +954,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-31.jpg",
     "imageHash": "49f439ea0b372676128335f849867f372314ae006b5f6f647ffd817d48b2beca",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 21
   },
   {
     "id": "point-32",

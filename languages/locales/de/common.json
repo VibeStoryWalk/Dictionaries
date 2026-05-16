@@ -127,6 +127,7 @@
       "language": "Sprache",
       "theme": "Design",
       "autoSpeech": "Automatische Sprachausgabe",
+      "privacyPolicy": "Datenschutzerklärung",
       "ads": "Werbung",
       "adDebug": "Werbe-Debug",
       "simulation": "Simulation",
@@ -176,7 +177,15 @@
     },
     "actions": {
       "triggerAd": "Werbung auslösen",
-      "openLanguageSelector": "Sprachauswahl öffnen"
+      "openLanguageSelector": "Sprachauswahl öffnen",
+      "openPrivacyPolicy": "Öffnen"
+    },
+    "privacyPolicy": {
+      "title": "Datenschutzerklärung",
+      "closeAria": "Datenschutzerklärung schließen",
+      "loading": "Datenschutzerklärung wird geladen...",
+      "loadError": "Die Datenschutzerklärung kann im Moment nicht geladen werden.",
+      "consentAction": "Ich stimme zu"
     }
   },
   "ads": {

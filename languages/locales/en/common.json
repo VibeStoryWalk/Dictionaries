@@ -127,6 +127,7 @@
       "language": "Language",
       "theme": "Theme",
       "autoSpeech": "Auto speech",
+      "privacyPolicy": "Privacy policy",
       "ads": "Ads",
       "adDebug": "Ad debug",
       "simulation": "Simulation",
@@ -176,7 +177,15 @@
     },
     "actions": {
       "triggerAd": "Trigger ad",
-      "openLanguageSelector": "Open language selector"
+      "openLanguageSelector": "Open language selector",
+      "openPrivacyPolicy": "Open"
+    },
+    "privacyPolicy": {
+      "title": "Privacy policy",
+      "closeAria": "Close privacy policy",
+      "loading": "Loading privacy policy...",
+      "loadError": "Unable to load the privacy policy right now.",
+      "consentAction": "I consent"
     }
   },
   "ads": {

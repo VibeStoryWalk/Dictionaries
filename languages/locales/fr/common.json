@@ -127,6 +127,7 @@
       "language": "Langue",
       "theme": "Thème",
       "autoSpeech": "Lecture automatique",
+      "privacyPolicy": "Politique de confidentialité",
       "ads": "Publicité",
       "adDebug": "Débogage des publicités",
       "simulation": "Simulation",
@@ -176,7 +177,15 @@
     },
     "actions": {
       "triggerAd": "Lancer la publicité",
-      "openLanguageSelector": "Ouvrir le sélecteur de langue"
+      "openLanguageSelector": "Ouvrir le sélecteur de langue",
+      "openPrivacyPolicy": "Ouvrir"
+    },
+    "privacyPolicy": {
+      "title": "Politique de confidentialité",
+      "closeAria": "Fermer la politique de confidentialité",
+      "loading": "Chargement de la politique de confidentialité...",
+      "loadError": "Impossible de charger la politique de confidentialité pour le moment.",
+      "consentAction": "Je consens"
     }
   },
   "ads": {

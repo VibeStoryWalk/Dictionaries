@@ -129,6 +129,7 @@
       "language": "Jezik",
       "theme": "Tema",
       "autoSpeech": "Automatsko čitanje",
+      "privacyPolicy": "Pravila privatnosti",
       "ads": "Oglasi",
       "adDebug": "Otklanjanje pogrešaka oglasa",
       "simulation": "Simulacija",
@@ -178,7 +179,15 @@
     },
     "actions": {
       "triggerAd": "Pokreni oglas",
-      "openLanguageSelector": "Otvori odabir jezika"
+      "openLanguageSelector": "Otvori odabir jezika",
+      "openPrivacyPolicy": "Otvori"
+    },
+    "privacyPolicy": {
+      "title": "Pravila privatnosti",
+      "closeAria": "Zatvori pravila privatnosti",
+      "loading": "Učitavanje pravila privatnosti...",
+      "loadError": "Pravila privatnosti trenutno nije moguće učitati.",
+      "consentAction": "Dajem privolu"
     }
   },
   "ads": {

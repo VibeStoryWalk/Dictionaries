@@ -13,7 +13,7 @@
     "fr": "Cracovie photogénique"
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "045bc40c72e674d25c435cf1e51e1b1eb47e09bfccdd785bc680523a2b8df4a0",
+  "imageHash": "9c8113f937ef58beeffc7ac4f08187aa307ae9495b45f754d17c393b1e563c43",
   "description": {
     "pl": "Instagramowa trasa po najbardziej wyrazistych miejscach Krakowa: od reprezentacyjnego Starego Miasta do Podgórza przez bulwary wiślane.",
     "ru": "Инстаграмный маршрут по самым выразительным точкам Кракова: от парадного Старого города до Подгужа через набережную Вислы.",
@@ -37,7 +37,7 @@
     "fr": "Un itinéraire très instagrammable à travers les lieux les plus marquants de Cracovie: de la majestueuse Vieille Ville à Podgórze en passant par les quais de la Vistule."
   },
   "durationMinutes": 240,
-  "distanceKm": 4.32,
+  "distanceKm": 4.36,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -63,8 +63,8 @@
       "path": [
         {
           "coordinates": [
-            50.065106309430035,
-            19.94146883107946
+            50.06545510611199,
+            19.94161845415
           ],
           "radiusMeters": 25
         },
@@ -113,7 +113,7 @@
             50.06405745032466,
             19.940721986365872
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 16,
           "text": {
             "pl": "",
@@ -152,7 +152,7 @@
             50.061815210102374,
             19.938361886083904
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 20,
           "text": {
             "pl": "",
@@ -269,26 +269,6 @@
         },
         {
           "coordinates": [
-            50.0601935495821,
-            19.937637452935075
-          ],
-          "type": "advPlatform",
-          "radiusMeters": 20,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.059342909523764,
             19.93781448104217
           ],
@@ -366,7 +346,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 8
+          "targetVertexIndex": 7
         },
         {
           "coordinates": [
@@ -413,7 +393,7 @@
             50.05621577982311,
             19.937353120282612
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 26,
           "text": {
             "pl": "",
@@ -553,7 +533,7 @@
             50.055361591057355,
             19.935282450298892
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 18,
           "text": {
             "pl": "",
@@ -613,7 +593,7 @@
             50.05384265304616,
             19.932906033920695
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 15,
           "text": {
             "pl": "",
@@ -651,8 +631,8 @@
         },
         {
           "coordinates": [
-            50.05301522815679,
-            19.933579866530845
+            50.05299860480388,
+            19.93355588202738
           ],
           "radiusMeters": 23
         }
@@ -664,8 +644,8 @@
       "path": [
         {
           "coordinates": [
-            50.05301522815679,
-            19.933579866530845
+            50.05299860480388,
+            19.93355588202738
           ],
           "radiusMeters": 32
         },
@@ -694,7 +674,7 @@
             50.05184151561709,
             19.93419885172954
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 50,
           "text": {
             "pl": "",
@@ -754,7 +734,7 @@
             50.04797667972054,
             19.936838150024418
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 50,
           "text": {
             "pl": "",
@@ -814,7 +794,7 @@
             50.04555838821836,
             19.940453851012393
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 25,
           "text": {
             "pl": "",
@@ -874,7 +854,7 @@
             50.04631967097856,
             19.94521199732047
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 24,
           "text": {
             "pl": "",

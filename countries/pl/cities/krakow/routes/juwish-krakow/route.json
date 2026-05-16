@@ -93,7 +93,7 @@
             50.044947740525096,
             19.9568527275222
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 15,
           "text": {
             "pl": "",
@@ -250,26 +250,6 @@
         },
         {
           "coordinates": [
-            50.048536926128016,
-            19.953934500298768
-          ],
-          "type": "advPlatform",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.0497024615735,
             19.9525182861228
           ],
@@ -313,7 +293,7 @@
             50.050728906094704,
             19.95081241737406
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 17,
           "text": {
             "pl": "",
@@ -393,7 +373,7 @@
             50.050604915727405,
             19.94772255420685
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 12,
           "text": {
             "pl": "",
@@ -575,7 +555,7 @@
             50.05246720371031,
             19.94831292777133
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 13,
           "text": {
             "pl": "",
@@ -592,8 +572,8 @@
         },
         {
           "coordinates": [
-            50.0532,
-            19.9482
+            50.05321541255922,
+            19.948243489248753
           ],
           "radiusMeters": 23
         }
@@ -605,8 +585,8 @@
       "path": [
         {
           "coordinates": [
-            50.0532,
-            19.9482
+            50.05321541255922,
+            19.948243489248753
           ],
           "radiusMeters": 14
         },
@@ -816,7 +796,7 @@
             50.0518896819294,
             19.946091789622685
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 13,
           "text": {
             "pl": "",
@@ -957,7 +937,7 @@
             50.05190005223056,
             19.943323731422428
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 14,
           "text": {
             "pl": "",

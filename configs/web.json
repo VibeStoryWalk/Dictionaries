@@ -1,7 +1,4 @@
 {
   "showDebugSettings": true,
-  "useLocalDicts": true,
-  "defaultUiSettings": {
-    "locale": "auto"
-  }
+  "useLocalDicts": true
 }

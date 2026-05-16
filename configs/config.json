@@ -8,6 +8,12 @@
     "name": "Dictionaries",
     "branch": "refs/heads/main"
   },
+  "adMob": {
+    "nativeBannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+    "nativeInterstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "webAdClient": "",
+    "webBannerSlot": ""
+  },
   "defaultUiSettings": {
     "locale": "auto",
     "textScale": 1,

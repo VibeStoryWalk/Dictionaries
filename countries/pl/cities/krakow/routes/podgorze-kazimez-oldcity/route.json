@@ -90,26 +90,6 @@
         },
         {
           "coordinates": [
-            50.04611989390262,
-            19.95394527218507
-          ],
-          "type": "advPlatform",
-          "radiusMeters": 13,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.0456478820038,
             19.953671199010756
           ],
@@ -173,7 +153,7 @@
             50.045068160216935,
             19.95182186524723
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 17,
           "text": {
             "pl": "",
@@ -227,7 +207,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 9
+          "targetVertexIndex": 8
         },
         {
           "coordinates": [
@@ -252,7 +232,7 @@
             50.04386837361629,
             19.949336201005394
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 18,
           "text": {
             "pl": "",
@@ -352,7 +332,7 @@
             50.04527245812684,
             19.948135623643584
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 10,
           "text": {
             "pl": "",
@@ -511,7 +491,7 @@
             50.04980922828263,
             19.946740921198014
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 18,
           "text": {
             "pl": "",
@@ -570,7 +550,7 @@
             50.050587698879816,
             19.948666701028532
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 12,
           "text": {
             "pl": "",
@@ -649,7 +629,7 @@
             50.05210672662932,
             19.948162438797404
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 14,
           "text": {
             "pl": "",
@@ -729,7 +709,7 @@
             50.05214114445762,
             19.94754016399384
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 11,
           "text": {
             "pl": "",
@@ -809,7 +789,7 @@
             50.051497047517415,
             19.946483378266194
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 15,
           "text": {
             "pl": "",
@@ -967,7 +947,7 @@
             50.05010544886,
             19.944262472208134
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 21,
           "text": {
             "pl": "",
@@ -1067,7 +1047,7 @@
             50.04899404474179,
             19.941002609517145
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 23,
           "text": {
             "pl": "",
@@ -1167,7 +1147,7 @@
             50.049021150048404,
             19.93618551010131
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 22,
           "text": {
             "pl": "",
@@ -1207,7 +1187,7 @@
             50.05078749281026,
             19.934874740656007
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 25,
           "text": {
             "pl": "",
@@ -1322,7 +1302,7 @@
             50.055210042660356,
             19.934681630855376
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 24,
           "text": {
             "pl": "",
@@ -1495,7 +1475,7 @@
             50.05574488819308,
             19.936817249017814
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 22,
           "text": {
             "pl": "",
@@ -1630,7 +1610,7 @@
             50.05843149917019,
             19.937900667242744
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 21,
           "text": {
             "pl": "",
@@ -1688,7 +1668,7 @@
             50.059501366659255,
             19.935679454226868
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 19,
           "text": {
             "pl": "",
@@ -1876,7 +1856,7 @@
             50.06193614918874,
             19.933834066679296
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 13,
           "text": {
             "pl": "",
@@ -1914,7 +1894,7 @@
             50.06325495393932,
             19.933705209665398
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 31,
           "text": {
             "pl": "",
@@ -1972,7 +1952,7 @@
             50.06552779573533,
             19.93713857130675
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 24,
           "text": {
             "pl": "",
@@ -2047,7 +2027,7 @@
             50.0641229005446,
             19.94078636169434
           ],
-          "type": "advPlatform",
+          "type": "turn",
           "radiusMeters": 29,
           "text": {
             "pl": "",

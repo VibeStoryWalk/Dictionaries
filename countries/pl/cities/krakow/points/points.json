@@ -212,8 +212,8 @@
       "ua": "Синагога Рему"
     },
     "coordinates": [
-      50.052729707337924,
-      19.947725942598897
+      50.05275395226086,
+      19.947648180975598
     ],
     "story": {
       "ru": "В историческом районе Казимеж в Кракове находится Синагога Рему  — одна из старейших сохранившихся синагог города и важный памятник еврейского наследия Польши. Она была построена в середине XVI века по инициативе семьи купца Израэля Иссерлеса и получила своё название в честь его сына — выдающегося раввина Моше Иссерлес, известного как Рему.\n\nСинагога отличается скромным внешним обликом, что контрастирует с её глубоким духовным значением. Внутреннее пространство оформлено сдержанно, но сохраняет традиционные элементы, характерные для ашкеназской религиозной архитектуры. На протяжении веков она служила местом молитвы и изучения Торы, оставаясь центром религиозной жизни еврейской общины Казимежа.\n\nРядом с синагогой расположен старинный кладбищенский двор, где покоятся представители местной общины, включая самого Моше Иссерлеса. Его могила стала местом паломничества, а память о нём сохраняется как о выдающемся мыслителе и толкователе религиозного закона. Несмотря на разрушения и утраты, вызванные трагическими событиями XX века, синагога Рему уцелела и была восстановлена.",
@@ -234,7 +234,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 23
   },
   {
     "id": "wawel-dragon",
@@ -688,8 +689,8 @@
       "ua": "Скульптура «Зв'язаний Ерос»"
     },
     "coordinates": [
-      50.06152899476507,
-      19.936186378801466
+      50.061549987517814,
+      19.936060944287167
     ],
     "story": {
       "ru": "На Главной рыночной площади Кракова, рядом с Ратушной башней, стоит Eros Bendato Игоря Миторая — бронзовая голова, лежащая на боку прямо на поверхности земли. \n\nТакой образ характерен для Миторая. Он сознательно перерабатывал античную скульптуру, вводя трещины и следы повреждения, чтобы показать несовершенство человеческой природы. Поэтому приземлённый, разбитый классический лик здесь является частью его художественного языка, а не ошибкой.\n\nЕсть и деталь, заметная вблизи: губы фигуры смоделированы по собственному рту художника. Работу часто толкуют как образ любви, делающая человека покорным и слепым, и ведущей к несвободе. \n\nИстория скульптуры в Кракове началась как эксперимент. В 2003 году Международный культурный центр показал монументальные работы Миторая, разместив их прямо на земле, чтобы зритель встречал их в своём пространстве, а не на удаленном пьедестале. Тогда выставка скульптуры задумывалась как временная: город планировал оставить её  примерно на четыре месяца, а затем решить её дальнейшую судьбу. Но эта скульптура привлекала горожан и туристов. 6 октября 2005 года скульптуру торжественно открыли на Главной рыночной площади как дар Миторая Кракову; сам художник говорил, что возвращает работу городу, который дал ему юность и художественное образование.",
@@ -710,7 +711,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 21
   },
   {
     "id": "main-square",
@@ -996,8 +998,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.051671900539105,
-      19.94666198988169
+      50.051672264915,
+      19.94626409459581
     ],
     "story": {
       "pl": "Synagoga Izaaka przy ul. Kupa 18 została wzniesiona dla gminy żydowskiej Kazimierza ze środków Izaaka Jakubowicza, kupca i starszego kahału. Miejscowa tradycja łączy tę inicjatywę z jego żoną Brajndlą, która podobno nakłaniała męża do założenia synagogi jako podziękowania za pomyślność rodziny. Dokładna data założenia nie jest znana. \n\nNajwiększe zniszczenia synagoga poniosła podczas II wojny światowej. Niemcy splądrowali przedmioty rytualne i zamienili synagogę w warsztat teatralny. 5 grudnia 1939 roku Maksymilian Redlich odmówił wykonania rozkazu spalenia zwojów Tory i został zastrzelony przy wejściu. W latach 1943-1944 pracował tu jako scenograf znany polski reżyser i scenarzysta Tadeusz Kantor. \n\nPo wojnie obiekt służył jako miejskie magazyny, a następnie jako warsztat rzeźbiarski i konserwatorski. W 1981 roku pożar zniszczył wnętrze. Synagoga została zwrócona gminie żydowskiej w 1989 roku, a prace konserwatorskie trwały także później. Dziś z zewnątrz widać prostą bryłę, barokowy portal i dwa symetryczne biegi schodów prowadzące do arkadowego ganku i galerii dla kobiet. Wewnątrz sala modlitw ma sklepienie kolebkowe z lunetami i sztukateriami, a zachodnia część dla kobiet znajduje się nad westybulem. Na ścianach zachowały się liturgiczne polichromie z XVII i XVIII wieku, odsłonięte podczas restauracji, a na ścianie wschodniej umieszczono zrekonstruowany wczesnobarokowy Aron ha-kodesz.",
@@ -1013,7 +1015,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-32.jpg",
     "imageHash": "3977603418be0161e82b931d9d29fca6a65495f4f3965e4f5d2027ed3694942b",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 20
   },
   {
     "id": "point-33",
@@ -1041,8 +1044,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.0526305556,
-      19.94575
+      50.05249209083023,
+      19.9457114899867
     ],
     "story": {
       "pl": "Synagoga Kupa dziś ponownie działa jako synagoga i służy jako miejsce nabożeństw, spotkań, koncertów, wystaw oraz wydarzeń Festiwalu Kultury Żydowskiej. Pozostaje funkcjonalną częścią dzielnicy, a nie zamkniętym obiektem muzealnym.\n\nSynagogę zbudowano w latach 40. XVII wieku, gdy Kazimierz był jeszcze żydowskim miastem. Budowę sfinansowano z kasy kahału; była to ostatnia synagoga wzniesiona tu przed przemianami dawnego świata miejskiego. Pierwotnie budynek był barokowy: prostokątny ceglany korpus, kwadratowa sala modlitw, zachodni westybul i galeria dla kobiet na piętrze. \n\nBudynek przylegał do północnej strony murów obronnych Kazimierza. Jego pierwotna podłoga znajdowała się około 80 centymetrów niżej niż obecny poziom, dlatego z ulicy sprawiał wrażenie niższego i przyciśniętego do muru.\n\nPodczas II wojny światowej naziści zdewastowali wnętrze, zniszczyli bimę i inne przedmioty religijne, a samą synagogę zbezcześcili i podpalili. 11 sierpnia 1945 roku przy synagodze wybuchł pogrom krakowski: fałszywa pogłoska, że Żydzi zabili chrześcijańskie dziecko na macę, wywołała przemoc i próbę podpalenia.\n\nPo 1945 roku modlitwa została tu na pewien czas wznowiona, a w północno-zachodnim aneksie mieszkali żydowscy repatrianci z ZSRR. Później budynek służył jako fabryka macek, punkt uboju drobiu rytualnego, magazyny i warsztat szewski.\n\nRenowacja trwała do 2002 roku. Odtworzono aron i malowidła ścienne, między innymi dzięki znaczącej pomocy Funduszu Ochrony Zabytków Krakowa. Z pierwotnego wnętrza zachował się kamienny aron ha-kodesz z początku XVII wieku. ",
@@ -1058,7 +1061,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-33.jpg",
     "imageHash": "6335b46a41b75bd0f6fe314d54b23b2c368d65e182811d523db4deafa75fca8d",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 20
   },
   {
     "id": "point-34",
@@ -1086,8 +1090,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.0529166667,
-      19.9444444444
+      50.05281242999106,
+      19.944295271530834
     ],
     "story": {
       "pl": "Synagoga Tempel przy ulicy Miodowej w Krakowie jest czynną synagogą, która dziś służy przede wszystkim do koncertów, wykładów, obrzędów świątecznych i wydarzeń festiwalowych; regularna modlitwa odbywa się tu zaledwie kilka razy w roku.\n\nSynagoga została zbudowana w latach 1860–1862 dla krakowskich Żydów reformowanych. Od początku budynek miał odróżniać się od starszych ortodoksyjnych domów modlitwy w pobliżu. Wygłaszano tu kazania po polsku i po niemiecku, a kobiety mogły śpiewać razem z kantorem i chórem. To właśnie budziło krytykę ortodoksyjnych Żydów związanych z synagogą Remuh, ale jednocześnie czyniło z Tempel miejsce publicznych patriotycznych ceremonii i przemówień.\n\nNajważniejsza przebudowa miała miejsce w latach 1893–1894: budynek rozbudowano i nadano mu bardziej monumentalny wygląd. W 1924 roku dodano do niego boczne nawy. Dzisiejszy wygląd Tempel kształtował się etapami, a nie według jednego pierwotnego projektu.\nWedług jednej relacji ustnej przedwojenna Miodowa była ulicą bardziej świeckich i intelektualnych Żydów, a drogę do Tempel porównywano do wyjścia na świeckie wydarzenie.\n\nPodczas II wojny światowej władze niemieckie wywiozły wyposażenie i przedmioty religijne, a sam budynek wykorzystywały jako stajnię. Po wojnie modlitwy wznowiono; w 1947 roku w północnej części budynku zainstalowano mykwę.",
@@ -1103,7 +1107,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-34.jpg",
     "imageHash": "ba90c93231f66f3665ba5e9eb56e28d74f0c249a37349d01891c25e674b1459b",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 27
   },
   {
     "id": "point-35",

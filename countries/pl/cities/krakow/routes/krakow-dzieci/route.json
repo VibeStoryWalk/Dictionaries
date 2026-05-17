@@ -248,26 +248,6 @@
         },
         {
           "coordinates": [
-            50.04661189755095,
-            19.946188546556183
-          ],
-          "type": "turn",
-          "radiusMeters": 22,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.04570664333149,
             19.943967836147504
           ],
@@ -348,46 +328,6 @@
         },
         {
           "coordinates": [
-            50.04801099710652,
-            19.936516486096043
-          ],
-          "type": "turn",
-          "radiusMeters": 19,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.04959221455196,
-            19.935266368605358
-          ],
-          "type": "turn",
-          "radiusMeters": 14,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.05015422106462,
             19.934885129612184
           ],
@@ -445,7 +385,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 13
+          "targetVertexIndex": 10
         },
         {
           "coordinates": [

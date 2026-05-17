@@ -37,7 +37,7 @@
     "fr": "Cet itinéraire est consacré au patrimoine juif de Cracovie et traverse deux lieux clés de la mémoire historique. Vous verrez d’abord Podgórze, l’ancien quartier du ghetto avec les traces de son passé tragique. Vous arriverez ensuite à Kazimierz - le quartier où les Juifs vivent depuis le Moyen Âge, laissant leur empreinte culturelle dans le paysage architectural de la ville. Synagogues, fresques murales, monuments - tout cela est pour vous - dans un itinéraire spécialement préparé."
   },
   "durationMinutes": 120,
-  "distanceKm": 2.65,
+  "distanceKm": 2.35,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -58,142 +58,20 @@
   },
   "segments": [
     {
-      "fromPointId": "point-36",
+      "fromPointId": "getto-wall",
       "toPointId": "ghetto-heroes-square",
       "path": [
         {
           "coordinates": [
             50.0446639,
             19.95755
-          ],
-          "radiusMeters": 17
-        },
-        {
-          "coordinates": [
-            50.044828053761705,
-            19.957319498062137
-          ],
-          "type": "turn",
-          "radiusMeters": 12,
-          "text": {
-            "pl": "Skręć w lewo",
-            "ru": "Поверните налево",
-            "en": "Turn left",
-            "de": "Biegen Sie links ab",
-            "ua": "Поверніть ліворуч",
-            "it": "Svolta a sinistra",
-            "hr": "Skrenite lijevo",
-            "es": "Gire a la izquierda",
-            "fr": "Tournez à gauche"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.044947740525096,
-            19.9568527275222
-          ],
-          "type": "turn",
-          "radiusMeters": 15,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.045113985023185,
-            19.956155359234877
-          ],
-          "type": "turn",
-          "radiusMeters": 12,
-          "text": {
-            "pl": "Trzymaj się prawej strony i kieruj się do przejścia przez tory tramwajowe",
-            "ru": "Держитесь правее и идите к переходу через трамвайные пути",
-            "en": "Keep to the right and head to the crossing over the tram tracks",
-            "de": "Halten Sie sich rechts und gehen Sie zur Überquerung der Straßenbahnschienen",
-            "ua": "Тримайтеся праворуч і прямуйте до переходу через трамвайні колії",
-            "it": "Tenete la destra e dirigetevi al passaggio sui binari del tram",
-            "hr": "Držite se desno i krenite prema prijelazu preko tramvajskih tračnica",
-            "es": "Manténgase a la derecha y diríjase al cruce de las vías del tranvía",
-            "fr": "Tenez-vous à droite et allez vers le passage à travers les voies du tramway"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.04538959014882,
-            19.95569407477489
-          ],
-          "type": "turn",
-          "radiusMeters": 10,
-          "text": {
-            "pl": "Przejdź przez ulicę z torami tramwajowymi.",
-            "ru": "Перейдите дорогу с трамвайными путями",
-            "en": "Cross the road with the tram tracks.",
-            "de": "Überqueren Sie die Straße mit den Straßenbahnschienen.",
-            "ua": "Перейдіть дорогу з трамвайними коліями.",
-            "it": "Attraversate la strada con i binari del tram.",
-            "hr": "Prijeđite cestu s tramvajskim tračnicama.",
-            "es": "Cruce la calle con las vías del tranvía.",
-            "fr": "Traversez la rue avec les voies de tramway."
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.04543779986873,
-            19.955264919020397
-          ],
-          "type": "turn",
-          "radiusMeters": 10,
-          "text": {
-            "pl": "Skręć w prawo",
-            "ru": "Поверните направо",
-            "en": "Turn right",
-            "de": "Biegen Sie rechts ab",
-            "ua": "Поверніть праворуч",
-            "it": "Svolta a destra",
-            "hr": "Skrenite desno",
-            "es": "Gire a la derecha",
-            "fr": "Tournez à droite"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.04625080626552,
-            19.954964509298616
-          ],
-          "type": "turn",
-          "radiusMeters": 16,
-          "text": {
-            "pl": "Przejdź przez ulicę i wyjdź na plac",
-            "ru": "Перейдите дорогу и выходите на площадь",
-            "en": "Cross the road and head out onto the square",
-            "de": "Überqueren Sie die Straße und gehen Sie auf den Platz",
-            "ua": "Перейдіть дорогу і вийдіть на площу",
-            "it": "Attraversate la strada e uscite sulla piazza",
-            "hr": "Pređite cestu i izađite na trg",
-            "es": "Cruce la calle y salga a la plaza",
-            "fr": "Traversez la rue et débouchez sur la place"
-          },
-          "debug_entity": false
+          ]
         },
         {
           "coordinates": [
             50.046693702795736,
             19.954463332478973
-          ],
-          "radiusMeters": 34
+          ]
         }
       ]
     },
@@ -330,8 +208,8 @@
         },
         {
           "coordinates": [
-            50.05024987409684,
-            19.948160482550758
+            50.05024279173052,
+            19.948050370199685
           ],
           "radiusMeters": 19
         }
@@ -339,122 +217,37 @@
     },
     {
       "fromPointId": "judah-mural",
-      "toPointId": "point-35",
+      "toPointId": "sinagogue-high",
       "path": [
         {
           "coordinates": [
-            50.05024987409684,
-            19.948160482550758
-          ],
-          "radiusMeters": 15
+            50.05024279173052,
+            19.948050370199685
+          ]
         },
         {
           "coordinates": [
-            50.05035690596627,
-            19.947840569091394
-          ],
-          "type": "turn",
-          "radiusMeters": 16,
-          "text": {
-            "pl": "Idź aż do końca tej małej uliczki.",
-            "ru": "Идите до самого конца этой небольшой улицы",
-            "en": "Go all the way to the end of this small street.",
-            "de": "Gehen Sie bis zum Ende dieser kleinen Straße.",
-            "ua": "Йдіть до самого кінця цієї невеликої вулиці.",
-            "it": "Andate fino in fondo a questa piccola strada.",
-            "hr": "Idite do samog kraja ove male ulice.",
-            "es": "Vaya hasta el final de esta pequeña calle.",
-            "fr": "Allez jusqu'au bout de cette petite rue."
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.050604915727405,
-            19.94772255420685
-          ],
-          "type": "turn",
-          "radiusMeters": 12,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05112161178414,
-            19.947491872671016
-          ],
-          "type": "portal",
-          "radiusMeters": 15,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false,
-          "targetVertexIndex": 4
-        },
-        {
-          "coordinates": [
-            50.0513888889,
-            19.9473888889
-          ],
-          "radiusMeters": 13
+            50.05125554188875,
+            19.947428094684206
+          ]
         }
       ]
     },
     {
-      "fromPointId": "point-35",
+      "fromPointId": "sinagogue-high",
       "toPointId": "dom-bosak",
       "path": [
         {
           "coordinates": [
-            50.0513888889,
-            19.9473888889
-          ],
-          "radiusMeters": 13
+            50.05125554188875,
+            19.947428094684206
+          ]
         },
         {
           "coordinates": [
-            50.05134892550391,
-            19.948044440097593
-          ],
-          "type": "turn",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "Trzymajcie się prawej strony",
-            "ru": "Держитесь правее",
-            "en": "Keep right",
-            "de": "Halten Sie sich rechts",
-            "ua": "Тримайтеся праворуч",
-            "it": "Tenetevi sulla destra",
-            "hr": "Držite se desne strane",
-            "es": "Manténgase a la derecha",
-            "fr": "Restez à droite"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05115207336529,
-            19.948657376825167
-          ],
-          "radiusMeters": 24
+            50.05123493018633,
+            19.948597637606795
+          ]
         }
       ]
     },
@@ -464,8 +257,8 @@
       "path": [
         {
           "coordinates": [
-            50.05115207336529,
-            19.948657376825167
+            50.05123493018633,
+            19.948597637606795
           ],
           "radiusMeters": 10
         },
@@ -512,8 +305,8 @@
         },
         {
           "coordinates": [
-            50.05185102263469,
-            19.948289094456683
+            50.05212698143592,
+            19.94828103412696
           ],
           "radiusMeters": 19
         }
@@ -521,464 +314,109 @@
     },
     {
       "fromPointId": "szeroka-street",
-      "toPointId": "point-31",
+      "toPointId": "big-mikwa",
       "path": [
         {
           "coordinates": [
-            50.05185102263469,
-            19.948289094456683
-          ],
-          "radiusMeters": 11
-        },
-        {
-          "coordinates": [
-            50.05210327923223,
-            19.948382373000292
-          ],
-          "type": "turn",
-          "radiusMeters": 20,
-          "text": {
-            "pl": "Proszę iść prawą stroną placu aż do samego końca.",
-            "ru": "Продолжайте движение по правой стороне площади до самого её конца",
-            "en": "Continue along the right side of the square to its very end.",
-            "de": "Gehen Sie weiter auf der rechten Seite des Platzes bis ganz ans Ende.",
-            "ua": "Продовжуйте рухатися правою стороною площі до самого її кінця.",
-            "it": "Proseguite lungo il lato destro della piazza fino alla sua estremità.",
-            "hr": "Nastavite desnom stranom trga sve do njegova kraja.",
-            "es": "Continúe por el lado derecho de la plaza hasta el final.",
-            "fr": "Continuez sur le côté droit de la place jusqu'à son extrémité."
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05246720371031,
-            19.94831292777133
-          ],
-          "type": "turn",
-          "radiusMeters": 13,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
+            50.05212698143592,
+            19.94828103412696
+          ]
         },
         {
           "coordinates": [
             50.05321541255922,
             19.948243489248753
-          ],
-          "radiusMeters": 23
+          ]
         }
       ]
     },
     {
-      "fromPointId": "point-31",
+      "fromPointId": "big-mikwa",
       "toPointId": "remuh-synagogue",
       "path": [
         {
           "coordinates": [
             50.05321541255922,
             19.948243489248753
-          ],
-          "radiusMeters": 14
+          ]
         },
         {
           "coordinates": [
-            50.052888577758175,
-            19.948151716897673
-          ],
-          "type": "turn",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "Skręć w prawo",
-            "ru": "Поверните направо",
-            "en": "Turn right",
-            "de": "Biegen Sie rechts ab",
-            "ua": "Поверніть праворуч",
-            "it": "Svolta a destra",
-            "hr": "Skrenite desno",
-            "es": "Gire a la derecha",
-            "fr": "Tournez à droite"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.052729707337924,
-            19.947725942598897
-          ],
-          "radiusMeters": 16
+            50.05275395226086,
+            19.947648180975598
+          ]
         }
       ]
     },
     {
       "fromPointId": "remuh-synagogue",
-      "toPointId": "point-32",
+      "toPointId": "sinagogue-isaaek",
       "path": [
         {
           "coordinates": [
-            50.052729707337924,
-            19.947725942598897
-          ],
-          "radiusMeters": 15
+            50.05275395226086,
+            19.947648180975598
+          ]
         },
         {
           "coordinates": [
-            50.052516586985426,
-            19.947851302551676
-          ],
-          "type": "turn",
-          "radiusMeters": 14,
-          "text": {
-            "pl": "Skręć w prawo",
-            "ru": "Сверните направо",
-            "en": "Turn right",
-            "de": "Biegen Sie rechts ab",
-            "ua": "Поверніть праворуч",
-            "it": "Svoltate a destra",
-            "hr": "Skrenite desno",
-            "es": "Gire a la derecha",
-            "fr": "Tournez à droite"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.052354696329054,
-            19.947609878307162
-          ],
-          "type": "turn",
-          "radiusMeters": 13,
-          "text": {
-            "pl": "Trzymaj się lewej strony",
-            "ru": "Держитесь левее",
-            "en": "Keep left",
-            "de": "Halten Sie sich links",
-            "ua": "Тримайтеся ліворуч",
-            "it": "Tenetevi a sinistra",
-            "hr": "Držite se lijevo",
-            "es": "Manténgase a la izquierda",
-            "fr": "Restez à gauche"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05191724940522,
-            19.94755088820568
-          ],
-          "type": "turn",
-          "radiusMeters": 14,
-          "text": {
-            "pl": "Skręć w prawo",
-            "ru": "Поверните направо",
-            "en": "Turn right",
-            "de": "Biegen Sie rechts ab",
-            "ua": "Поверніть праворуч",
-            "it": "Svolta a destra",
-            "hr": "Skrenite desno",
-            "es": "Gire a la derecha",
-            "fr": "Tournez à droite"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.0516795842789,
-            19.94704125462018
-          ],
-          "type": "turn",
-          "radiusMeters": 13,
-          "text": {
-            "pl": "Przejdź przez ulicę, skręć w prawo i obejdź budynek jego lewą stroną",
-            "ru": "Перейдите дорогу, сверните вправо и обходите здание с его левой стороны",
-            "en": "Cross the street, turn right, and go around the building on its left side",
-            "de": "Überqueren Sie die Straße, biegen Sie rechts ab und gehen Sie um das Gebäude auf seiner linken Seite herum",
-            "ua": "Перейдіть дорогу, поверніть праворуч і обійдіть будівлю з її лівого боку",
-            "it": "Attraversate la strada, girate a destra e aggirate l'edificio sul suo lato sinistro",
-            "hr": "Prijeđite ulicu, skrenite desno i obiđite zgradu s njezine lijeve strane",
-            "es": "Cruce la calle, gire a la derecha y rodee el edificio por su lado izquierdo",
-            "fr": "Traversez la rue, tournez à droite et contournez le bâtiment par son côté gauche"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05153147169139,
-            19.946392150790178
-          ],
-          "type": "portal",
-          "radiusMeters": 16,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false,
-          "targetVertexIndex": 7
-        },
-        {
-          "coordinates": [
-            50.051671900539105,
-            19.94666198988169
-          ],
-          "radiusMeters": 7
+            50.051672264915,
+            19.94626409459581
+          ]
         }
       ]
     },
     {
-      "fromPointId": "point-32",
-      "toPointId": "point-33",
+      "fromPointId": "sinagogue-isaaek",
+      "toPointId": "sinagogue-kupa",
       "path": [
         {
           "coordinates": [
-            50.051671900539105,
-            19.94666198988169
-          ],
-          "radiusMeters": 20
+            50.051672264915,
+            19.94626409459581
+          ]
         },
         {
           "coordinates": [
-            50.05160725323582,
-            19.94622589082498
-          ],
-          "type": "turn",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "Idź ulicą Kupa aż do samego końca",
-            "ru": "Двигайтесь по улице Купа до самого её конца",
-            "en": "Proceed along Kupa Street to its very end",
-            "de": "Gehen Sie die Kupa-Straße bis zum Ende entlang",
-            "ua": "Рухайтеся вулицею Купа аж до самого її кінця",
-            "it": "Proseguite lungo via Kupa fino in fondo",
-            "hr": "Idite ulicom Kupa do samog njezina kraja",
-            "es": "Siga por la calle Kupa hasta su final",
-            "fr": "Avancez le long de la rue Kupa jusqu'à son extrémité"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.0518896819294,
-            19.946091789622685
-          ],
-          "type": "turn",
-          "radiusMeters": 13,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.0526305556,
-            19.94575
-          ],
-          "radiusMeters": 31
+            50.05249209083023,
+            19.9457114899867
+          ]
         }
       ]
     },
     {
-      "fromPointId": "point-33",
-      "toPointId": "point-34",
+      "fromPointId": "sinagogue-kupa",
+      "toPointId": "sinagogue-tempel",
       "path": [
         {
           "coordinates": [
-            50.0526305556,
-            19.94575
-          ],
-          "radiusMeters": 14
+            50.05249209083023,
+            19.9457114899867
+          ]
         },
         {
           "coordinates": [
-            50.05223070720812,
-            19.945163710621873
-          ],
-          "type": "turn",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "Skręć w prawo i przejdź przez ulicę",
-            "ru": "Поверните направо и перейдите дорогу",
-            "en": "Turn right and cross the road",
-            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
-            "ua": "Поверніть праворуч і перейдіть дорогу",
-            "it": "Svolta a destra e attraversa la strada",
-            "hr": "Skrenite desno i prijeđite cestu",
-            "es": "Gire a la derecha y cruce la calle",
-            "fr": "Tournez à droite et traversez la rue"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05263715607314,
-            19.94477748408428
-          ],
-          "type": "portal",
-          "radiusMeters": 16,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false,
-          "targetVertexIndex": 3
-        },
-        {
-          "coordinates": [
-            50.0529166667,
-            19.9444444444
-          ],
-          "radiusMeters": 16
+            50.05281242999106,
+            19.944295271530834
+          ]
         }
       ]
     },
     {
-      "fromPointId": "point-34",
+      "fromPointId": "sinagogue-tempel",
       "toPointId": "schindler-list-passage",
       "path": [
         {
           "coordinates": [
-            50.0529166667,
-            19.9444444444
-          ],
-          "radiusMeters": 16
+            50.05281242999106,
+            19.944295271530834
+          ]
         },
         {
           "coordinates": [
-            50.05267501792315,
-            19.943988884576502
-          ],
-          "type": "turn",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "Jedź prosto",
-            "ru": "Продолжайте движение прямо",
-            "en": "Continue straight ahead",
-            "de": "Fahren Sie geradeaus weiter",
-            "ua": "Продовжуйте рухатися прямо",
-            "it": "Prosegui dritto",
-            "hr": "Nastavite ravno",
-            "es": "Siga recto",
-            "fr": "Continuez tout droit"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.052254782789646,
-            19.943312944783685
-          ],
-          "type": "turn",
-          "radiusMeters": 15,
-          "text": {
-            "pl": "Skręć w lewo",
-            "ru": "Поверните налево",
-            "en": "Turn left",
-            "de": "Biegen Sie links ab",
-            "ua": "Поверніть ліворуч",
-            "it": "Svolta a sinistra",
-            "hr": "Skrenite lijevo",
-            "es": "Gire a la izquierda",
-            "fr": "Tournez à gauche"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05190005223056,
-            19.943323731422428
-          ],
-          "type": "turn",
-          "radiusMeters": 14,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.0513661376471,
-            19.94361877903829
-          ],
-          "type": "turn",
-          "radiusMeters": 13,
-          "text": {
-            "pl": "Skręć w lewo, przejdź przez ulicę i wejdź na podwórko",
-            "ru": "Поверните налево, перейдите дорогу и заходите во дворик",
-            "en": "Turn left, cross the street, and go into the courtyard",
-            "de": "Biegen Sie links ab, überqueren Sie die Straße und gehen Sie in den Hof",
-            "ua": "Поверніть ліворуч, перейдіть дорогу і заходьте у дворик",
-            "it": "Svoltate a sinistra, attraversate la strada ed entrate nel cortile",
-            "hr": "Skrenite lijevo, prijeđite cestu i uđite u dvorište",
-            "es": "Gire a la izquierda, cruce la calle y entre en el patio",
-            "fr": "Tournez à gauche, traversez la rue et entrez dans la cour"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.051221459736006,
-            19.943967473146554
-          ],
-          "type": "portal",
-          "radiusMeters": 11,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false,
-          "targetVertexIndex": 6
-        },
-        {
-          "coordinates": [
-            50.050927939556686,
-            19.94405366489869
-          ],
-          "radiusMeters": 15
+            50.05102813192891,
+            19.944225576432455
+          ]
         }
       ]
     },
@@ -988,8 +426,8 @@
       "path": [
         {
           "coordinates": [
-            50.050927939556686,
-            19.94405366489869
+            50.05102813192891,
+            19.944225576432455
           ],
           "radiusMeters": 13
         },
@@ -1056,8 +494,8 @@
         },
         {
           "coordinates": [
-            50.05159267501118,
-            19.94524775504501
+            50.051693193946505,
+            19.944928411962472
           ],
           "radiusMeters": 12
         }
@@ -1065,17 +503,17 @@
     }
   ],
   "pointIds": [
-    "point-36",
+    "getto-wall",
     "ghetto-heroes-square",
     "judah-mural",
-    "point-35",
+    "sinagogue-high",
     "dom-bosak",
     "szeroka-street",
-    "point-31",
+    "big-mikwa",
     "remuh-synagogue",
-    "point-32",
-    "point-33",
-    "point-34",
+    "sinagogue-isaaek",
+    "sinagogue-kupa",
+    "sinagogue-tempel",
     "schindler-list-passage",
     "plac-nowy"
   ],

@@ -752,6 +752,26 @@
         },
         {
           "coordinates": [
+            50.04603029167958,
+            19.948071139646046
+          ],
+          "type": "turn",
+          "radiusMeters": 20,
+          "text": {
+            "pl": "Przejdź przez ulicę i zejdź po schodach",
+            "ru": "Перейдите дорогу и спуститесь вниз по лестнице",
+            "en": "Cross the road and go down the stairs",
+            "de": "Überqueren Sie die Straße und gehen Sie die Treppe hinunter",
+            "ua": "Перейдіть дорогу та спустіться сходами",
+            "it": "Attraversa la strada e scendi le scale",
+            "hr": "Prijeđite cestu i siđite niz stepenice",
+            "es": "Cruce la calle y baje por las escaleras",
+            "fr": "Traversez la rue et descendez les escaliers"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.045351639822854,
             19.948157081315703
           ],
@@ -759,11 +779,11 @@
           "radiusMeters": 20,
           "text": {
             "pl": "Idź prosto",
-            "ru": "Идите прямо",
+            "ru": "Двигайтесь прямо",
             "en": "Go straight",
             "de": "Gehen Sie geradeaus",
-            "ua": "Ідіть прямо",
-            "it": "Andate dritto",
+            "ua": "Йдіть прямо",
+            "it": "Proseguite dritto",
             "hr": "Idite ravno",
             "es": "Siga recto",
             "fr": "Allez tout droit"
@@ -829,7 +849,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 5
+          "targetVertexIndex": 6
         },
         {
           "coordinates": [

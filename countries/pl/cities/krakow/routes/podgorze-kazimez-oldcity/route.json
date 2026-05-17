@@ -150,26 +150,6 @@
         },
         {
           "coordinates": [
-            50.045068160216935,
-            19.95182186524723
-          ],
-          "type": "turn",
-          "radiusMeters": 17,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.04492909556551,
             19.949875227460385
           ],
@@ -207,7 +187,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 8
+          "targetVertexIndex": 7
         },
         {
           "coordinates": [

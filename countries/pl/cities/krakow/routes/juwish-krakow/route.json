@@ -76,15 +76,15 @@
           "type": "turn",
           "radiusMeters": 16,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Skręć w lewo",
+            "ru": "Поверните налево",
+            "en": "Turn left",
+            "de": "Biegen Sie links ab",
+            "ua": "Поверніть ліворуч",
+            "it": "Svolta a sinistra",
+            "hr": "Skrenite lijevo",
+            "es": "Gire a la izquierda",
+            "fr": "Tournez à gauche"
           },
           "debug_entity": false
         },
@@ -96,15 +96,15 @@
           "type": "turn",
           "radiusMeters": 18,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Idź prosto do przejścia dla pieszych",
+            "ru": "Двигайтесь прямо к переходу через дорогу",
+            "en": "Go straight to the crosswalk",
+            "de": "Gehen Sie geradeaus zum Fußgängerüberweg",
+            "ua": "Рухайтеся прямо до пішохідного переходу",
+            "it": "Proseguite dritto fino alle strisce pedonali",
+            "hr": "Idite ravno do pješačkog prijelaza",
+            "es": "Siga recto hasta el paso de peatones",
+            "fr": "Allez tout droit jusqu’au passage piéton"
           },
           "debug_entity": false
         },
@@ -116,15 +116,15 @@
           "type": "turn",
           "radiusMeters": 13,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Przejdź przez ulicę z torami tramwajowymi i skręć w prawo",
+            "ru": "Перейдите через дорогу с трамвайными путями и поверните направо",
+            "en": "Cross the road with the tram tracks and turn right",
+            "de": "Überqueren Sie die Straße mit den Straßenbahnschienen und biegen Sie rechts ab",
+            "ua": "Перейдіть дорогу з трамвайними коліями та поверніть праворуч",
+            "it": "Attraversa la strada con i binari del tram e gira a destra",
+            "hr": "Prijeđite cestu s tramvajskim tračnicama i skrenite desno",
+            "es": "Cruce la calle con las vías del tranvía y gire a la derecha",
+            "fr": "Traversez la rue avec les voies de tram et tournez à droite"
           },
           "debug_entity": false
         },
@@ -136,35 +136,35 @@
           "type": "turn",
           "radiusMeters": 15,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Skręć w prawo",
+            "ru": "Поверните направо",
+            "en": "Turn right",
+            "de": "Biegen Sie rechts ab",
+            "ua": "Поверніть праворуч",
+            "it": "Svolta a destra",
+            "hr": "Skrenite desno",
+            "es": "Gire a la derecha",
+            "fr": "Tournez à droite"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.04618878539419,
-            19.954948353617628
+            50.04625080140795,
+            19.954932332038883
           ],
           "type": "turn",
           "radiusMeters": 14,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Idź prosto, przejdź przez ulicę i wyjdź na plac",
+            "ru": "Двигайтесь прямо, перейдите дорогу и выходите на площадь",
+            "en": "Go straight, cross the road, and come out onto the square",
+            "de": "Gehen Sie geradeaus, überqueren Sie die Straße und gelangen Sie zum Platz",
+            "ua": "Йдіть прямо, перейдіть дорогу й вийдіть на площу",
+            "it": "Andate dritto, attraversate la strada e sbucate sulla piazza",
+            "hr": "Idite ravno, prijeđite cestu i izađite na trg",
+            "es": "Siga recto, cruce la calle y salga a la plaza",
+            "fr": "Allez tout droit, traversez la rue et débouchez sur la place"
           },
           "debug_entity": false
         },

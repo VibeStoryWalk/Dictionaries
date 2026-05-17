@@ -477,15 +477,15 @@
           "type": "turn",
           "radiusMeters": 13,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Przejdź przez ulicę w lewo.",
+            "ru": "Перейдите дорогу влево",
+            "en": "Cross the road to the left.",
+            "de": "Überqueren Sie die Straße nach links.",
+            "ua": "Перейдіть дорогу ліворуч.",
+            "it": "Attraversate la strada a sinistra.",
+            "hr": "Pređite cestu ulijevo.",
+            "es": "Cruce la calle hacia la izquierda.",
+            "fr": "Traversez la rue vers la gauche."
           },
           "debug_entity": false
         },

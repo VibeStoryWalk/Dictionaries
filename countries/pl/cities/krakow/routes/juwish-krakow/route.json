@@ -632,6 +632,26 @@
         },
         {
           "coordinates": [
+            50.052033200783214,
+            19.946043767384175
+          ],
+          "type": "turn",
+          "radiusMeters": 21,
+          "text": {
+            "pl": "Tymczasowy punkt do testowania",
+            "ru": "Временная точка для тестирования",
+            "en": "Temporary placeholder for testing",
+            "de": "Temporärer Platzhalter zum Testen",
+            "ua": "Тимчасова точка для тестування",
+            "it": "Segnaposto temporaneo per i test",
+            "hr": "Privremeno mjesto za testiranje",
+            "es": "Marcador temporal para pruebas",
+            "fr": "Emplacement temporaire pour les tests"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.05249209083023,
             19.9457114899867
           ],

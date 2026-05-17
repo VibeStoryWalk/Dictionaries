@@ -37,7 +37,7 @@
     "fr": "Une promenade dans les lieux de Cracovie qui intéressent avant tout les enfants, mais qui n’ennuieront pas non plus leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la balade, les enfants seront sûrement fatigués et affamés, et les parents - heureux et satisfaits."
   },
   "durationMinutes": 200,
-  "distanceKm": 3.95,
+  "distanceKm": 3.94,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -449,26 +449,6 @@
         },
         {
           "coordinates": [
-            50.055092963067125,
-            19.933608770370487
-          ],
-          "type": "turn",
-          "radiusMeters": 15,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.05533749507972,
             19.934687018394474
           ],
@@ -504,26 +484,6 @@
             "hr": "Skrenite lijevo u područje parka",
             "es": "Gire a la izquierda hacia la zona del parque",
             "fr": "Tournez à gauche dans la zone du parc"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05592988368289,
-            19.935464882129857
-          ],
-          "type": "turn",
-          "radiusMeters": 20,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
           },
           "debug_entity": false
         },
@@ -624,26 +584,6 @@
             "hr": "Nastavite ravno kroz zonu za parkiranje",
             "es": "Continúe recto por la zona de aparcamiento",
             "fr": "Continuez tout droit dans la zone de stationnement"
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05952227238314,
-            19.933190345764164
-          ],
-          "type": "turn",
-          "radiusMeters": 15,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
           },
           "debug_entity": false
         },

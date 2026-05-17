@@ -133,8 +133,8 @@
       "ua": "Новий Ринок"
     },
     "coordinates": [
-      50.05159267501118,
-      19.94524775504501
+      50.051693193946505,
+      19.944928411962472
     ],
     "story": {
       "ru": "Новый рынок хорошо показывает повседневный слой Казимежа. Это не парадная площадь и не открыточный вид, а живое место, где долгое время пересекались торговля, уличная еда, местные привычки и туристический интерес. Центральный круглый павильон когда-то строился как ритуальная бойня для птицы, позже он стал рынком, а сегодня ассоциируется ещё и со знаменитыми краковскими запеканками. ",
@@ -155,7 +155,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 43
   },
   {
     "id": "szeroka-street",
@@ -449,8 +450,8 @@
       "ua": "Планти"
     },
     "coordinates": [
-      50.062364824535926,
-      19.9328649452125
+      50.06241801044663,
+      19.932719180990887
     ],
     "story": {
       "ru": "Зелёным кольцом, обнимающим исторический центр Краков, раскинулись Планты — один из самых живописных городских парков Польши. Они появились в начале XIX века на месте разобранных средневековых укреплений, когда городские власти решили превратить бывшие рвы и стены в пространство для прогулок и отдыха. Так на месте оборонительной линии возникла зелёная граница, отделяющая Старый город от более поздней застройки.\n\nПланты представляют собой цепь аллей, скверов и тенистых уголков, протянувшихся почти на четыре километра. Здесь сменяются участки с разным характером: строгие аллеи с ровными рядами деревьев уступают место фонтанам, декоративным клумбам и тихим скамейкам. Вдоль дорожек встречаются памятники выдающимся деятелям польской культуры, напоминая о том, что это пространство не только природное, но и культурное.\n\nСо временем Планты стали неотъемлемой частью городской жизни. Здесь гуляют, отдыхают, читают, встречаются и просто наблюдают за течением дня. Парк мягко смягчает границу между прошлым и настоящим: за зеленью скрываются старинные стены, башни и ворота, а сами аллеи повторяют контуры бывших укреплений.",
@@ -471,7 +472,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 45
   },
   {
     "id": "barbican",
@@ -646,8 +648,8 @@
       "ua": "Ратушна вежа"
     },
     "coordinates": [
-      50.061411957288584,
-      19.936423011242546
+      50.06149148195696,
+      19.93647939006148
     ],
     "story": {
       "ru": "На главной площади Кракова возвышается Ратушная башня — один из немногих сохранившихся фрагментов средневековой ратуши, некогда определявшей административный центр города. Построенная в XIV веке, башня служила частью комплекса, где размещались городские власти, судебные учреждения и казна. Со временем сама ратуша была разобрана, но башня уцелела, став самостоятельным архитектурным символом.\n\nЕё могущественный облик с массивными стенами и характерным силуэтом отражает практическое назначение: она использовалась как сторожевая и наблюдательная точка. С вершины открывался обзор на город и его окрестности, что было важно для обеспечения безопасности. \n\nВнутреннее пространство башни в разные эпохи выполняло различные функции — от административных помещений до тюремных камер. Сегодня здесь размещается музей, позволяющий прикоснуться к истории городской власти и быта средневекового Кракова. Поднявшись наверх, можно увидеть город с высоты и ощутить масштаб исторического центра.",
@@ -668,7 +670,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 25
   },
   {
     "id": "eros-bound",
@@ -769,8 +772,8 @@
       "en": ""
     },
     "coordinates": [
-      50.06117449801024,
-      19.932727392718984
+      50.06124682702211,
+      19.93266532210633
     ],
     "story": {
       "pl": "Imię Mikołaja Kopernika jest nierozerwalnie związane z historią Krakowa i jego tradycją naukową. Przyszły astronom studiował na Uniwersytecie Jagiellońskim pod koniec XV wieku, gdy miasto było jednym z najważniejszych ośrodków intelektualnych Europy. To właśnie tutaj zdobył pierwszą wiedzę z matematyki i astronomii, która później stała się podstawą jego rewolucyjnych idei.\n\nKopernik przeszedł do historii jako uczony, który zaproponował heliocentryczny model świata, zgodnie z którym Ziemia i inne planety krążą wokół Słońca. Teoria ta, przedstawiona w dziele O obrotach sfer niebieskich, zmieniła wyobrażenie o Wszechświecie i stała się punktem wyjścia rewolucji naukowej. Za jego życia jego idee przyjmowano jednak z ostrożnością i sceptycyzmem, a uznanie przyszło znacznie później.\n\nChoć Kopernik spędził większość życia poza Krakowem, lata spędzone na uniwersytecie wywarły znaczący wpływ na jego światopogląd. W mieście, w którym krzyżowały się różne tradycje naukowe, zapoznał się z dziełami myślicieli starożytnych i średniowiecznych, co pozwoliło mu ukształtować własny pogląd na budowę świata.\n\nDziś pamięć o Koperniku jest w Krakowie zachowywana jako o wybitnym uczonym, którego odkrycia daleko wykraczały poza granice jego epoki.",
@@ -786,7 +789,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/mikolaj-kopernik-sculpture.jpg",
     "imageHash": "8b745e210240870e2c42a5ed871192b0ede53f9e195a5fd435388b70d5af7a1f",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 23
   },
   {
     "id": "jst-Joseph-church",
@@ -1218,8 +1222,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.04227759926753,
-      19.94836305613003
+      50.04193339328546,
+      19.94875901148853
     ],
     "story": {
       "pl": "Park Bednarskiego to park miejski w krakowskim Podgórzu, przy ulicach Parkowej i Krzemionki. Powstał na terenie dawnego wyrobiska wapienia, dlatego jego ukształtowanie zachowuje ślady po eksploatacji kamieniołomu.\n\nPomysł utworzenia parku w latach 90. XIX wieku promował Wojciech Bednarski; park otwarto 19 lipca 1896 roku. Bednarski był dyrektorem szkoły w Podgórzu i radnym miejskim, a na urządzenie parku przeznaczył także własne środki.\n\nZ parkiem wiąże się też miejscowa legenda: część kamieniołomu nazywano Szkołą Twardowskiego, gdzie Pan Twardowski miał podobno prowadzić pracownię alchemiczną.\n\nWskazówka: koniecznie wejdźcie na rotundę i ścieżki za nią. Rozciąga się stamtąd piękny widok na miasto i kościół św. Józefa.",
@@ -1235,7 +1239,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-37.jpg",
     "imageHash": "96190734ea279b986f22d05dd56b6b29f50d5b5acc026e8a598e12f5c1c425f1",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 81
   },
   {
     "id": "horses",

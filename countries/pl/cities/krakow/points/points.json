@@ -53,8 +53,8 @@
       "ua": "Міст Бернатка"
     },
     "coordinates": [
-      50.046149841497375,
-      19.94796104242147
+      50.04657107421791,
+      19.947524366928462
     ],
     "story": {
       "ru": "Над спокойными водами Вислы протянулся изящный Мост Бернатка - современная пешеходная переправа, соединившая районы Казимеж и Подгуже. Открытый в 2010 году, он стал не только удобной связью между берегами, но и выразительным архитектурным элементом города. Лёгкая металлическая конструкция с характерными дугами словно парит над рекой, отражаясь в воде и меняя облик в зависимости от времени суток и освещения.\n\nМост назван в честь инженера Людвика Бернатка, внёсшего вклад в развитие городской инфраструктуры, и с самого начала задумывался как место для прогулок, встреч и неспешного созерцания. \n\nСо временем у моста появилась своя романтическая традиция. Перила украшаются многочисленными замками, которые оставляют влюблёнными как символ прочности чувств. Этот жест, распространённый во многих европейских городах, здесь приобрёл особую атмосферу: лёгкие фигурки акробатов, установленные вдоль конструкции, создают ощущение движения и игры, будто сами участвуют в истории любви, разворачивающейся на мосту.",
@@ -75,7 +75,8 @@
       "ru": "Вы приближаетесь к мосту Бернатка.",
       "en": "You are approaching the Father Bernatek Footbridge.",
       "pl": "Zbliżasz się do kładki Ojca Bernatka."
-    }
+    },
+    "radius": 73
   },
   {
     "id": "judah-mural",
@@ -92,8 +93,8 @@
       "ua": "Мурал «Юда»"
     },
     "coordinates": [
-      50.05024987409684,
-      19.948160482550758
+      50.05024279173052,
+      19.948050370199685
     ],
     "story": {
       "ru": "Вы видите на стене здания мурал «Judah» Пила Пеледа. Это крупная черно-белая роспись, которая задает визуальный облик этого места.\n\nРабота выполнена в 2013 году во время 23-го Фестиваля еврейской культуры в Кракове. Фестиваль задумывал ее как тематический проект, а не как декоративное оформление района: мурал должен был сделать еврейскую идентичность более значимой в Казимеже, однако со временем у этого места появилось и неофициальное городское название: сначала владельцы фуд-траков, установленных на площадке у мурала, а затем и горожане стали называть его Judah Square. Некоторые жители города отмечают, что до появления мурала эта улица была довольно пустой, а затем стала привлекать людей.\n\nПелед связал роспись с новым логотипом фестиваля, Львом Иуды. По его объяснению, ребенок обозначает внутреннего ребенка и маленький, испуганный народ, а лев — еврейскую силу, выживание и сопротивление страху. Роспись создавалась публично: к работе присоединились волонтеры, художники, гости фестиваля и прохожие.",
@@ -114,7 +115,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 25
   },
   {
     "id": "plac-nowy",
@@ -350,7 +352,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 40
   },
   {
     "id": "jagiellonian-university",
@@ -564,8 +567,8 @@
       "ua": "Маріацький костел"
     },
     "coordinates": [
-      50.061639274681085,
-      19.938751231785986
+      50.06175662739938,
+      19.938845077244626
     ],
     "story": {
       "ru": "На восточной стороне Рыночной площади возвышается Мариацкий костёл — один из главных символов города и выдающийся памятник готической архитектуры. Его асимметричные башни сразу привлекают внимание: более высокая служит смотровой и сигнальной, а вторая выполняет функции колокольни. Этот необычный силуэт стал неотъемлемой частью краковского пейзажа.\n\nХрам был возведён в XIV веке на месте более ранней постройки и с тех пор неоднократно обновлялся. Внутри он поражает богатством убранства: особенно выделяется резной алтарь работы немецко-польского скульптора Вита Ствоша — одно из крупнейших готических произведений своего рода в Европе. Расписной потолок, украшенный звёздным орнаментом, создаёт ощущение бесконечного небесного свода, усиливая впечатление торжественности и духовной глубины.\n\nС Мариацким костёлом связана одна из самых известных городских традиций. Каждый час с высокой башни звучит хейнал — сигнал, внезапно обрывающийся на середине мелодии. По легенде, он напоминает о трубаче, который во время нашествия предупредил жителей о враге, но был поражён стрелой. ",
@@ -586,7 +589,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 40
   },
   {
     "id": "cloth-hall",
@@ -804,8 +808,8 @@
       "en": ""
     },
     "coordinates": [
-      50.04357666570158,
-      19.94966781300885
+      50.04345678238874,
+      19.949751075179286
     ],
     "story": {
       "pl": "Kościół św. Józefa w Podgórzu jest kościołem parafialnym Krakowa na Rynku Podgórskim, stojącym na miejscu dawnego kamieniołomu. Życie parafialne zostało tu oficjalnie zorganizowane w 1818 roku, ale zaczęło się od tymczasowej kaplicy w budynku rządowym. Pierwszy kościół w tym miejscu wzniesiono w 1832 roku; była to powściągliwa świątynia klasycystyczna. Na początku XX wieku uznano ją za wadliwą i niebezpieczną, a w 1905 roku budynek rozebrano.\n\nNowy projekt promował ksiądz Antoni Gruszecki. Zwrócił uwagę na wystawowy projekt Jana Sas-Zubrzyckiego w krakowskim Pałacu Sztuki i doprowadził do jego realizacji w uproszczonej, tańszej wersji. Stary kościół rozebrano w 1905 roku, teren poświęcono 13 maja, kamień węgielny wmurowano 17 września, a nową świątynię poświęcono 24 października 1909 roku.\n\nGłówna wieża została świadomie nawiązana do hejnalicy bazyliki Mariackiej w Krakowie. Portal nosi herb Sas i dewizę SUSTINAE, którą mieszkańcy odczytują jako wezwanie, by podtrzymywać i nie dopuścić do upadku. Wewnątrz zachowały się sklepienie krzyżowo-żebrowe, obejście z kaplicami wokół prezbiterium oraz bogate neogotyckie wyposażenie z niemal 60 wizerunkami świętych.\n\nOrgany zbudowała przed I wojną światową warszawska pracownia Adolfa Antoniego Gomana; instrument pierwotnie przeznaczony był dla Baku w Azerbejdżanie, a w Podgórzu kupiono go w 1922 roku. Restauracja trwa od 1978 roku: wzmocniła uszkodzoną wieżę, odnowiła wygląd zewnętrzny i wewnętrzny, przywróciła pierwotną logikę kolorystyczną i odtworzyła figurę św. Józefa usuniętą w latach 50. Dziś jest to przebudowany i wciąż odnawiany zabytek, w którym widoczne są różne warstwy historii.",
@@ -821,7 +825,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/jst-joseph-church.jpg",
     "imageHash": "a10122233742cec238da8956f2227231e05557672e35406c3a68f9964634dc89",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 42
   },
   {
     "id": "schindler-list-passage",

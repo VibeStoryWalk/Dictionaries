@@ -37,7 +37,7 @@
     "fr": "Une promenade dans les lieux de Cracovie qui intéressent avant tout les enfants, mais qui n’ennuieront pas non plus leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la balade, les enfants seront sûrement fatigués et affamés, et les parents - heureux et satisfaits."
   },
   "durationMinutes": 200,
-  "distanceKm": 3.88,
+  "distanceKm": 3.95,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -66,6 +66,126 @@
             50.04193339328546,
             19.94875901148853
           ]
+        },
+        {
+          "coordinates": [
+            50.042416516056576,
+            19.948360933825057
+          ],
+          "type": "turn",
+          "radiusMeters": 31,
+          "text": {
+            "pl": "Schodźcie po schodach",
+            "ru": "Спускайтесь вниз по ступенькам",
+            "en": "Go down the steps",
+            "de": "Gehen Sie die Stufen hinunter",
+            "ua": "Спускайтеся вниз сходами",
+            "it": "Scendete i gradini",
+            "hr": "Siđite niz stepenice",
+            "es": "Baje por las escaleras",
+            "fr": "Descendez les marches"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.043013492301135,
+            19.948286564358355
+          ],
+          "type": "turn",
+          "radiusMeters": 25,
+          "text": {
+            "pl": "Przejdź przez ulicę i idź prosto",
+            "ru": "Перейдите дорогу и двигайтесь прямо",
+            "en": "Cross the road and continue straight ahead",
+            "de": "Überqueren Sie die Straße und gehen Sie geradeaus",
+            "ua": "Перейдіть дорогу і йдіть прямо",
+            "it": "Attraversa la strada e continua dritto",
+            "hr": "Prijeđite cestu i nastavite ravno",
+            "es": "Cruza la calle y sigue recto",
+            "fr": "Traversez la rue et continuez tout droit"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04383586211868,
+            19.947336316108707
+          ],
+          "type": "turn",
+          "radiusMeters": 23,
+          "text": {
+            "pl": "Skręć w prawo i przejdź przez ulicę",
+            "ru": "Поверните направо и перейдите дорогу",
+            "en": "Turn right and cross the road",
+            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
+            "ua": "Поверніть праворуч і перейдіть дорогу",
+            "it": "Svolta a destra e attraversa la strada",
+            "hr": "Skrenite desno i prijeđite cestu",
+            "es": "Gire a la derecha y cruce la calle",
+            "fr": "Tournez à droite et traversez la rue"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0446075533217,
+            19.94847892790061
+          ],
+          "type": "turn",
+          "radiusMeters": 17,
+          "text": {
+            "pl": "Przejdź przez ulicę i idź w lewo",
+            "ru": "Перейдите дорогу и идите влево",
+            "en": "Cross the road and go left",
+            "de": "Überqueren Sie die Straße und gehen Sie nach links",
+            "ua": "Перейдіть дорогу і йдіть ліворуч",
+            "it": "Attraversa la strada e vai a sinistra",
+            "hr": "Prijeđite cestu i idite lijevo",
+            "es": "Cruce la calle y vaya a la izquierda",
+            "fr": "Traversez la rue et allez à gauche"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04501411254626,
+            19.94823216929546
+          ],
+          "type": "turn",
+          "radiusMeters": 23,
+          "text": {
+            "pl": "Trzymajcie się prawej strony",
+            "ru": "Держитесь правее",
+            "en": "Keep right",
+            "de": "Halten Sie sich rechts",
+            "ua": "Тримайтеся праворуч",
+            "it": "Tenetevi a destra",
+            "hr": "Držite se desno",
+            "es": "Manténgase a la derecha",
+            "fr": "Restez à droite"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.0457374849407,
+            19.948210725496
+          ],
+          "type": "turn",
+          "radiusMeters": 27,
+          "text": {
+            "pl": "Wejdź po schodach, przejdź przez ulicę i wejdź na most.",
+            "ru": "Поднимитесь по лестнице, перейдите дорогу и выходите на мост",
+            "en": "Go up the stairs, cross the road and get onto the bridge.",
+            "de": "Gehen Sie die Treppe hinauf, überqueren Sie die Straße und betreten Sie die Brücke.",
+            "ua": "Підніміться сходами, перейдіть дорогу і виходьте на міст.",
+            "it": "Sali le scale, attraversa la strada e vai sul ponte.",
+            "hr": "Popnite se stubama, prijeđite cestu i izađite na most.",
+            "es": "Sube las escaleras, cruza la calle y entra al puente.",
+            "fr": "Montez les escaliers, traversez la route et accédez au pont."
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [

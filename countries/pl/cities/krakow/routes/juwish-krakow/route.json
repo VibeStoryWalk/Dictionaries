@@ -325,13 +325,35 @@
           "coordinates": [
             50.05125554188875,
             19.947428094684206
-          ]
+          ],
+          "radiusMeters": 21
+        },
+        {
+          "coordinates": [
+            50.05129725949525,
+            19.947947882885167
+          ],
+          "type": "turn",
+          "radiusMeters": 18,
+          "text": {
+            "pl": "Trzymaj się prawej strony",
+            "ru": "Возьмите правее",
+            "en": "Keep right",
+            "de": "Halten Sie sich rechts",
+            "ua": "Тримайтеся праворуч",
+            "it": "Tenete la destra",
+            "hr": "Držite se desno",
+            "es": "Manténgase a la derecha",
+            "fr": "Restez sur la droite"
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.05123493018633,
             19.948597637606795
-          ]
+          ],
+          "radiusMeters": 22
         }
       ]
     },

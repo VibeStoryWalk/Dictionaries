@@ -37,7 +37,7 @@
     "fr": "Ce grand itinéraire relie plusieurs quartiers de Cracovie en une longue promenade. Vous commencerez sur la place des Héros du ghetto à Podgórze, traverserez la Vistule pour rejoindre le Kazimierz juif avec ses rues, ses synagogues et ses traces de l’histoire de la guerre, puis gagnerez le Wawel avant de terminer dans la vieille ville. Cet itinéraire parle de la vie urbaine et de l’histoire stratifiée de Cracovie, qui a façonné son visage riche et moderne. "
   },
   "durationMinutes": 330,
-  "distanceKm": 7.5,
+  "distanceKm": 7.54,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -806,8 +806,8 @@
         },
         {
           "coordinates": [
-            50.05159267501118,
-            19.94524775504501
+            50.051693193946505,
+            19.944928411962472
           ],
           "radiusMeters": 15
         }
@@ -819,8 +819,8 @@
       "path": [
         {
           "coordinates": [
-            50.05159267501118,
-            19.94524775504501
+            50.051693193946505,
+            19.944928411962472
           ]
         },
         {
@@ -1740,8 +1740,8 @@
         },
         {
           "coordinates": [
-            50.06117449801024,
-            19.932727392718984
+            50.06124682702211,
+            19.93266532210633
           ]
         }
       ]
@@ -1752,8 +1752,8 @@
       "path": [
         {
           "coordinates": [
-            50.06117449801024,
-            19.932727392718984
+            50.06124682702211,
+            19.93266532210633
           ]
         },
         {
@@ -1853,8 +1853,8 @@
         },
         {
           "coordinates": [
-            50.062364824535926,
-            19.9328649452125
+            50.06241801044663,
+            19.932719180990887
           ]
         }
       ]
@@ -1865,8 +1865,8 @@
       "path": [
         {
           "coordinates": [
-            50.062364824535926,
-            19.9328649452125
+            50.06241801044663,
+            19.932719180990887
           ]
         },
         {
@@ -2079,8 +2079,8 @@
         },
         {
           "coordinates": [
-            50.061411957288584,
-            19.936423011242546
+            50.06149148195696,
+            19.93647939006148
           ]
         }
       ]
@@ -2091,8 +2091,8 @@
       "path": [
         {
           "coordinates": [
-            50.061411957288584,
-            19.936423011242546
+            50.06149148195696,
+            19.93647939006148
           ]
         },
         {

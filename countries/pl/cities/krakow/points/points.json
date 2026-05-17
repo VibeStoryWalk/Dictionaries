@@ -406,8 +406,8 @@
       "ua": "Колегіум Майус"
     },
     "coordinates": [
-      50.06143270630443,
-      19.93400365397726
+      50.06157419968358,
+      19.9340654049721
     ],
     "story": {
       "ru": "Среди узких улиц старого Кракова скрывается Коллегиум Майус — старейшее здание Ягеллонского университета и один из важнейших символов академической традиции Европы. Возведённое в XV веке, оно стало центром научной жизни города в эпоху, когда университет переживал расцвет и привлекал студентов со всего континента.\n\nГотический двор с аркадами и характерными кирпичными фасадами создаёт атмосферу сосредоточенности и тишины, словно время здесь течёт иначе. Именно в этих стенах преподавал и учился Николай Коперник, чьи идеи изменили представление о строении мира. Коллегиум Майус служил местом, где формировались научные взгляды, велись диспуты и закладывались основы европейской интеллектуальной культуры.\n\nНа протяжении веков здание неоднократно перестраивалось, но сохранило свой исторический облик. Сегодня здесь располагается университетский музей, в котором собраны старинные научные инструменты, глобусы и рукописи. Особое внимание привлекают часы во внутреннем дворе: каждый час их фигурки разыгрывают небольшое представление, напоминая о великих учёных, связанных с этим местом.",
@@ -428,7 +428,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 31
   },
   {
     "id": "planty",
@@ -719,8 +720,8 @@
       "ua": "Головна площа"
     },
     "coordinates": [
-      50.06189418479692,
-      19.936809299835495
+      50.06169771565743,
+      19.937343530084775
     ],
     "story": {
       "ru": "В самом сердце Кракова раскинулась Главная рыночная площадь — одна из крупнейших средневековых площадей Европы и символ городской жизни, неизменно притягивающая  людей на протяжении веков. Её просторное пространство было сформировано в XIII веке, когда Краков получил новое планировочное устройство, и с тех пор площадь стала центром торговли, политики и общественных событий.\n\nЗдесь пересекались пути купцов из разных стран, проходили торжественные процессии и важнейшие городские церемонии. Площадь окружена зданиями разных эпох, каждое из которых отражает свой исторический слой: от готических храмов до ренессансных и барочных фасадов. \n\nНесмотря на многовековую историю, площадь остаётся живой и динамичной. Здесь проходят фестивали, концерты и ярмарки, а уличные музыканты и художники создают ощущение непрерывного движения. Днём она наполнена светом и голосами, а вечером преображается в мягком сиянии огней, отражающих величие окружающей архитектуры.",
@@ -741,7 +742,8 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "radius": 100
   },
   {
     "id": "mikolaj-kopernik-sculpture",
@@ -847,8 +849,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.050927939556686,
-      19.94405366489869
+      50.05102813192891,
+      19.944225576432455
     ],
     "story": {
       "pl": "Ten niepozorny dziedziniec stał się znany dzięki filmowi Stevena Spielberga Lista Schindlera. To tutaj kręcono sceny likwidacji krakowskiego getta - epizody, w których codzienne życie nagle urywa się pod wpływem okrucieństwa wydarzeń historycznych. Kamienne schody, wąskie przejścia i zamknięta przestrzeń dziedzińca zachowały tę atmosferę, która pozwoliła reżyserowi oddać poczucie beznadziei i niepokoju.",
@@ -864,7 +866,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/schindler-list-passage.jpg",
     "imageHash": "96fd73a8fbc3c5f89a343fd60f0065d06a44ca9bb0873ff413a60f262f287087",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 30
   },
   {
     "id": "dom-bosak",
@@ -892,8 +895,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.05115207336529,
-      19.948657376825167
+      50.05123493018633,
+      19.948597637606795
     ],
     "story": {
       "pl": "Dom rodziny Bosaków to zabytkowa kamienica związana z życiem żydowskiej społeczności miasta. Przez kilka stuleci mieszkała tu rodzina Bosaków, aż podczas II wojny światowej została wysiedlona. Marek Bosak, jeden z członków rodziny, był wśród Żydów uratowanych przez Oskara Schindlera.\n\nDziś budynek wyróżnia się czarno-białym muralem na fasadzie, stworzonym przez grupę artystyczną Broken Fingaz za zgodą potomków rodziny.\n\nDom jest zamknięty dla zwiedzających.",
@@ -909,7 +912,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/dom-bosak.jpg",
     "imageHash": "f014c361ebc20d4999df5434638778bda07b8a0cc72bc7399f376d24ec54bbd0",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 20
   },
   {
     "id": "point-31",
@@ -1118,8 +1122,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.0513888889,
-      19.9473888889
+      50.05125554188875,
+      19.947428094684206
     ],
     "story": {
       "pl": "Wysoka Synagoga w krakowskim Kazimierzu jest dziś wykorzystywana jako przestrzeń wystawiennicza i konferencyjna. To dawna synagoga z połowy XVI wieku, trzecia w Kazimierzu, a jej historia czytelna jest w samej konstrukcji budynku.\n\nOd początku plan był nietypowy: salę modlitw mężczyzn umieszczono na piętrze, a na parterze i w piwnicy urządzono sklepy oraz pomieszczenia gospodarcze. Wschodnie wejście prowadziło do części handlowej, zachodnie do synagogi. Takie rozwiązanie wiązało się z tym, że budynek stał przy bramach żydowskiego miasta, w pobliżu chrześcijańskich posiadłości, a górna sala uchodziła za bezpieczniejszą. \n\nZ ulicy widać cztery przypory i trzy wysokie półkoliste okna oświetlające salę modlitw. We wnętrzu zachował się kamienny aron ha-kodesz, uważany za najstarszy i największy renesansowy aron ha-kodesz w Polsce; nad nim umieszczono dwa gryfy, a na ścianach zachowały się polichromie z XVII wieku. \n\nPrzełom w historii budynku nastąpił podczas II wojny światowej. Naziści splądrowali wnętrze, zniszczyli sklepienie kolebkowe, a babiniec przestał istnieć. Wielka brązowa menora ocalała, ponieważ wcześniej przewieziono ją na Wawel; później znalazła się wśród przedmiotów zdobiących pokoje zajmowane w czasie wojny przez gauleitera Polski Hansa Franka. Po 1945 roku budynek przez około trzydzieści lat służył głównie jako magazyn. W 1966 roku przekazano go pracowniom konserwatorskim, a rekonstrukcja z lat 1969–1971 zmieniła linię dachu i połączyła synagogę z sąsiednim budynkiem. W 2008 roku obiekt zwrócono gminie żydowskiej, a pierwsze powojenne nabożeństwo oznaczyło jego powrót do życia religijnego.",
@@ -1135,7 +1139,8 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/point-35.jpg",
     "imageHash": "1af01b298a0f6210274ed02514a25586ae070c959637ac41a4bd1a68e005b302",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 15
   },
   {
     "id": "point-36",
@@ -1253,8 +1258,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.06230751256079,
-      19.93797054911831
+      50.06232495823837,
+      19.937997475003876
     ],
     "story": {
       "pl": "Na krakowskim Rynku Głównym postój dorożek znajduje się między kościołem Mariackim a Sukiennicami. \n\nDopuszczone są wyłącznie wozy o długości do 420 cm i tylko z dwoma końmi. Jeśli temperatura w cieniu przekracza 28 °C, postój jest zamykany od 12:00 do 18:00; dzienna praca koni jest ograniczona do 12 godzin i odbywa się co drugi dzień.",
@@ -1270,6 +1275,7 @@
     "dwellTimeMinutes": 5,
     "image": "krakow/points/points_images/horses.jpg",
     "imageHash": "39672338076bba5ed63ea971979adb12daaa2a646f1da5ff16ede8a88041f13e",
-    "debug_entity": false
+    "debug_entity": false,
+    "radius": 20
   }
 ]

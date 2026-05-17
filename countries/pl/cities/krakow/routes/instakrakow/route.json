@@ -370,26 +370,6 @@
         },
         {
           "coordinates": [
-            50.05621577982311,
-            19.937353120282612
-          ],
-          "type": "turn",
-          "radiusMeters": 26,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
             50.055554451613794,
             19.93684886036359
           ],
@@ -416,15 +396,15 @@
           "type": "turn",
           "radiusMeters": 32,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Schodźcie drogą w dół",
+            "ru": "Спускайтесь по дороге вниз",
+            "en": "Go down the road",
+            "de": "Gehen Sie die Straße hinunter",
+            "ua": "Спускайтеся дорогою вниз",
+            "it": "Scendete lungo la strada",
+            "hr": "Spustite se niz cestu",
+            "es": "Baje por la carretera",
+            "fr": "Descendez la route"
           },
           "debug_entity": false
         },

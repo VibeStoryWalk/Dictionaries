@@ -37,7 +37,7 @@
     "fr": "Ce grand itinéraire relie plusieurs quartiers de Cracovie en une longue promenade. Vous commencerez sur la place des Héros du ghetto à Podgórze, traverserez la Vistule pour rejoindre le Kazimierz juif avec ses rues, ses synagogues et ses traces de l’histoire de la guerre, puis gagnerez le Wawel avant de terminer dans la vieille ville. Cet itinéraire parle de la vie urbaine et de l’histoire stratifiée de Cracovie, qui a façonné son visage riche et moderne. "
   },
   "durationMinutes": 330,
-  "distanceKm": 7.55,
+  "distanceKm": 7.5,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -586,8 +586,8 @@
         },
         {
           "coordinates": [
-            50.05185102263469,
-            19.948289094456683
+            50.05212698143592,
+            19.94828103412696
           ],
           "radiusMeters": 21
         }
@@ -599,8 +599,8 @@
       "path": [
         {
           "coordinates": [
-            50.05185102263469,
-            19.948289094456683
+            50.05212698143592,
+            19.94828103412696
           ],
           "radiusMeters": 13
         },
@@ -1722,8 +1722,8 @@
         },
         {
           "coordinates": [
-            50.06073350142449,
-            19.93259298087741
+            50.060850910164035,
+            19.932976292031906
           ]
         }
       ]
@@ -1734,8 +1734,8 @@
       "path": [
         {
           "coordinates": [
-            50.06073350142449,
-            19.93259298087741
+            50.060850910164035,
+            19.932976292031906
           ]
         },
         {
@@ -2042,8 +2042,8 @@
         },
         {
           "coordinates": [
-            50.062131543175376,
-            19.937710359534353
+            50.061715593376576,
+            19.93733784814642
           ]
         }
       ]
@@ -2054,8 +2054,8 @@
       "path": [
         {
           "coordinates": [
-            50.062131543175376,
-            19.937710359534353
+            50.061715593376576,
+            19.93733784814642
           ]
         },
         {

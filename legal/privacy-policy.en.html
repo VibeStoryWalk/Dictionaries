@@ -49,6 +49,12 @@
         text-to-speech status, and whether the event happened while the device was online or
         offline.
       </p>
+      <p>
+        SamoWalk may also use Firebase Crashlytics to detect app crashes
+        and serious runtime failures. Crash reports and related diagnostics may include technical
+        information about the state of the app or device at the time of the failure so that app
+        stability issues can be investigated and fixed.
+      </p>
 
       <h3>Advertising Data</h3>
       <p>
@@ -75,6 +81,7 @@
         <li>To support offline city packages and map caching.</li>
         <li>To remember app preferences and consent settings on your device.</li>
         <li>To understand how core app features are used through limited analytics events.</li>
+        <li>To investigate crashes, diagnose failures, and improve app stability.</li>
         <li>To display ads, where advertising is enabled.</li>
         <li>To improve app stability, usability, and content planning.</li>
       </ul>
@@ -92,10 +99,31 @@
         sent later when connectivity returns. In that case, the app keeps metadata showing whether
         the event originally happened online or offline.
       </p>
+      <p>
+        Analytics and crash reporting are both gated behind the startup privacy policy consent
+        flow. The app shows the privacy policy before Firebase Analytics or Firebase Crashlytics
+        are initialized.
+      </p>
     </section>
 
     <section>
-      <h2>5. Advertising</h2>
+      <h2>5. Crash Reporting</h2>
+      <p>
+        In supported native mobile builds, SamoWalk may use Firebase Crashlytics to collect crash
+        reports and selected non-fatal diagnostic reports. This helps identify and resolve app
+        stability problems affecting route guidance, offline content, narration, maps, and other
+        core features.
+      </p>
+      <p>
+        Crash-related diagnostics can include technical metadata such as runtime environment,
+        language context, stack traces, and app state information relevant to the failure. SamoWalk
+        uses this information for debugging and stability improvement, not for advertising or user
+        profiling.
+      </p>
+    </section>
+
+    <section>
+      <h2>6. Advertising</h2>
       <p>
         SamoWalk may display banner ads or interstitial ads depending on the app configuration,
         runtime settings, and product flows. Ads may be supplied by Google AdMob.
@@ -107,13 +135,14 @@
     </section>
 
     <section>
-      <h2>6. Sharing And Third Parties</h2>
+      <h2>7. Sharing And Third Parties</h2>
       <p>
         SamoWalk relies on third-party services and infrastructure to provide some functionality.
         These may include:
       </p>
       <ul>
         <li>Google Firebase Analytics for analytics measurement.</li>
+        <li>Google Firebase Crashlytics for crash reporting and diagnostics in supported native app builds.</li>
         <li>Google AdMob for advertising, if ads are enabled.</li>
         <li>OpenStreetMap-based map tiles and related map delivery infrastructure.</li>
       </ul>
@@ -123,7 +152,7 @@
     </section>
 
     <section>
-      <h2>7. Consent And Your Choices</h2>
+      <h2>8. Consent And Your Choices</h2>
       <ul>
         <li>You can choose whether to grant location access through your device permissions.</li>
         <li>You can review and change privacy-related choices inside the app settings, where available.</li>
@@ -133,7 +162,7 @@
     </section>
 
     <section>
-      <h2>8. Data Retention</h2>
+      <h2>9. Data Retention</h2>
       <p>
         Information stored locally on your device generally remains there until it is removed by
         the app, replaced by newer data, or deleted by you through app or device actions.
@@ -145,7 +174,7 @@
     </section>
 
     <section>
-      <h2>9. Children</h2>
+      <h2>10. Children</h2>
       <p>
         SamoWalk is not specifically directed to children. If future versions are distributed to a
         child-directed audience, the app configuration, advertising behavior, and disclosures may
@@ -154,7 +183,7 @@
     </section>
 
     <section>
-      <h2>10. Security</h2>
+      <h2>11. Security</h2>
       <p>
         We take reasonable steps to limit data use to the functionality described in this policy.
         However, no app, storage mechanism, or internet transmission can be guaranteed to be fully
@@ -163,7 +192,7 @@
     </section>
 
     <section>
-      <h2>11. Changes To This Policy</h2>
+      <h2>12. Changes To This Policy</h2>
       <p>
         This policy may be updated from time to time to reflect product changes, legal
         requirements, or configuration updates. The latest version should be treated as the
@@ -172,7 +201,7 @@
     </section>
 
     <section>
-      <h2>12. Contact</h2>
+      <h2>13. Contact</h2>
       <p>
         Email adress samowalk.pl@gmail.com can be used for addressing privacy-related questions.
       </p>

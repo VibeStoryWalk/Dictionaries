@@ -500,7 +500,7 @@
     },
     {
       "fromPointId": "remuh-synagogue",
-      "toPointId": "sinagogue-isaaek",
+      "toPointId": "synagogue-isaaek",
       "path": [
         {
           "coordinates": [
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "fromPointId": "sinagogue-isaaek",
+      "fromPointId": "synagogue-isaaek",
       "toPointId": "sinagogue-kupa",
       "path": [
         {
@@ -870,7 +870,7 @@
     "szeroka-street",
     "big-mikwa",
     "remuh-synagogue",
-    "sinagogue-isaaek",
+    "synagogue-isaaek",
     "sinagogue-kupa",
     "sinagogue-tempel",
     "schindler-list-passage",

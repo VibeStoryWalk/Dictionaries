@@ -396,15 +396,15 @@
           "type": "turn",
           "radiusMeters": 32,
           "text": {
-            "pl": "Schodźcie drogą w dół",
-            "ru": "Спускайтесь по дороге вниз",
-            "en": "Go down the road",
-            "de": "Gehen Sie die Straße hinunter",
-            "ua": "Спускайтеся дорогою вниз",
-            "it": "Scendete lungo la strada",
-            "hr": "Spustite se niz cestu",
-            "es": "Baje por la carretera",
-            "fr": "Descendez la route"
+            "pl": "Przejdźcie przez bramę",
+            "ru": "Проходите через ворота",
+            "en": "Go through the gate",
+            "de": "Gehen Sie durch das Tor",
+            "ua": "Пройдіть через ворота",
+            "it": "Passate attraverso il cancello",
+            "hr": "Prođite kroz vrata",
+            "es": "Pase por la puerta",
+            "fr": "Passez par la porte"
           },
           "debug_entity": false
         },
@@ -434,17 +434,17 @@
             19.93482109878782
           ],
           "type": "turn",
-          "radiusMeters": 29,
+          "radiusMeters": 23,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Schodźcie drogą w dół",
+            "ru": "Спускайтесь по дороге вниз",
+            "en": "Go down the road",
+            "de": "Gehen Sie die Straße hinunter",
+            "ua": "Спускайтеся дорогою вниз",
+            "it": "Scendete lungo la strada",
+            "hr": "Spuštajte se niz cestu",
+            "es": "Bajen por la carretera",
+            "fr": "Descendez la route"
           },
           "debug_entity": false
         },
@@ -470,41 +470,21 @@
         },
         {
           "coordinates": [
-            50.055440741339076,
-            19.935883281303003
+            50.05545799336994,
+            19.935963456247848
           ],
           "type": "turn",
           "radiusMeters": 18,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.055361591057355,
-            19.935282450298892
-          ],
-          "type": "turn",
-          "radiusMeters": 18,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Idźcie wzdłuż zamku",
+            "ru": "Двигайтесь вдоль замка",
+            "en": "Walk along the castle",
+            "de": "Gehen Sie am Schloss entlang",
+            "ua": "Рухайтеся вздовж замку",
+            "it": "Procedete lungo il castello",
+            "hr": "Krećite se uzduž dvorca",
+            "es": "Siga a lo largo del castillo",
+            "fr": "Suivez le long du château"
           },
           "debug_entity": false
         },
@@ -530,8 +510,8 @@
         },
         {
           "coordinates": [
-            50.05431446176257,
-            19.933013294536007
+            50.05424566612416,
+            19.933040114314043
           ],
           "type": "turn",
           "radiusMeters": 16,
@@ -550,28 +530,8 @@
         },
         {
           "coordinates": [
-            50.05384265304616,
-            19.932906033920695
-          ],
-          "type": "turn",
-          "radiusMeters": 15,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
-          "debug_entity": false
-        },
-        {
-          "coordinates": [
-            50.05325732659622,
-            19.933195592264674
+            50.053308798479186,
+            19.933050894016453
           ],
           "type": "portal",
           "radiusMeters": 14,
@@ -587,7 +547,7 @@
             "fr": ""
           },
           "debug_entity": false,
-          "targetVertexIndex": 9
+          "targetVertexIndex": 7
         },
         {
           "coordinates": [

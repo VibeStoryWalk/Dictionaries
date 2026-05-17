@@ -37,7 +37,7 @@
     "fr": "Cet itinéraire est consacré au patrimoine juif de Cracovie et traverse deux lieux clés de la mémoire historique. Vous verrez d’abord Podgórze, l’ancien quartier du ghetto avec les traces de son passé tragique. Vous arriverez ensuite à Kazimierz - le quartier où les Juifs vivent depuis le Moyen Âge, laissant leur empreinte culturelle dans le paysage architectural de la ville. Synagogues, fresques murales, monuments - tout cela est pour vous - dans un itinéraire spécialement préparé."
   },
   "durationMinutes": 120,
-  "distanceKm": 2.49,
+  "distanceKm": 2.56,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -707,13 +707,55 @@
           "coordinates": [
             50.05281242999106,
             19.944295271530834
-          ]
+          ],
+          "radiusMeters": 22
+        },
+        {
+          "coordinates": [
+            50.05213083181458,
+            19.943136039218288
+          ],
+          "type": "turn",
+          "radiusMeters": 26,
+          "text": {
+            "pl": "Przejdź przez drogę po lewej stronie",
+            "ru": "Перейдите дорогу налево",
+            "en": "Cross the road to the left",
+            "de": "Überqueren Sie die Straße links",
+            "ua": "Перейдіть дорогу ліворуч",
+            "it": "Attraversa la strada a sinistra",
+            "hr": "Prijeđite cestu ulijevo",
+            "es": "Cruce la calle a la izquierda",
+            "fr": "Traversez la route à gauche"
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.05136271973885,
+            19.943565123297436
+          ],
+          "type": "turn",
+          "radiusMeters": 14,
+          "text": {
+            "pl": "Skręć w lewo, przejdź przez ulicę i wejdź na podwórko.",
+            "ru": "Поверните налево, перейдите дорогу и заходите во дворик",
+            "en": "Turn left, cross the road, and go into the courtyard.",
+            "de": "Biegen Sie links ab, überqueren Sie die Straße und gehen Sie in den Innenhof.",
+            "ua": "Поверніть ліворуч, перейдіть дорогу і заходьте у дворик.",
+            "it": "Svolta a sinistra, attraversa la strada ed entra nel cortile.",
+            "hr": "Skrenite lijevo, prijeđite cestu i uđite u dvorište.",
+            "es": "Gira a la izquierda, cruza la calle y entra en el patio.",
+            "fr": "Tournez à gauche, traversez la rue et entrez dans la cour."
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.05102813192891,
             19.944225576432455
-          ]
+          ],
+          "radiusMeters": 30
         }
       ]
     },

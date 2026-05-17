@@ -37,7 +37,7 @@
     "fr": "Cet itinéraire est consacré au patrimoine juif de Cracovie et traverse deux lieux clés de la mémoire historique. Vous verrez d’abord Podgórze, l’ancien quartier du ghetto avec les traces de son passé tragique. Vous arriverez ensuite à Kazimierz - le quartier où les Juifs vivent depuis le Moyen Âge, laissant leur empreinte culturelle dans le paysage architectural de la ville. Synagogues, fresques murales, monuments - tout cela est pour vous - dans un itinéraire spécialement préparé."
   },
   "durationMinutes": 120,
-  "distanceKm": 2.37,
+  "distanceKm": 2.38,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -426,13 +426,35 @@
           "coordinates": [
             50.05212698143592,
             19.94828103412696
-          ]
+          ],
+          "radiusMeters": 22
+        },
+        {
+          "coordinates": [
+            50.052954047647525,
+            19.94807662198159
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
         },
         {
           "coordinates": [
             50.05321541255922,
             19.948243489248753
-          ]
+          ],
+          "radiusMeters": 16
         }
       ]
     },

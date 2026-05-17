@@ -977,7 +977,7 @@
     "radius": 21
   },
   {
-    "id": "point-32",
+    "id": "sinagogue-isaaek",
     "order": 32,
     "title": {
       "pl": "Synagoga Izaaka",
@@ -1023,7 +1023,7 @@
     "radius": 20
   },
   {
-    "id": "point-33",
+    "id": "sinagogue-kupa",
     "order": 33,
     "title": {
       "pl": "Synagoga Kupa",
@@ -1069,7 +1069,7 @@
     "radius": 20
   },
   {
-    "id": "point-34",
+    "id": "sinagogue-tempel",
     "order": 34,
     "title": {
       "pl": "Synagoga Tempel",
@@ -1115,7 +1115,7 @@
     "radius": 27
   },
   {
-    "id": "point-35",
+    "id": "sinagogue-high",
     "order": 35,
     "title": {
       "pl": "Wysoka Synagoga",
@@ -1161,7 +1161,7 @@
     "radius": 15
   },
   {
-    "id": "point-36",
+    "id": "getto-wall",
     "order": 36,
     "title": {
       "pl": "Fragment muru getta",
@@ -1207,7 +1207,7 @@
     "radius": 20
   },
   {
-    "id": "point-37",
+    "id": "park-bednarskiego",
     "order": 37,
     "title": {
       "pl": "Park Bednarskiego",

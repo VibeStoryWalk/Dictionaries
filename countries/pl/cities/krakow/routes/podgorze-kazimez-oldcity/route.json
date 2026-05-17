@@ -37,7 +37,7 @@
     "fr": "Ce grand itinéraire relie plusieurs quartiers de Cracovie en une longue promenade. Vous commencerez sur la place des Héros du ghetto à Podgórze, traverserez la Vistule pour rejoindre le Kazimierz juif avec ses rues, ses synagogues et ses traces de l’histoire de la guerre, puis gagnerez le Wawel avant de terminer dans la vieille ville. Cet itinéraire parle de la vie urbaine et de l’histoire stratifiée de Cracovie, qui a façonné son visage riche et moderne. "
   },
   "durationMinutes": 330,
-  "distanceKm": 7.48,
+  "distanceKm": 7.5,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -211,8 +211,8 @@
         },
         {
           "coordinates": [
-            50.04357666570158,
-            19.94966781300885
+            50.04345678238874,
+            19.949751075179286
           ]
         }
       ]
@@ -223,8 +223,8 @@
       "path": [
         {
           "coordinates": [
-            50.04357666570158,
-            19.94966781300885
+            50.04345678238874,
+            19.949751075179286
           ]
         },
         {
@@ -389,8 +389,8 @@
         },
         {
           "coordinates": [
-            50.046149841497375,
-            19.94796104242147
+            50.04657107421791,
+            19.947524366928462
           ],
           "radiusMeters": 18
         }
@@ -402,8 +402,8 @@
       "path": [
         {
           "coordinates": [
-            50.046149841497375,
-            19.94796104242147
+            50.04657107421791,
+            19.947524366928462
           ]
         },
         {
@@ -488,8 +488,8 @@
         },
         {
           "coordinates": [
-            50.05024987409684,
-            19.948160482550758
+            50.05024279173052,
+            19.948050370199685
           ]
         }
       ]
@@ -500,8 +500,8 @@
       "path": [
         {
           "coordinates": [
-            50.05024987409684,
-            19.948160482550758
+            50.05024279173052,
+            19.948050370199685
           ],
           "radiusMeters": 15
         },
@@ -2024,8 +2024,8 @@
         },
         {
           "coordinates": [
-            50.061639274681085,
-            19.938751231785986
+            50.06175662739938,
+            19.938845077244626
           ]
         }
       ]
@@ -2036,8 +2036,8 @@
       "path": [
         {
           "coordinates": [
-            50.061639274681085,
-            19.938751231785986
+            50.06175662739938,
+            19.938845077244626
           ]
         },
         {

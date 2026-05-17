@@ -37,7 +37,7 @@
     "fr": "Un itinéraire très instagrammable à travers les lieux les plus marquants de Cracovie: de la majestueuse Vieille Ville à Podgórze en passant par les quais de la Vistule."
   },
   "durationMinutes": 240,
-  "distanceKm": 4.33,
+  "distanceKm": 4.37,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -129,21 +129,21 @@
         },
         {
           "coordinates": [
-            50.061815210102374,
-            19.938361886083904
+            50.06212555436238,
+            19.937862716874374
           ],
           "type": "turn",
           "radiusMeters": 20,
           "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
+            "pl": "Wejdźcie do budynku od lewej strony",
+            "ru": "Заходите в здание с левой стороны",
+            "en": "Enter the building from the left side",
+            "de": "Betreten Sie das Gebäude von der linken Seite",
+            "ua": "Заходьте в будівлю з лівого боку",
+            "it": "Entrate nell'edificio dal lato sinistro",
+            "hr": "Uđite u zgradu s lijeve strane",
+            "es": "Entren al edificio por el lado izquierdo",
+            "fr": "Entrez dans le bâtiment par le côté gauche"
           },
           "debug_entity": false
         },

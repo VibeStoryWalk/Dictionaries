@@ -1,0 +1,198 @@
+{
+  "id": "famous-krakow-people",
+  "cityId": "krakow",
+  "title": {
+    "pl": "Światowe sławy Krakowa",
+    "ru": "Мировые знаменитости Кракова",
+    "en": "Krakow’s World-Famous Figures",
+    "de": "Weltberühmtheiten Krakaus",
+    "ua": "Світові знаменитості Кракова",
+    "it": "Le celebrità mondiali di Cracovia",
+    "hr": "Svjetske zvijezde Krakova",
+    "es": "Las celebridades mundiales de Cracovia",
+    "fr": "Les célébrités mondiales de Cracovie"
+  },
+  "coverImage": "",
+  "imageHash": "",
+  "description": {
+    "pl": "Kompaktowy spacer po centrum Krakowa: od parku Wisławy Szymborskiej i muralu „Nic dwa razy” przez okolice Matejki, Rynek Główny i dzielnicę uniwersytecką aż po ulicę Franciszkańską i Wawel. Trasa łączy literaturę, sztukę, naukę i miejską pamięć.",
+    "ru": "Компактная прогулка по центру Кракова: от парка Виславы Шимборской и мурала «Nic dwa razy» через район Матеjki, Главную площадь и университетский квартал к Францисканской улице и Вавелю. Маршрут сочетает литературу, искусство, науку и городскую память.",
+    "en": "A compact walk through central Krakow: from Wisława Szymborska Park and the „Nic dwa razy“ mural through the Matejko district, the Main Square and the university quarter to Franciszkańska Street and Wawel. The route combines literature, art, science, and the city’s memory.",
+    "de": "Ein kompakter Spaziergang durch das Zentrum von Krakau: vom Wisława-Szymborska-Park und dem Mural „Nic dwa razy“ über das Matejko-Viertel, den Hauptmarkt und das Universitätsviertel bis zur Franziskanerstraße und zum Wawel. Die Route verbindet Literatur, Kunst, Wissenschaft und das städtische Gedächtnis.",
+    "ua": "Компактна прогулянка центром Кракова: від парку Віслави Шимборської та муралу «Nic dwa razy» через район Матеjки, Головну площу й університетський квартал до вулиці Францисканської та Вавеля. Маршрут поєднує літературу, мистецтво, науку та міську пам’ять.",
+    "it": "Una passeggiata compatta nel centro di Cracovia: dal parco Wisława Szymborska e dal murale «Nic dwa razy» attraverso il quartiere Matejko, la Piazza del Mercato e il quartiere universitario fino a via Franciszkańska e al Wawel. L’itinerario unisce letteratura, arte, scienza e memoria della città.",
+    "hr": "Kompaktna šetnja središtem Krakova: od parka Wisłave Šimborske i murala „Nic dwa razy” kroz četvrt Matejko, Glavni trg i sveučilišnu četvrt do ulice Franciszkańske i Wawela. Ruta spaja književnost, umjetnost, znanost i gradsko pamćenje.",
+    "es": "Un paseo compacto por el centro de Cracovia: desde el parque de Wisława Szymborska y el mural «Nic dwa razy» pasando por el barrio de Matejko, la Plaza del Mercado y el barrio universitario hasta la calle Franciszkańska y Wawel. La ruta combina literatura, arte, ciencia y la memoria de la ciudad.",
+    "fr": "Une promenade compacte dans le centre de Cracovie : du parc Wisława Szymborska et de la fresque « Nic dwa razy » au quartier Matejko, en passant par la place du Marché et le quartier universitaire, jusqu’à la rue Franciszkańska et au Wawel. L’itinéraire mêle littérature, art, science et mémoire de la ville."
+  },
+  "intro": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "durationMinutes": 115,
+  "distanceKm": 3.24,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06143,
+    19.93658
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "point-43",
+      "toPointId": "point-38",
+      "path": [
+        {
+          "coordinates": [
+            50.059762,
+            19.923663
+          ]
+        },
+        {
+          "coordinates": [
+            50.065278,
+            19.929167
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-38",
+      "toPointId": "point-39",
+      "path": [
+        {
+          "coordinates": [
+            50.065278,
+            19.929167
+          ]
+        },
+        {
+          "coordinates": [
+            50.065508,
+            19.930488
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-39",
+      "toPointId": "point-40",
+      "path": [
+        {
+          "coordinates": [
+            50.065508,
+            19.930488
+          ]
+        },
+        {
+          "coordinates": [
+            50.065389,
+            19.94105
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-40",
+      "toPointId": "point-41",
+      "path": [
+        {
+          "coordinates": [
+            50.065389,
+            19.94105
+          ]
+        },
+        {
+          "coordinates": [
+            50.061469,
+            19.937989
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-41",
+      "toPointId": "mikolaj-kopernik-sculpture",
+      "path": [
+        {
+          "coordinates": [
+            50.061469,
+            19.937989
+          ]
+        },
+        {
+          "coordinates": [
+            50.06124682702211,
+            19.93266532210633
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "mikolaj-kopernik-sculpture",
+      "toPointId": "point-42",
+      "path": [
+        {
+          "coordinates": [
+            50.06124682702211,
+            19.93266532210633
+          ]
+        },
+        {
+          "coordinates": [
+            50.059539,
+            19.935131
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "point-42",
+      "toPointId": "point-44",
+      "path": [
+        {
+          "coordinates": [
+            50.059539,
+            19.935131
+          ]
+        },
+        {
+          "coordinates": [
+            50.054767,
+            19.934775
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "point-43",
+    "point-38",
+    "point-39",
+    "point-40",
+    "point-41",
+    "mikolaj-kopernik-sculpture",
+    "point-42",
+    "point-44"
+  ],
+  "debug_entity": true
+}

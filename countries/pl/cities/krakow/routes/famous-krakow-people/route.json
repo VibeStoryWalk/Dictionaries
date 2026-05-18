@@ -95,7 +95,7 @@
     },
     {
       "fromPointId": "point-39",
-      "toPointId": "point-40",
+      "toPointId": "monument-jan-matejko",
       "path": [
         {
           "coordinates": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "fromPointId": "point-40",
+      "fromPointId": "monument-jan-matejko",
       "toPointId": "point-41",
       "path": [
         {
@@ -188,7 +188,7 @@
     "point-43",
     "park-wislawa-szymborska",
     "point-39",
-    "point-40",
+    "monument-jan-matejko",
     "point-41",
     "mikolaj-kopernik-sculpture",
     "point-42",

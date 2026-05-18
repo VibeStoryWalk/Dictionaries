@@ -1297,5 +1297,327 @@
     "imageHash": "39672338076bba5ed63ea971979adb12daaa2a646f1da5ff16ede8a88041f13e",
     "debug_entity": false,
     "radius": 20
+  },
+  {
+    "id": "point-38",
+    "order": 38,
+    "title": {
+      "pl": "Park im. Wisławy Szymborskiej",
+      "ru": "Парк имени Виславы Шимборской",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Najwygodniej wejść od strony Karmelickiej albo Dolnych Młynów: to spokojna zielona enklawa w gęstej zabudowie. Zwróć uwagę, jak park łączy współczesny Kraków z pamięcią o Szymborskiej.",
+      "ru": "Вход лучше искать со стороны Karmelicka или Dolnych Młynów: это спокойный зеленый карман среди плотной застройки. Обратите внимание, как парк связывает современный Краков с памятью о Шимборской.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.065278,
+      19.929167
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-39",
+    "order": 39,
+    "title": {
+      "pl": "Nic dwa razy (mural)",
+      "ru": "Мурал «Nic dwa razy»",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Szukaj dużego malowidła na fasadzie przy parku, na budynku przy Karmelickiej 28. To wizualne przedłużenie wiersza, dobrze czytelne już z chodnika.",
+      "ru": "Ищите большой фасадный рисунок рядом с парком на доме по Karmelicka 28. Это визуальное продолжение поэмы, которое хорошо читается прямо с тротуара.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.065508,
+      19.930488
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-40",
+    "order": 40,
+    "title": {
+      "pl": "Pomnik Jana Matejki",
+      "ru": "Памятник Яну Матейко",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Pomnik stoi przy Barbakanie, na skraju Plant, naprzeciw Akademii Sztuk Pięknych. Podejdź bliżej, by zobaczyć postać malarza i związek tego miejsca z historycznym Krakowem.",
+      "ru": "Памятник стоит у Барбакана, на краю Planty, напротив Академии изящных искусств. Подойдите ближе, чтобы увидеть фигуру художника и связь места с историческим Краковом.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.065389,
+      19.94105
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-41",
+    "order": 41,
+    "title": {
+      "pl": "Pomnik Adama Mickiewicza",
+      "ru": "Памятник Адаму Мицкевичу",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Staniesz w samym sercu Rynku Głównego, przy jednym z najważniejszych punktów spotkań w mieście. Szukaj brązowej figury i zwróć uwagę na detale cokołu, najlepiej widoczne z kilku kroków.",
+      "ru": "Вы окажетесь в самом центре Главной рыночной площади, у одного из главных мест встреч города. Найдите бронзовую фигуру и присмотритесь к деталям постамента, которые лучше всего читаются с расстояния нескольких шагов.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.061469,
+      19.937989
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-42",
+    "order": 42,
+    "title": {
+      "pl": "Pałac Biskupi i Okno Papieskie",
+      "ru": "Епископский дворец с Папским окном",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Szukaj fasady przy Franciszkańskiej 3 i słynnego okna nad ulicą. To jedno z najbardziej rozpoznawalnych miejsc na szlakach związanych z Janem Pawłem II.",
+      "ru": "Ищите фасад на Franciszkańska 3 и знаменитое окно над улицей. Место особенно узнаваемо в маршрутах, связанных с Иоанном Павлом II.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.059539,
+      19.935131
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-43",
+    "order": 43,
+    "title": {
+      "pl": "Pomnik Stanisława Wyspiańskiego",
+      "ru": "Памятник Станиславу Выспяньскому",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Pomnik stoi przed Muzeum Narodowym i dobrze widać go z otwartej przestrzeni przed fasadą. Podejdź bliżej, by zobaczyć kompozycję z postaciami z dramatów Wyspiańskiego.",
+      "ru": "Памятник стоит перед Национальным музеем и хорошо виден с открытого пространства у фасада. Подойдите ближе, чтобы рассмотреть композицию с персонажами из драм Выспяньского.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.059762,
+      19.923663
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "debug_entity": false
+  },
+  {
+    "id": "point-44",
+    "order": 44,
+    "title": {
+      "pl": "Pomnik Tadeusza Kościuszki na Wawelu",
+      "ru": "Памятник Тадеушу Костюшко на Вавеле",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Punkt końcowy leży u podnóża Wzgórza Wawelskiego, gdzie konny pomnik dobrze wybrzmiewa w otwartej przestrzeni. To mocne zakończenie trasy poświęconej pamięci o polskiej niepodległości.",
+      "ru": "Финальная точка находится у подножия Вавельского холма, где конный монумент хорошо читается на открытом пространстве. Это сильный завершающий акцент маршрута о польской независимости.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.054767,
+      19.934775
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "debug_entity": false
   }
 ]

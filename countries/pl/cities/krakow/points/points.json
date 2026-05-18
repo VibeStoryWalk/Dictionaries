@@ -1432,8 +1432,8 @@
     },
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "krakow/points/points_images/point-image.jpg",
+    "imageHash": "5470c8fc3960c964a89df45bc96a139775950a32cd03b86e6e83ce0705432519",
     "debug_entity": false
   },
   {

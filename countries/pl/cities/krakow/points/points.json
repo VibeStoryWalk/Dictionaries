@@ -1348,15 +1348,15 @@
     "id": "point-39",
     "order": 39,
     "title": {
-      "pl": "Nic dwa razy (mural)",
+      "pl": "Mural «Nic dwa razy»",
       "ru": "Мурал «Nic dwa razy»",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "Mural «Nic dwa razy»",
+      "de": "Mural «Nic dwa razy»",
+      "ua": "Мурал «Nic dwa razy»",
+      "it": "Murale «Nic dwa razy»",
+      "hr": "Mural «Nic dwa razy»",
+      "es": "Mural «Nic dwa razy»",
+      "fr": "Mural «Nic dwa razy»"
     },
     "approachText": {
       "pl": "Szukaj dużego malowidła na fasadzie przy parku, na budynku przy Karmelickiej 28. To wizualne przedłużenie wiersza, dobrze czytelne już z chodnika.",
@@ -1433,7 +1433,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/point-jan-matejko.jpg",
-    "imageHash": "5470c8fc3960c964a89df45bc96a139775950a32cd03b86e6e83ce0705432519",
+    "imageHash": "6aecf6394c7d649efcb9d4beda89dfa8ebdc9b539b6fc5da93cc0e50ddf2b865",
     "debug_entity": false
   },
   {

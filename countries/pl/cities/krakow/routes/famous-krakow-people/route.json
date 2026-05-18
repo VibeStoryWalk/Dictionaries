@@ -59,7 +59,7 @@
   "segments": [
     {
       "fromPointId": "point-43",
-      "toPointId": "point-38",
+      "toPointId": "park-wislawa-szymborska",
       "path": [
         {
           "coordinates": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "fromPointId": "point-38",
+      "fromPointId": "park-wislawa-szymborska",
       "toPointId": "point-39",
       "path": [
         {
@@ -186,7 +186,7 @@
   ],
   "pointIds": [
     "point-43",
-    "point-38",
+    "park-wislawa-szymborska",
     "point-39",
     "point-40",
     "point-41",

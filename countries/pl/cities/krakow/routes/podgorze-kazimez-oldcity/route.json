@@ -175,17 +175,6 @@
           ],
           "type": "portal",
           "radiusMeters": 26,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false,
           "targetVertexIndex": 7
         },
@@ -986,17 +975,6 @@
             19.932975676366908
           ],
           "type": "turn",
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -1043,17 +1021,6 @@
             19.935898404266325
           ],
           "type": "turn",
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -1081,17 +1048,6 @@
             19.93482112884522
           ],
           "type": "turn",
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -1101,17 +1057,6 @@
           ],
           "type": "portal",
           "radiusMeters": 13,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false,
           "targetVertexIndex": 8
         },
@@ -1139,17 +1084,6 @@
             19.934799685045764
           ],
           "type": "turn",
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -1216,17 +1150,6 @@
             19.93805047696961
           ],
           "type": "portal",
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false,
           "targetVertexIndex": 6
         },
@@ -1536,17 +1459,6 @@
             19.936330306834236
           ],
           "type": "turn",
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -1556,17 +1468,6 @@
           ],
           "type": "portal",
           "radiusMeters": 34,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false,
           "targetVertexIndex": 4
         },
@@ -1707,17 +1608,6 @@
           ],
           "type": "portal",
           "radiusMeters": 51,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false,
           "targetVertexIndex": 2
         },

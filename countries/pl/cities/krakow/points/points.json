@@ -1340,8 +1340,8 @@
     },
     "dwellTimeMinutes": 5,
     "radius": 90,
-    "image": "",
-    "imageHash": "",
+    "image": "krakow/points/points_images/park-wislawa-szymborska.jpg",
+    "imageHash": "91bab461f7395dce7345bae35061f03dd700a66bd44abde89fa0f284d0d1f540",
     "debug_entity": false
   },
   {

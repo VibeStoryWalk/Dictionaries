@@ -58,7 +58,7 @@
   },
   "segments": [],
   "pointIds": [
-    "point-43",
+    "monument-stan-wysp",
     "park-wislawa-szymborska",
     "mural-nic-dwa-razy",
     "point-39",
@@ -66,7 +66,7 @@
     "memorial-adam-mickevich",
     "mikolaj-kopernik-sculpture",
     "pope-window",
-    "point-44"
+    "monument-tad-kost"
   ],
   "debug_entity": true
 }

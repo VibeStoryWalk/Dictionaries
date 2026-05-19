@@ -1341,7 +1341,7 @@
     "dwellTimeMinutes": 5,
     "radius": 90,
     "image": "krakow/points/points_images/park-wislawa-szymborska.jpg",
-    "imageHash": "91bab461f7395dce7345bae35061f03dd700a66bd44abde89fa0f284d0d1f540",
+    "imageHash": "bbad0e920b2d7935162418b018cd46fe894565f36d28d53fa6d7c87cf8af6b20",
     "debug_entity": false
   },
   {
@@ -1387,7 +1387,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/mural-nic-dwa-razy.jpg",
-    "imageHash": "6d6ae3a75cd69daf077e4887ac5f2ce1b9375623dac22f125758d2228ed2ef10",
+    "imageHash": "039dd7542d3249d9efe9dce80c49580a46b98b581307526e76a3918eeb7897c6",
     "debug_entity": false
   },
   {
@@ -1483,7 +1483,7 @@
     "debug_entity": false
   },
   {
-    "id": "point-42",
+    "id": "pope-window",
     "order": 42,
     "title": {
       "pl": "Pałac Biskupi i Okno Papieskie",

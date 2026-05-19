@@ -1524,8 +1524,8 @@
     },
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "krakow/points/points_images/pope-window.jpg",
+    "imageHash": "6980fa1f9252b9173d4ae85f694cc5461827b3ada0b8feeb292df7dbc8d3d078",
     "debug_entity": false
   },
   {

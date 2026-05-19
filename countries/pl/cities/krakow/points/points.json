@@ -1479,7 +1479,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/memorial-adam-mickevich.jpg",
-    "imageHash": "d1c2edb47fda99a0c8ccc62b87e183fcbaa1225005f01abf74e3e1afd489699f",
+    "imageHash": "5df49665c933c751379047b1163f3796ba6395c207d2429c98fe2458d05fa0c0",
     "debug_entity": false
   },
   {
@@ -1525,11 +1525,11 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/pope-window.jpg",
-    "imageHash": "6980fa1f9252b9173d4ae85f694cc5461827b3ada0b8feeb292df7dbc8d3d078",
+    "imageHash": "36780132dbb5421ca08d7d218c6cf53efe61f4abd1fc658c2f6d77071ce94826",
     "debug_entity": false
   },
   {
-    "id": "point-43",
+    "id": "monument-stan-wysp",
     "order": 43,
     "title": {
       "pl": "Pomnik Stanisława Wyspiańskiego",
@@ -1554,8 +1554,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.059762,
-      19.923663
+      50.059700318200555,
+      19.923219041604405
     ],
     "story": {
       "pl": "",
@@ -1569,13 +1569,13 @@
       "fr": ""
     },
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 45,
     "image": "",
     "imageHash": "",
     "debug_entity": false
   },
   {
-    "id": "point-44",
+    "id": "monument-tad-kost",
     "order": 44,
     "title": {
       "pl": "Pomnik Tadeusza Kościuszki na Wawelu",
@@ -1600,8 +1600,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.054767,
-      19.934775
+      50.054923639586995,
+      19.93506295992538
     ],
     "story": {
       "pl": "",
@@ -1615,7 +1615,7 @@
       "fr": ""
     },
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 20,
     "image": "",
     "imageHash": "",
     "debug_entity": false

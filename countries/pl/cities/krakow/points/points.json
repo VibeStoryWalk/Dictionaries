@@ -1386,8 +1386,8 @@
     },
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "krakow/points/points_images/mural-nic-dwa-razy.jpg",
+    "imageHash": "6d6ae3a75cd69daf077e4887ac5f2ce1b9375623dac22f125758d2228ed2ef10",
     "debug_entity": false
   },
   {

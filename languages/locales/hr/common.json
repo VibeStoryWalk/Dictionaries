@@ -47,7 +47,8 @@
     "actions": {
       "restart": "Prođi rutu ponovno",
       "continue": "Nastavi šetnju",
-      "start": "Započni šetnju"
+      "start": "Započni šetnju",
+      "routeMap": "Karta rute"
     },
     "tooltips": {
       "backToCityRoutes": "Na rute grada",

@@ -47,7 +47,8 @@
     "actions": {
       "restart": "Rozpocznij trasę od nowa",
       "continue": "Kontynuuj spacer",
-      "start": "Rozpocznij spacer"
+      "start": "Rozpocznij spacer",
+      "routeMap": "Mapa trasy"
     },
     "tooltips": {
       "backToCityRoutes": "Do tras miasta",

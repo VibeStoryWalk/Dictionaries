@@ -47,7 +47,8 @@
     "actions": {
       "restart": "Volver a recorrer la ruta",
       "continue": "Continuar el paseo",
-      "start": "Iniciar el paseo"
+      "start": "Iniciar el paseo",
+      "routeMap": "Mapa de la ruta"
     },
     "tooltips": {
       "backToCityRoutes": "A las rutas de la ciudad",

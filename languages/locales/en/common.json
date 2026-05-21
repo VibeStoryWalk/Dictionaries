@@ -47,7 +47,8 @@
     "actions": {
       "restart": "Restart route",
       "continue": "Continue walk",
-      "start": "Start walk"
+      "start": "Start walk",
+      "routeMap": "Route map"
     },
     "tooltips": {
       "backToCityRoutes": "To city routes",

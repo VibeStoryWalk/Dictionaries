@@ -47,7 +47,8 @@
     "actions": {
       "restart": "Refaire l’itinéraire",
       "continue": "Continuer la promenade",
-      "start": "Commencer la promenade"
+      "start": "Commencer la promenade",
+      "routeMap": "Carte de l’itinéraire"
     },
     "tooltips": {
       "backToCityRoutes": "Vers les itinéraires de la ville",

@@ -136,6 +136,9 @@
       "simulation": "Simulation",
       "tts": "Synthèse vocale"
     },
+    "labels": {
+      "version": "Version"
+    },
     "aria": {
       "close": "Fermer les paramètres",
       "open": "Ouvrir les paramètres",

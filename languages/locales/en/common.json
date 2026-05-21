@@ -136,6 +136,9 @@
       "simulation": "Simulation",
       "tts": "Text-to-speech"
     },
+    "labels": {
+      "version": "Version"
+    },
     "aria": {
       "close": "Close settings",
       "open": "Open settings",

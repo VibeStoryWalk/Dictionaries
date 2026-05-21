@@ -138,6 +138,9 @@
       "simulation": "Symulacja",
       "tts": "Synteza mowy"
     },
+    "labels": {
+      "version": "Wersja"
+    },
     "aria": {
       "close": "Zamknij ustawienia",
       "open": "Otwórz ustawienia",

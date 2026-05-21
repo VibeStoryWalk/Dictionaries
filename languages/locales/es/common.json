@@ -136,6 +136,9 @@
       "simulation": "Simulación",
       "tts": "Síntesis de voz"
     },
+    "labels": {
+      "version": "Versión"
+    },
     "aria": {
       "close": "Cerrar configuración",
       "open": "Abrir configuración",

@@ -138,6 +138,9 @@
       "simulation": "Simulacija",
       "tts": "Pretvaranje teksta u govor"
     },
+    "labels": {
+      "version": "Verzija"
+    },
     "aria": {
       "close": "Zatvori postavke",
       "open": "Otvori postavke",

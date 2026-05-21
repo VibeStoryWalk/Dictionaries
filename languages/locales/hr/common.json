@@ -74,6 +74,7 @@
   "walk": {
     "actions": {
       "imHere": "Ja sam ovdje",
+      "nextPointShort": "Sljedeća točka",
       "finishRoute": "Završi rutu",
       "nextVertex": "Prijeđi na sljedeći vrh segmenta",
       "nextVertexShort": "Sljedeći vrh"
@@ -222,6 +223,9 @@
   },
   "freeWalk": {
     "title": "Slobodna šetnja",
+    "actions": {
+      "whereAmI": "Gdje sam?"
+    },
     "tooltips": {
       "openFreeWalk": "Slobodna šetnja",
       "back": "Natrag u grad"

@@ -74,6 +74,7 @@
   "walk": {
     "actions": {
       "imHere": "Я тут",
+      "nextPointShort": "Наступна точка",
       "finishRoute": "Завершити маршрут",
       "nextVertex": "Перейти до наступної вершини сегмента",
       "nextVertexShort": "Наступна вершина"
@@ -222,6 +223,9 @@
   },
   "freeWalk": {
     "title": "Вільна прогулянка",
+    "actions": {
+      "whereAmI": "Де я?"
+    },
     "tooltips": {
       "openFreeWalk": "Вільна прогулянка",
       "back": "Назад до міста"

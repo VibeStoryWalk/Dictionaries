@@ -72,6 +72,7 @@
   "walk": {
     "actions": {
       "imHere": "Estoy aquí",
+      "nextPointShort": "Siguiente punto",
       "finishRoute": "Finalizar la ruta",
       "nextVertex": "Ir al siguiente vértice del segmento",
       "nextVertexShort": "Siguiente vértice"
@@ -220,6 +221,9 @@
   },
   "freeWalk": {
     "title": "Paseo libre",
+    "actions": {
+      "whereAmI": "¿Dónde estoy?"
+    },
     "tooltips": {
       "openFreeWalk": "Paseo libre",
       "back": "Volver a la ciudad"

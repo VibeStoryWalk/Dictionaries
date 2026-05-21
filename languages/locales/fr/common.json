@@ -137,6 +137,7 @@
       "tts": "Synthèse vocale"
     },
     "labels": {
+      "cache": "Cache",
       "version": "Version"
     },
     "aria": {
@@ -182,6 +183,7 @@
       "supportedLanguages": "Langues prises en charge : {{count}}"
     },
     "actions": {
+      "cleanUp": "Nettoyer",
       "triggerAd": "Lancer la publicité",
       "openLanguageSelector": "Ouvrir le sélecteur de langue",
       "openPrivacyPolicy": "Ouvrir"

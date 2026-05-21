@@ -139,6 +139,7 @@
       "tts": "Pretvaranje teksta u govor"
     },
     "labels": {
+      "cache": "Predmemorija",
       "version": "Verzija"
     },
     "aria": {
@@ -184,6 +185,7 @@
       "supportedLanguages": "Podržani jezici: {{count}}"
     },
     "actions": {
+      "cleanUp": "Očisti",
       "triggerAd": "Pokreni oglas",
       "openLanguageSelector": "Otvori odabir jezika",
       "openPrivacyPolicy": "Otvori"

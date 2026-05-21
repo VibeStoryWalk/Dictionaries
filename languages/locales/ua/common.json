@@ -139,6 +139,7 @@
       "tts": "Синтез мовлення"
     },
     "labels": {
+      "cache": "Кеш",
       "version": "Версія"
     },
     "aria": {
@@ -184,6 +185,7 @@
       "supportedLanguages": "Підтримувані мови: {{count}}"
     },
     "actions": {
+      "cleanUp": "Очистити",
       "triggerAd": "Запустити рекламу",
       "openLanguageSelector": "Відкрити вибір мови",
       "openPrivacyPolicy": "Відкрити"

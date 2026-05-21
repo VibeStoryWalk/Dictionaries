@@ -139,6 +139,7 @@
       "tts": "Synteza mowy"
     },
     "labels": {
+      "cache": "Pamięć podręczna",
       "version": "Wersja"
     },
     "aria": {
@@ -184,6 +185,7 @@
       "supportedLanguages": "Obsługiwane języki: {{count}}"
     },
     "actions": {
+      "cleanUp": "Wyczyść",
       "triggerAd": "Uruchom reklamę",
       "openLanguageSelector": "Otwórz wybór języka",
       "openPrivacyPolicy": "Otwórz"

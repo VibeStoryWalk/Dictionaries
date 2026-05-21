@@ -139,6 +139,7 @@
       "tts": "Синтез речи"
     },
     "labels": {
+      "cache": "Кэш",
       "version": "Версия"
     },
     "aria": {
@@ -184,6 +185,7 @@
       "supportedLanguages": "Поддерживаемые языки: {{count}}"
     },
     "actions": {
+      "cleanUp": "Очистить",
       "triggerAd": "Запустить рекламу",
       "openLanguageSelector": "Открыть выбор языка",
       "openPrivacyPolicy": "Открыть"

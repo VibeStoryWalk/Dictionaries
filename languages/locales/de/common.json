@@ -137,6 +137,7 @@
       "tts": "Text-zu-Sprache"
     },
     "labels": {
+      "cache": "Cache",
       "version": "Version"
     },
     "aria": {
@@ -182,6 +183,7 @@
       "supportedLanguages": "Unterstützte Sprachen: {{count}}"
     },
     "actions": {
+      "cleanUp": "Bereinigen",
       "triggerAd": "Werbung auslösen",
       "openLanguageSelector": "Sprachauswahl öffnen",
       "openPrivacyPolicy": "Öffnen"

@@ -81,7 +81,8 @@
     },
     "labels": {
       "routeStart": "Początek trasy - {{title}}",
-      "nextPoint": "Dalej - {{title}}"
+      "nextPoint": "Dalej - {{title}}",
+      "approachStartToBegin": "Podejdź bliżej punktu startu, aby trasa aktywowała się automatycznie."
     },
     "tooltips": {
       "youAreHere": "Jesteś tutaj"

@@ -79,7 +79,8 @@
     },
     "labels": {
       "routeStart": "Inicio de la ruta - {{title}}",
-      "nextPoint": "Siguiente - {{title}}"
+      "nextPoint": "Siguiente - {{title}}",
+      "approachStartToBegin": "Acérquese al punto de inicio para que la ruta se active automáticamente."
     },
     "tooltips": {
       "youAreHere": "Usted está aquí"

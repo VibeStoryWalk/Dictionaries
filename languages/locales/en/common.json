@@ -79,7 +79,8 @@
     },
     "labels": {
       "routeStart": "Route start - {{title}}",
-      "nextPoint": "Next - {{title}}"
+      "nextPoint": "Next - {{title}}",
+      "approachStartToBegin": "Move closer to the start point so the route activates automatically."
     },
     "tooltips": {
       "youAreHere": "You are here"

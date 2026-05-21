@@ -79,7 +79,8 @@
     },
     "labels": {
       "routeStart": "Début de l’itinéraire - {{title}}",
-      "nextPoint": "Suivant - {{title}}"
+      "nextPoint": "Suivant - {{title}}",
+      "approachStartToBegin": "Approchez-vous du point de départ afin que l’itinéraire s’active automatiquement."
     },
     "tooltips": {
       "youAreHere": "Vous êtes ici"

@@ -81,7 +81,8 @@
     },
     "labels": {
       "routeStart": "Начало маршрута - {{title}}",
-      "nextPoint": "Дальше - {{title}}"
+      "nextPoint": "Дальше - {{title}}",
+      "approachStartToBegin": "Подойдите ближе к точке старта, чтоб маршрут автоматически активировался."
     },
     "tooltips": {
       "youAreHere": "Вы здесь"

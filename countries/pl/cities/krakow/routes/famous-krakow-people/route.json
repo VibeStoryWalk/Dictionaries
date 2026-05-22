@@ -2,18 +2,18 @@
   "id": "famous-krakow-people",
   "cityId": "krakow",
   "title": {
-    "pl": "Światowe sławy Krakowa",
-    "ru": "Мировые знаменитости Кракова",
-    "en": "Krakow’s World-Famous Figures",
-    "de": "Weltberühmtheiten Krakaus",
-    "ua": "Світові знаменитості Кракова",
-    "it": "Le celebrità mondiali di Cracovia",
-    "hr": "Svjetske zvijezde Krakova",
-    "es": "Las celebridades mundiales de Cracovia",
-    "fr": "Les célébrités mondiales de Cracovie"
+    "pl": "Znani mieszkańcy Krakowa",
+    "ru": "Известные жители Кракова",
+    "en": "Famous residents of Krakow",
+    "de": "Berühmte Einwohner von Krakau",
+    "ua": "Відомі мешканці Кракова",
+    "it": "Residenti famosi di Cracovia",
+    "hr": "Poznati stanovnici Krakova",
+    "es": "Residentes famosos de Cracovia",
+    "fr": "Habitants célèbres de Cracovie"
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "c2a30d2a885a161007830ec5be77fd80222f9b3f2d63d4e0a5992f59a0aa1114",
+  "imageHash": "145f35d5c52e259221d0ac2f9c7c81e817006d69aea0ac00447cfa360a900af0",
   "description": {
     "pl": "Kompaktowy spacer po centrum Krakowa: od parku Wisławy Szymborskiej i muralu „Nic dwa razy” przez okolice Matejki, Rynek Główny i dzielnicę uniwersytecką aż po ulicę Franciszkańską i Wawel. Trasa łączy literaturę, sztukę, naukę i miejską pamięć.",
     "ru": "Компактная прогулка по центру Кракова: от парка Виславы Шимборской и мурала «Nic dwa razy» через район Матеjki, Главную площадь и университетский квартал к Францисканской улице и Вавелю. Маршрут сочетает литературу, искусство, науку и городскую память.",
@@ -26,15 +26,15 @@
     "fr": "Une promenade compacte dans le centre de Cracovie : du parc Wisława Szymborska et de la fresque « Nic dwa razy » au quartier Matejko, en passant par la place du Marché et le quartier universitaire, jusqu’à la rue Franciszkańska et au Wawel. L’itinéraire mêle littérature, art, science et mémoire de la ville."
   },
   "intro": {
-    "pl": "",
-    "ru": "",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "pl": "Kompaktowy spacer po centrum Krakowa: od parku Wisławy Szymborskiej i muralu „Nic dwa razy” przez okolice Matejki, Rynek Główny i dzielnicę uniwersytecką do ulicy Franciszkańskiej i na Wawel. Trasa łączy literaturę, sztukę, naukę i miejską pamięć.",
+    "ru": "Компактная прогулка по центру Кракова: от парка Виславы Шимборской и мурала «Nic dwa razy» через район Матеjki, Главную площадь и университетский квартал к Францисканской улице и Вавелю. Маршрут сочетает литературу, искусство, науку и городскую память.",
+    "en": "A compact walk through central Krakow: from Wisława Szymborska Park and the “Nic dwa razy” mural through the Matejko district, the Main Square and the university quarter to Franciszkańska Street and Wawel. The route combines literature, art, science and the city’s memory.",
+    "de": "Ein kompakter Spaziergang durch das Zentrum von Krakau: vom Wisława-Szymborska-Park und dem Mural „Nic dwa razy“ über das Matejko-Viertel, den Hauptmarkt und das Universitätsviertel zur Franziskanerstraße und zum Wawel. Die Route verbindet Literatur, Kunst, Wissenschaft und das Gedächtnis der Stadt.",
+    "ua": "Компактна прогулянка центром Кракова: від парку Віслави Шимборської та муралу «Nic dwa razy» через район Матеjki, Головну площу й університетський квартал до вулиці Францисканської та Вавелю. Маршрут поєднує літературу, мистецтво, науку й міську пам’ять.",
+    "it": "Una passeggiata compatta nel centro di Cracovia: dal parco Wisława Szymborska e dal murale «Nic dwa razy» attraverso il quartiere Matejko, la Piazza del Mercato e il quartiere universitario fino a via Franciszkańska e al Wawel. Il percorso unisce letteratura, arte, scienza e memoria della città.",
+    "hr": "Kompaktna šetnja središtem Krakova: od parka Wisława Szymborska i murala „Nic dwa razy” kroz četvrt Matejko, Glavni trg i sveučilišnu četvrt do ulice Franciszkańske i Wawela. Ruta spaja književnost, umjetnost, znanost i gradsko pamćenje.",
+    "es": "Un paseo compacto por el centro de Cracovia: desde el parque Wisława Szymborska y el mural «Nic dwa razy» pasando por el barrio de Matejko, la Plaza del Mercado y el barrio universitario hasta la calle Franciszkańska y Wawel. La ruta combina literatura, arte, ciencia y la memoria de la ciudad.",
+    "fr": "Une promenade compacte dans le centre de Cracovie : du parc Wisława Szymborska et du murale « Nic dwa razy » en passant par le quartier Matejko, la place du Marché et le quartier universitaire jusqu’à la rue Franciszkańska et au Wawel. L’itinéraire allie littérature, art, science et mémoire de la ville."
   },
   "durationMinutes": 115,
   "distanceKm": 4.73,

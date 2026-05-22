@@ -236,5 +236,19 @@
       "openFreeWalk": "Wolny spacer",
       "back": "Powrót do miasta"
     }
+  },
+  "tutorial": {
+    "actions": {
+      "acknowledge": "Rozumiem"
+    },
+    "items": {
+      "backButton": "Wróć w dowolnym momencie.",
+      "ttsButton": "Włącz lub wyłącz narrację tekstu.",
+      "nextPointButton": "Aktywuj następny punkt trasy, nie podchodząc do niego blisko.",
+      "stepsMenuButton": "Zobacz wszystkie punkty trasy.",
+      "offlinePackageButton": "Tryb offline. Przyda się, jeśli w podróży zabraknie internetu.",
+      "freeWalkButton": "Swobodny spacer bez trzymania się trasy. Miejsca aktywują się automatycznie, gdy podejdziesz bliżej.",
+      "settingsButton": "Tutaj ustawisz język i inne preferencje."
+    }
   }
 }

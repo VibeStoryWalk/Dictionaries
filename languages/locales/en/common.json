@@ -234,5 +234,19 @@
       "openFreeWalk": "Free walk",
       "back": "Back to city"
     }
+  },
+  "tutorial": {
+    "actions": {
+      "acknowledge": "Got it"
+    },
+    "items": {
+      "backButton": "Go back anytime.",
+      "ttsButton": "Turn story narration on or off.",
+      "nextPointButton": "Activate the next route point without walking all the way to it.",
+      "stepsMenuButton": "See all route points.",
+      "offlinePackageButton": "Offline mode. Handy when you may not have internet while travelling.",
+      "freeWalkButton": "Explore freely without following a route. Places activate automatically when you get close.",
+      "settingsButton": "Adjust language and other settings here."
+    }
   }
 }

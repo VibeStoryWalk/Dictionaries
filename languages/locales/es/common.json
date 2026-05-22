@@ -234,5 +234,19 @@
       "openFreeWalk": "Paseo libre",
       "back": "Volver a la ciudad"
     }
+  },
+  "tutorial": {
+    "actions": {
+      "acknowledge": "Entendido"
+    },
+    "items": {
+      "backButton": "Vuelve atrás en cualquier momento.",
+      "ttsButton": "Activa o desactiva la narración automática.",
+      "nextPointButton": "Activa el siguiente punto de la ruta sin acercarte a él.",
+      "stepsMenuButton": "Ver todos los puntos de la ruta.",
+      "offlinePackageButton": "Modo sin conexión. Útil si durante el viaje no tendrás internet.",
+      "freeWalkButton": "Explora libremente sin seguir una ruta. Los lugares se activan automáticamente cuando te acercas.",
+      "settingsButton": "Aquí puedes ajustar el idioma y otras preferencias."
+    }
   }
 }

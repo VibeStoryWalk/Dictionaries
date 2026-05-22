@@ -236,5 +236,19 @@
       "openFreeWalk": "Slobodna šetnja",
       "back": "Natrag u grad"
     }
+  },
+  "tutorial": {
+    "actions": {
+      "acknowledge": "Razumijem"
+    },
+    "items": {
+      "backButton": "Vrati se natrag u bilo kojem trenutku.",
+      "ttsButton": "Uključi ili isključi automatsko čitanje.",
+      "nextPointButton": "Aktiviraj sljedeću točku rute bez približavanja toj točki.",
+      "stepsMenuButton": "Pogledaj sve točke rute.",
+      "offlinePackageButton": "Offline način rada. Korisno ako na putovanju neće biti interneta.",
+      "freeWalkButton": "Slobodno istražuj bez praćenja rute. Mjesta se aktiviraju automatski kada im se približiš.",
+      "settingsButton": "Ovdje možeš prilagoditi jezik i druge postavke."
+    }
   }
 }

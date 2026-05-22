@@ -46,15 +46,15 @@
   "zoom": 14,
   "unlockRadiusMeters": 50,
   "completionMessage": {
-    "pl": "",
-    "ru": "",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "pl": "Na tym nasza trasa dobiega końca.  \nDziękujemy za korzystanie z naszej aplikacji. Mamy nadzieję, że spacer był interesujący i pełen wrażeń, i będziemy рады, jeśli nasza aplikacja stanie się Państwa niezawodnym przewodnikiem w przyszłych podróżach.",
+    "ru": "На этом наш маршрут подходит к концу.  \nБлагодарим вас за использование нашего приложения. Мы надеемся, что Ваша прогулка была интересной и насыщенной, и будем рады, если наше приложение станет Вашим надёжным гидом в будущих путешествиях. ",
+    "en": "This brings our route to an end.  \nThank you for using our app. We hope your walk was interesting and fulfilling, and we would be delighted if our app becomes your reliable guide on future trips.",
+    "de": "Damit endet unsere Route.  \nVielen Dank, dass Sie unsere App genutzt haben. Wir hoffen, dass Ihr Spaziergang interessant und abwechslungsreich war, und würden uns freuen, wenn unsere App Ihr zuverlässiger Begleiter auf zukünftigen Reisen wird.",
+    "ua": "На цьому наш маршрут підходить до кінця.  \nДякуємо вам за використання нашого застосунку. Сподіваємося, що ваша прогулянка була цікавою та насиченою, і будемо раді, якщо наш застосунок стане вашим надійним гідом у майбутніх подорожах.",
+    "it": "Con questo il nostro itinerario giunge al termine.  \nGrazie per aver utilizzato la nostra app. Speriamo che la vostra passeggiata sia stata interessante e ricca di contenuti, e saremo lieti se la nostra app diventerà la vostra guida affidabile nei viaggi futuri.",
+    "hr": "Ovim naš obilazak završava.  \nHvala vam što koristite našu aplikaciju. Nadamo se da vam je šetnja bila zanimljiva i sadržajna te ćemo biti radosni ako naša aplikacija postane vaš pouzdan vodič na budućim putovanjima.",
+    "es": "Con esto, nuestra ruta llega a su fin.  \nGracias por usar nuestra aplicación. Esperamos que su paseo haya sido interesante y enriquecedor, y nos alegrará que nuestra aplicación se convierta en su guía de confianza en futuros viajes.",
+    "fr": "Ainsi s’achève notre itinéraire.  \nMerci d’avoir utilisé notre application. Nous espérons que votre promenade a été intéressante et enrichissante, et nous serions ravis que notre application devienne votre guide de confiance lors de vos futurs voyages."
   },
   "segments": [
     {

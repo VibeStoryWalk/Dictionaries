@@ -1663,7 +1663,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/collegium-iuridicum.jpg",
-    "imageHash": "702ed82c6a38b80fe5ba0fa8c34c5ce6ad497e7e531412d870db4590e014edae",
+    "imageHash": "1618064fddf1dc476a07d5e5487a5faea88f4398939b9793ae8527b2e56ba70e",
     "debug_entity": true
   },
   {
@@ -1709,7 +1709,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/skalka.jpg",
-    "imageHash": "70e50b74a2afa54fd6898b45d13a9dd54f28bffe0b925ce462506c4ba98f9cb4",
+    "imageHash": "f0f6494ad2bd706511db633f8568b1bfa5cdeef03bb8116e011e887eeda8d08f",
     "debug_entity": true
   },
   {
@@ -1738,8 +1738,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.083333,
-      20
+      50.041975069399435,
+      19.959197809281736
     ],
     "story": {
       "pl": "",
@@ -1755,7 +1755,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/stary-cmentarz-podgorski.jpg",
-    "imageHash": "481692596359f0fc986024f38386cf45d9428fe5e9127609277fbf14b3a8871f",
+    "imageHash": "5464da2245468f0192481c83f597aa51ae1d7d827630c0146021f0a1d92c2389",
     "debug_entity": true
   },
   {
@@ -1801,7 +1801,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/kopiec-krakusa.jpg",
-    "imageHash": "19e70cb499753754bb0a568e2445d4674937633cf998ddb8176f348a635f4071",
+    "imageHash": "a2e023ce7f4635aab2266889c6338cb29296c0573b58691ae93d430a7bc28a33",
     "debug_entity": true
   }
 ]

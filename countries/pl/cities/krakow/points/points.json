@@ -888,15 +888,15 @@
     "id": "dom-bosak",
     "order": 27,
     "title": {
-      "pl": "Dom Mareka Bosaka",
-      "ru": "Дом Марека Босака",
-      "en": "Marek Bosak House",
-      "de": "Haus von Marek Bosak",
-      "ua": "Будинок Марека Босака",
-      "it": "Casa di Marek Bosak",
-      "hr": "Kuća Mareka Bosaka",
-      "es": "Casa de Marek Bosak",
-      "fr": "Maison de Marek Bosak"
+      "pl": "Dom rodziny Bosak",
+      "ru": "Дом Семьи Босак",
+      "en": "Bosak Family House",
+      "de": "Haus der Familie Bosak",
+      "ua": "Будинок родини Босак",
+      "it": "Casa della famiglia Bosak",
+      "hr": "Kuća obitelji Bosak",
+      "es": "Casa de la familia Bosak",
+      "fr": "Maison de la famille Bosak"
     },
     "approachText": {
       "pl": "",

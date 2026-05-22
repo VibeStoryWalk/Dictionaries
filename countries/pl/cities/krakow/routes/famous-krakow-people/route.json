@@ -2255,5 +2255,5 @@
     "monument-jan-matejko",
     "memorial-adam-mickevich"
   ],
-  "debug_entity": true
+  "debug_entity": false
 }

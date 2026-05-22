@@ -13,7 +13,7 @@
     "fr": ""
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "0e04709217f89b75aca09ec0b384881f5ac4b2eeda085667c073469ac325dbd8",
+  "imageHash": "8420ba1e1d8576308389229bce65630c2b0e53d875589b7982d95ce4e0a852ec",
   "description": {
     "pl": "Spokojna trasa prowadzi przez cichy dziedziniec uniwersytecki, zielony pierścień Plant, sakralną Skałkę, stare podgórskie cmentarze, kameralny park i finałowy marsz na Kopiec Krakusa. To spacer bez pośpiechu: więcej pauz, lokalnej historii i miejsc, w których słychać sam Kraków, a nie tłum.",
     "ru": "Спокойный маршрут через тихие университетские дворы, зелёный пояс Плант, сакральную Скальку, старое подгужское кладбище, камерный парк и финальный подъём к Кургану Кракуса. Это прогулка без туристической спешки: больше пауз, локальной истории и мест, где слышно сам город, а не толпу.",
@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 180,
-  "distanceKm": 13.55,
+  "distanceKm": 18.99,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -63,8 +63,8 @@
       "path": [
         {
           "coordinates": [
-            50.083333,
-            20
+            50.041975069399435,
+            19.959197809281736
           ]
         },
         {

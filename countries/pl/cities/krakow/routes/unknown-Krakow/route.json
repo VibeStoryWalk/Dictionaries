@@ -15,26 +15,26 @@
   "coverImage": "images/route-cover.jpg",
   "imageHash": "d2058202a93066a354f51bc6888e082f0b85b885a2e39523668167fe73faad00",
   "description": {
-    "pl": "Spokojna trasa prowadzi przez cichy dziedziniec uniwersytecki, zielony pierścień Plant, sakralną Skałkę, stare podgórskie cmentarze, kameralny park i finałowy marsz na Kopiec Krakusa. To spacer bez pośpiechu: więcej pauz, lokalnej historii i miejsc, w których słychać sam Kraków, a nie tłum.",
+    "pl": "Spokojna trasa przez ciche uniwersyteckie dziedzińce, zielony pierścień Plant, sakralną Skałkę, stary cmentarz podgórski, kameralny park i końcowe wejście na Kopiec Krakusa. To spacer bez turystycznego pośpiechu: więcej przerw, lokalnej historii i miejsc, w których słychać samo miasto, a nie tłum.",
     "ru": "Спокойный маршрут через тихие университетские дворы, зелёный пояс Плант, сакральную Скальку, старое подгужское кладбище, камерный парк и финальный подъём к Кургану Кракуса. Это прогулка без туристической спешки: больше пауз, локальной истории и мест, где слышно сам город, а не толпу.",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "en": "A calm route through quiet university courtyards, the green belt of Planty, the sacred Skałka, the old Podgórze cemetery, a small park, and a final climb to Krakus Mound. This is a walk without tourist rush: more pauses, local history, and places where you can hear the city itself rather than the crowd.",
+    "de": "Eine ruhige Route durch stille Universitätsinnenhöfe, den grünen Gürtel der Planty, die sakrale Skałka, den alten Podgórze-Friedhof, einen intimen Park und den abschließenden Aufstieg zum Krakus-Hügel. Das ist ein Spaziergang ohne touristische Hektik: mehr Pausen, lokale Geschichte und Orte, an denen man die Stadt selbst hört, nicht die Menge.",
+    "ua": "Спокійний маршрут через тихі університетські дворики, зелений пояс Плантів, сакральну Скальку, старий підгірський цвинтар, камерний парк і фінальний підйом до Кургану Кракуса. Це прогулянка без туристичної метушні: більше пауз, локальної історії та місць, де чути саме місто, а не натовп.",
+    "it": "Un itinerario tranquillo attraverso silenziosi cortili universitari, la cintura verde dei Planty, la sacra Skałka, il vecchio cimitero di Podgórze, un parco raccolto e la salita finale al Tumulo di Krakus. È una passeggiata senza fretta turistica: più pause, storia locale e luoghi in cui si sente la città stessa, non la folla.",
+    "hr": "Mirna ruta kroz tiha sveučilišna dvorišta, zeleni pojas Plantyja, sakralnu Skałku, staro podgórsko groblje, intiman park i završni uspon do Krakusova humka. Ovo je šetnja bez turističke žurbe: više predaha, lokalne povijesti i mjesta na kojima se čuje sam grad, a ne gomila.",
+    "es": "Una ruta tranquila por patios universitarios silenciosos, el cinturón verde de Planty, la sagrada Skałka, el antiguo cementerio de Podgórze, un parque recogido y la subida final al Túmulo de Krakus. Es un paseo sin prisas turísticas: más pausas, historia local y lugares donde se oye la propia ciudad, no a la multitud.",
+    "fr": "Un itinéraire paisible à travers les cours universitaires tranquilles, la ceinture verte des Planty, la sacrée Skałka, l’ancien cimetière de Podgórze, un parc intimiste et l’ascension finale jusqu’au tumulus de Krakus. C’est une promenade sans hâte touristique : davantage de pauses, d’histoire locale et de lieux où l’on entend la ville elle-même plutôt que la foule."
   },
   "intro": {
-    "pl": "",
-    "ru": "",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "pl": "Spokojna trasa przez ciche uniwersyteckie dziedzińce, zielony pierścień Plant, sakralną Skałkę, stary cmentarz podgórski, kameralny park i końcowe wejście na Kopiec Krakusa. To spacer bez turystycznego pośpiechu: więcej przerw, lokalnej historii i miejsc, w których słychać samo miasto, a nie tłum.",
+    "ru": "Спокойный маршрут через тихие университетские дворы, зелёный пояс Плант, сакральную Скальку, старое подгужское кладбище, камерный парк и финальный подъём к Кургану Кракуса. Это прогулка без туристической спешки: больше пауз, локальной истории и мест, где слышно сам город, а не толпу.",
+    "en": "A calm route through quiet university courtyards, the green belt of Planty, the sacred Skałka, the old Podgórze cemetery, a small park, and a final climb to Krakus Mound. This is a walk without tourist rush: more pauses, local history, and places where you can hear the city itself rather than the crowd.",
+    "de": "Eine ruhige Route durch stille Universitätsinnenhöfe, den grünen Gürtel der Planty, die sakrale Skałka, den alten Podgórze-Friedhof, einen intimen Park und den abschließenden Aufstieg zum Krakus-Hügel. Das ist ein Spaziergang ohne touristische Hektik: mehr Pausen, lokale Geschichte und Orte, an denen man die Stadt selbst hört, nicht die Menge.",
+    "ua": "Спокійний маршрут через тихі університетські дворики, зелений пояс Плантів, сакральну Скальку, старий підгірський цвинтар, камерний парк і фінальний підйом до Кургану Кракуса. Це прогулянка без туристичної метушні: більше пауз, локальної історії та місць, де чути саме місто, а не натовп.",
+    "it": "Un itinerario tranquillo attraverso silenziosi cortili universitari, la cintura verde dei Planty, la sacra Skałka, il vecchio cimitero di Podgórze, un parco raccolto e la salita finale al Tumulo di Krakus. È una passeggiata senza fretta turistica: più pause, storia locale e luoghi in cui si sente la città stessa, non la folla.",
+    "hr": "Mirna ruta kroz tiha sveučilišna dvorišta, zeleni pojas Plantyja, sakralnu Skałku, staro podgórsko groblje, intiman park i završni uspon do Krakusova humka. Ovo je šetnja bez turističke žurbe: više predaha, lokalne povijesti i mjesta na kojima se čuje sam grad, a ne gomila.",
+    "es": "Una ruta tranquila por patios universitarios silenciosos, el cinturón verde de Planty, la sagrada Skałka, el antiguo cementerio de Podgórze, un parque recogido y la subida final al Túmulo de Krakus. Es un paseo sin prisas turísticas: más pausas, historia local y lugares donde se oye la propia ciudad, no a la multitud.",
+    "fr": "Un itinéraire paisible à travers les cours universitaires tranquilles, la ceinture verte des Planty, la sacrée Skałka, l’ancien cimetière de Podgórze, un parc intimiste et l’ascension finale jusqu’au tumulus de Krakus. C’est une promenade sans hâte touristique : davantage de pauses, d’histoire locale et de lieux où l’on entend la ville elle-même plutôt que la foule."
   },
   "durationMinutes": 180,
   "distanceKm": 6.48,
@@ -46,15 +46,15 @@
   "zoom": 14,
   "unlockRadiusMeters": 50,
   "completionMessage": {
-    "pl": "",
-    "ru": "",
-    "en": "",
-    "de": "",
-    "ua": "",
-    "it": "",
-    "hr": "",
-    "es": "",
-    "fr": ""
+    "pl": "Na tym nasza trasa dobiega końca.  \nDziękujemy za korzystanie z naszej aplikacji. Mamy nadzieję, że spacer był interesujący i pełen wrażeń, i będziemy рады, jeśli nasza aplikacja stanie się Twoim niezawodnym przewodnikiem podczas przyszłych podróży.",
+    "ru": "На этом наш маршрут подходит к концу.  \nБлагодарим вас за использование нашего приложения. Мы надеемся, что Ваша прогулка была интересной и насыщенной, и будем рады, если наше приложение станет Вашим надёжным гидом в будущих путешествиях. ",
+    "en": "This brings our route to an end.  \nThank you for using our app. We hope your walk was interesting and full of experiences, and we would be glad if our app becomes your reliable guide on future journeys.",
+    "de": "Damit geht unsere Route zu Ende.  \nVielen Dank, dass Sie unsere App genutzt haben. Wir hoffen, dass Ihr Spaziergang interessant und ereignisreich war, und würden uns freuen, wenn unsere App auf Ihren zukünftigen Reisen Ihr verlässlicher Begleiter wird.",
+    "ua": "На цьому наш маршрут добігає кінця.  \nДякуємо вам за користування нашим додатком. Сподіваємося, що ваша прогулянка була цікавою та насиченою, і будемо раді, якщо наш додаток стане вашим надійним гідом у майбутніх подорожах.",
+    "it": "Con questo il nostro percorso giunge al termine.  \nGrazie per aver utilizzato la nostra app. Speriamo che la vostra passeggiata sia stata interessante e ricca di spunti e saremo lieti se la nostra app diventerà la vostra guida affidabile nei viaggi futuri.",
+    "hr": "Time našoj ruti dolazi kraj.  \nHvala vam što ste koristili našu aplikaciju. Nadamo se da je vaša šetnja bila zanimljiva i ispunjena sadržajem te ćemo biti sretni ako naša aplikacija postane vaš pouzdani vodič na budućim putovanjima.",
+    "es": "Con esto, nuestra ruta llega a su fin.  \nGracias por usar nuestra aplicación. Esperamos que su paseo haya sido interesante y enriquecedor, y estaremos encantados de que nuestra aplicación se convierta en su guía de confianza en futuros viajes.",
+    "fr": "Ceci marque la fin de notre itinéraire.  \nMerci d’avoir utilisé notre application. Nous espérons que votre promenade a été intéressante et riche en découvertes, et nous serions ravis que notre application devienne votre guide de confiance lors de vos futurs voyages."
   },
   "segments": [
     {
@@ -3890,5 +3890,5 @@
     "stary-cmentarz-podgorski",
     "kopiec-krakusa"
   ],
-  "debug_entity": true
+  "debug_entity": false
 }

@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 180,
-  "distanceKm": 5.98,
+  "distanceKm": 9.46,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -77,12 +77,66 @@
     },
     {
       "fromPointId": "smok-turysta",
-      "toPointId": "colored-stairs",
+      "toPointId": "bernatka-bridge",
       "path": [
         {
           "coordinates": [
             50.04211971579602,
             19.95119932591918
+          ]
+        },
+        {
+          "coordinates": [
+            50.04657107421791,
+            19.947524366928462
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bernatka-bridge",
+      "toPointId": "wawel-dragon",
+      "path": [
+        {
+          "coordinates": [
+            50.04657107421791,
+            19.947524366928462
+          ]
+        },
+        {
+          "coordinates": [
+            50.05299860480388,
+            19.93355588202738
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "wawel-dragon",
+      "toPointId": "skalka",
+      "path": [
+        {
+          "coordinates": [
+            50.05299860480388,
+            19.93355588202738
+          ]
+        },
+        {
+          "coordinates": [
+            50.048333,
+            19.937778
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "skalka",
+      "toPointId": "colored-stairs",
+      "path": [
+        {
+          "coordinates": [
+            50.048333,
+            19.937778
           ]
         },
         {
@@ -223,6 +277,9 @@
   "pointIds": [
     "stary-cmentarz-podgorski",
     "smok-turysta",
+    "bernatka-bridge",
+    "wawel-dragon",
+    "skalka",
     "colored-stairs",
     "fort-benedykt",
     "smok-geodeta",

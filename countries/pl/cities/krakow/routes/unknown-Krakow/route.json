@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 180,
-  "distanceKm": 5.81,
+  "distanceKm": 5.98,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -59,12 +59,30 @@
   "segments": [
     {
       "fromPointId": "stary-cmentarz-podgorski",
-      "toPointId": "colored-stairs",
+      "toPointId": "smok-turysta",
       "path": [
         {
           "coordinates": [
             50.041975069399435,
             19.959197809281736
+          ]
+        },
+        {
+          "coordinates": [
+            50.04211971579602,
+            19.95119932591918
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "smok-turysta",
+      "toPointId": "colored-stairs",
+      "path": [
+        {
+          "coordinates": [
+            50.04211971579602,
+            19.95119932591918
           ]
         },
         {
@@ -204,6 +222,7 @@
   ],
   "pointIds": [
     "stary-cmentarz-podgorski",
+    "smok-turysta",
     "colored-stairs",
     "fort-benedykt",
     "smok-geodeta",

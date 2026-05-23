@@ -1710,7 +1710,7 @@
     "radius": 50,
     "image": "krakow/points/points_images/skalka.jpg",
     "imageHash": "f0f6494ad2bd706511db633f8568b1bfa5cdeef03bb8116e011e887eeda8d08f",
-    "debug_entity": true
+    "debug_entity": false
   },
   {
     "id": "stary-cmentarz-podgorski",

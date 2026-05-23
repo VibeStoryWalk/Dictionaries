@@ -1756,7 +1756,7 @@
     "radius": 50,
     "image": "krakow/points/points_images/stary-cmentarz-podgorski.jpg",
     "imageHash": "5464da2245468f0192481c83f597aa51ae1d7d827630c0146021f0a1d92c2389",
-    "debug_entity": true
+    "debug_entity": false
   },
   {
     "id": "kopiec-krakusa",

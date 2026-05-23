@@ -19,7 +19,7 @@
     "textScale": 1,
     "simulationEnabled": false,
     "simulationSpeedKmh": 120,
-    "simulationRadius": 50,
+    "simulationProposalRadius": 50,
     "adsEnabled": true,
     "adsFrequency": 1,
     "autoSpeechEnabled": true,

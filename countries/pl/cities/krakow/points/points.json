@@ -1830,8 +1830,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.06143,
-      19.93658
+      50.04284671835957,
+      19.95916550786144
     ],
     "story": {
       "pl": "Fragment muru getta przy ulicy Limanowskiego w Podgórzu, za szkołą pod adresem 60–62, jest jednym z dwóch zachowanych odcinków muru getta krakowskiego; drugi znajduje się przy Lwowskiej 25–29. To jeden z nielicznych materialnych śladów granicy, którą w 1941 roku niemieckie władze zamknęły żydowskie getto w Krakowie.\n\nPo dekrecie z 3 marca 1941 roku Żydzi z Krakowa zostali zobowiązani do przeniesienia się do Podgórza. Na potrzeby getta wybrano najbardziej zaniedbaną wschodnią część dzielnicy, częściowo w rejonie Krzemionek, a dotychczasowych mieszkańców i pracowników wysiedlono. Mur zbudowano w 1941 roku, aby utrwalić ten obwód. Główne wejście znajdowało się na początku Limanowskiego, między dawnym ratuszem Podgórza a domem przy Rynku Podgórskim 15: były tam dwie bramy przejazdowe, napis w języku hebrajskim i jidysz oraz duża Gwiazda Dawida. Bramy przepuszczały linię tramwajową 3, a także dozwolone samochody, taksówki i wozy; klucze niemiecka policja przechowywała w domu przy Limanowskiego 2.\n\nZachowany fragment ciągnie się na prawie 50 metrów i od strony szkoły osiąga około 3 metrów wysokości. Jego górna krawędź jest zakończona półkolistymi formami, przypominającymi macewy, nagrobki na żydowskich cmentarzach. W 2022 roku mur ponownie odrestaurowano: zdjęto zewnętrzną warstwę, oczyszczono go i wymieniono część cegieł, a następnie na nowo nałożono tynk. Wcześniej był restaurowany w 2000 roku i częściowo w 2013 roku.",
@@ -1845,7 +1845,7 @@
       "fr": "Un fragment du mur du ghetto, dans la rue Limanowskiego à Podgórze, derrière l’école, à l’adresse 60–62, est l’un des deux tronçons conservés du mur du ghetto de Cracovie ; l’autre se trouve au 25–29 de la rue Lwowska. C’est l’une des rares traces matérielles de la frontière que les autorités allemandes ont utilisée en 1941 pour enfermer le ghetto juif de Cracovie.\n\nAprès le décret du 3 mars 1941, les Juifs de Cracovie furent contraints de s’installer à Podgórze. Pour le ghetto, on choisit la partie orientale la plus dégradée du quartier, en partie vers Krzemionki, et les anciens habitants ainsi que les travailleurs furent expulsés. Le mur fut construit en 1941 pour matérialiser ce périmètre. L’entrée principale se trouvait au début de la rue Limanowskiego, entre l’ancien hôtel de ville de Podgórze et l’immeuble du Rynek Podgórski 15 : on y trouvait deux arches de passage, une inscription en hébreu et en yiddish, ainsi qu’une grande étoile de David. Les portes laissaient passer la ligne de tramway 3, ainsi que les voitures autorisées, les taxis et les charrettes ; les clés étaient conservées par la police allemande dans la maison du 2, rue Limanowskiego.\n\nLe fragment conservé s’étend sur près de 50 mètres et atteint, du côté de l’école, une hauteur d’environ 3 mètres. Son bord supérieur se termine par des formes en demi-cercle rappelant les matzevot, les stèles des cimetières juifs. En 2022, le mur a de nouveau été restauré : la couche extérieure a été retirée, il a été nettoyé et une partie des briques a été remplacée, puis un nouvel enduit a été appliqué. Il avait déjà été restauré en 2000 et partiellement en 2013."
     },
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 25,
     "image": "krakow/points/points_images/white-getto-wall.jpg",
     "imageHash": "231e687f981d41e65cf6814014b8a427623c52e75cc9e4a5d6b176516f6196e7",
     "debug_entity": false

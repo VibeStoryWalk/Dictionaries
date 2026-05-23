@@ -1876,8 +1876,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.06143,
-      19.93658
+      50.04174428816911,
+      19.954847093891424
     ],
     "story": {
       "pl": "Figurka Smoka-Geodety stoi w Podgórzu, przy Szkole Podstawowej nr 29 przy Aleja Edwarda Dembowskiego 12. To pierwsza figura na Smoczym Szlaku, ustawiona 22 listopada 2023 roku; smok jest przedstawiony z trójnogiem i tachimetrem oraz skierowany w stronę Kopca Kraka.\n\nMiejsce wybrano nieprzypadkowo. Według miasta przez budynek szkoły przebiega krakowski południk zerowy, a wcześniej stał tu jego znak, mira, używany do ustawiania teleskopów. Sam południk, według oficjalnej miejskiej historii, wyznaczyli astronomowie Akademii Krakowskiej w drugiej połowie XIV wieku; później wiązano go z dokładnym czasem w Polsce i z kalendarzami astronomicznymi.",
@@ -1891,7 +1891,7 @@
       "fr": "La figurine du Dragon-Géodète se trouve à Podgórze, près de l’école primaire n° 29, au 12 Aleja Edwarda Dembowskiego. C’est la première figurine du Smoczy Szlak, installée le 22 novembre 2023 ; le dragon est représenté avec un trépied et un tachéomètre et orienté vers la butte de Krakus.\n\nL’endroit n’a pas été choisi au hasard. Selon la ville, le méridien zéro de Cracovie passe par le bâtiment de l’école, et autrefois son repère, la mira, se trouvait ici ; elle servait à aligner les télescopes. Le méridien lui-même, d’après l’histoire officielle de la ville, a été fixé par des astronomes de l’Académie de Cracovie dans la seconde moitié du XIVe siècle ; il a ensuite été associé à l’heure précise en Pologne et aux calendriers astronomiques."
     },
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 12,
     "image": "krakow/points/points_images/smok-geodeta.jpg",
     "imageHash": "41e282a80d53efe07a9e58831d0d4ccf0c1be4e97aae50ebdcbd383317302558",
     "debug_entity": false

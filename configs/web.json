@@ -1,5 +1,4 @@
 {
   "showDebugSettings": true,
-  "useLocalDicts": true,
-  "simulationProposalRadius": 2
+  "useLocalDicts": true
 }

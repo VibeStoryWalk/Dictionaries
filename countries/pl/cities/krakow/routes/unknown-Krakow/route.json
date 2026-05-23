@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 180,
-  "distanceKm": 8.48,
+  "distanceKm": 8.54,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -59,12 +59,30 @@
   "segments": [
     {
       "fromPointId": "stary-cmentarz-podgorski",
-      "toPointId": "smok-geodeta",
+      "toPointId": "fort-benedykt",
       "path": [
         {
           "coordinates": [
             50.041975069399435,
             19.959197809281736
+          ]
+        },
+        {
+          "coordinates": [
+            50.042743379461115,
+            19.95803355215311
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "fort-benedykt",
+      "toPointId": "smok-geodeta",
+      "path": [
+        {
+          "coordinates": [
+            50.042743379461115,
+            19.95803355215311
           ]
         },
         {
@@ -793,6 +811,7 @@
   ],
   "pointIds": [
     "stary-cmentarz-podgorski",
+    "fort-benedykt",
     "smok-geodeta",
     "white-getto-wall",
     "park-wislawa-szymborska",

@@ -80,7 +80,8 @@
     "labels": {
       "routeStart": "Inicio de la ruta - {{title}}",
       "nextPoint": "Siguiente - {{title}}",
-      "approachStartToBegin": "Acérquese al punto de inicio para que la ruta se active automáticamente."
+      "approachStartToBegin": "Acérquese al punto de inicio para que la ruta se active automáticamente, o",
+      "approachStartSimulationAction": "inicie la simulación de la ruta"
     },
     "tooltips": {
       "youAreHere": "Usted está aquí"
@@ -90,6 +91,10 @@
       "body": "",
       "confirm": "Valorar ahora",
       "dismiss": "Más tarde"
+    },
+    "simulationControls": {
+      "play": "Iniciar simulación",
+      "stop": "Detener simulación"
     },
     "story": {
       "listenAria": "Leer el punto en voz alta",

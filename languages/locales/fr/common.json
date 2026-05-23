@@ -80,7 +80,8 @@
     "labels": {
       "routeStart": "Début de l’itinéraire - {{title}}",
       "nextPoint": "Suivant - {{title}}",
-      "approachStartToBegin": "Approchez-vous du point de départ afin que l’itinéraire s’active automatiquement."
+      "approachStartToBegin": "Approchez-vous du point de départ afin que l’itinéraire s’active automatiquement, ou",
+      "approachStartSimulationAction": "lancez la simulation de l’itinéraire"
     },
     "tooltips": {
       "youAreHere": "Vous êtes ici"
@@ -90,6 +91,10 @@
       "body": "",
       "confirm": "Évaluer maintenant",
       "dismiss": "Plus tard"
+    },
+    "simulationControls": {
+      "play": "Lancer la simulation",
+      "stop": "Arrêter la simulation"
     },
     "story": {
       "listenAria": "Lire le point à voix haute",

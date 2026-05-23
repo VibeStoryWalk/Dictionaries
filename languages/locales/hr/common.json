@@ -82,7 +82,8 @@
     "labels": {
       "routeStart": "Početak rute - {{title}}",
       "nextPoint": "Dalje - {{title}}",
-      "approachStartToBegin": "Približite se početnoj točki kako bi se ruta automatski aktivirala."
+      "approachStartToBegin": "Približite se početnoj točki kako bi se ruta automatski aktivirala ili",
+      "approachStartSimulationAction": "pokrenite simulaciju rute"
     },
     "tooltips": {
       "youAreHere": "Vi ste ovdje"
@@ -92,6 +93,10 @@
       "body": "",
       "confirm": "Ocijeni sada",
       "dismiss": "Kasnije"
+    },
+    "simulationControls": {
+      "play": "Pokreni simulaciju",
+      "stop": "Zaustavi simulaciju"
     },
     "story": {
       "listenAria": "Pročitaj točku naglas",

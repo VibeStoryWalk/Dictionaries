@@ -80,7 +80,8 @@
     "labels": {
       "routeStart": "Inizio percorso - {{title}}",
       "nextPoint": "Avanti - {{title}}",
-      "approachStartToBegin": "Avvicinati al punto di partenza affinché il percorso si attivi automaticamente."
+      "approachStartToBegin": "Avvicinati al punto di partenza affinché il percorso si attivi automaticamente, oppure",
+      "approachStartSimulationAction": "avvia la simulazione del percorso"
     },
     "tooltips": {
       "youAreHere": "Sei qui"
@@ -90,6 +91,10 @@
       "body": "",
       "confirm": "Valuta ora",
       "dismiss": "Più tardi"
+    },
+    "simulationControls": {
+      "play": "Avvia simulazione",
+      "stop": "Ferma simulazione"
     },
     "story": {
       "listenAria": "Leggi il punto ad alta voce",

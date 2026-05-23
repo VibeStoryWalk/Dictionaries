@@ -82,7 +82,8 @@
     "labels": {
       "routeStart": "Начало маршрута - {{title}}",
       "nextPoint": "Дальше - {{title}}",
-      "approachStartToBegin": "Подойдите ближе к точке старта, чтоб маршрут автоматически активировался."
+      "approachStartToBegin": "Подойдите ближе к точке старта, чтоб маршрут автоматически активировался, либо",
+      "approachStartSimulationAction": "запустите симуляцию маршрута"
     },
     "tooltips": {
       "youAreHere": "Вы здесь"
@@ -92,6 +93,10 @@
       "body": "",
       "confirm": "Оценить",
       "dismiss": "Позже"
+    },
+    "simulationControls": {
+      "play": "Запустить симуляцию",
+      "stop": "Остановить симуляцию"
     },
     "story": {
       "listenAria": "Прочитать точку вслух",

@@ -80,7 +80,8 @@
     "labels": {
       "routeStart": "Routenstart - {{title}}",
       "nextPoint": "Weiter - {{title}}",
-      "approachStartToBegin": "Gehe näher an den Startpunkt heran, damit die Route automatisch aktiviert wird."
+      "approachStartToBegin": "Gehe näher an den Startpunkt heran, damit die Route automatisch aktiviert wird, oder",
+      "approachStartSimulationAction": "starte die Routensimulation"
     },
     "tooltips": {
       "youAreHere": "Du bist hier"
@@ -90,6 +91,10 @@
       "body": "",
       "confirm": "Jetzt bewerten",
       "dismiss": "Später"
+    },
+    "simulationControls": {
+      "play": "Simulation starten",
+      "stop": "Simulation stoppen"
     },
     "story": {
       "listenAria": "Punkt laut vorlesen",

@@ -82,7 +82,8 @@
     "labels": {
       "routeStart": "Początek trasy - {{title}}",
       "nextPoint": "Dalej - {{title}}",
-      "approachStartToBegin": "Podejdź bliżej punktu startu, aby trasa aktywowała się automatycznie."
+      "approachStartToBegin": "Podejdź bliżej punktu startu, aby trasa aktywowała się automatycznie, albo",
+      "approachStartSimulationAction": "uruchom symulację trasy"
     },
     "tooltips": {
       "youAreHere": "Jesteś tutaj"
@@ -92,6 +93,10 @@
       "body": "",
       "confirm": "Oceń teraz",
       "dismiss": "Może później"
+    },
+    "simulationControls": {
+      "play": "Wznów symulację",
+      "stop": "Zatrzymaj symulację"
     },
     "story": {
       "listenAria": "Odczytaj punkt na głos",

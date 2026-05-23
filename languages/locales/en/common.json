@@ -80,7 +80,8 @@
     "labels": {
       "routeStart": "Route start - {{title}}",
       "nextPoint": "Next - {{title}}",
-      "approachStartToBegin": "Move closer to the start point so the route activates automatically."
+      "approachStartToBegin": "Move closer to the start point so the route activates automatically, or",
+      "approachStartSimulationAction": "start route simulation"
     },
     "tooltips": {
       "youAreHere": "You are here"
@@ -90,6 +91,10 @@
       "body": "",
       "confirm": "Rate now",
       "dismiss": "Later"
+    },
+    "simulationControls": {
+      "play": "Play simulation",
+      "stop": "Stop simulation"
     },
     "story": {
       "listenAria": "Read point aloud",

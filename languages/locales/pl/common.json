@@ -141,7 +141,8 @@
       "ads": "Reklamy",
       "adDebug": "Debug reklam",
       "simulation": "Symulacja",
-      "tts": "Synteza mowy"
+      "tts": "Synteza mowy",
+      "sharePromo": "Udostępnij aplikację"
     },
     "labels": {
       "cache": "Pamięć podręczna",
@@ -193,7 +194,8 @@
       "cleanUp": "Wyczyść",
       "triggerAd": "Uruchom reklamę",
       "openLanguageSelector": "Otwórz wybór języka",
-      "openPrivacyPolicy": "Otwórz"
+      "openPrivacyPolicy": "Otwórz",
+      "sharePromo": "Udostępnij"
     },
     "privacyPolicy": {
       "title": "Polityka prywatności",
@@ -201,6 +203,18 @@
       "loading": "Ładowanie polityki prywatności...",
       "loadError": "Nie udało się teraz wczytać polityki prywatności.",
       "consentAction": "Wyrażam zgodę"
+    },
+    "share": {
+      "confirmTitle": "Udostępnij SamoWalk",
+      "title": "SamoWalk",
+      "confirmBody": "Wybierz aplikację i potwierdź udostępnienie wiadomości o SamoWalk.",
+      "cancel": "Anuluj",
+      "confirmAction": "Udostępnij teraz",
+      "status": {
+        "sent": "Wiadomość wysłana",
+        "cancelled": "Wysyłanie anulowane",
+        "failed": "Błąd wysyłania"
+      }
     }
   },
   "ads": {

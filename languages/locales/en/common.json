@@ -139,7 +139,8 @@
       "ads": "Ads",
       "adDebug": "Ad debug",
       "simulation": "Simulation",
-      "tts": "Text-to-speech"
+      "tts": "Text-to-speech",
+      "sharePromo": "Share app"
     },
     "labels": {
       "cache": "Cache",
@@ -191,7 +192,8 @@
       "cleanUp": "Clean up",
       "triggerAd": "Trigger ad",
       "openLanguageSelector": "Open language selector",
-      "openPrivacyPolicy": "Open"
+      "openPrivacyPolicy": "Open",
+      "sharePromo": "Share"
     },
     "privacyPolicy": {
       "title": "Privacy policy",
@@ -199,6 +201,18 @@
       "loading": "Loading privacy policy...",
       "loadError": "Unable to load the privacy policy right now.",
       "consentAction": "I consent"
+    },
+    "share": {
+      "confirmTitle": "Share SamoWalk",
+      "title": "SamoWalk",
+      "confirmBody": "Choose an app and confirm sharing the SamoWalk message.",
+      "cancel": "Cancel",
+      "confirmAction": "Share now",
+      "status": {
+        "sent": "Message sent",
+        "cancelled": "Message cancelled",
+        "failed": "Message failed"
+      }
     }
   },
   "ads": {

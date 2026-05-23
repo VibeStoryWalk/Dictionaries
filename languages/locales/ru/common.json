@@ -141,7 +141,8 @@
       "ads": "Реклама",
       "adDebug": "Отладка рекламы",
       "simulation": "Симуляция",
-      "tts": "Синтез речи"
+      "tts": "Синтез речи",
+      "sharePromo": "Поделиться приложением"
     },
     "labels": {
       "cache": "Кэш",
@@ -193,7 +194,8 @@
       "cleanUp": "Очистить",
       "triggerAd": "Запустить рекламу",
       "openLanguageSelector": "Открыть выбор языка",
-      "openPrivacyPolicy": "Открыть"
+      "openPrivacyPolicy": "Открыть",
+      "sharePromo": "Поделиться"
     },
     "privacyPolicy": {
       "title": "Политика конфиденциальности",
@@ -201,6 +203,18 @@
       "loading": "Загрузка политики конфиденциальности...",
       "loadError": "Сейчас не удаётся загрузить политику конфиденциальности.",
       "consentAction": "Я согласен"
+    },
+    "share": {
+      "confirmTitle": "Поделиться SamoWalk",
+      "title": "SamoWalk",
+      "confirmBody": "Выберите приложение и подтвердите отправку сообщения о SamoWalk.",
+      "cancel": "Отмена",
+      "confirmAction": "Отправить",
+      "status": {
+        "sent": "Сообщение отправлено",
+        "cancelled": "Отправка отменена",
+        "failed": "Ошибка отправки"
+      }
     }
   },
   "ads": {

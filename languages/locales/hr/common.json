@@ -141,7 +141,8 @@
       "ads": "Oglasi",
       "adDebug": "Otklanjanje pogrešaka oglasa",
       "simulation": "Simulacija",
-      "tts": "Pretvaranje teksta u govor"
+      "tts": "Pretvaranje teksta u govor",
+      "sharePromo": "Podijeli aplikaciju"
     },
     "labels": {
       "cache": "Predmemorija",
@@ -193,7 +194,8 @@
       "cleanUp": "Očisti",
       "triggerAd": "Pokreni oglas",
       "openLanguageSelector": "Otvori odabir jezika",
-      "openPrivacyPolicy": "Otvori"
+      "openPrivacyPolicy": "Otvori",
+      "sharePromo": "Podijeli"
     },
     "privacyPolicy": {
       "title": "Pravila privatnosti",
@@ -201,6 +203,18 @@
       "loading": "Učitavanje pravila privatnosti...",
       "loadError": "Pravila privatnosti trenutno nije moguće učitati.",
       "consentAction": "Dajem privolu"
+    },
+    "share": {
+      "confirmTitle": "Podijeli SamoWalk",
+      "title": "SamoWalk",
+      "confirmBody": "Odaberite aplikaciju i potvrdite dijeljenje poruke o SamoWalku.",
+      "cancel": "Odustani",
+      "confirmAction": "Podijeli sada",
+      "status": {
+        "sent": "Poruka poslana",
+        "cancelled": "Slanje otkazano",
+        "failed": "Slanje nije uspjelo"
+      }
     }
   },
   "ads": {

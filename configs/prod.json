@@ -1,7 +1,8 @@
 {
   "defaultUiSettings": {
     "adsEnabled": true,
-    "adsFrequency": 10
+    "adsFrequency": 10,
+    "simulationSpeedKmh": 40
   },
   "adMob": {
     "nativeBannerAdUnitId": "ca-app-pub-9625623256171202/1803814094",

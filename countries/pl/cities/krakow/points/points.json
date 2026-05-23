@@ -1987,5 +1987,51 @@
     "image": "krakow/points/points_images/colored-stairs.jpg",
     "imageHash": "aa8e781b145e7b17739f1661622074e6f47e5b83975a175f34a85b2dedd9066d",
     "debug_entity": false
+  },
+  {
+    "id": "smok-turysta",
+    "order": 47,
+    "title": {
+      "pl": "Figurka smoka-turysty",
+      "ru": "Фигурка дракона-туриста",
+      "en": "Tourist dragon figurine",
+      "de": "Figur eines Touristen-Drachen",
+      "ua": "Фігурка дракона-туриста",
+      "it": "Statuetta del drago turista",
+      "hr": "Figurica zmaja turista",
+      "es": "Figurita de dragón turista",
+      "fr": "Figurine du dragon touriste"
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.04211971579602,
+      19.95119932591918
+    ],
+    "story": {
+      "pl": "Smok Turysta stoi przy wejściu do parku imienia Wojciecha Bednarskiego w krakowskim Podgórzu. To jeden z przystanków trasy Smoczy Szlak, a sama figura została pomyślana jako smok-fotograf: w łapach trzyma aparat i zwraca się ku naturalnemu obliczu Podgórza.",
+      "ru": "Smok Turysta стоит у входа в парк имени Войцеха Беднарского в краковском Подгуже. Это одна из остановок маршрута Тропа Дракона, а сама фигура задумана как дракон-фотограф: в лапах он держит камеру и обращён к природному облику Подгуже.",
+      "en": "Smok Turysta stands at the entrance to Wojciech Bednarski Park in Kraków's Podgórze district. It is one of the stops on the Dragon Trail, and the figure itself is conceived as a dragon-photographer: it holds a camera in its paws and faces the natural side of Podgórze.",
+      "de": "Smok Turysta steht am Eingang zum Woiciech-Bednarski-Park im Krakauer Stadtteil Podgórze. Er ist eine der Stationen des Drachenpfads, und die Figur selbst ist als Drachenfotograf gedacht: In seinen Pranken hält er eine Kamera und blickt auf das natürliche Gesicht von Podgórze.",
+      "ua": "Smok Turysta стоїть біля входу до парку імені Войцеха Беднарського в краківському Подгужі. Це одна із зупинок маршруту Дорога Дракона, а сама фігура задумана як дракон-фотограф: у лапах він тримає камеру й звернений до природного обличчя Підгужа.",
+      "it": "Smok Turysta si trova all’ingresso del parco Wojciech Bednarski, nel quartiere Podgórze di Cracovia. È una delle tappe del Percorso del Drago, e la figura stessa è concepita come un drago fotografo: tiene una macchina fotografica tra le zampe ed è rivolta verso il volto naturale di Podgórze.",
+      "hr": "Smok Turysta stoji na ulazu u park Wojciecha Bednarskog u krakovskom Podgórzu. To je jedno od zaustavljanja na ruti Zmajeva staza, a sama je figura zamišljena kao zmaj-fotograf: u šapama drži kameru i okrenuta je prirodnom licu Podgórza.",
+      "es": "Smok Turysta se encuentra en la entrada del parque Wojciech Bednarski, en el barrio de Podgórze de Cracovia. Es una de las paradas de la Ruta del Dragón, y la figura está concebida como un dragón fotógrafo: sostiene una cámara entre sus garras y mira hacia el rostro natural de Podgórze.",
+      "fr": "Smok Turysta se trouve à l’entrée du parc Wojciech Bednarski, dans le quartier de Podgórze à Cracovie. C’est l’une des étapes du Chemin du Dragon, et la figure elle-même a été conçue comme un dragon photographe : il tient un appareil photo dans ses pattes et fait face au visage naturel de Podgórze."
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 15,
+    "image": "krakow/points/points_images/smok-turysta.jpg",
+    "imageHash": "af5c4be78fdf3792aea665beac2de0ce8b3d3c45bb7c3f703b9154907ab99dd0",
+    "debug_entity": false
   }
 ]

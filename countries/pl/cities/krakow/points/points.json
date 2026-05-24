@@ -818,8 +818,8 @@
       "en": ""
     },
     "coordinates": [
-      50.04345678238874,
-      19.949751075179286
+      50.04369421211431,
+      19.949584599804204
     ],
     "story": {
       "pl": "Kościół św. Józefa w Podgórzu jest kościołem parafialnym Krakowa na Rynku Podgórskim, stojącym na miejscu dawnego kamieniołomu. Życie parafialne zostało tu oficjalnie zorganizowane w 1818 roku, ale zaczęło się od tymczasowej kaplicy w budynku rządowym. Pierwszy kościół w tym miejscu wzniesiono w 1832 roku; była to powściągliwa świątynia klasycystyczna. Na początku XX wieku uznano ją za wadliwą i niebezpieczną, a w 1905 roku budynek rozebrano.\n\nNowy projekt promował ksiądz Antoni Gruszecki. Zwrócił uwagę na wystawowy projekt Jana Sas-Zubrzyckiego w krakowskim Pałacu Sztuki i doprowadził do jego realizacji w uproszczonej, tańszej wersji. Stary kościół rozebrano w 1905 roku, teren poświęcono 13 maja, kamień węgielny wmurowano 17 września, a nową świątynię poświęcono 24 października 1909 roku.\n\nGłówna wieża została świadomie nawiązana do hejnalicy bazyliki Mariackiej w Krakowie. Portal nosi herb Sas i dewizę SUSTINAE, którą mieszkańcy odczytują jako wezwanie, by podtrzymywać i nie dopuścić do upadku. Wewnątrz zachowały się sklepienie krzyżowo-żebrowe, obejście z kaplicami wokół prezbiterium oraz bogate neogotyckie wyposażenie z niemal 60 wizerunkami świętych.\n\nOrgany zbudowała przed I wojną światową warszawska pracownia Adolfa Antoniego Gomana; instrument pierwotnie przeznaczony był dla Baku w Azerbejdżanie, a w Podgórzu kupiono go w 1922 roku. Restauracja trwa od 1978 roku: wzmocniła uszkodzoną wieżę, odnowiła wygląd zewnętrzny i wewnętrzny, przywróciła pierwotną logikę kolorystyczną i odtworzyła figurę św. Józefa usuniętą w latach 50. Dziś jest to przebudowany i wciąż odnawiany zabytek, w którym widoczne są różne warstwy historii.",
@@ -836,7 +836,7 @@
     "image": "krakow/points/points_images/jst-joseph-church.jpg",
     "imageHash": "a10122233742cec238da8956f2227231e05557672e35406c3a68f9964634dc89",
     "debug_entity": false,
-    "radius": 42
+    "radius": 60
   },
   {
     "id": "schindler-list-passage",
@@ -1847,7 +1847,7 @@
     "dwellTimeMinutes": 5,
     "radius": 25,
     "image": "krakow/points/points_images/white-getto-wall.jpg",
-    "imageHash": "231e687f981d41e65cf6814014b8a427623c52e75cc9e4a5d6b176516f6196e7",
+    "imageHash": "772a7090adf44ace789b458a9b104fd86fb1a56b69960ddb65da062537e6cc60",
     "debug_entity": false
   },
   {
@@ -1893,7 +1893,7 @@
     "dwellTimeMinutes": 5,
     "radius": 12,
     "image": "krakow/points/points_images/smok-geodeta.jpg",
-    "imageHash": "41e282a80d53efe07a9e58831d0d4ccf0c1be4e97aae50ebdcbd383317302558",
+    "imageHash": "52df372d980095e6a3c30651c52ce4c67b0dc9d88bd61ad78d8d0b0cd02ecd96",
     "debug_entity": false
   },
   {
@@ -1939,7 +1939,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/fort-benedykt.jpg",
-    "imageHash": "8b3c460e1c7dd7dd7b1e846c75470fa326349a4e05ef12716f06db4de84b15d6",
+    "imageHash": "45fa80a26afa86ecc20b2a7b0698b6d0e053e29c2b4f510d5b0f9504809c2431",
     "debug_entity": false
   },
   {
@@ -1985,7 +1985,7 @@
     "dwellTimeMinutes": 5,
     "radius": 23,
     "image": "krakow/points/points_images/colored-stairs.jpg",
-    "imageHash": "aa8e781b145e7b17739f1661622074e6f47e5b83975a175f34a85b2dedd9066d",
+    "imageHash": "cc9831768f2df6f46f1f2068fc00d0398a160148cff92a5daa579499a53c6773",
     "debug_entity": false
   },
   {
@@ -2031,7 +2031,7 @@
     "dwellTimeMinutes": 5,
     "radius": 15,
     "image": "krakow/points/points_images/smok-turysta.jpg",
-    "imageHash": "af5c4be78fdf3792aea665beac2de0ce8b3d3c45bb7c3f703b9154907ab99dd0",
+    "imageHash": "c093feda80fc2f7866d3176c77f216984987a689d8249acc1e7cd7e621ce9d14",
     "debug_entity": false
   }
 ]

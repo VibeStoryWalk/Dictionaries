@@ -134,6 +134,7 @@
       "textSize": "Textgröße",
       "language": "Sprache",
       "theme": "Design",
+      "batterySaver": "Batteriesparen",
       "autoSpeech": "Automatische Sprachausgabe",
       "privacyPolicy": "Datenschutzerklärung",
       "ads": "Werbung",
@@ -151,6 +152,7 @@
       "open": "Einstellungen öffnen",
       "languageSelect": "App-Sprache wählen",
       "themeToggle": "Design umschalten",
+      "batterySaverToggle": "Batteriesparen umschalten",
       "autoSpeechToggle": "Automatische Sprachausgabe umschalten",
       "adsToggle": "Werbung umschalten",
       "simulationToggle": "Routensimulation umschalten",
@@ -167,6 +169,11 @@
     "speech": {
       "on": "An",
       "off": "Aus"
+    },
+    "batterySaver": {
+      "on": "An",
+      "off": "Aus",
+      "warning": "Der Batteriesparmodus reduziert die GPS-Genauigkeit und die Kartenaktualisierungen, um Energie zu sparen. Die Routenführung kann ungenauer arbeiten."
     },
     "ads": {
       "on": "An",

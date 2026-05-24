@@ -136,6 +136,7 @@
       "textSize": "Rozmiar tekstu",
       "language": "Język",
       "theme": "Motyw",
+      "batterySaver": "Oszczędzanie baterii",
       "autoSpeech": "Automatyczne czytanie",
       "privacyPolicy": "Polityka prywatności",
       "ads": "Reklamy",
@@ -153,6 +154,7 @@
       "open": "Otwórz ustawienia",
       "languageSelect": "Wybierz język aplikacji",
       "themeToggle": "Przełącz motyw",
+      "batterySaverToggle": "Przełącz oszczędzanie baterii",
       "autoSpeechToggle": "Przełącz automatyczne czytanie",
       "adsToggle": "Przełącz reklamy",
       "simulationToggle": "Przełącz symulację trasy",
@@ -169,6 +171,11 @@
     "speech": {
       "on": "Wł.",
       "off": "Wył."
+    },
+    "batterySaver": {
+      "on": "Wł.",
+      "off": "Wył.",
+      "warning": "Tryb oszczędzania baterii zmniejsza dokładność GPS i częstotliwość odświeżania mapy, aby oszczędzać energię. Prowadzenie po trasie może działać mniej dokładnie."
     },
     "ads": {
       "on": "Wł.",

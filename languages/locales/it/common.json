@@ -134,6 +134,7 @@
       "textSize": "Dimensione del testo",
       "language": "Lingua",
       "theme": "Tema",
+      "batterySaver": "Risparmio batteria",
       "autoSpeech": "Lettura automatica",
       "privacyPolicy": "Informativa sulla privacy",
       "ads": "Pubblicità",
@@ -151,6 +152,7 @@
       "open": "Apri impostazioni",
       "languageSelect": "Scegli la lingua dell'app",
       "themeToggle": "Cambia tema",
+      "batterySaverToggle": "Attiva o disattiva il risparmio batteria",
       "autoSpeechToggle": "Attiva o disattiva la lettura automatica",
       "adsToggle": "Attiva o disattiva la pubblicità",
       "simulationToggle": "Attiva o disattiva la simulazione del percorso",
@@ -167,6 +169,11 @@
     "speech": {
       "on": "On",
       "off": "Off"
+    },
+    "batterySaver": {
+      "on": "On",
+      "off": "Off",
+      "warning": "Il risparmio batteria riduce la precisione del GPS e gli aggiornamenti della mappa per risparmiare energia. La guida del percorso potrebbe funzionare con meno precisione."
     },
     "ads": {
       "on": "On",

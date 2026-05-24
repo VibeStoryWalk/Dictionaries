@@ -134,6 +134,7 @@
       "textSize": "Tamaño del texto",
       "language": "Idioma",
       "theme": "Tema",
+      "batterySaver": "Ahorro de batería",
       "autoSpeech": "Lectura automática",
       "privacyPolicy": "Política de privacidad",
       "ads": "Publicidad",
@@ -151,6 +152,7 @@
       "open": "Abrir configuración",
       "languageSelect": "Elegir el idioma de la aplicación",
       "themeToggle": "Cambiar tema",
+      "batterySaverToggle": "Activar o desactivar ahorro de batería",
       "autoSpeechToggle": "Cambiar lectura automática",
       "adsToggle": "Cambiar publicidad",
       "simulationToggle": "Cambiar simulación de la ruta",
@@ -167,6 +169,11 @@
     "speech": {
       "on": "Activado",
       "off": "Desactivado"
+    },
+    "batterySaver": {
+      "on": "Activado",
+      "off": "Desactivado",
+      "warning": "El ahorro de batería reduce la precisión del GPS y las actualizaciones del mapa para ahorrar energía. La guía de la ruta puede funcionar con menos precisión."
     },
     "ads": {
       "on": "Activado",

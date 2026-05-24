@@ -134,6 +134,7 @@
       "textSize": "Taille du texte",
       "language": "Langue",
       "theme": "Thème",
+      "batterySaver": "Économie de batterie",
       "autoSpeech": "Lecture automatique",
       "privacyPolicy": "Politique de confidentialité",
       "ads": "Publicité",
@@ -151,6 +152,7 @@
       "open": "Ouvrir les paramètres",
       "languageSelect": "Choisir la langue de l’application",
       "themeToggle": "Changer de thème",
+      "batterySaverToggle": "Activer ou désactiver l'économie de batterie",
       "autoSpeechToggle": "Activer ou désactiver la lecture automatique",
       "adsToggle": "Activer ou désactiver la publicité",
       "simulationToggle": "Activer ou désactiver la simulation de l’itinéraire",
@@ -167,6 +169,11 @@
     "speech": {
       "on": "Activé",
       "off": "Désactivé"
+    },
+    "batterySaver": {
+      "on": "Activé",
+      "off": "Désactivé",
+      "warning": "Le mode économie de batterie réduit la précision du GPS et la fréquence des mises à jour de la carte pour économiser l'énergie. Le guidage de l'itinéraire peut être moins précis."
     },
     "ads": {
       "on": "Activé",

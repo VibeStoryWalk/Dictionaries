@@ -136,6 +136,7 @@
       "textSize": "Veličina teksta",
       "language": "Jezik",
       "theme": "Tema",
+      "batterySaver": "Štednja baterije",
       "autoSpeech": "Automatsko čitanje",
       "privacyPolicy": "Pravila privatnosti",
       "ads": "Oglasi",
@@ -153,6 +154,7 @@
       "open": "Otvori postavke",
       "languageSelect": "Odabir jezika aplikacije",
       "themeToggle": "Promijeni temu",
+      "batterySaverToggle": "Uključi ili isključi štednju baterije",
       "autoSpeechToggle": "Uključi ili isključi automatsko čitanje",
       "adsToggle": "Uključi ili isključi oglase",
       "simulationToggle": "Uključi ili isključi simulaciju rute",
@@ -169,6 +171,11 @@
     "speech": {
       "on": "Uključeno",
       "off": "Isključeno"
+    },
+    "batterySaver": {
+      "on": "Uključeno",
+      "off": "Isključeno",
+      "warning": "Štednja baterije smanjuje preciznost GPS-a i učestalost osvježavanja karte kako bi se štedjela energija. Navođenje rutom može raditi manje precizno."
     },
     "ads": {
       "on": "Uključeno",

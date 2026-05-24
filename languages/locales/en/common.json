@@ -134,6 +134,7 @@
       "textSize": "Text size",
       "language": "Language",
       "theme": "Theme",
+      "batterySaver": "Battery saver",
       "autoSpeech": "Auto speech",
       "privacyPolicy": "Privacy policy",
       "ads": "Ads",
@@ -151,6 +152,7 @@
       "open": "Open settings",
       "languageSelect": "Choose app language",
       "themeToggle": "Toggle theme",
+      "batterySaverToggle": "Toggle battery saver",
       "autoSpeechToggle": "Toggle automatic speech",
       "adsToggle": "Toggle ads",
       "simulationToggle": "Toggle route simulation",
@@ -167,6 +169,11 @@
     "speech": {
       "on": "On",
       "off": "Off"
+    },
+    "batterySaver": {
+      "on": "On",
+      "off": "Off",
+      "warning": "Battery saver reduces GPS precision and map updates to save energy. Route guidance may work less accurately."
     },
     "ads": {
       "on": "On",

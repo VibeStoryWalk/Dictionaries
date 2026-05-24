@@ -2382,7 +2382,8 @@
             50.042296,
             19.951254
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
@@ -2412,7 +2413,138 @@
           ],
           "type": "HiddenPointProposal",
           "radiusMeters": 16,
-          "debug_entity": false
+          "debug_entity": false,
+          "hiddenPointDenyRoute": {
+            "toPointId": "smok-geodeta",
+            "path": [
+              {
+                "coordinates": [
+                  50.042322,
+                  19.951633
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.04232,
+                  19.951904
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.042317,
+                  19.952286
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.042289,
+                  19.952288
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.042289,
+                  19.953153
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn right onto Aleja Edwarda Dembowskiego",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.042188,
+                  19.953291
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.042161,
+                  19.95337
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.041995,
+                  19.953866
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.041681,
+                  19.954847
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.041649,
+                  19.954942
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.041663,
+                  19.954992
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.04168139052028,
+                  19.9549836406726
+                ],
+                "type": "portal",
+                "radiusMeters": 20,
+                "targetParentVertexIndex": 0
+              },
+              {
+                "coordinates": [
+                  50.041685,
+                  19.954982
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.041704,
+                  19.954928
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.041735,
+                  19.954839
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.04174428816911,
+                  19.954847093891424
+                ],
+                "radiusMeters": 12
+              }
+            ]
+          }
         },
         {
           "coordinates": [

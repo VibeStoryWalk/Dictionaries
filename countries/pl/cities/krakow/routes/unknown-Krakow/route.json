@@ -13,7 +13,7 @@
     "fr": "Cracovie méconnue sans foules de touristes"
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "d2058202a93066a354f51bc6888e082f0b85b885a2e39523668167fe73faad00",
+  "imageHash": "9847dd98e1227f90e55d5746dee2fc262c124920e010b168f6e590819008f9a4",
   "description": {
     "pl": "Spokojna trasa przez ciche uniwersyteckie dziedzińce, zielony pierścień Plant, sakralną Skałkę, stary cmentarz podgórski, kameralny park i końcowe wejście na Kopiec Krakusa. To spacer bez turystycznego pośpiechu: więcej przerw, lokalnej historii i miejsc, w których słychać samo miasto, a nie tłum.",
     "ru": "Спокойный маршрут через тихие университетские дворы, зелёный пояс Плант, сакральную Скальку, старое подгужское кладбище, камерный парк и финальный подъём к Кургану Кракуса. Это прогулка без туристической спешки: больше пауз, локальной истории и мест, где слышно сам город, а не толпу.",
@@ -37,7 +37,7 @@
     "fr": "Un itinéraire paisible à travers les cours universitaires tranquilles, la ceinture verte des Planty, la sacrée Skałka, l’ancien cimetière de Podgórze, un parc intimiste et l’ascension finale jusqu’au tumulus de Krakus. C’est une promenade sans hâte touristique : davantage de pauses, d’histoire locale et de lieux où l’on entend la ville elle-même plutôt que la foule."
   },
   "durationMinutes": 180,
-  "distanceKm": 6.48,
+  "distanceKm": 6.45,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -1710,14 +1710,16 @@
             50.046562,
             19.94763
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.046038,
             19.948119
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
@@ -1727,15 +1729,15 @@
           "type": "turn",
           "radiusMeters": 15,
           "text": {
-            "pl": "Trzymaj się prawej strony, a następnie po 12 metrach trzymaj się lewej",
+            "pl": "Trzymaj się prawej strony, a potem po 12 metrach trzymaj się lewej strony",
             "ru": "Держитесь правее, а затем через 12 метров держитесь левее",
             "en": "Keep right and then after 12 meters Keep left",
-            "de": "Halten Sie sich rechts und dann nach 12 Metern halten Sie sich links",
+            "de": "Rechts halten und dann nach 12 Metern links halten",
             "ua": "Тримайтеся праворуч, а потім через 12 метрів тримайтеся ліворуч",
             "it": "Tieni la destra e poi dopo 12 metri tieni la sinistra",
             "hr": "Držite se desno, a zatim nakon 12 metara držite se lijevo",
             "es": "Mantente a la derecha y luego, después de 12 metros, mantente a la izquierda",
-            "fr": "Restez à droite puis après 12 mètres restez à gauche"
+            "fr": "Restez à droite puis, après 12 mètres, restez à gauche"
           },
           "debug_entity": false
         },
@@ -1744,21 +1746,24 @@
             50.045879,
             19.948058
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.045732,
             19.948047
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.045693,
             19.948074
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
@@ -1785,63 +1790,72 @@
             50.045169,
             19.948101
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.045142,
             19.948178
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.045133,
             19.948204
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044847,
             19.948478
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044747,
             19.948565
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044722,
             19.948584
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044685,
             19.948611
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044658,
             19.948539
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044638,
             19.948488
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
@@ -1868,175 +1882,87 @@
             50.044538,
             19.948513
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044475,
             19.948588
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044499,
             19.948646
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044274,
             19.948905
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.044072,
             19.949139
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.04399464943292,
+            19.949228132441537
+          ],
+          "type": "portal",
+          "radiusMeters": 20,
+          "debug_entity": false,
+          "targetVertexIndex": 28
         },
         {
           "coordinates": [
             50.043921,
             19.949313
           ],
-          "type": "turn",
-          "radiusMeters": 15,
-          "text": {
-            "pl": "Skręć w lewo, a następnie po 9 metrach skręć w prawo",
-            "ru": "Поверните налево, а затем через 9 метров поверните направо",
-            "en": "Turn left and then after 9 meters Turn right",
-            "de": "Biegen Sie links ab und dann nach 9 Metern rechts ab",
-            "ua": "Поверніть ліворуч, а потім через 9 метрів поверніть праворуч",
-            "it": "Gira a sinistra e poi dopo 9 metri gira a destra",
-            "hr": "Skrenite lijevo, a zatim nakon 9 metara skrenite desno",
-            "es": "Gira a la izquierda y luego, después de 9 metros, gira a la derecha",
-            "fr": "Tournez à gauche puis, après 9 mètres, tournez à droite"
-          },
-          "debug_entity": false
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.043965,
             19.949415
           ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.04380549499924,
-            19.949525058450522
-          ],
-          "type": "portal",
-          "radiusMeters": 15,
-          "debug_entity": false,
-          "targetVertexIndex": 40
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.043765,
             19.949553
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
             50.043717,
             19.949583
           ],
-          "type": "hidden"
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
-            50.043651,
-            19.949626
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043641,
-            19.949632
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043613,
-            19.94965
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043581,
-            19.949673
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043545,
-            19.949699
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043534,
-            19.949707
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043518,
-            19.949654
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043508,
-            19.949621
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043504,
-            19.949618
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043503,
-            19.949623
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043489,
-            19.949672
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.043503,
-            19.949718
-          ],
-          "type": "hidden"
-        },
-        {
-          "coordinates": [
-            50.04345678238874,
-            19.949751075179286
+            50.04369421211431,
+            19.949584599804204
           ],
           "radiusMeters": 42
         }
@@ -2048,8 +1974,8 @@
       "path": [
         {
           "coordinates": [
-            50.04345678238874,
-            19.949751075179286
+            50.04369421211431,
+            19.949584599804204
           ]
         },
         {

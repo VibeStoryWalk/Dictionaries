@@ -2353,7 +2353,8 @@
           "coordinates": [
             50.04211971579602,
             19.95119932591918
-          ]
+          ],
+          "radiusMeters": 20
         },
         {
           "coordinates": [

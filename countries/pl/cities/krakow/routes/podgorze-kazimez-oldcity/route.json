@@ -37,7 +37,7 @@
     "fr": "Ce grand itinéraire relie plusieurs quartiers de Cracovie en une longue promenade. Vous commencerez sur la place des Héros du ghetto à Podgórze, traverserez la Vistule pour rejoindre le Kazimierz juif avec ses rues, ses synagogues et ses traces de l’histoire de la guerre, puis gagnerez le Wawel avant de terminer dans la vieille ville. Cet itinéraire parle de la vie urbaine et de l’histoire stratifiée de Cracovie, qui a façonné son visage riche et moderne. "
   },
   "durationMinutes": 330,
-  "distanceKm": 7.54,
+  "distanceKm": 7.49,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -180,8 +180,8 @@
         },
         {
           "coordinates": [
-            50.04345678238874,
-            19.949751075179286
+            50.04369421211431,
+            19.949584599804204
           ]
         }
       ]
@@ -192,8 +192,8 @@
       "path": [
         {
           "coordinates": [
-            50.04345678238874,
-            19.949751075179286
+            50.04369421211431,
+            19.949584599804204
           ]
         },
         {

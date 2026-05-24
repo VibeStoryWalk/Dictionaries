@@ -2407,6 +2407,15 @@
         },
         {
           "coordinates": [
+            50.04230970778653,
+            19.951633205702123
+          ],
+          "type": "HiddenPointProposal",
+          "radiusMeters": 16,
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
             50.04232,
             19.951904
           ],

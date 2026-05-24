@@ -2453,15 +2453,15 @@
                 "type": "turn",
                 "radiusMeters": 15,
                 "text": {
-                  "pl": "",
-                  "ru": "",
+                  "pl": "Skręć w prawo w Aleję Edwarda Dembowskiego",
+                  "ru": "Поверните направо на Aleja Edwarda Dembowskiego",
                   "en": "Turn right onto Aleja Edwarda Dembowskiego",
-                  "de": "",
-                  "ua": "",
-                  "it": "",
-                  "hr": "",
-                  "es": "",
-                  "fr": ""
+                  "de": "Biegen Sie rechts auf die Aleja Edwarda Dembowskiego ab",
+                  "ua": "Поверніть праворуч на Aleja Edwarda Dembowskiego",
+                  "it": "Svolta a destra in Aleja Edwarda Dembowskiego",
+                  "hr": "Skrenite desno na Aleja Edwarda Dembowskiego",
+                  "es": "Gira a la derecha en Aleja Edwarda Dembowskiego",
+                  "fr": "Tournez à droite sur Aleja Edwarda Dembowskiego"
                 }
               },
               {

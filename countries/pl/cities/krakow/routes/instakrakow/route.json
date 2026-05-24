@@ -664,99 +664,264 @@
         },
         {
           "coordinates": [
-            50.04603029167958,
-            19.948071139646046
+            50.046562,
+            19.94763
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.046038,
+            19.948119
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.045975,
+            19.948132
           ],
           "type": "turn",
-          "radiusMeters": 20,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Przejdź przez ulicę i zejdź po schodach",
-            "ru": "Перейдите дорогу и спуститесь вниз по лестнице",
-            "en": "Cross the road and go down the stairs",
-            "de": "Überqueren Sie die Straße und gehen Sie die Treppe hinunter",
-            "ua": "Перейдіть дорогу та спустіться сходами",
-            "it": "Attraversa la strada e scendi le scale",
-            "hr": "Prijeđite cestu i siđite niz stepenice",
-            "es": "Cruce la calle y baje por las escaleras",
-            "fr": "Traversez la rue et descendez les escaliers"
+            "pl": "Trzymaj się prawej strony, a potem po 12 metrach trzymaj się lewej strony",
+            "ru": "Держитесь правее, а затем через 12 метров держитесь левее",
+            "en": "Keep right and then after 12 meters Keep left",
+            "de": "Halten Sie sich rechts und dann nach 12 Metern links",
+            "ua": "Тримайтеся праворуч, а потім через 12 метрів тримайтеся ліворуч",
+            "it": "Tieni la destra e poi dopo 12 metri tieni la sinistra",
+            "hr": "Držite se desno i zatim nakon 12 metara držite se lijevo",
+            "es": "Manténgase a la derecha y luego, después de 12 metros, manténgase a la izquierda",
+            "fr": "Restez à droite puis, après 12 mètres, restez à gauche"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.045351639822854,
-            19.948157081315703
+            50.045879,
+            19.948058
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.045732,
+            19.948047
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.045693,
+            19.948074
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.04519,
+            19.94804
           ],
           "type": "turn",
-          "radiusMeters": 20,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Idź prosto",
-            "ru": "Двигайтесь прямо",
-            "en": "Go straight",
-            "de": "Gehen Sie geradeaus",
-            "ua": "Йдіть прямо",
-            "it": "Proseguite dritto",
-            "hr": "Idite ravno",
-            "es": "Siga recto",
-            "fr": "Allez tout droit"
+            "pl": "Skręć w lewo",
+            "ru": "Сверните влево",
+            "en": "Turn left",
+            "de": "Biegen Sie links ab",
+            "ua": "Поверніть ліворуч",
+            "it": "Svolta a sinistra",
+            "hr": "Skrenite lijevo",
+            "es": "Gira a la izquierda",
+            "fr": "Tournez à gauche"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.04484868957059,
-            19.948564767837528
+            50.045169,
+            19.948101
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.045142,
+            19.948178
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.045133,
+            19.948204
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044847,
+            19.948478
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044747,
+            19.948565
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044722,
+            19.948584
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044685,
+            19.948611
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044658,
+            19.948539
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044638,
+            19.948488
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044596,
+            19.948441
           ],
           "type": "turn",
-          "radiusMeters": 22,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Skręć w prawo",
-            "ru": "Сверните направо",
-            "en": "Turn right",
-            "de": "Biegen Sie rechts ab",
-            "ua": "Поверніть праворуч",
-            "it": "Svolta a destra",
-            "hr": "Skrenite desno",
-            "es": "Gire a la derecha",
-            "fr": "Tournez à droite"
+            "pl": "Skręć w lewo",
+            "ru": "Сверните влево",
+            "en": "Turn left",
+            "de": "Biegen Sie links ab",
+            "ua": "Поверніть ліворуч",
+            "it": "Svolta a sinistra",
+            "hr": "Skrenite lijevo",
+            "es": "Gira a la izquierda",
+            "fr": "Tournez à gauche"
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.04448358702722,
-            19.948468374784785
+            50.044538,
+            19.948513
           ],
-          "type": "turn",
-          "radiusMeters": 23,
-          "text": {
-            "pl": "Przejdź przez ulicę i kieruj się na plac",
-            "ru": "Перейдите дорогу и направляйтесь к площади",
-            "en": "Cross the street and head to the square",
-            "de": "Überqueren Sie die Straße und gehen Sie zum Platz",
-            "ua": "Перейдіть дорогу та прямуйте до площі",
-            "it": "Attraversa la strada e dirigiti verso la piazza",
-            "hr": "Prijeđite ulicu i krenite prema trgu",
-            "es": "Cruza la calle y dirígete a la plaza",
-            "fr": "Traversez la rue et dirigez-vous vers la place"
-          },
-          "debug_entity": false
+          "type": "hidden",
+          "text": {}
         },
         {
           "coordinates": [
-            50.04433885586675,
-            19.94909050854973
+            50.044475,
+            19.948588
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044499,
+            19.948646
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.044274,
+            19.948905
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.04412468162621,
+            19.94907797276964
           ],
           "type": "portal",
-          "radiusMeters": 33,
+          "radiusMeters": 25,
           "debug_entity": false,
-          "targetVertexIndex": 6
+          "targetVertexIndex": 28
         },
         {
           "coordinates": [
-            50.04345678238874,
-            19.949751075179286
-          ]
+            50.044072,
+            19.949139
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.043921,
+            19.949313
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.043965,
+            19.949415
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.043765,
+            19.949553
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.043717,
+            19.949583
+          ],
+          "type": "hidden",
+          "text": {}
+        },
+        {
+          "coordinates": [
+            50.04369421211431,
+            19.949584599804204
+          ],
+          "radiusMeters": 60
         }
       ]
     }

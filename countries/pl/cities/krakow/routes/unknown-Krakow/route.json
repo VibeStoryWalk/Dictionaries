@@ -65,7 +65,8 @@
           "coordinates": [
             50.065278,
             19.929167
-          ]
+          ],
+          "radiusMeters": 90
         },
         {
           "coordinates": [
@@ -1960,40 +1961,35 @@
             50.043717,
             19.949583
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.043692,
             19.9495
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.043574,
             19.949455
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.043448,
             19.949308
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.043391,
             19.94919
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
@@ -2020,128 +2016,112 @@
             50.043033,
             19.948239
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042975,
             19.948249
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042951,
             19.948265
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042927,
             19.94828
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042902,
             19.948297
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042878,
             19.948312
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042864,
             19.948321
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042822,
             19.948348
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042812,
             19.948355
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042786,
             19.948371
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042748,
             19.948396
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042723,
             19.948412
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042699,
             19.948357
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042668,
             19.948287
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042633,
             19.948195
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042617,
             19.948203
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
@@ -2158,112 +2138,98 @@
             50.042568,
             19.948228
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042549,
             19.948237
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042489,
             19.948268
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042462,
             19.948281
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.0424,
             19.948314
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042322,
             19.948331
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042345,
             19.948525
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042305,
             19.948553
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042241,
             19.948651
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042222,
             19.948688
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042189,
             19.948737
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042151,
             19.948813
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042016,
             19.948686
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.042007,
             19.948668
           ],
-          "type": "hidden",
-          "text": {}
+          "type": "hidden"
         },
         {
           "coordinates": [

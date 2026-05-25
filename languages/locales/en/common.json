@@ -92,6 +92,12 @@
       "confirm": "Rate now",
       "dismiss": "Later"
     },
+    "hiddenPointProposal": {
+      "title": "There is a hidden point nearby",
+      "body": "There is a hidden point nearby. Would you like to add it to the route for watching an ad?",
+      "accept": "Watch ad",
+      "reject": "No, thanks"
+    },
     "simulationControls": {
       "play": "Play simulation",
       "stop": "Stop simulation"
@@ -232,6 +238,12 @@
       "title": "Interstitial advertisement",
       "description": "This is a simulated ad shown because real web ads are not configured for this build.",
       "close": "Close ad"
+    },
+    "rewarded": {
+      "badge": "Reward ad simulation",
+      "title": "Rewarded advertisement",
+      "description": "This is a simulated rewarded ad shown because native rewarded ads are unavailable in this build.",
+      "close": "Claim reward"
     }
   },
   "textScale": {

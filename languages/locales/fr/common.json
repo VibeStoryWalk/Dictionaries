@@ -92,6 +92,12 @@
       "confirm": "Évaluer maintenant",
       "dismiss": "Plus tard"
     },
+    "hiddenPointProposal": {
+      "title": "Il y a un point caché à proximité",
+      "body": "Il y a un point caché à proximité. Voulez-vous l'ajouter à l'itinéraire en regardant une publicité ?",
+      "accept": "Voir la publicité",
+      "reject": "Non merci"
+    },
     "simulationControls": {
       "play": "Lancer la simulation",
       "stop": "Arrêter la simulation"
@@ -232,6 +238,12 @@
       "title": "Publicité interstitielle",
       "description": "Ceci est une fenêtre publicitaire simulée, car les véritables blocs publicitaires web ne sont pas configurés pour cette build.",
       "close": "Fermer la publicité"
+    },
+    "rewarded": {
+      "badge": "Simulation de publicité avec récompense",
+      "title": "Publicité avec récompense",
+      "description": "Ceci est une publicité avec récompense simulée car les annonces rewarded natives ne sont pas disponibles dans cette build.",
+      "close": "Recevoir la récompense"
     }
   },
   "textScale": {

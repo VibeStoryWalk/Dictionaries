@@ -92,6 +92,12 @@
       "confirm": "Valuta ora",
       "dismiss": "Più tardi"
     },
+    "hiddenPointProposal": {
+      "title": "C'è un punto nascosto nelle vicinanze",
+      "body": "C'è un punto nascosto nelle vicinanze. Vuoi aggiungerlo al percorso guardando una pubblicità?",
+      "accept": "Guarda la pubblicità",
+      "reject": "No, grazie"
+    },
     "simulationControls": {
       "play": "Avvia simulazione",
       "stop": "Ferma simulazione"
@@ -232,6 +238,12 @@
       "title": "Pubblicità interstiziale",
       "description": "Questa è una pubblicità simulata perché gli annunci web reali non sono configurati per questa build.",
       "close": "Chiudi pubblicità"
+    },
+    "rewarded": {
+      "badge": "Simulazione pubblicità con ricompensa",
+      "title": "Pubblicità con ricompensa",
+      "description": "Questa è una pubblicità con ricompensa simulata perché in questa build non sono disponibili annunci rewarded nativi.",
+      "close": "Ottieni ricompensa"
     }
   },
   "textScale": {

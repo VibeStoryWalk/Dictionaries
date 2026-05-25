@@ -92,6 +92,12 @@
       "confirm": "Valorar ahora",
       "dismiss": "Más tarde"
     },
+    "hiddenPointProposal": {
+      "title": "Hay un punto oculto cerca",
+      "body": "Hay un punto oculto cerca. ¿Quieres añadirlo a la ruta por ver un anuncio?",
+      "accept": "Ver anuncio",
+      "reject": "No, gracias"
+    },
     "simulationControls": {
       "play": "Iniciar simulación",
       "stop": "Detener simulación"
@@ -232,6 +238,12 @@
       "title": "Publicidad intersticial",
       "description": "Esta es una ventana publicitaria simulada porque los bloques de anuncios web reales no están configurados para esta compilación.",
       "close": "Cerrar anuncio"
+    },
+    "rewarded": {
+      "badge": "Simulación de anuncio con recompensa",
+      "title": "Anuncio con recompensa",
+      "description": "Este es un anuncio con recompensa simulado porque en esta compilación no hay anuncios rewarded nativos disponibles.",
+      "close": "Recibir recompensa"
     }
   },
   "textScale": {

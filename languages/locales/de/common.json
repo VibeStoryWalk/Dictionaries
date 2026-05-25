@@ -92,6 +92,12 @@
       "confirm": "Jetzt bewerten",
       "dismiss": "Später"
     },
+    "hiddenPointProposal": {
+      "title": "In der Nähe gibt es einen versteckten Punkt",
+      "body": "In der Nähe gibt es einen versteckten Punkt. Möchtest du ihn durch das Ansehen einer Werbung zur Route hinzufügen?",
+      "accept": "Werbung ansehen",
+      "reject": "Nein, danke"
+    },
     "simulationControls": {
       "play": "Simulation starten",
       "stop": "Simulation stoppen"
@@ -232,6 +238,12 @@
       "title": "Interstitial-Werbung",
       "description": "Dies ist eine simulierte Werbung, weil für diesen Build keine echten Webanzeigen konfiguriert sind.",
       "close": "Werbung schließen"
+    },
+    "rewarded": {
+      "badge": "Reward-Werbesimulation",
+      "title": "Reward-Werbung",
+      "description": "Dies ist eine simulierte Reward-Werbung, weil in diesem Build keine nativen Reward-Anzeigen verfügbar sind.",
+      "close": "Belohnung erhalten"
     }
   },
   "textScale": {

@@ -94,6 +94,12 @@
       "confirm": "Oceń teraz",
       "dismiss": "Może później"
     },
+    "hiddenPointProposal": {
+      "title": "W pobliżu jest ukryty punkt",
+      "body": "W pobliżu jest ukryty punkt. Czy chcesz dodać go do trasy za obejrzenie reklamy?",
+      "accept": "Obejrzyj reklamę",
+      "reject": "Nie, dzięki"
+    },
     "simulationControls": {
       "play": "Wznów symulację",
       "stop": "Zatrzymaj symulację"
@@ -234,6 +240,12 @@
       "title": "Reklama pełnoekranowa",
       "description": "To jest symulowane okno reklamowe, ponieważ prawdziwe reklamy webowe nie są skonfigurowane dla tego buildu.",
       "close": "Zamknij reklamę"
+    },
+    "rewarded": {
+      "badge": "Symulacja reklamy z nagrodą",
+      "title": "Reklama z nagrodą",
+      "description": "To symulowana reklama z nagrodą, ponieważ w tym buildzie niedostępne są natywne reklamy rewarded.",
+      "close": "Odbierz nagrodę"
     }
   },
   "textScale": {

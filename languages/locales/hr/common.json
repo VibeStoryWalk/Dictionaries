@@ -94,6 +94,12 @@
       "confirm": "Ocijeni sada",
       "dismiss": "Kasnije"
     },
+    "hiddenPointProposal": {
+      "title": "U blizini je skrivena točka",
+      "body": "U blizini je skrivena točka. Želite li je dodati u rutu za gledanje oglasa?",
+      "accept": "Pogledaj oglas",
+      "reject": "Ne, hvala"
+    },
     "simulationControls": {
       "play": "Pokreni simulaciju",
       "stop": "Zaustavi simulaciju"
@@ -234,6 +240,12 @@
       "title": "Međustranični oglas",
       "description": "Ovo je simulirani oglasni prozor jer stvarni web-oglasni blokovi nisu postavljeni za ovu verziju.",
       "close": "Zatvori oglas"
+    },
+    "rewarded": {
+      "badge": "Simulacija nagradnog oglasa",
+      "title": "Nagradni oglas",
+      "description": "Ovo je simulirani nagradni oglas jer u ovom buildu nisu dostupni pravi native rewarded oglasi.",
+      "close": "Preuzmi nagradu"
     }
   },
   "textScale": {

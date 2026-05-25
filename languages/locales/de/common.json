@@ -148,6 +148,7 @@
       "language": "Sprache",
       "theme": "Design",
       "batterySaver": "Batteriesparen",
+      "vibration": "Vibration",
       "autoSpeech": "Automatische Sprachausgabe",
       "privacyPolicy": "Datenschutzerklärung",
       "ads": "Werbung",
@@ -166,6 +167,7 @@
       "languageSelect": "App-Sprache wählen",
       "themeToggle": "Design umschalten",
       "batterySaverToggle": "Batteriesparen umschalten",
+      "vibrationToggle": "Vibration umschalten",
       "autoSpeechToggle": "Automatische Sprachausgabe umschalten",
       "adsToggle": "Werbung umschalten",
       "simulationToggle": "Routensimulation umschalten",
@@ -187,6 +189,10 @@
       "on": "An",
       "off": "Aus",
       "warning": "Der Batteriesparmodus reduziert die GPS-Genauigkeit und die Kartenaktualisierungen, um Energie zu sparen. Die Routenführung kann ungenauer arbeiten."
+    },
+    "vibration": {
+      "on": "An",
+      "off": "Aus"
     },
     "ads": {
       "on": "An",

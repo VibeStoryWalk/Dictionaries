@@ -94,7 +94,8 @@
     },
     "hiddenPointProposal": {
       "title": "Hay un punto oculto cerca",
-      "body": "Hay un punto oculto cerca. ¿Quieres añadirlo a la ruta por ver un anuncio?",
+      "titleFromRouteMap": "Hay un punto oculto cerca de la ruta",
+      "body": "¿Quieres añadirlo a la ruta por ver un anuncio?",
       "accept": "Ver anuncio",
       "reject": "No, gracias"
     },

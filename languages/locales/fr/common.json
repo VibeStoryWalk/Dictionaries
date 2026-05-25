@@ -94,7 +94,8 @@
     },
     "hiddenPointProposal": {
       "title": "Il y a un point caché à proximité",
-      "body": "Il y a un point caché à proximité. Voulez-vous l'ajouter à l'itinéraire en regardant une publicité ?",
+      "titleFromRouteMap": "Il y a un point caché près de l'itinéraire",
+      "body": "Voulez-vous l'ajouter à l'itinéraire en regardant une publicité ?",
       "accept": "Voir la publicité",
       "reject": "Non merci"
     },

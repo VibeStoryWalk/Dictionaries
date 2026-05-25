@@ -96,7 +96,8 @@
     },
     "hiddenPointProposal": {
       "title": "U blizini je skrivena točka",
-      "body": "U blizini je skrivena točka. Želite li je dodati u rutu za gledanje oglasa?",
+      "titleFromRouteMap": "U blizini rute nalazi se skrivena točka",
+      "body": "Želite li je dodati u rutu za gledanje oglasa?",
       "accept": "Pogledaj oglas",
       "reject": "Ne, hvala"
     },

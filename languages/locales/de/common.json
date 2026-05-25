@@ -94,7 +94,8 @@
     },
     "hiddenPointProposal": {
       "title": "In der Nähe gibt es einen versteckten Punkt",
-      "body": "In der Nähe gibt es einen versteckten Punkt. Möchtest du ihn durch das Ansehen einer Werbung zur Route hinzufügen?",
+      "titleFromRouteMap": "In der Nähe der Route gibt es einen versteckten Punkt",
+      "body": "Möchtest du ihn durch das Ansehen einer Werbung zur Route hinzufügen?",
       "accept": "Werbung ansehen",
       "reject": "Nein, danke"
     },

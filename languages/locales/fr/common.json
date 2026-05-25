@@ -285,7 +285,8 @@
       "stepsMenuButton": "Voir tous les points de l’itinéraire.",
       "offlinePackageButton": "Mode hors ligne. Pratique si vous n’avez pas internet pendant le voyage.",
       "freeWalkButton": "Explorez librement sans suivre un itinéraire. Les lieux s’activent automatiquement quand vous vous approchez.",
-      "settingsButton": "Réglez ici la langue et d’autres préférences."
+      "settingsButton": "Réglez ici la langue et d’autres préférences.",
+      "hiddenPointButton": "Ouvrir le point secret de l’itinéraire."
     }
   }
 }

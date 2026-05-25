@@ -285,7 +285,8 @@
       "stepsMenuButton": "Vedi tutti i punti del percorso.",
       "offlinePackageButton": "Modalità offline. Utile se durante il viaggio non avrai internet.",
       "freeWalkButton": "Esplora liberamente senza seguire un percorso. I luoghi si attivano automaticamente quando ti avvicini.",
-      "settingsButton": "Qui puoi regolare la lingua e le altre impostazioni."
+      "settingsButton": "Qui puoi regolare la lingua e le altre impostazioni.",
+      "hiddenPointButton": "Apri il punto segreto del percorso."
     }
   }
 }

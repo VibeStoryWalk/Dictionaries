@@ -285,7 +285,8 @@
       "stepsMenuButton": "See all route points.",
       "offlinePackageButton": "Offline mode. Handy when you may not have internet while travelling.",
       "freeWalkButton": "Explore freely without following a route. Places activate automatically when you get close.",
-      "settingsButton": "Adjust language and other settings here."
+      "settingsButton": "Adjust language and other settings here.",
+      "hiddenPointButton": "Unlock the secret route point."
     }
   }
 }

@@ -287,7 +287,8 @@
       "stepsMenuButton": "Zobacz wszystkie punkty trasy.",
       "offlinePackageButton": "Tryb offline. Przyda się, jeśli w podróży zabraknie internetu.",
       "freeWalkButton": "Swobodny spacer bez trzymania się trasy. Miejsca aktywują się automatycznie, gdy podejdziesz bliżej.",
-      "settingsButton": "Tutaj ustawisz język i inne preferencje."
+      "settingsButton": "Tutaj ustawisz język i inne preferencje.",
+      "hiddenPointButton": "Otwórz sekretny punkt trasy."
     }
   }
 }

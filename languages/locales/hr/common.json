@@ -287,7 +287,8 @@
       "stepsMenuButton": "Pogledaj sve točke rute.",
       "offlinePackageButton": "Offline način rada. Korisno ako na putovanju neće biti interneta.",
       "freeWalkButton": "Slobodno istražuj bez praćenja rute. Mjesta se aktiviraju automatski kada im se približiš.",
-      "settingsButton": "Ovdje možeš prilagoditi jezik i druge postavke."
+      "settingsButton": "Ovdje možeš prilagoditi jezik i druge postavke.",
+      "hiddenPointButton": "Otvori tajnu točku rute."
     }
   }
 }

@@ -285,7 +285,8 @@
       "stepsMenuButton": "Ver todos los puntos de la ruta.",
       "offlinePackageButton": "Modo sin conexión. Útil si durante el viaje no tendrás internet.",
       "freeWalkButton": "Explora libremente sin seguir una ruta. Los lugares se activan automáticamente cuando te acercas.",
-      "settingsButton": "Aquí puedes ajustar el idioma y otras preferencias."
+      "settingsButton": "Aquí puedes ajustar el idioma y otras preferencias.",
+      "hiddenPointButton": "Abrir el punto secreto de la ruta."
     }
   }
 }

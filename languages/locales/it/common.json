@@ -2,6 +2,12 @@
   "app": {
     "brand": "StoryWalk"
   },
+  "appUpdate": {
+    "forced": {
+      "message": "Per continuare a funzionare correttamente, aggiorna l'app all'ultima versione",
+      "updateAction": "Aggiorna"
+    }
+  },
   "common": {
     "actions": {
       "open": "Apri"

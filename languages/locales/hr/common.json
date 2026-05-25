@@ -2,6 +2,12 @@
   "app": {
     "brand": "StoryWalk"
   },
+  "appUpdate": {
+    "forced": {
+      "message": "Za ispravan nastavak rada potrebno je ažurirati aplikaciju na najnoviju verziju",
+      "updateAction": "Ažuriraj"
+    }
+  },
   "common": {
     "actions": {
       "open": "Otvori"

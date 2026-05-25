@@ -2,6 +2,12 @@
   "app": {
     "brand": "StoryWalk"
   },
+  "appUpdate": {
+    "forced": {
+      "message": "Для продолжения корректной работы требуется обновить приложение до последней версии",
+      "updateAction": "Обновить"
+    }
+  },
   "common": {
     "actions": {
       "open": "Открыть"

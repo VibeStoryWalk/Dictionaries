@@ -37,7 +37,7 @@
     "fr": "Une promenade dans les lieux de Cracovie qui intéressent avant tout les enfants, mais qui n’ennuieront pas non plus leurs parents. Nous vous recommandons d’emporter des trottinettes ainsi que quelques bouteilles d’eau. Après la balade, les enfants seront sûrement fatigués et affamés, et les parents - heureux et satisfaits."
   },
   "durationMinutes": 200,
-  "distanceKm": 3.94,
+  "distanceKm": 4.43,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -59,139 +59,982 @@
   "segments": [
     {
       "fromPointId": "park-bednarskiego",
-      "toPointId": "bernatka-bridge",
+      "toPointId": "smok-turysta",
       "path": [
         {
           "coordinates": [
             50.04193339328546,
             19.94875901148853
+          ],
+          "radiusMeters": 91
+        },
+        {
+          "coordinates": [
+            50.042016,
+            19.948686
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042151,
+            19.948813
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.04183,
+            19.949616
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.041637,
+            19.950143
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "Turn left",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.041924,
+            19.950713
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042019,
+            19.950898
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042062167944714,
+            19.95097877961932
+          ],
+          "type": "portal",
+          "radiusMeters": 15,
+          "debug_entity": false,
+          "targetVertexIndex": 11
+        },
+        {
+          "coordinates": [
+            50.04212,
+            19.951087
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042178,
+            19.951163
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042171,
+            19.951217
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.04211971579602,
+            19.95119932591918
+          ],
+          "radiusMeters": 17
+        }
+      ]
+    },
+    {
+      "fromPointId": "smok-turysta",
+      "toPointId": "colored-stairs",
+      "path": [
+        {
+          "coordinates": [
+            50.04211971579602,
+            19.95119932591918
+          ],
+          "radiusMeters": 16
+        },
+        {
+          "coordinates": [
+            50.042178,
+            19.951163
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042196,
+            19.951177
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042259,
+            19.951227
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042296,
+            19.951254
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.04241649389595,
+            19.951139720861327
+          ],
+          "type": "HiddenPointProposal",
+          "radiusMeters": 23,
+          "debug_entity": false,
+          "hiddenPointDenyRoute": {
+            "toPointId": "bernatka-bridge",
+            "path": [
+              {
+                "coordinates": [
+                  50.042401,
+                  19.951126
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.042426,
+                  19.951061
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.042518,
+                  19.950918
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.042668,
+                  19.950808
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043077,
+                  19.950599
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043106,
+                  19.950642
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn slight left and then after 7 meters Turn left",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.043131,
+                  19.950644
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043168,
+                  19.950648
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043192,
+                  19.950567
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043338,
+                  19.95053
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043323,
+                  19.950441
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043396,
+                  19.950416
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043495,
+                  19.950388
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn slight left onto Rękawka",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.043553,
+                  19.950266
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043696,
+                  19.949824
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043742,
+                  19.949666
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn left onto Rynek Podgórski and then after 7 meters Turn right and then after 12 meters Continue straight",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.043717,
+                  19.949583
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043765,
+                  19.949553
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043965,
+                  19.949415
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.043921,
+                  19.949313
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044072,
+                  19.949139
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044274,
+                  19.948905
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044499,
+                  19.948646
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn left and then after 5 meters Turn right",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.044475,
+                  19.948588
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044538,
+                  19.948513
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044596,
+                  19.948441
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044638,
+                  19.948488
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044658,
+                  19.948539
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044685,
+                  19.948611
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044722,
+                  19.948584
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044747,
+                  19.948565
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.044847,
+                  19.948478
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.045133,
+                  19.948204
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Keep left and then after 13 meters Turn right",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.045142,
+                  19.948178
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.045169,
+                  19.948101
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.04519,
+                  19.94804
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.045693,
+                  19.948074
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.045732,
+                  19.948047
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.045879,
+                  19.948058
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.045975,
+                  19.948132
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.0460371290087,
+                  19.948119179728362
+                ],
+                "type": "portal",
+                "radiusMeters": 15,
+                "targetParentVertexIndex": 0
+              },
+              {
+                "coordinates": [
+                  50.046038,
+                  19.948119
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.046562,
+                  19.94763
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.0466,
+                  19.947587
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.04657107421791,
+                  19.947524366928462
+                ],
+                "radiusMeters": 73
+              }
+            ]
+          }
+        },
+        {
+          "coordinates": [
+            50.042341,
+            19.951286
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042323,
+            19.9514
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042323,
+            19.951563
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.04232,
+            19.951904
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042317,
+            19.952286
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "Turn left onto Tatrzańska",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.04264,
+            19.952259
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042802035395,
+            19.952224008386978
+          ],
+          "radiusMeters": 23
+        }
+      ]
+    },
+    {
+      "fromPointId": "colored-stairs",
+      "toPointId": "bernatka-bridge",
+      "path": [
+        {
+          "coordinates": [
+            50.042802035395,
+            19.952224008386978
           ]
         },
         {
           "coordinates": [
-            50.042416516056576,
-            19.948360933825057
+            50.042913,
+            19.95222
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.042973,
+            19.952222
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043029,
+            19.951984
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043106,
+            19.950642
           ],
           "type": "turn",
-          "radiusMeters": 31,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Schodźcie po schodach",
-            "ru": "Спускайтесь вниз по ступенькам",
-            "en": "Go down the steps",
-            "de": "Gehen Sie die Stufen hinunter",
-            "ua": "Спускайтеся вниз сходами",
-            "it": "Scendete i gradini",
-            "hr": "Siđite niz stepenice",
-            "es": "Baje por las escaleras",
-            "fr": "Descendez les marches"
+            "pl": "",
+            "ru": "",
+            "en": "Turn right and then after 7 meters Turn left",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.043013492301135,
-            19.948286564358355
+            50.043131,
+            19.950644
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043168,
+            19.950648
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043192,
+            19.950567
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043338,
+            19.95053
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043323,
+            19.950441
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043396,
+            19.950416
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043495,
+            19.950388
           ],
           "type": "turn",
-          "radiusMeters": 25,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Przejdź przez ulicę i idź prosto",
-            "ru": "Перейдите дорогу и двигайтесь прямо",
-            "en": "Cross the road and continue straight ahead",
-            "de": "Überqueren Sie die Straße und gehen Sie geradeaus",
-            "ua": "Перейдіть дорогу і йдіть прямо",
-            "it": "Attraversa la strada e continua dritto",
-            "hr": "Prijeđite cestu i nastavite ravno",
-            "es": "Cruza la calle y sigue recto",
-            "fr": "Traversez la rue et continuez tout droit"
+            "pl": "",
+            "ru": "",
+            "en": "Turn slight left onto Rękawka",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.04383586211868,
-            19.947336316108707
+            50.043553,
+            19.950266
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043696,
+            19.949824
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043742,
+            19.949666
           ],
           "type": "turn",
-          "radiusMeters": 23,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Skręć w prawo i przejdź przez ulicę",
-            "ru": "Поверните направо и перейдите дорогу",
-            "en": "Turn right and cross the road",
-            "de": "Biegen Sie rechts ab und überqueren Sie die Straße",
-            "ua": "Поверніть праворуч і перейдіть дорогу",
-            "it": "Svolta a destra e attraversa la strada",
-            "hr": "Skrenite desno i prijeđite cestu",
-            "es": "Gire a la derecha y cruce la calle",
-            "fr": "Tournez à droite et traversez la rue"
+            "pl": "",
+            "ru": "",
+            "en": "Turn left onto Rynek Podgórski and then after 7 meters Turn right and then after 12 meters Continue straight",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.0446075533217,
-            19.94847892790061
+            50.043717,
+            19.949583
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043765,
+            19.949553
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043965,
+            19.949415
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.043921,
+            19.949313
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044072,
+            19.949139
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044274,
+            19.948905
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044499,
+            19.948646
           ],
           "type": "turn",
-          "radiusMeters": 17,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Przejdź przez ulicę i idź w lewo",
-            "ru": "Перейдите дорогу и идите влево",
-            "en": "Cross the road and go left",
-            "de": "Überqueren Sie die Straße und gehen Sie nach links",
-            "ua": "Перейдіть дорогу і йдіть ліворуч",
-            "it": "Attraversa la strada e vai a sinistra",
-            "hr": "Prijeđite cestu i idite lijevo",
-            "es": "Cruce la calle y vaya a la izquierda",
-            "fr": "Traversez la rue et allez à gauche"
+            "pl": "",
+            "ru": "",
+            "en": "Turn left and then after 5 meters Turn right",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.04501411254626,
-            19.94823216929546
+            50.044475,
+            19.948588
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044538,
+            19.948513
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044596,
+            19.948441
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044638,
+            19.948488
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044658,
+            19.948539
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044685,
+            19.948611
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044722,
+            19.948584
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044747,
+            19.948565
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.044847,
+            19.948478
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.045133,
+            19.948204
           ],
           "type": "turn",
-          "radiusMeters": 23,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Trzymajcie się prawej strony",
-            "ru": "Держитесь правее",
-            "en": "Keep right",
-            "de": "Halten Sie sich rechts",
-            "ua": "Тримайтеся праворуч",
-            "it": "Tenetevi a destra",
-            "hr": "Držite se desno",
-            "es": "Manténgase a la derecha",
-            "fr": "Restez à droite"
+            "pl": "",
+            "ru": "",
+            "en": "Keep left and then after 13 meters Turn right",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
         {
           "coordinates": [
-            50.0457374849407,
-            19.948210725496
+            50.045142,
+            19.948178
           ],
-          "type": "turn",
-          "radiusMeters": 27,
-          "text": {
-            "pl": "Wejdź po schodach, przejdź przez ulicę i wejdź na most.",
-            "ru": "Поднимитесь по лестнице, перейдите дорогу и выходите на мост",
-            "en": "Go up the stairs, cross the road and get onto the bridge.",
-            "de": "Gehen Sie die Treppe hinauf, überqueren Sie die Straße und betreten Sie die Brücke.",
-            "ua": "Підніміться сходами, перейдіть дорогу і виходьте на міст.",
-            "it": "Sali le scale, attraversa la strada e vai sul ponte.",
-            "hr": "Popnite se stubama, prijeđite cestu i izađite na most.",
-            "es": "Sube las escaleras, cruza la calle y entra al puente.",
-            "fr": "Montez les escaliers, traversez la route et accédez au pont."
-          },
-          "debug_entity": false
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.045169,
+            19.948101
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.04519,
+            19.94804
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.045693,
+            19.948074
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.045732,
+            19.948047
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.045879,
+            19.948058
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.045975,
+            19.948132
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.0460371290087,
+            19.948119179728362
+          ],
+          "type": "portal",
+          "radiusMeters": 15,
+          "debug_entity": false,
+          "targetVertexIndex": 43
+        },
+        {
+          "coordinates": [
+            50.046038,
+            19.948119
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.046562,
+            19.94763
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.0466,
+            19.947587
+          ],
+          "type": "hidden"
         },
         {
           "coordinates": [
             50.04657107421791,
             19.947524366928462
-          ]
+          ],
+          "radiusMeters": 73
         }
       ]
     },
@@ -253,17 +1096,6 @@
           ],
           "type": "turn",
           "radiusMeters": 22,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -273,17 +1105,6 @@
           ],
           "type": "turn",
           "radiusMeters": 21,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -293,17 +1114,6 @@
           ],
           "type": "turn",
           "radiusMeters": 20,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -313,17 +1123,6 @@
           ],
           "type": "turn",
           "radiusMeters": 21,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false
         },
         {
@@ -373,17 +1172,6 @@
           ],
           "type": "portal",
           "radiusMeters": 16,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false,
           "targetVertexIndex": 10
         },
@@ -694,17 +1482,6 @@
           ],
           "type": "portal",
           "radiusMeters": 34,
-          "text": {
-            "pl": "",
-            "ru": "",
-            "en": "",
-            "de": "",
-            "ua": "",
-            "it": "",
-            "hr": "",
-            "es": "",
-            "fr": ""
-          },
           "debug_entity": false,
           "targetVertexIndex": 2
         },
@@ -720,6 +1497,8 @@
   ],
   "pointIds": [
     "park-bednarskiego",
+    "smok-turysta",
+    "colored-stairs",
     "bernatka-bridge",
     "wawel-dragon",
     "planty",

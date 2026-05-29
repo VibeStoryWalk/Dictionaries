@@ -495,6 +495,329 @@
         },
         {
           "coordinates": [
+            50.05242359216509,
+            19.948060503294283
+          ],
+          "type": "HiddenPointProposal",
+          "radiusMeters": 18,
+          "debug_entity": false,
+          "hiddenPointDenyRoute": {
+            "toPointId": "plac-nowy",
+            "path": [
+              {
+                "coordinates": [
+                  50.052425,
+                  19.948069
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.052483,
+                  19.948045
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.052456,
+                  19.947918
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.052392,
+                  19.947644
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.05236,
+                  19.947531
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.052293,
+                  19.947499
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.052268,
+                  19.947494
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.052028,
+                  19.947558
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051846,
+                  19.947608
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.05184,
+                  19.947609
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn right onto Ciemna",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.051711,
+                  19.94695
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.05164,
+                  19.946975
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051635,
+                  19.946937
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051629,
+                  19.946896
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051594,
+                  19.946906
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051578,
+                  19.946912
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn right onto Izaaka",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.051493,
+                  19.946289
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051514,
+                  19.946274
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051526,
+                  19.946269
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051513,
+                  19.946188
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.0515,
+                  19.94611
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn left and then after 5 meters Turn right",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.051456,
+                  19.946101
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051368,
+                  19.945681
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051392,
+                  19.945642
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051519,
+                  19.945566
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn left and then after 9 meters Turn right and then after 14 meters Turn slight left",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.051506,
+                  19.945512
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051489,
+                  19.945442
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051527,
+                  19.945419
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051619,
+                  19.945156
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051566,
+                  19.945091
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.05154,
+                  19.945019
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051531,
+                  19.944938
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051564,
+                  19.944783
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051635,
+                  19.944703
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.05164306585574,
+                  19.94473336557458
+                ],
+                "type": "portal",
+                "radiusMeters": 45,
+                "targetParentVertexIndex": 0
+              },
+              {
+                "coordinates": [
+                  50.051652,
+                  19.944767
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.051693193946505,
+                  19.944928411962472
+                ],
+                "radiusMeters": 15
+              }
+            ]
+          }
+        },
+        {
+          "coordinates": [
             50.05275395226086,
             19.947648180975598
           ],

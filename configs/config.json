@@ -20,7 +20,7 @@
     "textScale": 1,
     "simulationEnabled": false,
     "simulationSpeedKmh": 120,
-    "adsEnabled": true,
+    "adsEnabled": false,
     "adsFrequency": 1,
     "autoSpeechEnabled": true,
     "ttsRate": 1,

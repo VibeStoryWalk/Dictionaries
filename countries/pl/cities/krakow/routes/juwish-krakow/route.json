@@ -1782,7 +1782,8 @@
           "coordinates": [
             50.05249209083023,
             19.9457114899867
-          ]
+          ],
+          "radiusMeters": 18
         },
         {
           "coordinates": [
@@ -1818,7 +1819,7 @@
             19.945675
           ],
           "type": "turn",
-          "radiusMeters": 15,
+          "radiusMeters": 19,
           "text": {
             "pl": "",
             "ru": "",

@@ -1478,7 +1478,8 @@
           "coordinates": [
             50.065278,
             19.929167
-          ]
+          ],
+          "radiusMeters": 33
         },
         {
           "coordinates": [
@@ -1607,7 +1608,7 @@
             50.065508,
             19.930488
           ],
-          "radiusMeters": 50
+          "radiusMeters": 34
         }
       ]
     },
@@ -1619,7 +1620,8 @@
           "coordinates": [
             50.065508,
             19.930488
-          ]
+          ],
+          "radiusMeters": 38
         },
         {
           "coordinates": [

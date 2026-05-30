@@ -65,13 +65,15 @@
           "coordinates": [
             50.06545510611199,
             19.94161845415
-          ]
+          ],
+          "radiusMeters": 33
         },
         {
           "coordinates": [
             50.06485560579773,
             19.941347539104083
-          ]
+          ],
+          "radiusMeters": 27
         }
       ]
     },
@@ -588,10 +590,10 @@
         },
         {
           "coordinates": [
-            50.06212555436238,
-            19.937862716874374
+            50.06213587371803,
+            19.937717977008205
           ],
-          "type": "turn",
+          "type": "portal",
           "radiusMeters": 20,
           "text": {
             "pl": "Wejdźcie do budynku od lewej strony",
@@ -604,7 +606,8 @@
             "es": "Entren al edificio por el lado izquierdo",
             "fr": "Entrez dans le bâtiment par le côté gauche"
           },
-          "debug_entity": false
+          "debug_entity": false,
+          "targetVertexIndex": 2
         },
         {
           "coordinates": [

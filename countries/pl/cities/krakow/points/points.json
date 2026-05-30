@@ -2077,7 +2077,53 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/new-jewish-graveyard.jpg",
-    "imageHash": "8730a31713824492c93f29ccdbfbc3ba539102bad31636d39fcae90835480922",
+    "imageHash": "e7eeb17ebd58017909af6f0a0c29da8d2222572897ba4b58b136e9fb0632db9c",
+    "debug_entity": false
+  },
+  {
+    "id": "teatr-slowackiego",
+    "order": 49,
+    "title": {
+      "pl": "",
+      "ru": "Театр Словацкого",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      50.06410128090341,
+      19.942804646579635
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
     "debug_entity": false
   }
 ]

@@ -65,7 +65,8 @@
           "coordinates": [
             50.0446639,
             19.95755
-          ]
+          ],
+          "radiusMeters": 31
         },
         {
           "coordinates": [
@@ -760,7 +761,8 @@
           "coordinates": [
             50.05024279173052,
             19.948050370199685
-          ]
+          ],
+          "radiusMeters": 24
         },
         {
           "coordinates": [
@@ -817,7 +819,8 @@
           "coordinates": [
             50.05125554188875,
             19.947428094684206
-          ]
+          ],
+          "radiusMeters": 20
         },
         {
           "coordinates": [
@@ -895,7 +898,8 @@
           "coordinates": [
             50.05123493018633,
             19.948597637606795
-          ]
+          ],
+          "radiusMeters": 25
         },
         {
           "coordinates": [
@@ -987,7 +991,8 @@
           "coordinates": [
             50.05212698143592,
             19.94828103412696
-          ]
+          ],
+          "radiusMeters": 26
         },
         {
           "coordinates": [
@@ -1625,7 +1630,8 @@
           "coordinates": [
             50.05275395226086,
             19.947648180975598
-          ]
+          ],
+          "radiusMeters": 25
         },
         {
           "coordinates": [
@@ -1916,7 +1922,8 @@
           "coordinates": [
             50.051672264915,
             19.94626409459581
-          ]
+          ],
+          "radiusMeters": 24
         },
         {
           "coordinates": [

@@ -36,7 +36,11 @@
       "ru": "",
       "en": "",
       "pl": ""
-    }
+    },
+    "categories": [
+      "PublicSpace",
+      "History"
+    ]
   },
   {
     "id": "bernatka-bridge",
@@ -76,7 +80,12 @@
       "en": "You are approaching the Father Bernatek Footbridge.",
       "pl": "Zbliżasz się do kładki Ojca Bernatka."
     },
-    "radius": 73
+    "radius": 73,
+    "categories": [
+      "Architecture",
+      "PublicSpace",
+      "InterestingForChildren"
+    ]
   },
   {
     "id": "judah-mural",
@@ -116,7 +125,11 @@
       "en": "",
       "pl": ""
     },
-    "radius": 25
+    "radius": 25,
+    "categories": [
+      "Mural",
+      "History"
+    ]
   },
   {
     "id": "plac-nowy",
@@ -156,7 +169,11 @@
       "en": "",
       "pl": ""
     },
-    "radius": 43
+    "radius": 43,
+    "categories": [
+      "PublicSpace",
+      "Entertainment"
+    ]
   },
   {
     "id": "szeroka-street",
@@ -196,7 +213,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 43
+    "radius": 43,
+    "categories": [
+      "History",
+      "Religion",
+      "Legends"
+    ]
   },
   {
     "id": "remuh-synagogue",
@@ -236,7 +258,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 23
+    "radius": 23,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "wawel-dragon",
@@ -276,7 +303,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 18
+    "radius": 18,
+    "categories": [
+      "Sculpture",
+      "Legends",
+      "InterestingForChildren"
+    ]
   },
   {
     "id": "wawel-hill",
@@ -316,7 +348,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 60
+    "radius": 60,
+    "categories": [
+      "Architecture",
+      "History",
+      "ViewPoint"
+    ]
   },
   {
     "id": "st-peter-paul",
@@ -356,7 +393,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 40
+    "radius": 40,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "jagiellonian-university",
@@ -396,7 +438,11 @@
       "en": "",
       "pl": ""
     },
-    "radius": 42
+    "radius": 42,
+    "categories": [
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "collegium-maius",
@@ -436,7 +482,11 @@
       "en": "",
       "pl": ""
     },
-    "radius": 31
+    "radius": 31,
+    "categories": [
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "planty",
@@ -476,7 +526,10 @@
       "en": "",
       "pl": ""
     },
-    "radius": 45
+    "radius": 45,
+    "categories": [
+      "PublicSpace"
+    ]
   },
   {
     "id": "barbican",
@@ -516,7 +569,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 36
+    "radius": 36,
+    "categories": [
+      "Architecture",
+      "History",
+      "Legends"
+    ]
   },
   {
     "id": "florian-gate",
@@ -556,7 +614,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 30
+    "radius": 30,
+    "categories": [
+      "Architecture",
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "st-marys-basilica",
@@ -596,7 +659,13 @@
       "en": "",
       "pl": ""
     },
-    "radius": 40
+    "radius": 40,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History",
+      "Legends"
+    ]
   },
   {
     "id": "cloth-hall",
@@ -636,7 +705,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 54
+    "radius": 54,
+    "categories": [
+      "Architecture",
+      "History",
+      "PublicSpace"
+    ]
   },
   {
     "id": "town-hall-tower",
@@ -676,7 +750,12 @@
       "en": "",
       "pl": ""
     },
-    "radius": 25
+    "radius": 25,
+    "categories": [
+      "Architecture",
+      "History",
+      "ViewPoint"
+    ]
   },
   {
     "id": "eros-bound",
@@ -716,7 +795,11 @@
       "en": "",
       "pl": ""
     },
-    "radius": 21
+    "radius": 21,
+    "categories": [
+      "Sculpture",
+      "InterestingForChildren"
+    ]
   },
   {
     "id": "main-square",
@@ -756,7 +839,11 @@
       "en": "",
       "pl": ""
     },
-    "radius": 100
+    "radius": 100,
+    "categories": [
+      "PublicSpace",
+      "History"
+    ]
   },
   {
     "id": "mikolaj-kopernik-sculpture",
@@ -796,7 +883,12 @@
     "image": "krakow/points/points_images/mikolaj-kopernik-sculpture.jpg",
     "imageHash": "8b745e210240870e2c42a5ed871192b0ede53f9e195a5fd435388b70d5af7a1f",
     "debug_entity": false,
-    "radius": 23
+    "radius": 23,
+    "categories": [
+      "Sculpture",
+      "Person",
+      "History"
+    ]
   },
   {
     "id": "jst-Joseph-church",
@@ -836,7 +928,11 @@
     "image": "krakow/points/points_images/jst-joseph-church.jpg",
     "imageHash": "a10122233742cec238da8956f2227231e05557672e35406c3a68f9964634dc89",
     "debug_entity": false,
-    "radius": 60
+    "radius": 60,
+    "categories": [
+      "Religion",
+      "Architecture"
+    ]
   },
   {
     "id": "schindler-list-passage",
@@ -882,7 +978,10 @@
     "image": "krakow/points/points_images/schindler-list-passage.jpg",
     "imageHash": "96fd73a8fbc3c5f89a343fd60f0065d06a44ca9bb0873ff413a60f262f287087",
     "debug_entity": false,
-    "radius": 30
+    "radius": 30,
+    "categories": [
+      "History"
+    ]
   },
   {
     "id": "dom-bosak",
@@ -928,7 +1027,11 @@
     "image": "krakow/points/points_images/dom-bosak.jpg",
     "imageHash": "f014c361ebc20d4999df5434638778bda07b8a0cc72bc7399f376d24ec54bbd0",
     "debug_entity": false,
-    "radius": 20
+    "radius": 20,
+    "categories": [
+      "History",
+      "Mural"
+    ]
   },
   {
     "id": "big-mikwa",
@@ -974,7 +1077,11 @@
     "image": "krakow/points/points_images/point-31.jpg",
     "imageHash": "49f439ea0b372676128335f849867f372314ae006b5f6f647ffd817d48b2beca",
     "debug_entity": false,
-    "radius": 21
+    "radius": 21,
+    "categories": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "sinagogue-isaaek",
@@ -1020,7 +1127,12 @@
     "image": "krakow/points/points_images/point-32.jpg",
     "imageHash": "3977603418be0161e82b931d9d29fca6a65495f4f3965e4f5d2027ed3694942b",
     "debug_entity": false,
-    "radius": 20
+    "radius": 20,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "sinagogue-kupa",
@@ -1066,7 +1178,12 @@
     "image": "krakow/points/points_images/point-33.jpg",
     "imageHash": "6335b46a41b75bd0f6fe314d54b23b2c368d65e182811d523db4deafa75fca8d",
     "debug_entity": false,
-    "radius": 20
+    "radius": 20,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "sinagogue-tempel",
@@ -1112,7 +1229,12 @@
     "image": "krakow/points/points_images/point-34.jpg",
     "imageHash": "ba90c93231f66f3665ba5e9eb56e28d74f0c249a37349d01891c25e674b1459b",
     "debug_entity": false,
-    "radius": 27
+    "radius": 27,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "sinagogue-high",
@@ -1158,7 +1280,12 @@
     "image": "krakow/points/points_images/point-35.jpg",
     "imageHash": "1af01b298a0f6210274ed02514a25586ae070c959637ac41a4bd1a68e005b302",
     "debug_entity": false,
-    "radius": 15
+    "radius": 15,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "getto-wall",
@@ -1204,7 +1331,10 @@
     "image": "krakow/points/points_images/point-36.jpg",
     "imageHash": "9c786e7fbe4d0d6bca8c6ba6c8b47b5c38dd35592deaa7a5311ee9555e4c1941",
     "debug_entity": false,
-    "radius": 20
+    "radius": 20,
+    "categories": [
+      "History"
+    ]
   },
   {
     "id": "park-bednarskiego",
@@ -1250,7 +1380,13 @@
     "image": "krakow/points/points_images/point-37.jpg",
     "imageHash": "96190734ea279b986f22d05dd56b6b29f50d5b5acc026e8a598e12f5c1c425f1",
     "debug_entity": false,
-    "radius": 81
+    "radius": 81,
+    "categories": [
+      "PublicSpace",
+      "Legends",
+      "ViewPoint",
+      "InterestingForChildren"
+    ]
   },
   {
     "id": "horses",
@@ -1296,7 +1432,11 @@
     "image": "krakow/points/points_images/horses.jpg",
     "imageHash": "39672338076bba5ed63ea971979adb12daaa2a646f1da5ff16ede8a88041f13e",
     "debug_entity": false,
-    "radius": 20
+    "radius": 20,
+    "categories": [
+      "Entertainment",
+      "InterestingForChildren"
+    ]
   },
   {
     "id": "park-wislawa-szymborska",
@@ -1342,7 +1482,11 @@
     "radius": 90,
     "image": "krakow/points/points_images/park-wislawa-szymborska.jpg",
     "imageHash": "bbad0e920b2d7935162418b018cd46fe894565f36d28d53fa6d7c87cf8af6b20",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "PublicSpace",
+      "Person"
+    ]
   },
   {
     "id": "mural-nic-dwa-razy",
@@ -1388,7 +1532,11 @@
     "radius": 50,
     "image": "krakow/points/points_images/mural-nic-dwa-razy.jpg",
     "imageHash": "039dd7542d3249d9efe9dce80c49580a46b98b581307526e76a3918eeb7897c6",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Mural",
+      "Person"
+    ]
   },
   {
     "id": "monument-jan-matejko",
@@ -1434,7 +1582,12 @@
     "radius": 50,
     "image": "krakow/points/points_images/point-jan-matejko.jpg",
     "imageHash": "6aecf6394c7d649efcb9d4beda89dfa8ebdc9b539b6fc5da93cc0e50ddf2b865",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Sculpture",
+      "Person",
+      "History"
+    ]
   },
   {
     "id": "memorial-adam-mickevich",
@@ -1480,7 +1633,12 @@
     "radius": 50,
     "image": "krakow/points/points_images/memorial-adam-mickevich.jpg",
     "imageHash": "5df49665c933c751379047b1163f3796ba6395c207d2429c98fe2458d05fa0c0",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Sculpture",
+      "Person",
+      "History"
+    ]
   },
   {
     "id": "pope-window",
@@ -1526,7 +1684,13 @@
     "radius": 50,
     "image": "krakow/points/points_images/pope-window.jpg",
     "imageHash": "36780132dbb5421ca08d7d218c6cf53efe61f4abd1fc658c2f6d77071ce94826",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History",
+      "Person"
+    ]
   },
   {
     "id": "monument-stan-wysp",
@@ -1572,7 +1736,11 @@
     "radius": 45,
     "image": "krakow/points/points_images/monument-stan-wysp.jpg",
     "imageHash": "50697da0a33151a0b5e9053a9c9d8cfcce92bb3e8d3bc49719c40d45d8f0a0f0",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Sculpture",
+      "Person"
+    ]
   },
   {
     "id": "monument-tad-kost",
@@ -1618,7 +1786,12 @@
     "radius": 20,
     "image": "krakow/points/points_images/monument-tad-kost.jpg",
     "imageHash": "c7980e478074cb2779e4e556f9bbff38ee9fe0d595e740f0b88a788edbc17e1b",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Sculpture",
+      "Person",
+      "History"
+    ]
   },
   {
     "id": "collegium-iuridicum",
@@ -1664,7 +1837,11 @@
     "radius": 50,
     "image": "krakow/points/points_images/collegium-iuridicum.jpg",
     "imageHash": "1618064fddf1dc476a07d5e5487a5faea88f4398939b9793ae8527b2e56ba70e",
-    "debug_entity": true
+    "debug_entity": true,
+    "categories": [
+      "Architecture",
+      "History"
+    ]
   },
   {
     "id": "skalka",
@@ -1710,7 +1887,13 @@
     "radius": 50,
     "image": "krakow/points/points_images/skalka.jpg",
     "imageHash": "f0f6494ad2bd706511db633f8568b1bfa5cdeef03bb8116e011e887eeda8d08f",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Religion",
+      "Architecture",
+      "History",
+      "Legends"
+    ]
   },
   {
     "id": "stary-cmentarz-podgorski",
@@ -1756,7 +1939,11 @@
     "radius": 50,
     "image": "krakow/points/points_images/stary-cmentarz-podgorski.jpg",
     "imageHash": "5464da2245468f0192481c83f597aa51ae1d7d827630c0146021f0a1d92c2389",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "History",
+      "Legends"
+    ]
   },
   {
     "id": "kopiec-krakusa",
@@ -1802,7 +1989,11 @@
     "radius": 50,
     "image": "krakow/points/points_images/kopiec-krakusa.jpg",
     "imageHash": "a2e023ce7f4635aab2266889c6338cb29296c0573b58691ae93d430a7bc28a33",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "ViewPoint",
+      "PublicSpace"
+    ]
   },
   {
     "id": "white-getto-wall",
@@ -1848,7 +2039,10 @@
     "radius": 25,
     "image": "krakow/points/points_images/white-getto-wall.jpg",
     "imageHash": "772a7090adf44ace789b458a9b104fd86fb1a56b69960ddb65da062537e6cc60",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "History"
+    ]
   },
   {
     "id": "smok-geodeta",
@@ -1894,7 +2088,11 @@
     "radius": 12,
     "image": "krakow/points/points_images/smok-geodeta.jpg",
     "imageHash": "52df372d980095e6a3c30651c52ce4c67b0dc9d88bd61ad78d8d0b0cd02ecd96",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Sculpture",
+      "InterestingForChildren"
+    ]
   },
   {
     "id": "fort-benedykt",
@@ -1940,7 +2138,12 @@
     "radius": 50,
     "image": "krakow/points/points_images/fort-benedykt.jpg",
     "imageHash": "45fa80a26afa86ecc20b2a7b0698b6d0e053e29c2b4f510d5b0f9504809c2431",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Architecture",
+      "History",
+      "Legends"
+    ]
   },
   {
     "id": "colored-stairs",
@@ -1986,7 +2189,11 @@
     "radius": 23,
     "image": "krakow/points/points_images/colored-stairs.jpg",
     "imageHash": "cc9831768f2df6f46f1f2068fc00d0398a160148cff92a5daa579499a53c6773",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Mural",
+      "PublicSpace"
+    ]
   },
   {
     "id": "smok-turysta",
@@ -2032,7 +2239,11 @@
     "radius": 15,
     "image": "krakow/points/points_images/smok-turysta.jpg",
     "imageHash": "c093feda80fc2f7866d3176c77f216984987a689d8249acc1e7cd7e621ce9d14",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Sculpture",
+      "InterestingForChildren"
+    ]
   },
   {
     "id": "new-jewish-graveyard",
@@ -2078,7 +2289,11 @@
     "radius": 50,
     "image": "krakow/points/points_images/new-jewish-graveyard.jpg",
     "imageHash": "e7eeb17ebd58017909af6f0a0c29da8d2222572897ba4b58b136e9fb0632db9c",
-    "debug_entity": false
+    "debug_entity": false,
+    "categories": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "teatr-slowackiego",
@@ -2123,7 +2338,12 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "krakow/points/points_images/teatr-slowackiego.jpg",
-    "imageHash": "3e5b8d374839bfb6526f4b23e7cf156124d15e8f628fe3d7d83641415203fd39",
-    "debug_entity": false
+    "imageHash": "6ef8edc4f9e2bbeddcf37f901281d4acf9476b7424c782fd5233dfd689278419",
+    "debug_entity": false,
+    "categories": [
+      "Entertainment",
+      "Architecture",
+      "History"
+    ]
   }
 ]

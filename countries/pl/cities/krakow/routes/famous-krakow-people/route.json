@@ -1658,6 +1658,270 @@
         },
         {
           "coordinates": [
+            50.064945898825876,
+            19.93153807032937
+          ],
+          "type": "HiddenPointProposal",
+          "radiusMeters": 33,
+          "debug_entity": false,
+          "hiddenPointDenyRoute": {
+            "toPointId": "memorial-adam-mickevich",
+            "path": [
+              {
+                "coordinates": [
+                  50.064944,
+                  19.931534
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064939,
+                  19.93154
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064913,
+                  19.931589
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064884,
+                  19.931717
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064851,
+                  19.93171
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064805,
+                  19.931753
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064745,
+                  19.931813
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.06447,
+                  19.932075
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063694,
+                  19.932815
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn right and then after 8 meters Turn left onto Karmelicka",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.063656,
+                  19.93272
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063416,
+                  19.932968
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063376,
+                  19.933024
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063291,
+                  19.93316
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.0631,
+                  19.933594
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062961,
+                  19.933929
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062878,
+                  19.934125
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062836,
+                  19.934232
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.06275,
+                  19.934438
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062688,
+                  19.934586
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.06267,
+                  19.934626
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062523,
+                  19.934987
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062364,
+                  19.935399
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062096,
+                  19.936092
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062013,
+                  19.936319
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Keep left",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  50.061779,
+                  19.937137
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.061701,
+                  19.937354
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.06169144778598,
+                  19.93738026858854
+                ],
+                "type": "portal",
+                "radiusMeters": 15,
+                "targetVertexIndex": 31
+              },
+              {
+                "coordinates": [
+                  50.061621,
+                  19.937574
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.061558,
+                  19.937671
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.061434,
+                  19.937859
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.061408,
+                  19.937943
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.061469,
+                  19.937989
+                ],
+                "radiusMeters": 50
+              }
+            ]
+          }
+        },
+        {
+          "coordinates": [
             50.064939,
             19.93154
           ],
@@ -1933,7 +2197,7 @@
           "type": "portal",
           "radiusMeters": 15,
           "debug_entity": false,
-          "targetVertexIndex": 43
+          "targetVertexIndex": 44
         },
         {
           "coordinates": [

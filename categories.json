@@ -1,13 +1,13 @@
-{
-	"categories": [
+[
 		"Architecture",
 		"Sculpture",
+		"Mural",
 		"History",
 		"Religion",
-		"Public space",
+		"PublicSpace",
 		"Entertainment",
 		"InterestingForChildren",
 		"ViewPoint",
-		"Legends"
-	]
-}
+		"Legends",
+		"Person"
+]

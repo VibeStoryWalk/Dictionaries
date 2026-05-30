@@ -37,7 +37,7 @@
     "fr": "Un itinéraire très instagrammable à travers les lieux les plus marquants de Cracovie: de la majestueuse Vieille Ville à Podgórze en passant par les quais de la Vistule."
   },
   "durationMinutes": 240,
-  "distanceKm": 4.37,
+  "distanceKm": 4.72,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -65,54 +65,513 @@
           "coordinates": [
             50.06545510611199,
             19.94161845415
-          ],
-          "radiusMeters": 25
+          ]
         },
         {
           "coordinates": [
             50.06485560579773,
             19.941347539104083
-          ],
-          "radiusMeters": 17
+          ]
         }
       ]
     },
     {
       "fromPointId": "florian-gate",
-      "toPointId": "st-marys-basilica",
+      "toPointId": "teatr-slowackiego",
       "path": [
         {
           "coordinates": [
             50.06485560579773,
             19.941347539104083
           ],
-          "radiusMeters": 33
+          "radiusMeters": 24
         },
         {
           "coordinates": [
-            50.064391431123475,
-            19.94099016564941
+            50.064813,
+            19.941336
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064809,
+            19.941334
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064802,
+            19.941427
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064801236755216,
+            19.941322805809428
+          ],
+          "type": "HiddenPointProposal",
+          "radiusMeters": 15,
+          "debug_entity": false,
+          "hiddenPointDenyRoute": {
+            "toPointId": "st-marys-basilica",
+            "path": [
+              {
+                "coordinates": [
+                  50.0648,
+                  19.941327
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064628,
+                  19.941185
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064514,
+                  19.941102
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.064431,
+                  19.941042
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.06432,
+                  19.940958
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063977,
+                  19.940698
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063875,
+                  19.940621
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063628,
+                  19.940433
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063437,
+                  19.940282
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063331,
+                  19.940198
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063303,
+                  19.940176
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.063212,
+                  19.940104
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062859,
+                  19.939823
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062733,
+                  19.93973
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062597,
+                  19.939626
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062085,
+                  19.939227
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062039288054635,
+                  19.939191677133127
+                ],
+                "type": "portal",
+                "radiusMeters": 20,
+                "targetParentVertexIndex": 0
+              },
+              {
+                "coordinates": [
+                  50.062019,
+                  19.939176
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.062014,
+                  19.938883
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.061804,
+                  19.938708
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  50.06175662739938,
+                  19.938845077244626
+                ],
+                "radiusMeters": 40
+              }
+            ]
+          }
+        },
+        {
+          "coordinates": [
+            50.06475,
+            19.941789
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064606,
+            19.942171
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064514,
+            19.942416
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.06449512332927,
+            19.94246662379878
+          ],
+          "type": "portal",
+          "radiusMeters": 15,
+          "debug_entity": false,
+          "targetVertexIndex": 13
+        },
+        {
+          "coordinates": [
+            50.064492,
+            19.942475
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064387,
+            19.9424
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064365,
+            19.942385
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064203,
+            19.942884
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.06410128090341,
+            19.942804646579635
+          ],
+          "radiusMeters": 50
+        }
+      ]
+    },
+    {
+      "fromPointId": "teatr-slowackiego",
+      "toPointId": "st-marys-basilica",
+      "path": [
+        {
+          "coordinates": [
+            50.06410128090341,
+            19.942804646579635
+          ]
+        },
+        {
+          "coordinates": [
+            50.064365,
+            19.942385
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064387,
+            19.9424
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064492,
+            19.942475
           ],
           "type": "turn",
-          "radiusMeters": 14,
+          "radiusMeters": 15,
           "text": {
-            "pl": "Idź ulicą, aż dojdziesz do placu.",
-            "ru": "Двигайтесь по улице пока не дойдёте до площади",
-            "en": "Continue along the street until you reach the square.",
-            "de": "Gehen Sie die Straße entlang, bis Sie den Platz erreichen.",
-            "ua": "Рухайтеся вулицею, доки не дійдете до площі.",
-            "it": "Prosegua lungo la strada fino ad arrivare alla piazza.",
-            "hr": "Krećite se ulicom dok ne dođete do trga.",
-            "es": "Siga por la calle hasta llegar a la plaza.",
-            "fr": "Continuez tout droit dans la rue jusqu'à la place."
+            "pl": "",
+            "ru": "",
+            "en": "Turn left onto Pijarska",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
           },
           "debug_entity": false
         },
         {
           "coordinates": [
+            50.064514,
+            19.942416
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064606,
+            19.942171
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.06475,
+            19.941789
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064802,
+            19.941427
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064809,
+            19.941334
+          ],
+          "type": "turn",
+          "radiusMeters": 15,
+          "text": {
+            "pl": "",
+            "ru": "",
+            "en": "Turn left onto Floriańska",
+            "de": "",
+            "ua": "",
+            "it": "",
+            "hr": "",
+            "es": "",
+            "fr": ""
+          },
+          "debug_entity": false
+        },
+        {
+          "coordinates": [
+            50.064628,
+            19.941185
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064514,
+            19.941102
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.064431,
+            19.941042
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.06432,
+            19.940958
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.063977,
+            19.940698
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.063875,
+            19.940621
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.063628,
+            19.940433
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.063437,
+            19.940282
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.063331,
+            19.940198
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.063303,
+            19.940176
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.063212,
+            19.940104
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.062859,
+            19.939823
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.062733,
+            19.93973
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.062597,
+            19.939626
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.062085,
+            19.939227
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.062039288054635,
+            19.939191677133127
+          ],
+          "type": "portal",
+          "radiusMeters": 15,
+          "debug_entity": false,
+          "targetVertexIndex": 28
+        },
+        {
+          "coordinates": [
+            50.062019,
+            19.939176
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.062014,
+            19.938883
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
+            50.061804,
+            19.938708
+          ],
+          "type": "hidden"
+        },
+        {
+          "coordinates": [
             50.06175662739938,
             19.938845077244626
-          ]
+          ],
+          "radiusMeters": 40
         }
       ]
     },
@@ -906,6 +1365,7 @@
   "pointIds": [
     "barbican",
     "florian-gate",
+    "teatr-slowackiego",
     "st-marys-basilica",
     "cloth-hall",
     "eros-bound",

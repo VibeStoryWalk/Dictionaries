@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Скасувати",
+    "apply": "Застосувати",
+    "yes": "Так",
+    "no": "Ні",
     "actions": {
       "open": "Відкрити"
     },
@@ -320,8 +324,12 @@
       "saveToFavorites": "Зберегти і почати прогулянку",
       "tryAgain": "Спробувати знову",
       "walk": "Гуляти",
+      "edit": "Змінити",
       "rename": "Перейменувати",
       "delete": "Видалити"
+    },
+    "messages": {
+      "confirmDelete": "Видалити цей маршрут?"
     },
     "labels": {
       "selectCategories": "Виберіть улюблені категорії місць",
@@ -329,6 +337,7 @@
       "clearCategories": "Очистити",
       "maxDistance": "Приблизна довжина маршруту",
       "avoidPaidPlaces": "Уникати платних місць",
+      "avoidSavedRoutePoints": "Уникати точок моїх маршрутів",
       "startCloserToMe": "Старт ближче до мене",
       "pointsFound_one": "{{count}} місце",
       "pointsFound_few": "{{count}} місця",
@@ -337,7 +346,9 @@
       "noPoints": "Немає відповідних місць. Спробуйте інші категорії або більшу відстань.",
       "estimatedDistance": "~{{distance}} км",
       "estimatedDuration": "~{{duration}} хв",
-      "myRoutes": "Мої маршрути"
+      "myRoutes": "Мої",
+      "standardRoutes": "Стандартні",
+      "routesLabel": "Маршрути:"
     },
     "defaultName": "Мій маршрут",
     "singleCategoryName": "Мій маршрут: {{category}}",

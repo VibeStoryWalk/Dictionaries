@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Abbrechen",
+    "apply": "Anwenden",
+    "yes": "Ja",
+    "no": "Nein",
     "actions": {
       "open": "Öffnen"
     },
@@ -318,8 +322,12 @@
       "saveToFavorites": "Speichern & Spaziergang starten",
       "tryAgain": "Erneut versuchen",
       "walk": "Laufen",
+      "edit": "Bearbeiten",
       "rename": "Umbenennen",
       "delete": "Löschen"
+    },
+    "messages": {
+      "confirmDelete": "Diese Route löschen?"
     },
     "labels": {
       "selectCategories": "Wähle deine Lieblingskategorien",
@@ -327,13 +335,16 @@
       "clearCategories": "Löschen",
       "maxDistance": "Ungefähre Routenlänge",
       "avoidPaidPlaces": "Kostenpflichtige Orte vermeiden",
+      "avoidSavedRoutePoints": "Punkte aus meinen Routen vermeiden",
       "startCloserToMe": "Näher bei mir starten",
       "pointsFound_one": "{{count}} Ort",
       "pointsFound_other": "{{count}} Orte",
       "noPoints": "Keine passenden Orte. Versuche andere Kategorien oder eine längere Distanz.",
       "estimatedDistance": "~{{distance}} km",
       "estimatedDuration": "~{{duration}} min",
-      "myRoutes": "Meine Routen"
+      "myRoutes": "Meine",
+      "standardRoutes": "Standard",
+      "routesLabel": "Routen:"
     },
     "defaultName": "Meine Route",
     "singleCategoryName": "Meine {{category}}-Route",

@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Отмена",
+    "apply": "Применить",
+    "yes": "Да",
+    "no": "Нет",
     "actions": {
       "open": "Открыть"
     },
@@ -320,8 +324,12 @@
       "saveToFavorites": "Сохранить и начать прогулку",
       "tryAgain": "Попробовать снова",
       "walk": "Гулять",
+      "edit": "Изменить",
       "rename": "Переименовать",
       "delete": "Удалить"
+    },
+    "messages": {
+      "confirmDelete": "Удалить этот маршрут?"
     },
     "labels": {
       "selectCategories": "Выберите любимые категории мест",
@@ -329,6 +337,7 @@
       "clearCategories": "Очистить",
       "maxDistance": "Приблизительная длина маршрута",
       "avoidPaidPlaces": "Избегать платных мест",
+      "avoidSavedRoutePoints": "Избегать точек моих маршрутов",
       "startCloserToMe": "Старт ближе ко мне",
       "pointsFound_one": "{{count}} место",
       "pointsFound_few": "{{count}} места",
@@ -337,7 +346,9 @@
       "noPoints": "Нет подходящих мест. Попробуйте другие категории или большее расстояние.",
       "estimatedDistance": "~{{distance}} км",
       "estimatedDuration": "~{{duration}} мин",
-      "myRoutes": "Мои маршруты"
+      "myRoutes": "Мои",
+      "standardRoutes": "Стандартные",
+      "routesLabel": "Маршруты:"
     },
     "defaultName": "Мой маршрут",
     "singleCategoryName": "Мой маршрут: {{category}}",

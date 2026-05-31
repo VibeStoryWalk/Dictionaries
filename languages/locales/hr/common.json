@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Odustani",
+    "apply": "Primijeni",
+    "yes": "Da",
+    "no": "Ne",
     "actions": {
       "open": "Otvori"
     },
@@ -320,8 +324,12 @@
       "saveToFavorites": "Spremi i počni šetnju",
       "tryAgain": "Pokušaj ponovo",
       "walk": "Šetaj",
+      "edit": "Uredi",
       "rename": "Preimenuj",
       "delete": "Izbriši"
+    },
+    "messages": {
+      "confirmDelete": "Obrisati ovu rutu?"
     },
     "labels": {
       "selectCategories": "Odaberi omiljene kategorije mjesta",
@@ -329,6 +337,7 @@
       "clearCategories": "Očisti",
       "maxDistance": "Približna duljina rute",
       "avoidPaidPlaces": "Izbjegavaj mjesta koja se plaćaju",
+      "avoidSavedRoutePoints": "Izbjegavaj točke iz mojih ruta",
       "startCloserToMe": "Započni bliže meni",
       "pointsFound_one": "{{count}} mjesto",
       "pointsFound_few": "{{count}} mjesta",
@@ -336,7 +345,9 @@
       "noPoints": "Nema odgovarajućih mjesta. Pokušaj s drugim kategorijama ili većom udaljenošću.",
       "estimatedDistance": "~{{distance}} km",
       "estimatedDuration": "~{{duration}} min",
-      "myRoutes": "Moje rute"
+      "myRoutes": "Moje",
+      "standardRoutes": "Standardne",
+      "routesLabel": "Rute:"
     },
     "defaultName": "Moja ruta",
     "singleCategoryName": "Moja ruta: {{category}}",

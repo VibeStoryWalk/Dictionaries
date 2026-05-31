@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Anuluj",
+    "apply": "Zastosuj",
+    "yes": "Tak",
+    "no": "Nie",
     "actions": {
       "open": "Otwórz"
     },
@@ -320,8 +324,12 @@
       "saveToFavorites": "Zapisz i zacznij spacer",
       "tryAgain": "Spróbuj ponownie",
       "walk": "Spaceruj",
+      "edit": "Edytuj",
       "rename": "Zmień nazwę",
       "delete": "Usuń"
+    },
+    "messages": {
+      "confirmDelete": "Usunąć tę trasę?"
     },
     "labels": {
       "selectCategories": "Wybierz ulubione kategorie miejsc",
@@ -329,6 +337,7 @@
       "clearCategories": "Wyczyść",
       "maxDistance": "Przybliżona długość trasy",
       "avoidPaidPlaces": "Unikaj płatnych miejsc",
+      "avoidSavedRoutePoints": "Unikaj punktów z moich tras",
       "startCloserToMe": "Zacznij bliżej mnie",
       "pointsFound_one": "{{count}} miejsce",
       "pointsFound_few": "{{count}} miejsca",
@@ -337,7 +346,9 @@
       "noPoints": "Brak pasujących miejsc. Spróbuj innych kategorii lub dłuższej trasy.",
       "estimatedDistance": "~{{distance}} km",
       "estimatedDuration": "~{{duration}} min",
-      "myRoutes": "Moje trasy"
+      "myRoutes": "Moje",
+      "standardRoutes": "Standardowe",
+      "routesLabel": "Trasy:"
     },
     "defaultName": "Moja trasa",
     "singleCategoryName": "Moja trasa: {{category}}",

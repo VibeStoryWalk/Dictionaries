@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "yes": "Yes",
+    "no": "No",
     "actions": {
       "open": "Open"
     },
@@ -318,8 +322,12 @@
       "saveToFavorites": "Save & Start Walking",
       "tryAgain": "Try Again",
       "walk": "Walk",
+      "edit": "Edit",
       "rename": "Rename",
       "delete": "Delete"
+    },
+    "messages": {
+      "confirmDelete": "Delete this route?"
     },
     "labels": {
       "selectCategories": "Choose your favourite place categories",
@@ -327,13 +335,16 @@
       "clearCategories": "Clear",
       "maxDistance": "Approximate route length",
       "avoidPaidPlaces": "Avoid paid places",
+      "avoidSavedRoutePoints": "Avoid points from my routes",
       "startCloserToMe": "Start closer to me",
       "pointsFound_one": "{{count}} point",
       "pointsFound_other": "{{count}} points",
       "noPoints": "No points match. Try different categories or a longer distance.",
       "estimatedDistance": "~{{distance}} km",
       "estimatedDuration": "~{{duration}} min",
-      "myRoutes": "My Routes"
+      "myRoutes": "Mine",
+      "standardRoutes": "Standard",
+      "routesLabel": "Routes:"
     },
     "defaultName": "My Route",
     "singleCategoryName": "My {{category}} Route",

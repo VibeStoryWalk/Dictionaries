@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Annulla",
+    "apply": "Applica",
+    "yes": "Sì",
+    "no": "No",
     "actions": {
       "open": "Apri"
     },
@@ -318,8 +322,12 @@
       "saveToFavorites": "Salva e inizia",
       "tryAgain": "Riprova",
       "walk": "Cammina",
+      "edit": "Modifica",
       "rename": "Rinomina",
       "delete": "Elimina"
+    },
+    "messages": {
+      "confirmDelete": "Eliminare questo percorso?"
     },
     "labels": {
       "selectCategories": "Scegli le tue categorie preferite",
@@ -327,13 +335,16 @@
       "clearCategories": "Cancella",
       "maxDistance": "Lunghezza approssimativa del percorso",
       "avoidPaidPlaces": "Evita i luoghi a pagamento",
+      "avoidSavedRoutePoints": "Evita i punti dei miei percorsi",
       "startCloserToMe": "Inizia più vicino a me",
       "pointsFound_one": "{{count}} luogo",
       "pointsFound_other": "{{count}} luoghi",
       "noPoints": "Nessun luogo corrisponde. Prova altre categorie o una distanza maggiore.",
       "estimatedDistance": "~{{distance}} km",
       "estimatedDuration": "~{{duration}} min",
-      "myRoutes": "I miei percorsi"
+      "myRoutes": "I miei",
+      "standardRoutes": "Standard",
+      "routesLabel": "Percorsi:"
     },
     "defaultName": "Il mio percorso",
     "singleCategoryName": "Il mio percorso {{category}}",

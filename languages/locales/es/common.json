@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Cancelar",
+    "apply": "Aplicar",
+    "yes": "Sí",
+    "no": "No",
     "actions": {
       "open": "Abrir"
     },
@@ -318,8 +322,12 @@
       "saveToFavorites": "Guardar y comenzar",
       "tryAgain": "Intentar de nuevo",
       "walk": "Caminar",
+      "edit": "Editar",
       "rename": "Renombrar",
       "delete": "Eliminar"
+    },
+    "messages": {
+      "confirmDelete": "¿Eliminar esta ruta?"
     },
     "labels": {
       "selectCategories": "Elige tus categorías favoritas",
@@ -327,13 +335,16 @@
       "clearCategories": "Limpiar",
       "maxDistance": "Longitud aproximada de la ruta",
       "avoidPaidPlaces": "Evitar lugares de pago",
+      "avoidSavedRoutePoints": "Evitar puntos de mis rutas",
       "startCloserToMe": "Empezar más cerca de mí",
       "pointsFound_one": "{{count}} lugar",
       "pointsFound_other": "{{count}} lugares",
       "noPoints": "No hay lugares que coincidan. Prueba otras categorías o una distancia mayor.",
       "estimatedDistance": "~{{distance}} km",
       "estimatedDuration": "~{{duration}} min",
-      "myRoutes": "Mis rutas"
+      "myRoutes": "Mías",
+      "standardRoutes": "Estándar",
+      "routesLabel": "Rutas:"
     },
     "defaultName": "Mi ruta",
     "singleCategoryName": "Mi ruta de {{category}}",

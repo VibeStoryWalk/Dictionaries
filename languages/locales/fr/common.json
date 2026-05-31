@@ -9,6 +9,10 @@
     }
   },
   "common": {
+    "cancel": "Annuler",
+    "apply": "Appliquer",
+    "yes": "Oui",
+    "no": "Non",
     "actions": {
       "open": "Ouvrir"
     },
@@ -318,8 +322,12 @@
       "saveToFavorites": "Enregistrer et commencer",
       "tryAgain": "Réessayer",
       "walk": "Marcher",
+      "edit": "Modifier",
       "rename": "Renommer",
       "delete": "Supprimer"
+    },
+    "messages": {
+      "confirmDelete": "Supprimer cet itinéraire ?"
     },
     "labels": {
       "selectCategories": "Choisissez vos catégories préférées",
@@ -327,13 +335,16 @@
       "clearCategories": "Effacer",
       "maxDistance": "Longueur approximative du parcours",
       "avoidPaidPlaces": "Éviter les lieux payants",
+      "avoidSavedRoutePoints": "Éviter les points de mes itinéraires",
       "startCloserToMe": "Commencer plus près de moi",
       "pointsFound_one": "{{count}} lieu",
       "pointsFound_other": "{{count}} lieux",
       "noPoints": "Aucun lieu correspondant. Essayez d’autres catégories ou une plus grande distance.",
       "estimatedDistance": "~{{distance}} km",
       "estimatedDuration": "~{{duration}} min",
-      "myRoutes": "Mes itinéraires"
+      "myRoutes": "Mes",
+      "standardRoutes": "Standards",
+      "routesLabel": "Itinéraires:"
     },
     "defaultName": "Mon itinéraire",
     "singleCategoryName": "Mon itinéraire {{category}}",

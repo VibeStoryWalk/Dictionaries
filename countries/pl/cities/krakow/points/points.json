@@ -754,7 +754,8 @@
     "categories": [
       "Architecture",
       "History",
-      "ViewPoint"
+      "ViewPoint",
+      "Paid"
     ]
   },
   {
@@ -1435,7 +1436,8 @@
     "radius": 20,
     "categories": [
       "Entertainment",
-      "InterestingForChildren"
+      "InterestingForChildren",
+      "Paid"
     ]
   },
   {

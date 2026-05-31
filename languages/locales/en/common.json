@@ -300,5 +300,58 @@
       "settingsButton": "Adjust language and other settings here.",
       "hiddenPointButton": "Unlock the secret route point."
     }
+  },
+  "buildMyRoute": {
+    "title": "Build My Route",
+    "tooltips": {
+      "open": "Build my route"
+    },
+    "steps": {
+      "categories": "Choose Interests",
+      "configure": "Route Configuration",
+      "distance": "Walk Distance",
+      "preview": "Route:"
+    },
+    "actions": {
+      "next": "Next",
+      "buildRoute": "Build Route",
+      "saveToFavorites": "Save & Start Walking",
+      "tryAgain": "Try Again",
+      "walk": "Walk",
+      "rename": "Rename",
+      "delete": "Delete"
+    },
+    "labels": {
+      "selectCategories": "Choose your favourite place categories",
+      "allCategories": "All",
+      "clearCategories": "Clear",
+      "maxDistance": "Approximate route length",
+      "avoidPaidPlaces": "Avoid paid places",
+      "startCloserToMe": "Start closer to me",
+      "pointsFound_one": "{{count}} point",
+      "pointsFound_other": "{{count}} points",
+      "noPoints": "No points match. Try different categories or a longer distance.",
+      "estimatedDistance": "~{{distance}} km",
+      "estimatedDuration": "~{{duration}} min",
+      "myRoutes": "My Routes"
+    },
+    "defaultName": "My Route",
+    "singleCategoryName": "My {{category}} Route",
+    "twoCategoryName": "My {{cat1}} & {{cat2}} Route",
+    "mixedName": "My Mixed Route"
+  },
+  "categories": {
+    "Architecture": "Architecture",
+    "Sculpture": "Sculpture",
+    "Mural": "Mural",
+    "History": "History",
+    "Religion": "Religion",
+    "PublicSpace": "Public Space",
+    "Entertainment": "Entertainment",
+    "InterestingForChildren": "For Children",
+    "ViewPoint": "Viewpoint",
+    "Legends": "Legends",
+    "Person": "Person",
+    "Paid": "Paid"
   }
 }

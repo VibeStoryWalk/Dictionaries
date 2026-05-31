@@ -300,5 +300,58 @@
       "settingsButton": "Réglez ici la langue et d’autres préférences.",
       "hiddenPointButton": "Ouvrir le point secret de l’itinéraire."
     }
+  },
+  "buildMyRoute": {
+    "title": "Créer mon itinéraire",
+    "tooltips": {
+      "open": "Créer mon itinéraire"
+    },
+    "steps": {
+      "categories": "Choisir les centres d’intérêt",
+      "configure": "Configuration de l'itinéraire",
+      "distance": "Distance de marche",
+      "preview": "Itinéraire :"
+    },
+    "actions": {
+      "next": "Suivant",
+      "buildRoute": "Créer l’itinéraire",
+      "saveToFavorites": "Enregistrer et commencer",
+      "tryAgain": "Réessayer",
+      "walk": "Marcher",
+      "rename": "Renommer",
+      "delete": "Supprimer"
+    },
+    "labels": {
+      "selectCategories": "Choisissez vos catégories préférées",
+      "allCategories": "Tout",
+      "clearCategories": "Effacer",
+      "maxDistance": "Longueur approximative du parcours",
+      "avoidPaidPlaces": "Éviter les lieux payants",
+      "startCloserToMe": "Commencer plus près de moi",
+      "pointsFound_one": "{{count}} lieu",
+      "pointsFound_other": "{{count}} lieux",
+      "noPoints": "Aucun lieu correspondant. Essayez d’autres catégories ou une plus grande distance.",
+      "estimatedDistance": "~{{distance}} km",
+      "estimatedDuration": "~{{duration}} min",
+      "myRoutes": "Mes itinéraires"
+    },
+    "defaultName": "Mon itinéraire",
+    "singleCategoryName": "Mon itinéraire {{category}}",
+    "twoCategoryName": "Mon itinéraire {{cat1}} & {{cat2}}",
+    "mixedName": "Mon itinéraire mixte"
+  },
+  "categories": {
+    "Architecture": "Architecture",
+    "Sculpture": "Sculpture",
+    "Mural": "Fresque",
+    "History": "Histoire",
+    "Religion": "Religion",
+    "PublicSpace": "Espace public",
+    "Entertainment": "Divertissement",
+    "InterestingForChildren": "Pour les enfants",
+    "ViewPoint": "Point de vue",
+    "Legends": "Légendes",
+    "Person": "Personnage",
+    "Paid": "Payant"
   }
 }

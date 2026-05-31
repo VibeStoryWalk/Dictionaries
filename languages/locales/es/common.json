@@ -300,5 +300,58 @@
       "settingsButton": "Aquí puedes ajustar el idioma y otras preferencias.",
       "hiddenPointButton": "Abrir el punto secreto de la ruta."
     }
+  },
+  "buildMyRoute": {
+    "title": "Crear mi ruta",
+    "tooltips": {
+      "open": "Crear mi ruta"
+    },
+    "steps": {
+      "categories": "Elegir intereses",
+      "configure": "Configuración de la ruta",
+      "distance": "Distancia a pie",
+      "preview": "Ruta:"
+    },
+    "actions": {
+      "next": "Siguiente",
+      "buildRoute": "Crear ruta",
+      "saveToFavorites": "Guardar y comenzar",
+      "tryAgain": "Intentar de nuevo",
+      "walk": "Caminar",
+      "rename": "Renombrar",
+      "delete": "Eliminar"
+    },
+    "labels": {
+      "selectCategories": "Elige tus categorías favoritas",
+      "allCategories": "Todo",
+      "clearCategories": "Limpiar",
+      "maxDistance": "Longitud aproximada de la ruta",
+      "avoidPaidPlaces": "Evitar lugares de pago",
+      "startCloserToMe": "Empezar más cerca de mí",
+      "pointsFound_one": "{{count}} lugar",
+      "pointsFound_other": "{{count}} lugares",
+      "noPoints": "No hay lugares que coincidan. Prueba otras categorías o una distancia mayor.",
+      "estimatedDistance": "~{{distance}} km",
+      "estimatedDuration": "~{{duration}} min",
+      "myRoutes": "Mis rutas"
+    },
+    "defaultName": "Mi ruta",
+    "singleCategoryName": "Mi ruta de {{category}}",
+    "twoCategoryName": "Mi ruta de {{cat1}} y {{cat2}}",
+    "mixedName": "Mi ruta mixta"
+  },
+  "categories": {
+    "Architecture": "Arquitectura",
+    "Sculpture": "Escultura",
+    "Mural": "Mural",
+    "History": "Historia",
+    "Religion": "Religión",
+    "PublicSpace": "Espacio público",
+    "Entertainment": "Entretenimiento",
+    "InterestingForChildren": "Para niños",
+    "ViewPoint": "Mirador",
+    "Legends": "Leyendas",
+    "Person": "Persona",
+    "Paid": "De pago"
   }
 }

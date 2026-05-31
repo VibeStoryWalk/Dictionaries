@@ -302,5 +302,60 @@
       "settingsButton": "Tutaj ustawisz język i inne preferencje.",
       "hiddenPointButton": "Otwórz sekretny punkt trasy."
     }
+  },
+  "buildMyRoute": {
+    "title": "Stwórz swoją trasę",
+    "tooltips": {
+      "open": "Stwórz swoją trasę"
+    },
+    "steps": {
+      "categories": "Wybierz zainteresowania",
+      "configure": "Konfiguracja trasy",
+      "distance": "Długość spaceru",
+      "preview": "Trasa:"
+    },
+    "actions": {
+      "next": "Dalej",
+      "buildRoute": "Stwórz trasę",
+      "saveToFavorites": "Zapisz i zacznij spacer",
+      "tryAgain": "Spróbuj ponownie",
+      "walk": "Spaceruj",
+      "rename": "Zmień nazwę",
+      "delete": "Usuń"
+    },
+    "labels": {
+      "selectCategories": "Wybierz ulubione kategorie miejsc",
+      "allCategories": "Wszystko",
+      "clearCategories": "Wyczyść",
+      "maxDistance": "Przybliżona długość trasy",
+      "avoidPaidPlaces": "Unikaj płatnych miejsc",
+      "startCloserToMe": "Zacznij bliżej mnie",
+      "pointsFound_one": "{{count}} miejsce",
+      "pointsFound_few": "{{count}} miejsca",
+      "pointsFound_many": "{{count}} miejsc",
+      "pointsFound_other": "{{count}} miejsc",
+      "noPoints": "Brak pasujących miejsc. Spróbuj innych kategorii lub dłuższej trasy.",
+      "estimatedDistance": "~{{distance}} km",
+      "estimatedDuration": "~{{duration}} min",
+      "myRoutes": "Moje trasy"
+    },
+    "defaultName": "Moja trasa",
+    "singleCategoryName": "Moja trasa: {{category}}",
+    "twoCategoryName": "Moja trasa: {{cat1}} i {{cat2}}",
+    "mixedName": "Moja trasa mieszana"
+  },
+  "categories": {
+    "Architecture": "Architektura",
+    "Sculpture": "Rzeźba",
+    "Mural": "Mural",
+    "History": "Historia",
+    "Religion": "Religia",
+    "PublicSpace": "Przestrzeń publiczna",
+    "Entertainment": "Rozrywka",
+    "InterestingForChildren": "Dla dzieci",
+    "ViewPoint": "Punkt widokowy",
+    "Legends": "Legendy",
+    "Person": "Osoba",
+    "Paid": "Płatny"
   }
 }

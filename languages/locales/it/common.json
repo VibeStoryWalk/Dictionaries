@@ -300,5 +300,58 @@
       "settingsButton": "Qui puoi regolare la lingua e le altre impostazioni.",
       "hiddenPointButton": "Apri il punto segreto del percorso."
     }
+  },
+  "buildMyRoute": {
+    "title": "Crea il mio percorso",
+    "tooltips": {
+      "open": "Crea il mio percorso"
+    },
+    "steps": {
+      "categories": "Scegli gli interessi",
+      "configure": "Configurazione del percorso",
+      "distance": "Distanza a piedi",
+      "preview": "Percorso:"
+    },
+    "actions": {
+      "next": "Avanti",
+      "buildRoute": "Crea percorso",
+      "saveToFavorites": "Salva e inizia",
+      "tryAgain": "Riprova",
+      "walk": "Cammina",
+      "rename": "Rinomina",
+      "delete": "Elimina"
+    },
+    "labels": {
+      "selectCategories": "Scegli le tue categorie preferite",
+      "allCategories": "Tutto",
+      "clearCategories": "Cancella",
+      "maxDistance": "Lunghezza approssimativa del percorso",
+      "avoidPaidPlaces": "Evita i luoghi a pagamento",
+      "startCloserToMe": "Inizia più vicino a me",
+      "pointsFound_one": "{{count}} luogo",
+      "pointsFound_other": "{{count}} luoghi",
+      "noPoints": "Nessun luogo corrisponde. Prova altre categorie o una distanza maggiore.",
+      "estimatedDistance": "~{{distance}} km",
+      "estimatedDuration": "~{{duration}} min",
+      "myRoutes": "I miei percorsi"
+    },
+    "defaultName": "Il mio percorso",
+    "singleCategoryName": "Il mio percorso {{category}}",
+    "twoCategoryName": "Il mio percorso {{cat1}} & {{cat2}}",
+    "mixedName": "Il mio percorso misto"
+  },
+  "categories": {
+    "Architecture": "Architettura",
+    "Sculpture": "Scultura",
+    "Mural": "Murale",
+    "History": "Storia",
+    "Religion": "Religione",
+    "PublicSpace": "Spazio pubblico",
+    "Entertainment": "Intrattenimento",
+    "InterestingForChildren": "Per bambini",
+    "ViewPoint": "Punto panoramico",
+    "Legends": "Leggende",
+    "Person": "Persona",
+    "Paid": "A pagamento"
   }
 }

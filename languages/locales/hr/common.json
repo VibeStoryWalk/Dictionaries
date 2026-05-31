@@ -302,5 +302,59 @@
       "settingsButton": "Ovdje možeš prilagoditi jezik i druge postavke.",
       "hiddenPointButton": "Otvori tajnu točku rute."
     }
+  },
+  "buildMyRoute": {
+    "title": "Izradi svoju rutu",
+    "tooltips": {
+      "open": "Izradi svoju rutu"
+    },
+    "steps": {
+      "categories": "Odaberi interese",
+      "configure": "Konfiguracija rute",
+      "distance": "Udaljenost šetnje",
+      "preview": "Ruta:"
+    },
+    "actions": {
+      "next": "Dalje",
+      "buildRoute": "Izradi rutu",
+      "saveToFavorites": "Spremi i počni šetnju",
+      "tryAgain": "Pokušaj ponovo",
+      "walk": "Šetaj",
+      "rename": "Preimenuj",
+      "delete": "Izbriši"
+    },
+    "labels": {
+      "selectCategories": "Odaberi omiljene kategorije mjesta",
+      "allCategories": "Sve",
+      "clearCategories": "Očisti",
+      "maxDistance": "Približna duljina rute",
+      "avoidPaidPlaces": "Izbjegavaj mjesta koja se plaćaju",
+      "startCloserToMe": "Započni bliže meni",
+      "pointsFound_one": "{{count}} mjesto",
+      "pointsFound_few": "{{count}} mjesta",
+      "pointsFound_other": "{{count}} mjesta",
+      "noPoints": "Nema odgovarajućih mjesta. Pokušaj s drugim kategorijama ili većom udaljenošću.",
+      "estimatedDistance": "~{{distance}} km",
+      "estimatedDuration": "~{{duration}} min",
+      "myRoutes": "Moje rute"
+    },
+    "defaultName": "Moja ruta",
+    "singleCategoryName": "Moja ruta: {{category}}",
+    "twoCategoryName": "Moja ruta: {{cat1}} i {{cat2}}",
+    "mixedName": "Moja mješovita ruta"
+  },
+  "categories": {
+    "Architecture": "Arhitektura",
+    "Sculpture": "Skulptura",
+    "Mural": "Mural",
+    "History": "Povijest",
+    "Religion": "Religija",
+    "PublicSpace": "Javni prostor",
+    "Entertainment": "Zabava",
+    "InterestingForChildren": "Za djecu",
+    "ViewPoint": "Vidikovac",
+    "Legends": "Legende",
+    "Person": "Osoba",
+    "Paid": "Plaćen"
   }
 }

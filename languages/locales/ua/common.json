@@ -302,5 +302,60 @@
       "settingsButton": "Мова та інші налаштування для вашої зручності.",
       "hiddenPointButton": "Відкрити секретну точку маршруту."
     }
+  },
+  "buildMyRoute": {
+    "title": "Створити свій маршрут",
+    "tooltips": {
+      "open": "Створити свій маршрут"
+    },
+    "steps": {
+      "categories": "Оберіть інтереси",
+      "configure": "Конфігурація маршруту",
+      "distance": "Довжина прогулянки",
+      "preview": "Маршрут:"
+    },
+    "actions": {
+      "next": "Далі",
+      "buildRoute": "Побудувати маршрут",
+      "saveToFavorites": "Зберегти і почати прогулянку",
+      "tryAgain": "Спробувати знову",
+      "walk": "Гуляти",
+      "rename": "Перейменувати",
+      "delete": "Видалити"
+    },
+    "labels": {
+      "selectCategories": "Виберіть улюблені категорії місць",
+      "allCategories": "Все",
+      "clearCategories": "Очистити",
+      "maxDistance": "Приблизна довжина маршруту",
+      "avoidPaidPlaces": "Уникати платних місць",
+      "startCloserToMe": "Старт ближче до мене",
+      "pointsFound_one": "{{count}} місце",
+      "pointsFound_few": "{{count}} місця",
+      "pointsFound_many": "{{count}} місць",
+      "pointsFound_other": "{{count}} місць",
+      "noPoints": "Немає відповідних місць. Спробуйте інші категорії або більшу відстань.",
+      "estimatedDistance": "~{{distance}} км",
+      "estimatedDuration": "~{{duration}} хв",
+      "myRoutes": "Мої маршрути"
+    },
+    "defaultName": "Мій маршрут",
+    "singleCategoryName": "Мій маршрут: {{category}}",
+    "twoCategoryName": "Мій маршрут: {{cat1}} і {{cat2}}",
+    "mixedName": "Мій змішаний маршрут"
+  },
+  "categories": {
+    "Architecture": "Архітектура",
+    "Sculpture": "Скульптура",
+    "Mural": "Мурал",
+    "History": "Історія",
+    "Religion": "Релігія",
+    "PublicSpace": "Громадський простір",
+    "Entertainment": "Розваги",
+    "InterestingForChildren": "Для дітей",
+    "ViewPoint": "Оглядовий майданчик",
+    "Legends": "Легенди",
+    "Person": "Особистість",
+    "Paid": "Платний"
   }
 }

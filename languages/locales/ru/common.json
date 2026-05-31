@@ -302,5 +302,60 @@
       "settingsButton": "Язык и прочие настройки для вашего удобства.",
       "hiddenPointButton": "Открыть секретную точку маршрута."
     }
+  },
+  "buildMyRoute": {
+    "title": "Создать свой маршрут",
+    "tooltips": {
+      "open": "Создать свой маршрут"
+    },
+    "steps": {
+      "categories": "Выберите интересы",
+      "configure": "Конфигурация маршрута",
+      "distance": "Длина прогулки",
+      "preview": "Маршрут:"
+    },
+    "actions": {
+      "next": "Далее",
+      "buildRoute": "Построить маршрут",
+      "saveToFavorites": "Сохранить и начать прогулку",
+      "tryAgain": "Попробовать снова",
+      "walk": "Гулять",
+      "rename": "Переименовать",
+      "delete": "Удалить"
+    },
+    "labels": {
+      "selectCategories": "Выберите любимые категории мест",
+      "allCategories": "Все",
+      "clearCategories": "Очистить",
+      "maxDistance": "Приблизительная длина маршрута",
+      "avoidPaidPlaces": "Избегать платных мест",
+      "startCloserToMe": "Старт ближе ко мне",
+      "pointsFound_one": "{{count}} место",
+      "pointsFound_few": "{{count}} места",
+      "pointsFound_many": "{{count}} мест",
+      "pointsFound_other": "{{count}} мест",
+      "noPoints": "Нет подходящих мест. Попробуйте другие категории или большее расстояние.",
+      "estimatedDistance": "~{{distance}} км",
+      "estimatedDuration": "~{{duration}} мин",
+      "myRoutes": "Мои маршруты"
+    },
+    "defaultName": "Мой маршрут",
+    "singleCategoryName": "Мой маршрут: {{category}}",
+    "twoCategoryName": "Мой маршрут: {{cat1}} и {{cat2}}",
+    "mixedName": "Мой смешанный маршрут"
+  },
+  "categories": {
+    "Architecture": "Архитектура",
+    "Sculpture": "Скульптура",
+    "Mural": "Мурал",
+    "History": "История",
+    "Religion": "Религия",
+    "PublicSpace": "Общественное пространство",
+    "Entertainment": "Развлечения",
+    "InterestingForChildren": "Для детей",
+    "ViewPoint": "Смотровая площадка",
+    "Legends": "Легенды",
+    "Person": "Личность",
+    "Paid": "Платный"
   }
 }

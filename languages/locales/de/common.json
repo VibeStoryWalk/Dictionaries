@@ -300,5 +300,58 @@
       "settingsButton": "Hier kannst du Sprache und weitere Einstellungen anpassen.",
       "hiddenPointButton": "Den geheimen Routenpunkt öffnen."
     }
+  },
+  "buildMyRoute": {
+    "title": "Meine Route erstellen",
+    "tooltips": {
+      "open": "Meine Route erstellen"
+    },
+    "steps": {
+      "categories": "Interessen wählen",
+      "configure": "Routenkonfiguration",
+      "distance": "Laufdistanz",
+      "preview": "Route:"
+    },
+    "actions": {
+      "next": "Weiter",
+      "buildRoute": "Route erstellen",
+      "saveToFavorites": "Speichern & Spaziergang starten",
+      "tryAgain": "Erneut versuchen",
+      "walk": "Laufen",
+      "rename": "Umbenennen",
+      "delete": "Löschen"
+    },
+    "labels": {
+      "selectCategories": "Wähle deine Lieblingskategorien",
+      "allCategories": "Alle",
+      "clearCategories": "Löschen",
+      "maxDistance": "Ungefähre Routenlänge",
+      "avoidPaidPlaces": "Kostenpflichtige Orte vermeiden",
+      "startCloserToMe": "Näher bei mir starten",
+      "pointsFound_one": "{{count}} Ort",
+      "pointsFound_other": "{{count}} Orte",
+      "noPoints": "Keine passenden Orte. Versuche andere Kategorien oder eine längere Distanz.",
+      "estimatedDistance": "~{{distance}} km",
+      "estimatedDuration": "~{{duration}} min",
+      "myRoutes": "Meine Routen"
+    },
+    "defaultName": "Meine Route",
+    "singleCategoryName": "Meine {{category}}-Route",
+    "twoCategoryName": "Meine {{cat1}} & {{cat2}}-Route",
+    "mixedName": "Meine gemischte Route"
+  },
+  "categories": {
+    "Architecture": "Architektur",
+    "Sculpture": "Skulptur",
+    "Mural": "Wandbild",
+    "History": "Geschichte",
+    "Religion": "Religion",
+    "PublicSpace": "Öffentlicher Raum",
+    "Entertainment": "Unterhaltung",
+    "InterestingForChildren": "Für Kinder",
+    "ViewPoint": "Aussichtspunkt",
+    "Legends": "Legenden",
+    "Person": "Person",
+    "Paid": "Kostenpflichtig"
   }
 }

@@ -1882,7 +1882,7 @@
                 ],
                 "type": "portal",
                 "radiusMeters": 15,
-                "targetVertexIndex": 31
+                "targetParentVertexIndex": 0
               },
               {
                 "coordinates": [

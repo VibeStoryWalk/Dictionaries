@@ -225,6 +225,7 @@
       "triggerAd": "Pokreni oglas",
       "openLanguageSelector": "Otvori odabir jezika",
       "openPrivacyPolicy": "Otvori",
+      "upgrade": "Ažuriraj",
       "sharePromo": "Podijeli"
     },
     "privacyPolicy": {
@@ -325,6 +326,7 @@
       "tryAgain": "Pokušaj ponovo",
       "walk": "Šetaj",
       "edit": "Uredi",
+      "upgrade": "Ažuriraj",
       "rename": "Preimenuj",
       "delete": "Izbriši"
     },

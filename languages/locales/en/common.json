@@ -223,6 +223,7 @@
       "triggerAd": "Trigger ad",
       "openLanguageSelector": "Open language selector",
       "openPrivacyPolicy": "Open",
+      "upgrade": "Upgrade",
       "sharePromo": "Share"
     },
     "privacyPolicy": {
@@ -323,6 +324,7 @@
       "tryAgain": "Try Again",
       "walk": "Walk",
       "edit": "Edit",
+      "upgrade": "Upgrade",
       "rename": "Rename",
       "delete": "Delete"
     },

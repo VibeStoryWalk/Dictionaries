@@ -225,6 +225,7 @@
       "triggerAd": "Uruchom reklamę",
       "openLanguageSelector": "Otwórz wybór języka",
       "openPrivacyPolicy": "Otwórz",
+      "upgrade": "Aktualizuj",
       "sharePromo": "Udostępnij"
     },
     "privacyPolicy": {
@@ -325,6 +326,7 @@
       "tryAgain": "Spróbuj ponownie",
       "walk": "Spaceruj",
       "edit": "Edytuj",
+      "upgrade": "Aktualizuj",
       "rename": "Zmień nazwę",
       "delete": "Usuń"
     },

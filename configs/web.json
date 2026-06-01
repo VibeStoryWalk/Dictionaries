@@ -5,6 +5,6 @@
     "adsEnabled": true
   },
   "featureFlags": {
-    "buildMyMap": false
+    "buildMyMap": true
   }
 }

@@ -316,12 +316,14 @@
     "steps": {
       "categories": "Choisir les centres d’intérêt",
       "configure": "Configuration de l'itinéraire",
+      "points": "Points de l'itinéraire",
       "distance": "Distance de marche",
       "preview": "Itinéraire :"
     },
     "actions": {
       "next": "Suivant",
       "buildRoute": "Créer l’itinéraire",
+      "reviewRoute": "Vérifier l’itinéraire",
       "saveToFavorites": "Enregistrer et commencer",
       "tryAgain": "Réessayer",
       "walk": "Marcher",

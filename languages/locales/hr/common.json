@@ -318,12 +318,14 @@
     "steps": {
       "categories": "Odaberi interese",
       "configure": "Konfiguracija rute",
+      "points": "Točke rute",
       "distance": "Udaljenost šetnje",
       "preview": "Ruta:"
     },
     "actions": {
       "next": "Dalje",
       "buildRoute": "Izradi rutu",
+      "reviewRoute": "Pregledaj rutu",
       "saveToFavorites": "Spremi i počni šetnju",
       "tryAgain": "Pokušaj ponovo",
       "walk": "Šetaj",

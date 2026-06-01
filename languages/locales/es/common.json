@@ -316,12 +316,14 @@
     "steps": {
       "categories": "Elegir intereses",
       "configure": "Configuración de la ruta",
+      "points": "Puntos de la ruta",
       "distance": "Distancia a pie",
       "preview": "Ruta:"
     },
     "actions": {
       "next": "Siguiente",
       "buildRoute": "Crear ruta",
+      "reviewRoute": "Revisar ruta",
       "saveToFavorites": "Guardar y comenzar",
       "tryAgain": "Intentar de nuevo",
       "walk": "Caminar",

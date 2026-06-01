@@ -318,12 +318,14 @@
     "steps": {
       "categories": "Wybierz zainteresowania",
       "configure": "Konfiguracja trasy",
+      "points": "Punkty trasy",
       "distance": "Długość spaceru",
       "preview": "Trasa:"
     },
     "actions": {
       "next": "Dalej",
       "buildRoute": "Stwórz trasę",
+      "reviewRoute": "Sprawdź trasę",
       "saveToFavorites": "Zapisz i zacznij spacer",
       "tryAgain": "Spróbuj ponownie",
       "walk": "Spaceruj",

@@ -316,12 +316,14 @@
     "steps": {
       "categories": "Scegli gli interessi",
       "configure": "Configurazione del percorso",
+      "points": "Punti del percorso",
       "distance": "Distanza a piedi",
       "preview": "Percorso:"
     },
     "actions": {
       "next": "Avanti",
       "buildRoute": "Crea percorso",
+      "reviewRoute": "Rivedi il percorso",
       "saveToFavorites": "Salva e inizia",
       "tryAgain": "Riprova",
       "walk": "Cammina",

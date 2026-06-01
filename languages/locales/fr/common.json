@@ -327,7 +327,8 @@
       "delete": "Supprimer"
     },
     "messages": {
-      "confirmDelete": "Supprimer cet itinéraire ?"
+      "confirmDelete": "Supprimer cet itinéraire ?",
+      "creationAvailability": "L’enregistrement de votre propre itinéraire est disponible après le visionnage d’une publicité et uniquement avec une connexion Internet. Cependant, les promenades sur votre propre itinéraire restent disponibles hors ligne si le pack de la ville a été téléchargé."
     },
     "labels": {
       "selectCategories": "Choisissez vos catégories préférées",

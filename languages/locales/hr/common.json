@@ -329,7 +329,8 @@
       "delete": "Izbriši"
     },
     "messages": {
-      "confirmDelete": "Obrisati ovu rutu?"
+      "confirmDelete": "Obrisati ovu rutu?",
+      "creationAvailability": "Spremanje vlastite rute dostupno je nakon gledanja oglasa i samo kada postoji internetska veza. Međutim, šetnje vlastitom rutom i dalje su dostupne izvan mreže ako je paket grada preuzet."
     },
     "labels": {
       "selectCategories": "Odaberi omiljene kategorije mjesta",

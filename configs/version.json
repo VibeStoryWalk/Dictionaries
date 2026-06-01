@@ -1,6 +1,7 @@
 {
 	"android": {		
 		"minCompatible": "1.3.0",
-		"link": "https://play.google.com/store/apps/details?id=com.samowalk.app"
+		"link": "https://play.google.com/store/apps/details?id=com.samowalk.app",
+		"latest": "1.4.0"
 	}
 }

@@ -327,7 +327,8 @@
       "delete": "Eliminar"
     },
     "messages": {
-      "confirmDelete": "¿Eliminar esta ruta?"
+      "confirmDelete": "¿Eliminar esta ruta?",
+      "creationAvailability": "Guardar tu propia ruta está disponible después de ver un anuncio y solo con conexión a internet. Sin embargo, los paseos por tu propia ruta siguen estando disponibles sin conexión si el paquete de la ciudad se ha descargado."
     },
     "labels": {
       "selectCategories": "Elige tus categorías favoritas",

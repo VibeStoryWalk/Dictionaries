@@ -327,7 +327,8 @@
       "delete": "Löschen"
     },
     "messages": {
-      "confirmDelete": "Diese Route löschen?"
+      "confirmDelete": "Diese Route löschen?",
+      "creationAvailability": "Das Speichern einer eigenen Route ist nach dem Ansehen von Werbung und nur bei bestehender Internetverbindung möglich. Spaziergänge auf Ihrer eigenen Route sind jedoch weiterhin offline verfügbar, wenn das Stadtpaket heruntergeladen wurde."
     },
     "labels": {
       "selectCategories": "Wähle deine Lieblingskategorien",

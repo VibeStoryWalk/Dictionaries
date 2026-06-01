@@ -329,7 +329,8 @@
       "delete": "Usuń"
     },
     "messages": {
-      "confirmDelete": "Usunąć tę trasę?"
+      "confirmDelete": "Usunąć tę trasę?",
+      "creationAvailability": "Zapisywanie własnej trasy jest dostępne po obejrzeniu reklamy i tylko przy połączeniu z internetem. Jednak spacery własną trasą są nadal dostępne offline, jeśli pakiet miasta został pobrany."
     },
     "labels": {
       "selectCategories": "Wybierz ulubione kategorie miejsc",

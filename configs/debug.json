@@ -1,6 +1,3 @@
 {
-  "showDebugSettings": true,
-  "featureFlags": {
-    "buildMyMap": true
-  }
+  "showDebugSettings": true
 }

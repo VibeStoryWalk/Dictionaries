@@ -3,8 +3,5 @@
   "useLocalDicts": true,
   "defaultUiSettings": {
     "adsEnabled": true
-  },
-  "featureFlags": {
-    "buildMyMap": true
   }
 }

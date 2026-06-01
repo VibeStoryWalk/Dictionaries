@@ -51,6 +51,6 @@
   "osmTilesExpirationPeriod": "365.0.0",
   "newVersionCheck": 5,
   "featureFlags": {
-    "buildMyMap": false
+    "buildMyMap": true
   }
 }

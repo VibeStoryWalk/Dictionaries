@@ -106,6 +106,8 @@
       "title": "There is a hidden point nearby",
       "titleFromRouteMap": "There is a hidden point near the route",
       "body": "Would you like to add it to the route for watching an ad?",
+      "titleFromFreeWalk": "This is an extra point",
+      "bodyFromFreeWalk": "Would you like to unlock it by watching an ad?",
       "accept": "Watch ad",
       "reject": "No, thanks"
     },

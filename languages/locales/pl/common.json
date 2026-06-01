@@ -108,6 +108,8 @@
       "title": "W pobliżu jest ukryty punkt",
       "titleFromRouteMap": "W pobliżu trasy jest ukryty punkt",
       "body": "Czy chcesz dodać go do trasy za obejrzenie reklamy?",
+      "titleFromFreeWalk": "To jest dodatkowy punkt",
+      "bodyFromFreeWalk": "Czy chcesz go odblokować za obejrzenie reklamy?",
       "accept": "Obejrzyj reklamę",
       "reject": "Nie, dzięki"
     },

@@ -108,6 +108,8 @@
       "title": "U blizini je skrivena točka",
       "titleFromRouteMap": "U blizini rute nalazi se skrivena točka",
       "body": "Želite li je dodati u rutu za gledanje oglasa?",
+      "titleFromFreeWalk": "Ovo je dodatna točka",
+      "bodyFromFreeWalk": "Želite li je otključati gledanjem oglasa?",
       "accept": "Pogledaj oglas",
       "reject": "Ne, hvala"
     },

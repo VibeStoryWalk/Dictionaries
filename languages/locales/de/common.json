@@ -106,6 +106,8 @@
       "title": "In der Nähe gibt es einen versteckten Punkt",
       "titleFromRouteMap": "In der Nähe der Route gibt es einen versteckten Punkt",
       "body": "Möchtest du ihn durch das Ansehen einer Werbung zur Route hinzufügen?",
+      "titleFromFreeWalk": "Dies ist ein zusätzlicher Punkt",
+      "bodyFromFreeWalk": "Möchtest du ihn durch das Ansehen einer Werbung freischalten?",
       "accept": "Werbung ansehen",
       "reject": "Nein, danke"
     },

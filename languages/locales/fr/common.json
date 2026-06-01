@@ -106,6 +106,8 @@
       "title": "Il y a un point caché à proximité",
       "titleFromRouteMap": "Il y a un point caché près de l'itinéraire",
       "body": "Voulez-vous l'ajouter à l'itinéraire en regardant une publicité ?",
+      "titleFromFreeWalk": "C'est un point supplémentaire",
+      "bodyFromFreeWalk": "Voulez-vous le débloquer en regardant une publicité ?",
       "accept": "Voir la publicité",
       "reject": "Non merci"
     },

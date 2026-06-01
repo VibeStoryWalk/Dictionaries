@@ -106,6 +106,8 @@
       "title": "Hay un punto oculto cerca",
       "titleFromRouteMap": "Hay un punto oculto cerca de la ruta",
       "body": "¿Quieres añadirlo a la ruta por ver un anuncio?",
+      "titleFromFreeWalk": "Este es un punto adicional",
+      "bodyFromFreeWalk": "¿Quieres desbloquearlo viendo un anuncio?",
       "accept": "Ver anuncio",
       "reject": "No, gracias"
     },

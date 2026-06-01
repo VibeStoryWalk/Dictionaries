@@ -336,7 +336,8 @@
     },
     "messages": {
       "confirmDelete": "Usunąć tę trasę?",
-      "creationAvailability": "Zapisywanie własnej trasy jest dostępne po obejrzeniu reklamy i tylko przy połączeniu z internetem. Jednak spacery własną trasą są nadal dostępne offline, jeśli pakiet miasta został pobrany."
+      "creationAvailability": "Zapisywanie własnej trasy jest dostępne po obejrzeniu reklamy i tylko przy połączeniu z internetem. Jednak spacery własną trasą są nadal dostępne offline, jeśli pakiet miasta został pobrany.",
+      "internetRequired": "Wymagany jest internet"
     },
     "labels": {
       "selectCategories": "Wybierz ulubione kategorie miejsc",

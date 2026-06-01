@@ -334,7 +334,8 @@
     },
     "messages": {
       "confirmDelete": "Eliminare questo percorso?",
-      "creationAvailability": "Il salvataggio del proprio percorso è disponibile dopo aver guardato una pubblicità e solo con una connessione a Internet. Tuttavia, le passeggiate sul proprio percorso restano disponibili offline se il pacchetto della città è stato scaricato."
+      "creationAvailability": "Il salvataggio del proprio percorso è disponibile dopo aver guardato una pubblicità e solo con una connessione a Internet. Tuttavia, le passeggiate sul proprio percorso restano disponibili offline se il pacchetto della città è stato scaricato.",
+      "internetRequired": "È necessaria una connessione Internet"
     },
     "labels": {
       "selectCategories": "Scegli le tue categorie preferite",

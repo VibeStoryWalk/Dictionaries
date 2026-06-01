@@ -334,7 +334,8 @@
     },
     "messages": {
       "confirmDelete": "Delete this route?",
-      "creationAvailability": "Saving your own route is available after watching an ad and only when connected to the internet. However, walks along your own route are still available offline if the city package has been downloaded."
+      "creationAvailability": "Saving your own route is available after watching an ad and only when connected to the internet. However, walks along your own route are still available offline if the city package has been downloaded.",
+      "internetRequired": "Internet is required"
     },
     "labels": {
       "selectCategories": "Choose your favourite place categories",

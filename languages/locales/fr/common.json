@@ -58,14 +58,18 @@
       "restart": "Refaire l’itinéraire",
       "continue": "Continuer la promenade",
       "start": "Commencer la promenade",
-      "routeMap": "Carte de l’itinéraire"
+      "routeMap": "Carte de l’itinéraire",
+      "like": "Aimer l'itineraire",
+      "unlike": "Retirer le like"
     },
     "tooltips": {
       "backToCityRoutes": "Vers les itinéraires de la ville",
       "duration": "Durée",
       "distance": "Distance",
       "routeType": "Type d’itinéraire",
-      "openMap": "Ouvrir la carte de l’itinéraire en plein écran"
+      "openMap": "Ouvrir la carte de l’itinéraire en plein écran",
+      "likes": "Likes de l'itineraire",
+      "likesUnavailable": "Les likes de l'itineraire ne sont pas disponibles pour le moment"
     },
     "types": {
       "walk": "À pied",
@@ -73,7 +77,11 @@
     },
     "metrics": {
       "points_one": "{{count}} point",
-      "points_other": "{{count}} points"
+      "points_other": "{{count}} points",
+      "likes_one": "{{count}} like",
+      "likes_few": "{{count}} likes",
+      "likes_many": "{{count}} likes",
+      "likes_other": "{{count}} likes"
     },
     "directions": {
       "title": "Comment y aller?"

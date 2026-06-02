@@ -58,14 +58,18 @@
       "restart": "Пройти маршрут заново",
       "continue": "Продолжить прогулку",
       "start": "Начать прогулку",
-      "routeMap": "Карта маршрута"
+      "routeMap": "Карта маршрута",
+      "like": "Лайкнуть маршрут",
+      "unlike": "Убрать лайк"
     },
     "tooltips": {
       "backToCityRoutes": "К маршрутам города",
       "duration": "Время прохождения",
       "distance": "Расстояние",
       "routeType": "Тип маршрута",
-      "openMap": "Открыть полноэкранную карту маршрута"
+      "openMap": "Открыть полноэкранную карту маршрута",
+      "likes": "Лайки маршрута",
+      "likesUnavailable": "Лайки маршрута сейчас недоступны"
     },
     "types": {
       "walk": "Пешком",
@@ -75,7 +79,11 @@
       "points_one": "{{count}} точка",
       "points_few": "{{count}} точки",
       "points_many": "{{count}} точек",
-      "points_other": "{{count}} точки"
+      "points_other": "{{count}} точки",
+      "likes_one": "{{count}} лайк",
+      "likes_few": "{{count}} лайка",
+      "likes_many": "{{count}} лайков",
+      "likes_other": "{{count}} лайка"
     },
     "directions": {
       "title": "Как добраться?"

@@ -58,14 +58,18 @@
       "restart": "Пройти маршрут знову",
       "continue": "Продовжити прогулянку",
       "start": "Почати прогулянку",
-      "routeMap": "Карта маршруту"
+      "routeMap": "Карта маршруту",
+      "like": "Вподобати маршрут",
+      "unlike": "Прибрати вподобайку"
     },
     "tooltips": {
       "backToCityRoutes": "До маршрутів міста",
       "duration": "Час проходження",
       "distance": "Відстань",
       "routeType": "Тип маршруту",
-      "openMap": "Відкрити повноекранну карту маршруту"
+      "openMap": "Відкрити повноекранну карту маршруту",
+      "likes": "Вподобайки маршруту",
+      "likesUnavailable": "Вподобайки маршруту зараз недоступні"
     },
     "types": {
       "walk": "Пішки",
@@ -75,7 +79,11 @@
       "points_one": "{{count}} точка",
       "points_few": "{{count}} точки",
       "points_many": "{{count}} точок",
-      "points_other": "{{count}} точки"
+      "points_other": "{{count}} точки",
+      "likes_one": "{{count}} вподобайка",
+      "likes_few": "{{count}} вподобайки",
+      "likes_many": "{{count}} вподобайок",
+      "likes_other": "{{count}} вподобайки"
     },
     "directions": {
       "title": "Як дістатися?"

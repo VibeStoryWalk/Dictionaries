@@ -58,14 +58,18 @@
       "restart": "Ricomincia il percorso",
       "continue": "Continua la passeggiata",
       "start": "Inizia la passeggiata",
-      "routeMap": "Mappa del percorso"
+      "routeMap": "Mappa del percorso",
+      "like": "Metti like al percorso",
+      "unlike": "Rimuovi like"
     },
     "tooltips": {
       "backToCityRoutes": "Ai percorsi della città",
       "duration": "Tempo di percorrenza",
       "distance": "Distanza",
       "routeType": "Tipo di percorso",
-      "openMap": "Apri la mappa del percorso a schermo intero"
+      "openMap": "Apri la mappa del percorso a schermo intero",
+      "likes": "Like del percorso",
+      "likesUnavailable": "I like del percorso non sono disponibili al momento"
     },
     "types": {
       "walk": "A piedi",
@@ -73,7 +77,11 @@
     },
     "metrics": {
       "points_one": "{{count}} punto",
-      "points_other": "{{count}} punti"
+      "points_other": "{{count}} punti",
+      "likes_one": "{{count}} like",
+      "likes_few": "{{count}} like",
+      "likes_many": "{{count}} like",
+      "likes_other": "{{count}} like"
     },
     "directions": {
       "title": "Come arrivare?"

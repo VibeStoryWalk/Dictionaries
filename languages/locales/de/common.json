@@ -58,14 +58,18 @@
       "restart": "Route neu starten",
       "continue": "Spaziergang fortsetzen",
       "start": "Spaziergang starten",
-      "routeMap": "Routenkarte"
+      "routeMap": "Routenkarte",
+      "like": "Route liken",
+      "unlike": "Like entfernen"
     },
     "tooltips": {
       "backToCityRoutes": "Zu den Stadtrouten",
       "duration": "Dauer",
       "distance": "Entfernung",
       "routeType": "Routentyp",
-      "openMap": "Vollbild-Routenkarte öffnen"
+      "openMap": "Vollbild-Routenkarte öffnen",
+      "likes": "Route-Likes",
+      "likesUnavailable": "Route-Likes sind derzeit nicht verfugbar"
     },
     "types": {
       "walk": "Zu Fuß",
@@ -73,7 +77,11 @@
     },
     "metrics": {
       "points_one": "{{count}} Punkt",
-      "points_other": "{{count}} Punkte"
+      "points_other": "{{count}} Punkte",
+      "likes_one": "{{count}} Like",
+      "likes_few": "{{count}} Likes",
+      "likes_many": "{{count}} Likes",
+      "likes_other": "{{count}} Likes"
     },
     "directions": {
       "title": "Wie komme ich hin?"

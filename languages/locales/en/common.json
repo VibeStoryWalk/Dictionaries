@@ -58,14 +58,18 @@
       "restart": "Restart route",
       "continue": "Continue walk",
       "start": "Start walk",
-      "routeMap": "Route map"
+      "routeMap": "Route map",
+      "like": "Like route",
+      "unlike": "Unlike route"
     },
     "tooltips": {
       "backToCityRoutes": "To city routes",
       "duration": "Walking time",
       "distance": "Distance",
       "routeType": "Route type",
-      "openMap": "Open full-screen route map"
+      "openMap": "Open full-screen route map",
+      "likes": "Route likes",
+      "likesUnavailable": "Route likes are unavailable right now"
     },
     "types": {
       "walk": "Walking",
@@ -73,7 +77,9 @@
     },
     "metrics": {
       "points_one": "{{count}} point",
-      "points_other": "{{count}} points"
+      "points_other": "{{count}} points",
+      "likes_one": "{{count}} like",
+      "likes_other": "{{count}} likes"
     },
     "directions": {
       "title": "How to get there?"

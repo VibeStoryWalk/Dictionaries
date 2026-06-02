@@ -58,14 +58,18 @@
       "restart": "Prođi rutu ponovno",
       "continue": "Nastavi šetnju",
       "start": "Započni šetnju",
-      "routeMap": "Karta rute"
+      "routeMap": "Karta rute",
+      "like": "Lajkaj rutu",
+      "unlike": "Ukloni lajk"
     },
     "tooltips": {
       "backToCityRoutes": "Na rute grada",
       "duration": "Trajanje",
       "distance": "Udaljenost",
       "routeType": "Vrsta rute",
-      "openMap": "Otvori kartu rute preko cijelog zaslona"
+      "openMap": "Otvori kartu rute preko cijelog zaslona",
+      "likes": "Lajkovi rute",
+      "likesUnavailable": "Lajkovi rute trenutno nisu dostupni"
     },
     "types": {
       "walk": "Pješice",
@@ -75,7 +79,11 @@
       "points_one": "{{count}} točka",
       "points_few": "{{count}} točke",
       "points_many": "{{count}} točaka",
-      "points_other": "{{count}} točke"
+      "points_other": "{{count}} točke",
+      "likes_one": "{{count}} lajk",
+      "likes_few": "{{count}} lajka",
+      "likes_many": "{{count}} lajkova",
+      "likes_other": "{{count}} lajkova"
     },
     "directions": {
       "title": "Kako doći?"

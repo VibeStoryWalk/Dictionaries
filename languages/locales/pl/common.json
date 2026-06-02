@@ -58,14 +58,18 @@
       "restart": "Rozpocznij trasę od nowa",
       "continue": "Kontynuuj spacer",
       "start": "Rozpocznij spacer",
-      "routeMap": "Mapa trasy"
+      "routeMap": "Mapa trasy",
+      "like": "Polub trase",
+      "unlike": "Usun polubienie"
     },
     "tooltips": {
       "backToCityRoutes": "Do tras miasta",
       "duration": "Czas przejścia",
       "distance": "Dystans",
       "routeType": "Typ trasy",
-      "openMap": "Otwórz pełnoekranową mapę trasy"
+      "openMap": "Otwórz pełnoekranową mapę trasy",
+      "likes": "Polubienia trasy",
+      "likesUnavailable": "Polubienia trasy sa teraz niedostepne"
     },
     "types": {
       "walk": "Pieszo",
@@ -75,7 +79,11 @@
       "points_one": "{{count}} punkt",
       "points_few": "{{count}} punkty",
       "points_many": "{{count}} punktów",
-      "points_other": "{{count}} punktu"
+      "points_other": "{{count}} punktu",
+      "likes_one": "{{count}} polubienie",
+      "likes_few": "{{count}} polubienia",
+      "likes_many": "{{count}} polubien",
+      "likes_other": "{{count}} polubienia"
     },
     "directions": {
       "title": "Jak tam dotrzeć?"

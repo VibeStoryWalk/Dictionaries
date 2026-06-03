@@ -322,6 +322,8 @@
     "title": "Izradi svoju rutu",
     "tooltips": {
       "open": "Izradi svoju rutu",
+      "startCloserToMe": "Preporučuje se uključiti ovu opciju ako se nalazite u središtu grada.",
+      "avoidSavedRoutePoints": "Praktično ako ste već prošli rute koje ste ranije sami izradili.",
       "loopRoute": "Završna točka bit će blizu početne točke - praktično kada se trebate vratiti do parkirališta, kolodvora ili hotela"
     },
     "steps": {

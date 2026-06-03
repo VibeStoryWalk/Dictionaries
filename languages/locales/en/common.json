@@ -318,6 +318,8 @@
     "title": "Build My Route",
     "tooltips": {
       "open": "Build my route",
+      "startCloserToMe": "It is recommended to enable this option if you are in the city center.",
+      "avoidSavedRoutePoints": "Useful if you have already completed routes you created earlier.",
       "loopRoute": "The finish point will be close to the start point, which is convenient when you need to return to parking, a station, or a hotel"
     },
     "steps": {

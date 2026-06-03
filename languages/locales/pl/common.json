@@ -322,6 +322,8 @@
     "title": "Stwórz swoją trasę",
     "tooltips": {
       "open": "Stwórz swoją trasę",
+      "startCloserToMe": "Zaleca się włączenie tej opcji, jeśli znajdujesz się w centrum miasta.",
+      "avoidSavedRoutePoints": "Przydatne, jeśli masz już za sobą wcześniej utworzone przez siebie trasy.",
       "loopRoute": "Punkt końcowy będzie blisko punktu startowego - to wygodne, gdy trzeba wrócić do parkingu, dworca lub hotelu"
     },
     "steps": {

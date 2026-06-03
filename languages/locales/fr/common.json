@@ -320,6 +320,8 @@
     "title": "Créer mon itinéraire",
     "tooltips": {
       "open": "Créer mon itinéraire",
+      "startCloserToMe": "Il est recommandé d’activer cette option si vous vous trouvez dans le centre-ville.",
+      "avoidSavedRoutePoints": "Pratique si vous avez déjà parcouru des itinéraires créés précédemment par vous.",
       "loopRoute": "Le point d'arrivée sera proche du point de départ, ce qui est pratique pour revenir au parking, à la gare ou à l'hôtel"
     },
     "steps": {

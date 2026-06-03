@@ -320,6 +320,8 @@
     "title": "Meine Route erstellen",
     "tooltips": {
       "open": "Meine Route erstellen",
+      "startCloserToMe": "Es wird empfohlen, diese Option zu aktivieren, wenn Sie sich im Stadtzentrum befinden.",
+      "avoidSavedRoutePoints": "Praktisch, wenn Sie bereits zuvor von Ihnen erstellte Routen abgeschlossen haben.",
       "loopRoute": "Der Zielpunkt liegt in der Nähe des Startpunkts - praktisch, wenn Sie zum Parkplatz, Bahnhof oder Hotel zurückkehren müssen"
     },
     "steps": {

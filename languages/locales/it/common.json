@@ -320,6 +320,8 @@
     "title": "Crea il mio percorso",
     "tooltips": {
       "open": "Crea il mio percorso",
+      "startCloserToMe": "Si consiglia di attivare questa opzione se ti trovi nel centro della città.",
+      "avoidSavedRoutePoints": "Utile se hai già completato percorsi creati in precedenza da te.",
       "loopRoute": "Il punto di arrivo sarà vicino al punto di partenza: è comodo quando bisogna tornare al parcheggio, alla stazione o all'hotel"
     },
     "steps": {

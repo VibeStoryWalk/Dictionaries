@@ -321,7 +321,8 @@
   "buildMyRoute": {
     "title": "Izradi svoju rutu",
     "tooltips": {
-      "open": "Izradi svoju rutu"
+      "open": "Izradi svoju rutu",
+      "loopRoute": "Završna točka bit će blizu početne točke - praktično kada se trebate vratiti do parkirališta, kolodvora ili hotela"
     },
     "steps": {
       "categories": "Odaberi interese",
@@ -355,6 +356,7 @@
       "avoidPaidPlaces": "Izbjegavaj mjesta koja se plaćaju",
       "avoidSavedRoutePoints": "Izbjegavaj točke iz mojih ruta",
       "startCloserToMe": "Započni bliže meni",
+      "loopRoute": "Zatvori rutu u krug",
       "pointsFound_one": "{{count}} mjesto",
       "pointsFound_few": "{{count}} mjesta",
       "pointsFound_other": "{{count}} mjesta",

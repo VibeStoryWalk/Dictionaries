@@ -319,7 +319,8 @@
   "buildMyRoute": {
     "title": "Crea il mio percorso",
     "tooltips": {
-      "open": "Crea il mio percorso"
+      "open": "Crea il mio percorso",
+      "loopRoute": "Il punto di arrivo sarà vicino al punto di partenza: è comodo quando bisogna tornare al parcheggio, alla stazione o all'hotel"
     },
     "steps": {
       "categories": "Scegli gli interessi",
@@ -353,6 +354,7 @@
       "avoidPaidPlaces": "Evita i luoghi a pagamento",
       "avoidSavedRoutePoints": "Evita i punti dei miei percorsi",
       "startCloserToMe": "Inizia più vicino a me",
+      "loopRoute": "Chiudi il percorso ad anello",
       "pointsFound_one": "{{count}} luogo",
       "pointsFound_other": "{{count}} luoghi",
       "noPoints": "Nessun luogo corrisponde. Prova altre categorie o una distanza maggiore.",

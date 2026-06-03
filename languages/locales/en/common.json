@@ -317,7 +317,8 @@
   "buildMyRoute": {
     "title": "Build My Route",
     "tooltips": {
-      "open": "Build my route"
+      "open": "Build my route",
+      "loopRoute": "The finish point will be close to the start point, which is convenient when you need to return to parking, a station, or a hotel"
     },
     "steps": {
       "categories": "Choose Interests",
@@ -351,6 +352,7 @@
       "avoidPaidPlaces": "Avoid paid places",
       "avoidSavedRoutePoints": "Avoid points from my routes",
       "startCloserToMe": "Start closer to me",
+      "loopRoute": "Make route circular",
       "pointsFound_one": "{{count}} point",
       "pointsFound_other": "{{count}} points",
       "noPoints": "No points match. Try different categories or a longer distance.",

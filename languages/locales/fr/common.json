@@ -319,7 +319,8 @@
   "buildMyRoute": {
     "title": "Créer mon itinéraire",
     "tooltips": {
-      "open": "Créer mon itinéraire"
+      "open": "Créer mon itinéraire",
+      "loopRoute": "Le point d'arrivée sera proche du point de départ, ce qui est pratique pour revenir au parking, à la gare ou à l'hôtel"
     },
     "steps": {
       "categories": "Choisir les centres d’intérêt",
@@ -353,6 +354,7 @@
       "avoidPaidPlaces": "Éviter les lieux payants",
       "avoidSavedRoutePoints": "Éviter les points de mes itinéraires",
       "startCloserToMe": "Commencer plus près de moi",
+      "loopRoute": "Boucler l'itinéraire",
       "pointsFound_one": "{{count}} lieu",
       "pointsFound_other": "{{count}} lieux",
       "noPoints": "Aucun lieu correspondant. Essayez d’autres catégories ou une plus grande distance.",

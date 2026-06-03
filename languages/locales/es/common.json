@@ -319,7 +319,8 @@
   "buildMyRoute": {
     "title": "Crear mi ruta",
     "tooltips": {
-      "open": "Crear mi ruta"
+      "open": "Crear mi ruta",
+      "loopRoute": "El punto final estará cerca del punto de inicio; es útil cuando necesita volver al aparcamiento, la estación o el hotel"
     },
     "steps": {
       "categories": "Elegir intereses",
@@ -353,6 +354,7 @@
       "avoidPaidPlaces": "Evitar lugares de pago",
       "avoidSavedRoutePoints": "Evitar puntos de mis rutas",
       "startCloserToMe": "Empezar más cerca de mí",
+      "loopRoute": "Cerrar la ruta en bucle",
       "pointsFound_one": "{{count}} lugar",
       "pointsFound_other": "{{count}} lugares",
       "noPoints": "No hay lugares que coincidan. Prueba otras categorías o una distancia mayor.",

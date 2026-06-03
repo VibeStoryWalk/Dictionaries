@@ -321,7 +321,8 @@
   "buildMyRoute": {
     "title": "Создать свой маршрут",
     "tooltips": {
-      "open": "Создать свой маршрут"
+      "open": "Создать свой маршрут",
+      "loopRoute": "Точка финиша будет рядом с точкой старта - это удобно, когда нужно вернуться к парковке, вокзалу или отелю"
     },
     "steps": {
       "categories": "Выберите интересы",
@@ -355,6 +356,7 @@
       "avoidPaidPlaces": "Избегать платных мест",
       "avoidSavedRoutePoints": "Избегать точек моих маршрутов",
       "startCloserToMe": "Старт ближе ко мне",
+      "loopRoute": "Закольцевать маршрут",
       "pointsFound_one": "{{count}} место",
       "pointsFound_few": "{{count}} места",
       "pointsFound_many": "{{count}} мест",

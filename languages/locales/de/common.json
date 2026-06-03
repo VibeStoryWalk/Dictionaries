@@ -319,7 +319,8 @@
   "buildMyRoute": {
     "title": "Meine Route erstellen",
     "tooltips": {
-      "open": "Meine Route erstellen"
+      "open": "Meine Route erstellen",
+      "loopRoute": "Der Zielpunkt liegt in der Nähe des Startpunkts - praktisch, wenn Sie zum Parkplatz, Bahnhof oder Hotel zurückkehren müssen"
     },
     "steps": {
       "categories": "Interessen wählen",
@@ -353,6 +354,7 @@
       "avoidPaidPlaces": "Kostenpflichtige Orte vermeiden",
       "avoidSavedRoutePoints": "Punkte aus meinen Routen vermeiden",
       "startCloserToMe": "Näher bei mir starten",
+      "loopRoute": "Route als Rundweg planen",
       "pointsFound_one": "{{count}} Ort",
       "pointsFound_other": "{{count}} Orte",
       "noPoints": "Keine passenden Orte. Versuche andere Kategorien oder eine längere Distanz.",

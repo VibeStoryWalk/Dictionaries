@@ -321,7 +321,8 @@
   "buildMyRoute": {
     "title": "Stwórz swoją trasę",
     "tooltips": {
-      "open": "Stwórz swoją trasę"
+      "open": "Stwórz swoją trasę",
+      "loopRoute": "Punkt końcowy będzie blisko punktu startowego - to wygodne, gdy trzeba wrócić do parkingu, dworca lub hotelu"
     },
     "steps": {
       "categories": "Wybierz zainteresowania",
@@ -355,6 +356,7 @@
       "avoidPaidPlaces": "Unikaj płatnych miejsc",
       "avoidSavedRoutePoints": "Unikaj punktów z moich tras",
       "startCloserToMe": "Zacznij bliżej mnie",
+      "loopRoute": "Zamknij trasę w pętlę",
       "pointsFound_one": "{{count}} miejsce",
       "pointsFound_few": "{{count}} miejsca",
       "pointsFound_many": "{{count}} miejsc",

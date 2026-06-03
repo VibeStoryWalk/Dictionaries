@@ -163,6 +163,7 @@
       "theme": "Design",
       "batterySaver": "Batteriesparen",
       "vibration": "Vibration",
+      "autoPointActivation": "Automatische Punktaktivierung",
       "autoSpeech": "Automatische Sprachausgabe",
       "privacyPolicy": "Datenschutzerklärung",
       "ads": "Werbung",
@@ -182,6 +183,8 @@
       "themeToggle": "Design umschalten",
       "batterySaverToggle": "Batteriesparen umschalten",
       "vibrationToggle": "Vibration umschalten",
+      "autoPointActivationToggle": "Automatische Punktaktivierung umschalten",
+      "autoPointActivationHelp": "Hilfe zur automatischen Punktaktivierung",
       "autoSpeechToggle": "Automatische Sprachausgabe umschalten",
       "adsToggle": "Werbung umschalten",
       "simulationToggle": "Routensimulation umschalten",
@@ -207,6 +210,9 @@
     "vibration": {
       "on": "An",
       "off": "Aus"
+    },
+    "autoPointActivation": {
+      "tooltip": "Deaktivieren Sie diese Option, wenn Informationen zu einem Punkt, den Sie erreicht haben, nicht automatisch geöffnet werden sollen"
     },
     "ads": {
       "on": "An",

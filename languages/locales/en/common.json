@@ -161,6 +161,7 @@
       "theme": "Theme",
       "batterySaver": "Battery saver",
       "vibration": "Vibration",
+      "autoPointActivation": "Point auto-activation",
       "autoSpeech": "Auto speech",
       "privacyPolicy": "Privacy policy",
       "ads": "Ads",
@@ -180,6 +181,8 @@
       "themeToggle": "Toggle theme",
       "batterySaverToggle": "Toggle battery saver",
       "vibrationToggle": "Toggle vibration",
+      "autoPointActivationToggle": "Toggle point auto-activation",
+      "autoPointActivationHelp": "Point auto-activation help",
       "autoSpeechToggle": "Toggle automatic speech",
       "adsToggle": "Toggle ads",
       "simulationToggle": "Toggle route simulation",
@@ -205,6 +208,9 @@
     "vibration": {
       "on": "On",
       "off": "Off"
+    },
+    "autoPointActivation": {
+      "tooltip": "Turn this off if you do not want information about a point you approached to open automatically"
     },
     "ads": {
       "on": "On",

@@ -165,6 +165,7 @@
       "theme": "Тема",
       "batterySaver": "Економія батареї",
       "vibration": "Вібрація",
+      "autoPointActivation": "Автоактивація точок",
       "autoSpeech": "Автоозвучення",
       "privacyPolicy": "Політика конфіденційності",
       "ads": "Реклама",
@@ -184,6 +185,8 @@
       "themeToggle": "Перемкнути тему",
       "batterySaverToggle": "Перемкнути економію батареї",
       "vibrationToggle": "Перемкнути вібрацію",
+      "autoPointActivationToggle": "Перемкнути автоактивацію точок",
+      "autoPointActivationHelp": "Пояснення щодо автоактивації точок",
       "autoSpeechToggle": "Перемкнути автоозвучення",
       "adsToggle": "Перемкнути рекламу",
       "simulationToggle": "Перемкнути симуляцію маршруту",
@@ -209,6 +212,9 @@
     "vibration": {
       "on": "Увімк.",
       "off": "Вимк."
+    },
+    "autoPointActivation": {
+      "tooltip": "Вимкніть цю опцію, якщо не хочете, щоб інформація про точку, до якої ви підійшли, відкривалася автоматично"
     },
     "ads": {
       "on": "Увімк.",

@@ -165,6 +165,7 @@
       "theme": "Tema",
       "batterySaver": "Štednja baterije",
       "vibration": "Vibracija",
+      "autoPointActivation": "Automatska aktivacija točaka",
       "autoSpeech": "Automatsko čitanje",
       "privacyPolicy": "Pravila privatnosti",
       "ads": "Oglasi",
@@ -184,6 +185,8 @@
       "themeToggle": "Promijeni temu",
       "batterySaverToggle": "Uključi ili isključi štednju baterije",
       "vibrationToggle": "Uključi ili isključi vibraciju",
+      "autoPointActivationToggle": "Uključi ili isključi automatsku aktivaciju točaka",
+      "autoPointActivationHelp": "Pomoć za automatsku aktivaciju točaka",
       "autoSpeechToggle": "Uključi ili isključi automatsko čitanje",
       "adsToggle": "Uključi ili isključi oglase",
       "simulationToggle": "Uključi ili isključi simulaciju rute",
@@ -209,6 +212,9 @@
     "vibration": {
       "on": "Uključeno",
       "off": "Isključeno"
+    },
+    "autoPointActivation": {
+      "tooltip": "Isključite ovu opciju ako ne želite da se informacije o točki kojoj ste se približili otvaraju automatski"
     },
     "ads": {
       "on": "Uključeno",

@@ -163,6 +163,7 @@
       "theme": "Tema",
       "batterySaver": "Risparmio batteria",
       "vibration": "Vibrazione",
+      "autoPointActivation": "Attivazione automatica dei punti",
       "autoSpeech": "Lettura automatica",
       "privacyPolicy": "Informativa sulla privacy",
       "ads": "Pubblicità",
@@ -182,6 +183,8 @@
       "themeToggle": "Cambia tema",
       "batterySaverToggle": "Attiva o disattiva il risparmio batteria",
       "vibrationToggle": "Attiva o disattiva la vibrazione",
+      "autoPointActivationToggle": "Attiva o disattiva l'attivazione automatica dei punti",
+      "autoPointActivationHelp": "Aiuto per l'attivazione automatica dei punti",
       "autoSpeechToggle": "Attiva o disattiva la lettura automatica",
       "adsToggle": "Attiva o disattiva la pubblicità",
       "simulationToggle": "Attiva o disattiva la simulazione del percorso",
@@ -207,6 +210,9 @@
     "vibration": {
       "on": "On",
       "off": "Off"
+    },
+    "autoPointActivation": {
+      "tooltip": "Disattiva questa opzione se non vuoi che le informazioni sul punto a cui ti sei avvicinato si aprano automaticamente"
     },
     "ads": {
       "on": "On",

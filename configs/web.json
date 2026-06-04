@@ -2,6 +2,6 @@
   "showDebugSettings": true,
   "useLocalDicts": true,
   "defaultUiSettings": {
-    "adsEnabled": true
+    "adsEnabled": false
   }
 }

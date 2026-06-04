@@ -650,6 +650,76 @@
             2
           ]
         }
+      ],
+      "en": [
+        {
+          "question": "What, according to the story, is the Barbican in Krakow?",
+          "answerType": "single",
+          "answers": [
+            "A medieval fortification",
+            "A royal palace",
+            "A Gothic cathedral",
+            "A city hall"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "What was the Barbican in Krakow built for?",
+          "answerType": "single",
+          "answers": [
+            "To defend the northern entrance to the city",
+            "To house market stalls",
+            "For coronation ceremonies",
+            "To store archives"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Which facts about the Barbican in Krakow are mentioned in the story?",
+          "answerType": "multi",
+          "answers": [
+            "Built in the late 15th century",
+            "Connected with Jan Olbracht's fortifications",
+            "Built during the threat from the Ottoman Empire",
+            "Appeared as a railway station"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Why is the Barbican in Krakow considered a rare monument?",
+          "answerType": "single",
+          "answers": [
+            "It has survived almost in its original form",
+            "It was completely rebuilt in the 19th century",
+            "It was hidden underground",
+            "It stands on the site of an ancient bridge"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Which statements about the legend associated with the Barbican in Krakow are true?",
+          "answerType": "multi",
+          "answers": [
+            "It features a simple craftsman who struck the enemy commander",
+            "The world's first catapult was used against it",
+            "This story is connected with the siege of the city",
+            "The legend tells of a naval battle"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
       ]
     }
   },

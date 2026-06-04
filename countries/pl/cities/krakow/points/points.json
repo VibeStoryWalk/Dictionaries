@@ -720,6 +720,496 @@
             2
           ]
         }
+      ],
+      "de": [
+        {
+          "question": "Was ist laut der Erzählung der Barbakan in Krakau?",
+          "answerType": "single",
+          "answers": [
+            "Eine mittelalterliche Befestigung",
+            "Ein Königspalast",
+            "Eine gotische Kathedrale",
+            "Das Stadtpalais"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Für welche Aufgabe wurde der Barbakan in Krakau gebaut?",
+          "answerType": "single",
+          "answers": [
+            "Zur Verteidigung des nördlichen Stadteingangs",
+            "Zur Unterbringung von Marktständen",
+            "Für Krönungszeremonien",
+            "Zur Aufbewahrung von Archiven"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Welche Fakten über den Barbakan in Krakau werden in der Geschichte erwähnt?",
+          "answerType": "multi",
+          "answers": [
+            "Errichtet am Ende des 15. Jahrhunderts",
+            "Mit den Befestigungen von Jan Olbracht verbunden",
+            "In einer Zeit der Bedrohung durch das Osmanische Reich erbaut",
+            "Erschien als Bahnhof"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Warum gilt der Barbakan in Krakau als seltenes Denkmal?",
+          "answerType": "single",
+          "answers": [
+            "Er ist fast in seinem ursprünglichen Zustand erhalten geblieben",
+            "Er wurde im 19. Jahrhundert vollständig umgebaut",
+            "Er wurde unter der Erde verborgen",
+            "Er steht an der Stelle einer alten Brücke"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Welche Aussagen über die mit dem Barbakan in Krakau verbundene Legende sind richtig?",
+          "answerType": "multi",
+          "answers": [
+            "Darin tritt ein einfacher Handwerker auf, der den feindlichen Befehlshaber beeindruckte",
+            "Dabei wurde die erste Katapult der Welt verwendet",
+            "Diese Geschichte ist mit der Belagerung der Stadt verbunden",
+            "In der Legende wird von einer Seeschlacht erzählt"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Qué es, según la historia, la Barbacana de Cracovia?",
+          "answerType": "single",
+          "answers": [
+            "Una fortificación medieval",
+            "Un palacio real",
+            "Una catedral gótica",
+            "El ayuntamiento de la ciudad"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "¿Para qué fue construida la Barbacana de Cracovia?",
+          "answerType": "single",
+          "answers": [
+            "Para proteger la entrada norte de la ciudad",
+            "Para alojar puestos comerciales",
+            "Para ceremonias de coronación",
+            "Para guardar archivos"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "¿Qué hechos sobre la Barbacana de Cracovia se mencionan en la historia?",
+          "answerType": "multi",
+          "answers": [
+            "Fue erigida a finales del siglo XV",
+            "Está vinculada a las fortificaciones de Jan Olbracht",
+            "Fue construida en la época de la amenaza del Imperio otomano",
+            "Apareció como estación de tren"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "¿Por qué se considera rara la Barbacana de Cracovia?",
+          "answerType": "single",
+          "answers": [
+            "Se ha conservado casi en su forma original",
+            "Fue reconstruida por completo en el siglo XIX",
+            "Estaba oculta bajo tierra",
+            "Se alza en el lugar de un puente antiguo"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "¿Qué afirmaciones sobre la leyenda relacionada con la Barbacana de Cracovia son correctas?",
+          "answerType": "multi",
+          "answers": [
+            "En ella figura un artesano sencillo que sorprendió al comandante enemigo",
+            "Según ella, se utilizó la primera catapulta del mundo",
+            "Esta historia está relacionada con el asedio de la ciudad",
+            "La leyenda cuenta una batalla naval"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "question": "Que représente, d'après le récit, la Barbacane de Cracovie ?",
+          "answerType": "single",
+          "answers": [
+            "Une fortification médiévale",
+            "Un palais royal",
+            "Une cathédrale gothique",
+            "L'hôtel de ville"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Dans quel but la Barbacane de Cracovie a-t-elle été construite ?",
+          "answerType": "single",
+          "answers": [
+            "Pour défendre l'entrée nord de la ville",
+            "Pour accueillir des rangées de commerces",
+            "Pour les cérémonies de couronnement",
+            "Pour stocker des archives"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Quels faits sur la Barbacane de Cracovie sont mentionnés dans l'histoire ?",
+          "answerType": "multi",
+          "answers": [
+            "Édifiée à la fin du XVe siècle",
+            "Liée aux fortifications de Jan Olbracht",
+            "Construite à l'époque de la menace de l'Empire ottoman",
+            "Apparue comme gare ferroviaire"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Pourquoi la Barbacane de Cracovie est-elle considérée comme un monument rare ?",
+          "answerType": "single",
+          "answers": [
+            "Elle s'est conservée presque dans son état d'origine",
+            "Elle a été entièrement reconstruite au XIXe siècle",
+            "Elle était cachée sous terre",
+            "Elle se dresse à l'emplacement d'un ancien pont"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Quelles affirmations sur la légende liée à la Barbacane de Cracovie sont vraies ?",
+          "answerType": "multi",
+          "answers": [
+            "On y voit figurer un simple artisan qui a frappé le commandant ennemi",
+            "On y a utilisé la première catapulte au monde",
+            "Cette histoire est liée au siège de la ville",
+            "La légende raconte une bataille navale"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
+      ],
+      "hr": [
+        {
+          "question": "Što, prema priči, predstavlja Barbakan u Krakovu?",
+          "answerType": "single",
+          "answers": [
+            "Srednjovjekovna utvrda",
+            "Kraljevska palača",
+            "Gotička katedrala",
+            "Gradska vijećnica"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Za koji je zadatak izgrađen Barbakan u Krakovu?",
+          "answerType": "single",
+          "answers": [
+            "Za obranu sjevernog ulaza u grad",
+            "Za smještaj trgovačkih redova",
+            "Za krunidbene ceremonije",
+            "Za čuvanje arhiva"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Koje su činjenice o Barbakanu u Krakovu spomenute u priči?",
+          "answerType": "multi",
+          "answers": [
+            "Podignut je krajem 15. stoljeća",
+            "Povezan je s utvrdama Jana Olbrahta",
+            "Izgrađen je u doba prijetnje Osmanskog Carstva",
+            "Pojavio se kao željeznički kolodvor"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Zašto se Barbakan u Krakovu smatra rijetkim spomenikom?",
+          "answerType": "single",
+          "answers": [
+            "Sačuvan je gotovo u izvornom obliku",
+            "U potpunosti je preuređen u 19. stoljeću",
+            "Bio je skriven pod zemljom",
+            "Nalazi se na mjestu starog mosta"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Koje su tvrdnje o legendi povezanoj s Barbakanom u Krakovu točne?",
+          "answerType": "multi",
+          "answers": [
+            "U njoj se pojavljuje obični obrtnik koji je zadivio neprijateljskog zapovjednika",
+            "Po njemu je korištena prva katapulta na svijetu",
+            "Ta je priča povezana s opsadom grada",
+            "U legendi se govori o pomorskoj bitci"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
+      ],
+      "it": [
+        {
+          "question": "Cosa rappresenta, secondo il racconto, il Barbacane di Cracovia?",
+          "answerType": "single",
+          "answers": [
+            "Una fortificazione medievale",
+            "Un palazzo reale",
+            "Una cattedrale gotica",
+            "Il municipio cittadino"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Per quale scopo fu costruito il Barbacane di Cracovia?",
+          "answerType": "single",
+          "answers": [
+            "Per difendere l'ingresso nord della città",
+            "Per ospitare le file di botteghe",
+            "Per le cerimonie di incoronazione",
+            "Per conservare gli archivi"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Quali fatti sul Barbacane di Cracovia sono menzionati nella storia?",
+          "answerType": "multi",
+          "answers": [
+            "Costruito alla fine del XV secolo",
+            "Collegato alle fortificazioni di Jan Olbracht",
+            "Costruito nell'epoca della minaccia dell'Impero Ottomano",
+            "Apparve come stazione ferroviaria"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Perché il Barbacane di Cracovia è considerato un monumento raro?",
+          "answerType": "single",
+          "answers": [
+            "Si è conservato quasi nella sua forma originaria",
+            "È stato completamente ricostruito nel XIX secolo",
+            "È stato nascosto sottoterra",
+            "Sorge sul sito di un antico ponte"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Quali affermazioni sulla leggenda legata al Barbacane di Cracovia sono corrette?",
+          "answerType": "multi",
+          "answers": [
+            "Vi compare un semplice artigiano che ha colpito il comandante nemico",
+            "In essa è stata usata la prima catapulta al mondo",
+            "Questa storia è legata all'assedio della città",
+            "Nella leggenda si racconta di una battaglia navale"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
+      ],
+      "pl": [
+        {
+          "question": "Czym, według opowieści, jest Barbakan w Krakowie?",
+          "answerType": "single",
+          "answers": [
+            "Średniowieczna fortyfikacja",
+            "Pałac królewski",
+            "Gotycka katedra",
+            "Ratusz miejski"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Do jakiego zadania zbudowano Barbakan w Krakowie?",
+          "answerType": "single",
+          "answers": [
+            "Do obrony północnego wjazdu do miasta",
+            "Do rozmieszczenia kramów handlowych",
+            "Do ceremonii koronacyjnych",
+            "Do przechowywania archiwów"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Jakie fakty o Barbakanie w Krakowie zostały wspomniane w historii?",
+          "answerType": "multi",
+          "answers": [
+            "Wzniesiony pod koniec XV wieku",
+            "Związany z fortyfikacjami Jana Olbrachta",
+            "Zbudowany w epoce zagrożenia ze strony Imperium Osmańskiego",
+            "Pojawił się jako dworzec kolejowy"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Dlaczego Barbakan w Krakowie jest uważany za rzadki zabytek?",
+          "answerType": "single",
+          "answers": [
+            "Zachował się niemal w pierwotnym stanie",
+            "Został całkowicie przebudowany w XIX wieku",
+            "Był ukryty pod ziemią",
+            "Stoi w miejscu dawnego mostu"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Jakie stwierdzenia dotyczące legendy związanej z Barbakanem w Krakowie są prawdziwe?",
+          "answerType": "multi",
+          "answers": [
+            "Występuje w niej prosty rzemieślnik, który zadziwił wrogiego dowódcę",
+            "Użyto w niej pierwszej na świecie katapulty",
+            "Ta historia wiąże się z oblężeniem miasta",
+            "W legendzie opowiada się o bitwie morskiej"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
+      ],
+      "ua": [
+        {
+          "question": "Що, за розповіддю, являє собою Барбакан у Кракові?",
+          "answerType": "single",
+          "answers": [
+            "Середньовічне укріплення",
+            "Королівський палац",
+            "Готичний собор",
+            "Міська ратуша"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Для якої задачі був побудований Барбакан у Кракові?",
+          "answerType": "single",
+          "answers": [
+            "Для захисту північного в'їзду до міста",
+            "Для розміщення торгових рядів",
+            "Для коронаційних церемоній",
+            "Для зберігання архівів"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Які факти про Барбакан у Кракові згадані в історії?",
+          "answerType": "multi",
+          "answers": [
+            "Зведений наприкінці XV століття",
+            "Пов'язаний з укріпленнями Яна Ольбрахта",
+            "Побудований в епоху загрози з боку Османської імперії",
+            "З'явився як залізничний вокзал"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Чому Барбакан у Кракові вважається рідкісною пам'яткою?",
+          "answerType": "single",
+          "answers": [
+            "Він зберігся майже в первозданному вигляді",
+            "Його повністю перебудували в XIX столітті",
+            "Його було приховано під землею",
+            "Він стоїть на місці давнього мосту"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Які твердження про легенду, пов'язану з Барбаканом у Кракові, є правильними?",
+          "answerType": "multi",
+          "answers": [
+            "У ній фігурує простий ремісник, який вразив ворожого командира",
+            "У ній була використана перша у світі катапульта",
+            "Ця історія пов'язана з облогою міста",
+            "У легенді розповідається про морську битву"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            2
+          ]
+        }
       ]
     }
   },

@@ -335,15 +335,20 @@
     "steps": {
       "categories": "Wybierz zainteresowania",
       "configure": "Konfiguracja trasy",
+      "quickCreate": "Szybkie tworzenie trasy",
       "points": "Punkty trasy",
       "distance": "Długość spaceru",
       "preview": "Trasa:"
     },
     "actions": {
       "next": "Dalej",
+      "quickCreateRoute": "Szybkie tworzenie trasy",
+      "clearDrawing": "Wyczyść linię",
+      "moveMap": "Przesuwaj",
+      "drawRoute": "Rysuj",
       "buildRoute": "Stwórz trasę",
       "reviewRoute": "Sprawdź trasę",
-      "saveToFavorites": "Zapisz i zacznij spacer",
+      "saveToFavorites": "Zapisz i zacznij",
       "tryAgain": "Spróbuj ponownie",
       "walk": "Spaceruj",
       "edit": "Edytuj",
@@ -365,6 +370,7 @@
       "avoidSavedRoutePoints": "Unikaj punktów z moich tras",
       "startCloserToMe": "Zacznij bliżej mnie",
       "loopRoute": "Zamknij trasę w pętlę",
+      "quickCreateHint": "Narysuj linię lub obszar trasy",
       "pointsFound_one": "{{count}} miejsce",
       "pointsFound_few": "{{count}} miejsca",
       "pointsFound_many": "{{count}} miejsc",
@@ -396,3 +402,4 @@
     "Paid": "Płatny"
   }
 }
+

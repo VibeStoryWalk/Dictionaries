@@ -335,15 +335,20 @@
     "steps": {
       "categories": "Odaberi interese",
       "configure": "Konfiguracija rute",
+      "quickCreate": "Brzo stvaranje rute",
       "points": "Točke rute",
       "distance": "Udaljenost šetnje",
       "preview": "Ruta:"
     },
     "actions": {
       "next": "Dalje",
+      "quickCreateRoute": "Brzo stvaranje rute",
+      "clearDrawing": "Obriši liniju",
+      "moveMap": "Pomiči",
+      "drawRoute": "Crtaj",
       "buildRoute": "Izradi rutu",
       "reviewRoute": "Pregledaj rutu",
-      "saveToFavorites": "Spremi i počni šetnju",
+      "saveToFavorites": "Spremi i kreni",
       "tryAgain": "Pokušaj ponovo",
       "walk": "Šetaj",
       "edit": "Uredi",
@@ -365,6 +370,7 @@
       "avoidSavedRoutePoints": "Izbjegavaj točke iz mojih ruta",
       "startCloserToMe": "Započni bliže meni",
       "loopRoute": "Zatvori rutu u krug",
+      "quickCreateHint": "Nacrtajte liniju ili područje rute",
       "pointsFound_one": "{{count}} mjesto",
       "pointsFound_few": "{{count}} mjesta",
       "pointsFound_other": "{{count}} mjesta",
@@ -395,3 +401,4 @@
     "Paid": "Plaćen"
   }
 }
+

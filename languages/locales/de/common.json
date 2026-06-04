@@ -333,15 +333,20 @@
     "steps": {
       "categories": "Interessen wählen",
       "configure": "Routenkonfiguration",
+      "quickCreate": "Schnelle Routenerstellung",
       "points": "Routenpunkte",
       "distance": "Laufdistanz",
       "preview": "Route:"
     },
     "actions": {
       "next": "Weiter",
+      "quickCreateRoute": "Schnelle Routenerstellung",
+      "clearDrawing": "Linie löschen",
+      "moveMap": "Bewegen",
+      "drawRoute": "Zeichnen",
       "buildRoute": "Route erstellen",
       "reviewRoute": "Route prüfen",
-      "saveToFavorites": "Speichern & Spaziergang starten",
+      "saveToFavorites": "Speichern & starten",
       "tryAgain": "Erneut versuchen",
       "walk": "Laufen",
       "edit": "Bearbeiten",
@@ -363,6 +368,7 @@
       "avoidSavedRoutePoints": "Punkte aus meinen Routen vermeiden",
       "startCloserToMe": "Näher bei mir starten",
       "loopRoute": "Route als Rundweg planen",
+      "quickCreateHint": "Zeichnen Sie die Routenlinie oder den Bereich",
       "pointsFound_one": "{{count}} Ort",
       "pointsFound_other": "{{count}} Orte",
       "noPoints": "Keine passenden Orte. Versuche andere Kategorien oder eine längere Distanz.",
@@ -392,3 +398,4 @@
     "Paid": "Kostenpflichtig"
   }
 }
+

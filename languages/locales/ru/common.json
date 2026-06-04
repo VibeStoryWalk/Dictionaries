@@ -335,15 +335,20 @@
     "steps": {
       "categories": "Выберите интересы",
       "configure": "Конфигурация маршрута",
+      "quickCreate": "Быстрое создание маршрута",
       "points": "Точки маршрута",
       "distance": "Длина прогулки",
       "preview": "Маршрут:"
     },
     "actions": {
       "next": "Далее",
+      "quickCreateRoute": "Быстрое создание маршрута",
+      "clearDrawing": "Очистить линию",
+      "moveMap": "Двигать",
+      "drawRoute": "Рисовать",
       "buildRoute": "Построить маршрут",
       "reviewRoute": "Проверить маршрут",
-      "saveToFavorites": "Сохранить и начать прогулку",
+      "saveToFavorites": "Сохранить и начать",
       "tryAgain": "Попробовать снова",
       "walk": "Гулять",
       "edit": "Изменить",
@@ -365,6 +370,7 @@
       "avoidSavedRoutePoints": "Избегать точек моих маршрутов",
       "startCloserToMe": "Старт ближе ко мне",
       "loopRoute": "Закольцевать маршрут",
+      "quickCreateHint": "Нарисуйте линию или область маршрута",
       "pointsFound_one": "{{count}} место",
       "pointsFound_few": "{{count}} места",
       "pointsFound_many": "{{count}} мест",
@@ -396,3 +402,4 @@
     "Paid": "Платный"
   }
 }
+

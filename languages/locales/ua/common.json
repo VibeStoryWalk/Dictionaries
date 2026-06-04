@@ -335,15 +335,20 @@
     "steps": {
       "categories": "Оберіть інтереси",
       "configure": "Конфігурація маршруту",
+      "quickCreate": "Швидке створення маршруту",
       "points": "Точки маршруту",
       "distance": "Довжина прогулянки",
       "preview": "Маршрут:"
     },
     "actions": {
       "next": "Далі",
+      "quickCreateRoute": "Швидке створення маршруту",
+      "clearDrawing": "Очистити лінію",
+      "moveMap": "Рухати",
+      "drawRoute": "Малювати",
       "buildRoute": "Побудувати маршрут",
       "reviewRoute": "Переглянути маршрут",
-      "saveToFavorites": "Зберегти і почати прогулянку",
+      "saveToFavorites": "Зберегти і почати",
       "tryAgain": "Спробувати знову",
       "walk": "Гуляти",
       "edit": "Змінити",
@@ -365,6 +370,7 @@
       "avoidSavedRoutePoints": "Уникати точок моїх маршрутів",
       "startCloserToMe": "Старт ближче до мене",
       "loopRoute": "Закільцювати маршрут",
+      "quickCreateHint": "Намалюйте лінію або область маршруту",
       "pointsFound_one": "{{count}} місце",
       "pointsFound_few": "{{count}} місця",
       "pointsFound_many": "{{count}} місць",
@@ -396,3 +402,4 @@
     "Paid": "Платний"
   }
 }
+

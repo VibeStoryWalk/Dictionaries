@@ -331,15 +331,20 @@
     "steps": {
       "categories": "Choose Interests",
       "configure": "Route Configuration",
+      "quickCreate": "Quick Route Creation",
       "points": "Route points",
       "distance": "Walk Distance",
       "preview": "Route:"
     },
     "actions": {
       "next": "Next",
+      "quickCreateRoute": "Quick Route Creation",
+      "clearDrawing": "Clear line",
+      "moveMap": "Move",
+      "drawRoute": "Draw",
       "buildRoute": "Build Route",
       "reviewRoute": "Review route",
-      "saveToFavorites": "Save & Start Walking",
+      "saveToFavorites": "Save & Start",
       "tryAgain": "Try Again",
       "walk": "Walk",
       "edit": "Edit",
@@ -361,6 +366,7 @@
       "avoidSavedRoutePoints": "Avoid points from my routes",
       "startCloserToMe": "Start closer to me",
       "loopRoute": "Make route circular",
+      "quickCreateHint": "Draw the route line or area",
       "pointsFound_one": "{{count}} point",
       "pointsFound_other": "{{count}} points",
       "noPoints": "No points match. Try different categories or a longer distance.",
@@ -390,3 +396,4 @@
     "Paid": "Paid"
   }
 }
+

@@ -333,15 +333,20 @@
     "steps": {
       "categories": "Scegli gli interessi",
       "configure": "Configurazione del percorso",
+      "quickCreate": "Creazione rapida del percorso",
       "points": "Punti del percorso",
       "distance": "Distanza a piedi",
       "preview": "Percorso:"
     },
     "actions": {
       "next": "Avanti",
+      "quickCreateRoute": "Creazione rapida del percorso",
+      "clearDrawing": "Cancella linea",
+      "moveMap": "Sposta",
+      "drawRoute": "Disegna",
       "buildRoute": "Crea percorso",
       "reviewRoute": "Rivedi il percorso",
-      "saveToFavorites": "Salva e inizia",
+      "saveToFavorites": "Salva e avvia",
       "tryAgain": "Riprova",
       "walk": "Cammina",
       "edit": "Modifica",
@@ -363,6 +368,7 @@
       "avoidSavedRoutePoints": "Evita i punti dei miei percorsi",
       "startCloserToMe": "Inizia più vicino a me",
       "loopRoute": "Chiudi il percorso ad anello",
+      "quickCreateHint": "Disegna la linea o l’area del percorso",
       "pointsFound_one": "{{count}} luogo",
       "pointsFound_other": "{{count}} luoghi",
       "noPoints": "Nessun luogo corrisponde. Prova altre categorie o una distanza maggiore.",
@@ -392,3 +398,4 @@
     "Paid": "A pagamento"
   }
 }
+

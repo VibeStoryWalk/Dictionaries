@@ -333,15 +333,20 @@
     "steps": {
       "categories": "Choisir les centres d’intérêt",
       "configure": "Configuration de l'itinéraire",
+      "quickCreate": "Création rapide d’itinéraire",
       "points": "Points de l'itinéraire",
       "distance": "Distance de marche",
       "preview": "Itinéraire :"
     },
     "actions": {
       "next": "Suivant",
+      "quickCreateRoute": "Création rapide d’itinéraire",
+      "clearDrawing": "Effacer la ligne",
+      "moveMap": "Déplacer",
+      "drawRoute": "Dessiner",
       "buildRoute": "Créer l’itinéraire",
       "reviewRoute": "Vérifier l’itinéraire",
-      "saveToFavorites": "Enregistrer et commencer",
+      "saveToFavorites": "Enregistrer et démarrer",
       "tryAgain": "Réessayer",
       "walk": "Marcher",
       "edit": "Modifier",
@@ -363,6 +368,7 @@
       "avoidSavedRoutePoints": "Éviter les points de mes itinéraires",
       "startCloserToMe": "Commencer plus près de moi",
       "loopRoute": "Boucler l'itinéraire",
+      "quickCreateHint": "Dessinez la ligne ou la zone de l’itinéraire",
       "pointsFound_one": "{{count}} lieu",
       "pointsFound_other": "{{count}} lieux",
       "noPoints": "Aucun lieu correspondant. Essayez d’autres catégories ou une plus grande distance.",
@@ -392,3 +398,4 @@
     "Paid": "Payant"
   }
 }
+

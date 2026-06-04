@@ -333,15 +333,20 @@
     "steps": {
       "categories": "Elegir intereses",
       "configure": "Configuración de la ruta",
+      "quickCreate": "Creación rápida de ruta",
       "points": "Puntos de la ruta",
       "distance": "Distancia a pie",
       "preview": "Ruta:"
     },
     "actions": {
       "next": "Siguiente",
+      "quickCreateRoute": "Creación rápida de ruta",
+      "clearDrawing": "Borrar línea",
+      "moveMap": "Mover",
+      "drawRoute": "Dibujar",
       "buildRoute": "Crear ruta",
       "reviewRoute": "Revisar ruta",
-      "saveToFavorites": "Guardar y comenzar",
+      "saveToFavorites": "Guardar y empezar",
       "tryAgain": "Intentar de nuevo",
       "walk": "Caminar",
       "edit": "Editar",
@@ -363,6 +368,7 @@
       "avoidSavedRoutePoints": "Evitar puntos de mis rutas",
       "startCloserToMe": "Empezar más cerca de mí",
       "loopRoute": "Cerrar la ruta en bucle",
+      "quickCreateHint": "Dibuja la línea o el área de la ruta",
       "pointsFound_one": "{{count}} lugar",
       "pointsFound_other": "{{count}} lugares",
       "noPoints": "No hay lugares que coincidan. Prueba otras categorías o una distancia mayor.",
@@ -392,3 +398,4 @@
     "Paid": "De pago"
   }
 }
+

@@ -342,7 +342,7 @@
     },
     "actions": {
       "next": "Dalje",
-      "quickCreateRoute": "Brzo stvaranje rute",
+      "quickCreateRoute": "Nacrtaj rutu",
       "clearDrawing": "Obriši liniju",
       "moveMap": "Pomiči",
       "drawRoute": "Crtaj",

@@ -340,7 +340,7 @@
     },
     "actions": {
       "next": "Weiter",
-      "quickCreateRoute": "Schnelle Routenerstellung",
+      "quickCreateRoute": "Route zeichnen",
       "clearDrawing": "Linie löschen",
       "moveMap": "Bewegen",
       "drawRoute": "Zeichnen",

@@ -338,7 +338,7 @@
     },
     "actions": {
       "next": "Next",
-      "quickCreateRoute": "Quick Route Creation",
+      "quickCreateRoute": "Draw Route",
       "clearDrawing": "Clear line",
       "moveMap": "Move",
       "drawRoute": "Draw",

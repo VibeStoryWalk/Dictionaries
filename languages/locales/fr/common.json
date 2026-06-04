@@ -340,7 +340,7 @@
     },
     "actions": {
       "next": "Suivant",
-      "quickCreateRoute": "Création rapide d’itinéraire",
+      "quickCreateRoute": "Dessiner l’itinéraire",
       "clearDrawing": "Effacer la ligne",
       "moveMap": "Déplacer",
       "drawRoute": "Dessiner",

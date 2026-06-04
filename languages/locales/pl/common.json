@@ -342,7 +342,7 @@
     },
     "actions": {
       "next": "Dalej",
-      "quickCreateRoute": "Szybkie tworzenie trasy",
+      "quickCreateRoute": "Narysuj trasę",
       "clearDrawing": "Wyczyść linię",
       "moveMap": "Przesuwaj",
       "drawRoute": "Rysuj",

@@ -342,7 +342,7 @@
     },
     "actions": {
       "next": "Далее",
-      "quickCreateRoute": "Быстрое создание маршрута",
+      "quickCreateRoute": "Нарисовать маршрут",
       "clearDrawing": "Очистить линию",
       "moveMap": "Двигать",
       "drawRoute": "Рисовать",

@@ -342,7 +342,7 @@
     },
     "actions": {
       "next": "Далі",
-      "quickCreateRoute": "Швидке створення маршруту",
+      "quickCreateRoute": "Намалювати маршрут",
       "clearDrawing": "Очистити лінію",
       "moveMap": "Рухати",
       "drawRoute": "Малювати",

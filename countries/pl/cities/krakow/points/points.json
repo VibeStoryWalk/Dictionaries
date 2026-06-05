@@ -1524,61 +1524,61 @@
       {
         "id": "question-1",
         "question": {
+          "de": "Was beschreibt die Szeroka-Straße im Krakauer Kazimierz am besten?",
+          "en": "What best describes Szeroka Street in Kraków's Kazimierz?",
+          "es": "¿Qué describe mejor la calle Szeroka en el Kazimierz de Cracovia?",
+          "fr": "Qu'est-ce qui décrit le mieux la rue Szeroka dans le quartier de Kazimierz à Cracovie ?",
+          "hr": "Što najbolje opisuje ulicu Szeroka u krakovskom Kazimierzu?",
+          "it": "Che cosa descrive meglio via Szeroka nel quartiere Kazimierz di Cracovia?",
           "pl": "Co najlepiej opisuje ulicę Szeroką w krakowskim Kazimierzu?",
           "ru": "Что лучше всего описывает улицу Шерокую в краковском Казимеже?",
-          "en": "What best describes Szeroka Street in Kraków's Kazimierz?",
-          "de": "Was beschreibt die Szeroka-Straße im Krakauer Kazimierz am besten?",
-          "ua": "Що найкраще описує вулицю Шероку в краківському Казімєжі?",
-          "it": "Che cosa descrive meglio via Szeroka nel quartiere Kazimierz di Cracovia?",
-          "hr": "Što najbolje opisuje ulicu Szeroka u krakovskom Kazimierzu?",
-          "es": "¿Qué describe mejor la calle Szeroka en el Kazimierz de Cracovia?",
-          "fr": "Qu'est-ce qui décrit le mieux la rue Szeroka dans le quartier de Kazimierz à Cracovie ?"
+          "ua": "Що найкраще описує вулицю Шероку в краківському Казімєжі?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Historischer Kern des jüdischen Viertels",
+            "en": "Historical core of the Jewish quarter",
+            "es": "El núcleo histórico del barrio judío",
+            "fr": "Le cœur historique du quartier juif",
+            "hr": "Povijesno jezgro židovske četvrti",
+            "it": "Il nucleo storico del quartiere ebraico",
             "pl": "Historyczne centrum żydowskiej dzielnicy",
             "ru": "Историческое ядро еврейского квартала",
-            "en": "Historical core of the Jewish quarter",
-            "de": "Historischer Kern des jüdischen Viertels",
-            "ua": "Історичне ядро єврейського кварталу",
-            "it": "Il nucleo storico del quartiere ebraico",
-            "hr": "Povijesno jezgro židovske četvrti",
-            "es": "El núcleo histórico del barrio judío",
-            "fr": "Le cœur historique du quartier juif"
+            "ua": "Історичне ядро єврейського кварталу"
           },
           {
+            "de": "Neue Weichselpromenade",
+            "en": "New Vistula embankment",
+            "es": "El nuevo paseo del Vístula",
+            "fr": "La nouvelle promenade de la Vistule",
+            "hr": "Nova obala Visle",
+            "it": "Il nuovo lungofiume della Vistola",
             "pl": "Nowe nabrzeże Wisły",
             "ru": "Новая набережная Вислы",
-            "en": "New Vistula embankment",
-            "de": "Neue Weichselpromenade",
-            "ua": "Нова набережна Вісли",
-            "it": "Il nuovo lungofiume della Vistola",
-            "hr": "Nova obala Visle",
-            "es": "El nuevo paseo del Vístula",
-            "fr": "La nouvelle promenade de la Vistule"
+            "ua": "Нова набережна Вісли"
           },
           {
+            "de": "Hauptgeschäftsstraße",
+            "en": "Main shopping avenue",
+            "es": "La avenida comercial principal",
+            "fr": "L'avenue commerciale principale",
+            "hr": "Glavna trgovačka avenija",
+            "it": "Il principale viale commerciale",
             "pl": "Główna aleja handlowa",
             "ru": "Главный торговый проспект",
-            "en": "Main shopping avenue",
-            "de": "Hauptgeschäftsstraße",
-            "ua": "Головний торговельний проспект",
-            "it": "Il principale viale commerciale",
-            "hr": "Glavna trgovačka avenija",
-            "es": "La avenida comercial principal",
-            "fr": "L'avenue commerciale principale"
+            "ua": "Головний торговельний проспект"
           },
           {
+            "de": "Modernes Geschäftsviertel",
+            "en": "Modern business center",
+            "es": "El moderno centro de negocios",
+            "fr": "Le centre d'affaires moderne",
+            "hr": "Suvremeni poslovni centar",
+            "it": "Il moderno quartiere degli affari",
             "pl": "Nowoczesne centrum biznesowe",
             "ru": "Современный деловой центр",
-            "en": "Modern business center",
-            "de": "Modernes Geschäftsviertel",
-            "ua": "Сучасний діловий центр",
-            "it": "Il moderno quartiere degli affari",
-            "hr": "Suvremeni poslovni centar",
-            "es": "El moderno centro de negocios",
-            "fr": "Le centre d'affaires moderne"
+            "ua": "Сучасний діловий центр"
           }
         ],
         "correctAnswerIndexes": [
@@ -1588,127 +1588,126 @@
       {
         "id": "question-2",
         "question": {
-          "pl": "Jakie trzy synagogi przy ulicy Szerokiej zachowały się do dziś?",
-          "ru": "Какие три синагоги на улице Шерокой сохранились до наших дней?",
-          "en": "Which three synagogues on Szeroka Street have survived to this day?",
           "de": "Welche drei Synagogen an der Szeroka-Straße sind bis heute erhalten geblieben?",
-          "ua": "Які три синагоги на вулиці Шерокій збереглися до наших днів?",
-          "it": "Quali tre sinagoghe in via Szeroka si sono conservate fino ai nostri giorni?",
-          "hr": "Koje su tri sinagoge u ulici Szeroka sačuvane do danas?",
+          "en": "Which three synagogues on Szeroka Street have survived to this day?",
           "es": "¿Qué tres sinagogas de la calle Szeroka se han conservado hasta nuestros días?",
-          "fr": "Quelles trois synagogues de la rue Szeroka ont survécu jusqu'à nos jours ?"
+          "fr": "Quelles trois synagogues de la rue Szeroka ont survécu jusqu'à nos jours ?",
+          "hr": "Koje su tri sinagoge u ulici Szeroka sačuvane do danas?",
+          "it": "Quali tre sinagoghe in via Szeroka si sono conservate fino ai nostri giorni?",
+          "pl": "Jakie trzy synagogi przy ulicy Szerokiej zachowały się do dziś?",
+          "ru": "Какие две синагоги на улице Шерокой сохранились до наших дней?",
+          "ua": "Які три синагоги на вулиці Шерокій збереглися до наших днів?"
         },
         "answerType": "multi",
         "answers": [
           {
+            "de": "Remuh",
+            "en": "Remuh",
+            "es": "Remuh",
+            "fr": "Remuh",
+            "hr": "Remuh",
+            "it": "Remuh",
             "pl": "Remuh",
             "ru": "Ремух",
-            "en": "Remuh",
-            "de": "Remuh",
-            "ua": "Ремух",
-            "it": "Remuh",
-            "hr": "Remuh",
-            "es": "Remuh",
-            "fr": "Remuh"
+            "ua": "Ремух"
           },
           {
+            "de": "Alte",
+            "en": "Old",
+            "es": "Vieja",
+            "fr": "Ancienne",
+            "hr": "Stara",
+            "it": "Vecchia",
             "pl": "Stara",
             "ru": "Старая",
-            "en": "Old",
-            "de": "Alte",
-            "ua": "Стара",
-            "it": "Vecchia",
-            "hr": "Stara",
-            "es": "Vieja",
-            "fr": "Ancienne"
+            "ua": "Стара"
           },
           {
+            "de": "Alte",
+            "en": "Old",
+            "es": "Vieja",
+            "fr": "Ancienne",
+            "hr": "Stara",
+            "it": "Vecchia",
             "pl": "Stara",
-            "ru": "Старая",
-            "en": "Old",
-            "de": "Alte",
-            "ua": "Стара",
-            "it": "Vecchia",
-            "hr": "Stara",
-            "es": "Vieja",
-            "fr": "Ancienne"
+            "ru": "Плоская",
+            "ua": "Стара"
           },
           {
+            "de": "Neue",
+            "en": "New",
+            "es": "Nueva",
+            "fr": "Nouvelle",
+            "hr": "Nova",
+            "it": "Nuova",
             "pl": "Nowa",
             "ru": "Новая",
-            "en": "New",
-            "de": "Neue",
-            "ua": "Нова",
-            "it": "Nuova",
-            "hr": "Nova",
-            "es": "Nueva",
-            "fr": "Nouvelle"
+            "ua": "Нова"
           }
         ],
         "correctAnswerIndexes": [
           0,
-          1,
-          2
+          1
         ]
       },
       {
         "id": "question-3",
         "question": {
+          "de": "Wann begann sich die jüdische Bevölkerung in der Szeroka-Straße aktiv niederzulassen?",
+          "en": "When did the Jewish population begin to settle actively on Szeroka Street?",
+          "es": "¿Cuándo comenzó a asentarse activamente la población judía en la calle Szeroka?",
+          "fr": "Quand la population juive a-t-elle commencé à s'installer activement dans la rue Szeroka ?",
+          "hr": "Kada se židovsko stanovništvo počelo aktivno naseljavati u ulici Szeroka?",
+          "it": "Quando la popolazione ebraica ha iniziato a stabilirsi attivamente in via Szeroka?",
           "pl": "Kiedy ludność żydowska zaczęła aktywnie osiedlać się przy ulicy Szerokiej?",
           "ru": "Когда на улице Шерокой еврейское население начало активно селиться?",
-          "en": "When did the Jewish population begin to settle actively on Szeroka Street?",
-          "de": "Wann begann sich die jüdische Bevölkerung in der Szeroka-Straße aktiv niederzulassen?",
-          "ua": "Коли на вулиці Шерокій єврейське населення почало активно селитися?",
-          "it": "Quando la popolazione ebraica ha iniziato a stabilirsi attivamente in via Szeroka?",
-          "hr": "Kada se židovsko stanovništvo počelo aktivno naseljavati u ulici Szeroka?",
-          "es": "¿Cuándo comenzó a asentarse activamente la población judía en la calle Szeroka?",
-          "fr": "Quand la population juive a-t-elle commencé à s'installer activement dans la rue Szeroka ?"
+          "ua": "Коли на вулиці Шерокій єврейське населення почало активно селитися?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Ende des 15. Jahrhunderts",
+            "en": "At the end of the 15th century",
+            "es": "A finales del siglo XV",
+            "fr": "À la fin du XVe siècle",
+            "hr": "Krajem 15. stoljeća",
+            "it": "Alla fine del XV secolo",
             "pl": "Pod koniec XV wieku",
             "ru": "В конце XV века",
-            "en": "At the end of the 15th century",
-            "de": "Ende des 15. Jahrhunderts",
-            "ua": "Наприкінці XV століття",
-            "it": "Alla fine del XV secolo",
-            "hr": "Krajem 15. stoljeća",
-            "es": "A finales del siglo XV",
-            "fr": "À la fin du XVe siècle"
+            "ua": "Наприкінці XV століття"
           },
           {
+            "de": "Anfang des 13. Jahrhunderts",
+            "en": "At the beginning of the 13th century",
+            "es": "A principios del siglo XIII",
+            "fr": "Au début du XIIIe siècle",
+            "hr": "Početkom 13. stoljeća",
+            "it": "All'inizio del XIII secolo",
             "pl": "Na początku XIII wieku",
             "ru": "В начале XIII века",
-            "en": "At the beginning of the 13th century",
-            "de": "Anfang des 13. Jahrhunderts",
-            "ua": "На початку XIII століття",
-            "it": "All'inizio del XIII secolo",
-            "hr": "Početkom 13. stoljeća",
-            "es": "A principios del siglo XIII",
-            "fr": "Au début du XIIIe siècle"
+            "ua": "На початку XIII століття"
           },
           {
+            "de": "Mitte des 17. Jahrhunderts",
+            "en": "In the middle of the 17th century",
+            "es": "A mediados del siglo XVII",
+            "fr": "Au milieu du XVIIe siècle",
+            "hr": "Sredinom 17. stoljeća",
+            "it": "A metà del XVII secolo",
             "pl": "W połowie XVII wieku",
             "ru": "В середине XVII века",
-            "en": "In the middle of the 17th century",
-            "de": "Mitte des 17. Jahrhunderts",
-            "ua": "У середині XVII століття",
-            "it": "A metà del XVII secolo",
-            "hr": "Sredinom 17. stoljeća",
-            "es": "A mediados del siglo XVII",
-            "fr": "Au milieu du XVIIe siècle"
+            "ua": "У середині XVII століття"
           },
           {
+            "de": "Anfang des 20. Jahrhunderts",
+            "en": "At the beginning of the 20th century",
+            "es": "A principios del siglo XX",
+            "fr": "Au début du XXe siècle",
+            "hr": "Početkom 20. stoljeća",
+            "it": "All'inizio del XX secolo",
             "pl": "Na początku XX wieku",
             "ru": "В начале XX века",
-            "en": "At the beginning of the 20th century",
-            "de": "Anfang des 20. Jahrhunderts",
-            "ua": "На початку XX століття",
-            "it": "All'inizio del XX secolo",
-            "hr": "Početkom 20. stoljeća",
-            "es": "A principios del siglo XX",
-            "fr": "Au début du XXe siècle"
+            "ua": "На початку XX століття"
           }
         ],
         "correctAnswerIndexes": [
@@ -1718,61 +1717,61 @@
       {
         "id": "question-4",
         "question": {
+          "de": "Was ist mit den Legenden der Szeroka-Straße verbunden?",
+          "en": "What is associated with the legends of Szeroka Street?",
+          "es": "¿Qué está relacionado con las leyendas de la calle Szeroka?",
+          "fr": "Qu'est-ce qui est lié aux légendes de la rue Szeroka ?",
+          "hr": "Što je povezano s legendama ulice Szeroka?",
+          "it": "Che cosa è collegato alle leggende di via Szeroka?",
           "pl": "Z czym związane są legendy ulicy Szerokiej?",
           "ru": "Что из перечисленного связано с легендами улицы Шерокой?",
-          "en": "What is associated with the legends of Szeroka Street?",
-          "de": "Was ist mit den Legenden der Szeroka-Straße verbunden?",
-          "ua": "Що з переліченого пов'язане з легендами вулиці Шерокої?",
-          "it": "Che cosa è collegato alle leggende di via Szeroka?",
-          "hr": "Što je povezano s legendama ulice Szeroka?",
-          "es": "¿Qué está relacionado con las leyendas de la calle Szeroka?",
-          "fr": "Qu'est-ce qui est lié aux légendes de la rue Szeroka ?"
+          "ua": "Що з переліченого пов'язане з легендами вулиці Шерокої?"
         },
         "answerType": "multi",
         "answers": [
           {
+            "de": "Der Fluch des Rabbiners wegen des Bruchs des Schabbats",
+            "en": "The rabbi's curse because of breaking the Sabbath",
+            "es": "La maldición del rabino por infringir el shabat",
+            "fr": "La malédiction du rabbin à cause du non-respect du shabbat",
+            "hr": "Prokletstvo rabina zbog kršenja šabata",
+            "it": "La maledizione del rabbino per aver violato lo Shabbat",
             "pl": "Klątwa rabina za naruszenie szabatu",
             "ru": "Проклятие раввина из-за нарушения субботы",
-            "en": "The rabbi's curse because of breaking the Sabbath",
-            "de": "Der Fluch des Rabbiners wegen des Bruchs des Schabbats",
-            "ua": "Прокляття рабина через порушення суботи",
-            "it": "La maledizione del rabbino per aver violato lo Shabbat",
-            "hr": "Prokletstvo rabina zbog kršenja šabata",
-            "es": "La maldición del rabino por infringir el shabat",
-            "fr": "La malédiction du rabbin à cause du non-respect du shabbat"
+            "ua": "Прокляття рабина через порушення суботи"
           },
           {
+            "de": "Nathans Spiras Kerzenlicht in den Fenstern des Hauses",
+            "en": "Nathan Spira's candlelight in the house windows",
+            "es": "La luz de una vela de Natan Spira en las ventanas de la casa",
+            "fr": "La lumière de la bougie de Nathan Spira dans les fenêtres de la maison",
+            "hr": "Svjetlo Nathanove Spire svijeće u prozorima kuće",
+            "it": "La luce della candela di Nathan Spira nelle finestre della casa",
             "pl": "Światło świecy Natana Spiry w oknach domu",
             "ru": "Свет свечи Натана Спиры в окнах дома",
-            "en": "Nathan Spira's candlelight in the house windows",
-            "de": "Nathans Spiras Kerzenlicht in den Fenstern des Hauses",
-            "ua": "Світло свічки Натана Спіри у вікнах будинку",
-            "it": "La luce della candela di Nathan Spira nelle finestre della casa",
-            "hr": "Svjetlo Nathanove Spire svijeće u prozorima kuće",
-            "es": "La luz de una vela de Natan Spira en las ventanas de la casa",
-            "fr": "La lumière de la bougie de Nathan Spira dans les fenêtres de la maison"
+            "ua": "Світло свічки Натана Спіри у вікнах будинку"
           },
           {
+            "de": "Der unterirdische Straßenbahntunnel",
+            "en": "The underground tram tunnel",
+            "es": "El túnel subterráneo del tranvía",
+            "fr": "Le tunnel de tramway souterrain",
+            "hr": "Podzemni tramvajski tunel",
+            "it": "Il tunnel sotterraneo del tram",
             "pl": "Podziemny tunel tramwajowy",
             "ru": "Подземный трамвайный туннель",
-            "en": "The underground tram tunnel",
-            "de": "Der unterirdische Straßenbahntunnel",
-            "ua": "Підземний трамвайний тунель",
-            "it": "Il tunnel sotterraneo del tram",
-            "hr": "Podzemni tramvajski tunel",
-            "es": "El túnel subterráneo del tranvía",
-            "fr": "Le tunnel de tramway souterrain"
+            "ua": "Підземний трамвайний тунель"
           },
           {
+            "de": "Die Krönung der polnischen Könige",
+            "en": "The coronation of Polish kings",
+            "es": "La coronación de los reyes polacos",
+            "fr": "Le couronnement des rois de Pologne",
+            "hr": "Kruna poljskih kraljeva",
+            "it": "L'incoronazione dei re polacchi",
             "pl": "Koronacja polskich królów",
             "ru": "Коронация польских королей",
-            "en": "The coronation of Polish kings",
-            "de": "Die Krönung der polnischen Könige",
-            "ua": "Коронація польських королів",
-            "it": "L'incoronazione dei re polacchi",
-            "hr": "Kruna poljskih kraljeva",
-            "es": "La coronación de los reyes polacos",
-            "fr": "Le couronnement des rois de Pologne"
+            "ua": "Коронація польських королів"
           }
         ],
         "correctAnswerIndexes": [
@@ -1783,61 +1782,61 @@
       {
         "id": "question-5",
         "question": {
+          "de": "Welche Fakten treffen heute auf die Szeroka-Straße zu?",
+          "en": "Which facts are true of Szeroka Street today?",
+          "es": "¿Qué hechos son ciertos sobre la calle Szeroka hoy?",
+          "fr": "Quels faits sont vrais pour la rue Szeroka aujourd'hui ?",
+          "hr": "Koje su činjenice danas točne za ulicu Szeroka?",
+          "it": "Quali fatti sono veri per via Szeroka oggi?",
           "pl": "Jakie fakty są dziś prawdziwe o ulicy Szerokiej?",
           "ru": "Какие факты верны для улицы Шерокой сегодня?",
-          "en": "Which facts are true of Szeroka Street today?",
-          "de": "Welche Fakten treffen heute auf die Szeroka-Straße zu?",
-          "ua": "Які факти є правдивими для вулиці Шерокої сьогодні?",
-          "it": "Quali fatti sono veri per via Szeroka oggi?",
-          "hr": "Koje su činjenice danas točne za ulicu Szeroka?",
-          "es": "¿Qué hechos son ciertos sobre la calle Szeroka hoy?",
-          "fr": "Quels faits sont vrais pour la rue Szeroka aujourd'hui ?"
+          "ua": "Які факти є правдивими для вулиці Шерокої сьогодні?"
         },
         "answerType": "multi",
         "answers": [
           {
+            "de": "Bewahrt ihr historisches Kopfsteinpflaster",
+            "en": "It preserves its historic cobblestones",
+            "es": "Conserva su empedrado histórico",
+            "fr": "Conserve ses pavés historiques",
+            "hr": "Čuva svoju povijesnu kaldrmu",
+            "it": "Conserva il suo lastricato storico",
             "pl": "Zachowuje historyczny bruk",
             "ru": "Сохраняет историческую брусчатку",
-            "en": "It preserves its historic cobblestones",
-            "de": "Bewahrt ihr historisches Kopfsteinpflaster",
-            "ua": "Зберігає історичну бруківку",
-            "it": "Conserva il suo lastricato storico",
-            "hr": "Čuva svoju povijesnu kaldrmu",
-            "es": "Conserva su empedrado histórico",
-            "fr": "Conserve ses pavés historiques"
+            "ua": "Зберігає історичну бруківку"
           },
           {
+            "de": "Hier finden kulturelle Veranstaltungen statt",
+            "en": "Cultural events take place here",
+            "es": "Aquí se celebran eventos culturales",
+            "fr": "Des événements culturels s'y déroulent",
+            "hr": "Ovdje se održavaju kulturna događanja",
+            "it": "Qui si svolgono eventi culturali",
             "pl": "Odbywają się tu wydarzenia kulturalne",
             "ru": "Здесь проходят культурные события",
-            "en": "Cultural events take place here",
-            "de": "Hier finden kulturelle Veranstaltungen statt",
-            "ua": "Тут проходять культурні події",
-            "it": "Qui si svolgono eventi culturali",
-            "hr": "Ovdje se održavaju kulturna događanja",
-            "es": "Aquí se celebran eventos culturales",
-            "fr": "Des événements culturels s'y déroulent"
+            "ua": "Тут проходять культурні події"
           },
           {
+            "de": "Hier endet das jüdische Festival",
+            "en": "The Jewish festival ends here",
+            "es": "Aquí termina el festival judío",
+            "fr": "Le festival juif s'y termine",
+            "hr": "Ovdje završava židovski festival",
+            "it": "Qui si conclude il festival ebraico",
             "pl": "Tutaj kończy się festiwal żydowski",
             "ru": "Здесь завершается еврейский фестиваль",
-            "en": "The Jewish festival ends here",
-            "de": "Hier endet das jüdische Festival",
-            "ua": "Тут завершується єврейський фестиваль",
-            "it": "Qui si conclude il festival ebraico",
-            "hr": "Ovdje završava židovski festival",
-            "es": "Aquí termina el festival judío",
-            "fr": "Le festival juif s'y termine"
+            "ua": "Тут завершується єврейський фестиваль"
           },
           {
+            "de": "Das ist ein modernes Flughafengebiet",
+            "en": "It is a modern airport district",
+            "es": "Es un moderno distrito aeroportuario",
+            "fr": "C'est un quartier aéroportuaire moderne",
+            "hr": "To je suvremena aerodromska četvrt",
+            "it": "È un moderno quartiere aeroportuale",
             "pl": "To nowoczesna dzielnica lotniskowa",
             "ru": "Это современный аэропортовый район",
-            "en": "It is a modern airport district",
-            "de": "Das ist ein modernes Flughafengebiet",
-            "ua": "Це сучасний аеропортовий район",
-            "it": "È un moderno quartiere aeroportuale",
-            "hr": "To je suvremena aerodromska četvrt",
-            "es": "Es un moderno distrito aeroportuario",
-            "fr": "C'est un quartier aéroportuaire moderne"
+            "ua": "Це сучасний аеропортовий район"
           }
         ],
         "correctAnswerIndexes": [

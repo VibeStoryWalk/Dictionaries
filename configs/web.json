@@ -3,5 +3,8 @@
   "useLocalDicts": true,
   "defaultUiSettings": {
     "adsEnabled": false
+  },
+  "featureFlags": {
+    "quizes": true
   }
 }

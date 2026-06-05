@@ -386,6 +386,582 @@
             3
           ]
         }
+      ],
+      "de": [
+        {
+          "question": "Wo befindet sich der Wawel-Drache in Krakau?",
+          "answerType": "single",
+          "answers": [
+            "Am Fuß des Wawel-Hügels",
+            "Auf dem Marktplatz",
+            "Beim Hauptbahnhof",
+            "Im jüdischen Viertel"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "In welchem Jahr wurde die Skulptur des Wawel-Drachen aufgestellt?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Was tut der Wawel-Drache in regelmäßigen Abständen?",
+          "answerType": "single",
+          "answers": [
+            "Spuckt Feuer",
+            "Wechselt die Farbe",
+            "Läutet eine Glocke",
+            "Bewegt seine Flügel"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Welche Details sind mit der Legende vom Wawel-Drachen verbunden?",
+          "answerType": "multi",
+          "answers": [
+            "Schaffell",
+            "Schwefel",
+            "Durst",
+            "Königliche Krone"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Was kann man über die Skulptur des Wawel-Drachen sagen?",
+          "answerType": "multi",
+          "answers": [
+            "Metallene Skulptur",
+            "Mythisches Wesen",
+            "Mit offenem Maul",
+            "Mit angespanntem Körper"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "en": [
+        {
+          "question": "Where is the Wawel Dragon in Krakow located?",
+          "answerType": "single",
+          "answers": [
+            "At the foot of Wawel Hill",
+            "In the Main Market Square",
+            "At the main railway station",
+            "In the Jewish quarter"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "In what year was the Wawel Dragon sculpture installed?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "What does the Wawel Dragon do at certain intervals?",
+          "answerType": "single",
+          "answers": [
+            "Breathes fire",
+            "Changes color",
+            "Rings a bell",
+            "Moves its wings"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Which details are associated with the legend of the Wawel Dragon?",
+          "answerType": "multi",
+          "answers": [
+            "Sheepskin",
+            "Sulfur",
+            "Thirst",
+            "Royal crown"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "What can be said about the Wawel Dragon sculpture?",
+          "answerType": "multi",
+          "answers": [
+            "Metal sculpture",
+            "Mythical creature",
+            "With an open mouth",
+            "With a tense body"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Dónde se encuentra el dragón de Wawel en Cracovia?",
+          "answerType": "single",
+          "answers": [
+            "Al pie de la colina de Wawel",
+            "En la Plaza del Mercado",
+            "Junto a la estación central",
+            "En el barrio judío"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "¿En qué año se instaló la escultura del dragón de Wawel?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "¿Qué hace el dragón de Wawel a intervalos regulares?",
+          "answerType": "single",
+          "answers": [
+            "Escupe llamas",
+            "Cambia de color",
+            "Toca una campana",
+            "Mueve las alas"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "¿Qué detalles están relacionados con la leyenda del dragón de Wawel?",
+          "answerType": "multi",
+          "answers": [
+            "Piel de oveja",
+            "Azufre",
+            "Sed",
+            "Corona real"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "¿Qué se puede decir de la escultura del dragón de Wawel?",
+          "answerType": "multi",
+          "answers": [
+            "Escultura metálica",
+            "Criatura mítica",
+            "Con la boca abierta",
+            "Con el cuerpo tenso"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "question": "Où se trouve le dragon de Wawel à Cracovie ?",
+          "answerType": "single",
+          "answers": [
+            "Au pied de la colline du Wawel",
+            "Sur la place du marché",
+            "Près de la gare centrale",
+            "Dans le quartier juif"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "En quelle année la sculpture du dragon de Wawel a-t-elle été installée ?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Que fait le dragon de Wawel à intervalles réguliers ?",
+          "answerType": "single",
+          "answers": [
+            "Crache du feu",
+            "Change de couleur",
+            "Fait sonner une cloche",
+            "Bats des ailes"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Quels détails sont liés à la légende du dragon de Wawel ?",
+          "answerType": "multi",
+          "answers": [
+            "Peau de mouton",
+            "Soufre",
+            "Soif",
+            "Couronne royale"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Que peut-on dire de la sculpture du dragon de Wawel ?",
+          "answerType": "multi",
+          "answers": [
+            "Sculpture métallique",
+            "Créature mythique",
+            "Avec la gueule ouverte",
+            "Avec un corps tendu"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "hr": [
+        {
+          "question": "Gdje se nalazi Vavelski zmaj u Krakovu?",
+          "answerType": "single",
+          "answers": [
+            "Kod podnožja Vavelskog brda",
+            "Na Glavnom trgu",
+            "Kod glavnog kolodvora",
+            "U židovskoj četvrti"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "U kojoj je godini postavljena skulptura Vavelskog zmaja?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Što Vavelski zmaj radi u određenim vremenskim razmacima?",
+          "answerType": "single",
+          "answers": [
+            "Izbacuje plamen",
+            "Mijenja boju",
+            "Zvoni na zvono",
+            "Miče krilima"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Koji su detalji povezani s legendom o Vavelskom zmaju?",
+          "answerType": "multi",
+          "answers": [
+            "Ovčja koža",
+            "Sumpor",
+            "Žeđ",
+            "Kraljevska kruna"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Što se može reći o skulpturi Vavelskog zmaja?",
+          "answerType": "multi",
+          "answers": [
+            "Metalna skulptura",
+            "Mitološko biće",
+            "S otvorenom čeljusti",
+            "Sa zategnutim tijelom"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "it": [
+        {
+          "question": "Dove si trova il drago di Wawel a Cracovia?",
+          "answerType": "single",
+          "answers": [
+            "Ai piedi della collina del Wawel",
+            "Nella Piazza del Mercato",
+            "Vicino alla stazione centrale",
+            "Nel quartiere ebraico"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "In che anno fu installata la scultura del drago di Wawel?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Cosa fa il drago di Wawel a intervalli regolari?",
+          "answerType": "single",
+          "answers": [
+            "Sputa fuoco",
+            "Cambia colore",
+            "Suona una campana",
+            "Muove le ali"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Quali dettagli sono legati alla leggenda del drago di Wawel?",
+          "answerType": "multi",
+          "answers": [
+            "Pelle di pecora",
+            "Zolfo",
+            "Sete",
+            "Corona reale"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Cosa si può dire della scultura del drago di Wawel?",
+          "answerType": "multi",
+          "answers": [
+            "Scultura metallica",
+            "Creatura mitica",
+            "Con la bocca aperta",
+            "Con il corpo teso"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "pl": [
+        {
+          "question": "Gdzie znajduje się smok wawelski w Krakowie?",
+          "answerType": "single",
+          "answers": [
+            "U podnóża wzgórza wawelskiego",
+            "Na Rynku Głównym",
+            "Przy głównym dworcu",
+            "W dzielnicy żydowskiej"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "W którym roku ustawiono rzeźbę smoka wawelskiego?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Co robi smok wawelski co pewien czas?",
+          "answerType": "single",
+          "answers": [
+            "Zionie ogniem",
+            "Zmienia kolor",
+            "Dzwoni dzwonem",
+            "Porusza skrzydłami"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Jakie elementy wiążą się z legendą o smoku wawelskim?",
+          "answerType": "multi",
+          "answers": [
+            "Owcza skóra",
+            "Siarka",
+            "Pragnienie",
+            "Królewska korona"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Co można powiedzieć o rzeźbie smoka wawelskiego?",
+          "answerType": "multi",
+          "answers": [
+            "Metalowa rzeźba",
+            "Mityczne stworzenie",
+            "Z otwartym pyskiem",
+            "Z napiętym ciałem"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "ua": [
+        {
+          "question": "Де знаходиться Вавельський дракон у Кракові?",
+          "answerType": "single",
+          "answers": [
+            "У підніжжя Вавельського пагорба",
+            "На Ринковій площі",
+            "Біля головного вокзалу",
+            "У єврейському кварталі"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "У якому році встановили скульптуру Вавельського дракона?",
+          "answerType": "single",
+          "answers": [
+            "1972",
+            "1956",
+            "1989",
+            "2001"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Що робить Вавельський дракон через певні проміжки часу?",
+          "answerType": "single",
+          "answers": [
+            "Вивергає полум'я",
+            "Змінює колір",
+            "Дзвонить у дзвін",
+            "Рухає крилами"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Які деталі пов'язані з легендою про Вавельського дракона?",
+          "answerType": "multi",
+          "answers": [
+            "Овеча шкура",
+            "Сірка",
+            "Спрага",
+            "Королівська корона"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Що можна сказати про скульптуру Вавельського дракона?",
+          "answerType": "multi",
+          "answers": [
+            "Металева скульптура",
+            "Міфічна істота",
+            "З розкритою пащею",
+            "З напруженим тілом"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
       ]
     }
   },
@@ -1869,6 +2445,566 @@
             "Городскому музею Кракова",
             "Частному отельному оператору",
             "Университету Ягеллонскому"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "de": [
+        {
+          "question": "Was befindet sich heute im Gebäude der Großen Mikwe in der Straße Szeroka 6 in Kazimierz?",
+          "answerType": "multi",
+          "answers": [
+            "Restaurant- und Hotelkomplex",
+            "Buchhandlung",
+            "Nur ein Museum für jüdische Geschichte",
+            "Bürogebäude ohne öffentliche Räume"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "Auf welches Jahr datiert die erste gesicherte Erwähnung der Großen Mikwe?",
+          "answerType": "single",
+          "answers": [
+            "1467. Jahr",
+            "1567. Jahr",
+            "1667. Jahr",
+            "1767. Jahr"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "Warum führten etwa vierzig Stufen zum Bad der Großen Mikwe?",
+          "answerType": "single",
+          "answers": [
+            "Die Wasserquelle lag tief unter dem Straßenniveau",
+            "Der Eingang befand sich auf dem Dach",
+            "Die Stufen führten auf den Stadtwall",
+            "So war es gestalterisch geplant"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Was von der alten Großen Mikwe kann man heute in den Kellern des Gebäudes sehen?",
+          "answerType": "multi",
+          "answers": [
+            "Fragmente des Mauerwerks",
+            "Teile der Arkade",
+            "Grundriss der Räume",
+            "Mittelalterliche Fresken"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "An wen wurde die Große Mikwe in den 1990er Jahren zurückgegeben?",
+          "answerType": "single",
+          "answers": [
+            "der jüdischen Religionsgemeinschaft",
+            "dem städtischen Museum von Krakau",
+            "einem privaten Hotelbetreiber",
+            "der Jagiellonen-Universität"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "en": [
+        {
+          "question": "What is located today in the building of the Great Mikveh at 6 Szeroka Street in Kazimierz?",
+          "answerType": "multi",
+          "answers": [
+            "Restaurant and hotel complex",
+            "Bookstore",
+            "Only a museum of Jewish history",
+            "Office building without public spaces"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "What year does the first reliable mention of the Great Mikveh date back to?",
+          "answerType": "single",
+          "answers": [
+            "1467",
+            "1567",
+            "1667",
+            "1767"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "Why did about forty steps lead to the Great Mikveh bath?",
+          "answerType": "single",
+          "answers": [
+            "The water source was located deep below street level",
+            "The entrance was arranged on the roof",
+            "The steps led to the city rampart",
+            "That was the decorative concept"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "What from the old Great Mikveh can today be seen in the building's basements?",
+          "answerType": "multi",
+          "answers": [
+            "Fragments of stone masonry",
+            "Parts of the arcade",
+            "The layout of the rooms",
+            "Medieval frescoes"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "To whom was the Great Mikveh property returned in the 1990s?",
+          "answerType": "single",
+          "answers": [
+            "The Jewish religious community",
+            "The Krakow City Museum",
+            "A private hotel operator",
+            "Jagiellonian University"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "es": [
+        {
+          "question": "¿Qué hay hoy en el edificio de la Gran mikve en la calle Szeroka, 6, en Kazimierz?",
+          "answerType": "multi",
+          "answers": [
+            "Complejo de restaurante y hotel",
+            "Librería",
+            "Solo museo de historia judía",
+            "Edificio de oficinas sin locales públicos"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "¿De qué año data la primera mención fiable de la Gran mikve?",
+          "answerType": "single",
+          "answers": [
+            "1467",
+            "1567",
+            "1667",
+            "1767"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "¿Por qué conducían unas cuarenta escaleras al baño de la Gran mikve?",
+          "answerType": "single",
+          "answers": [
+            "La fuente de agua estaba profundamente por debajo del nivel de la calle",
+            "La entrada estaba situada en el techo",
+            "Las escaleras llevaban al muro de la ciudad",
+            "Ese era el diseño decorativo"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "¿Qué de la antigua Gran mikve se puede ver hoy en los sótanos del edificio?",
+          "answerType": "multi",
+          "answers": [
+            "Fragmentos de mampostería",
+            "Partes de la arquería",
+            "La distribución de las estancias",
+            "Frescos medievales"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "¿A quién se devolvió el inmueble de la Gran mikve en los años 1990?",
+          "answerType": "single",
+          "answers": [
+            "A la comunidad religiosa judía",
+            "Al Museo Municipal de Cracovia",
+            "A un operador hotelero privado",
+            "A la Universidad Jaguelónica"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "fr": [
+        {
+          "question": "Que trouve-t-on aujourd’hui dans le bâtiment de la Grande mikvé, au 6 rue Szeroka, à Kazimierz ?",
+          "answerType": "multi",
+          "answers": [
+            "Complexe restaurant-hôtel",
+            "Librairie",
+            "Seulement un musée de l’histoire juive",
+            "Immeuble de bureaux sans espaces publics"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "À quelle année remonte la première mention fiable de la Grande mikvé ?",
+          "answerType": "single",
+          "answers": [
+            "1467",
+            "1567",
+            "1667",
+            "1767"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "Pourquoi fallait-il descendre environ quarante marches jusqu’aux bains de la Grande mikvé ?",
+          "answerType": "single",
+          "answers": [
+            "La source d’eau se trouvait profondément sous le niveau de la rue",
+            "L’entrée était aménagée sur le toit",
+            "Les marches menaient au rempart de la ville",
+            "C’était un choix décoratif"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Que peut-on aujourd’hui voir de l’ancienne Grande mikvé dans les sous-sols du bâtiment ?",
+          "answerType": "multi",
+          "answers": [
+            "Des fragments de maçonnerie en pierre",
+            "Des parties de l’arcade",
+            "Le plan des pièces",
+            "Des fresques médiévales"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "À qui l’objet de la Grande mikvé a-t-il été restitué dans les années 1990 ?",
+          "answerType": "single",
+          "answers": [
+            "À la communauté religieuse juive",
+            "Au musée municipal de Cracovie",
+            "À un exploitant hôtelier privé",
+            "À l’université Jagellonne"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "hr": [
+        {
+          "question": "Što se danas nalazi u zgradi Velike mikve u Ulici Širokoj 6 u Kazimierzu?",
+          "answerType": "multi",
+          "answers": [
+            "Ugostiteljsko-hotelijerski kompleks",
+            "Knjižara",
+            "Samo muzej židovske povijesti",
+            "Uredska zgrada bez javnih prostora"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "Na koju godinu se odnosi prvo pouzdano spominjanje Velike mikve?",
+          "answerType": "single",
+          "answers": [
+            "1467. godina",
+            "1567. godina",
+            "1667. godina",
+            "1767. godina"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "Zašto je do kupališta Velike mikve vodilo oko četrdeset stepenica?",
+          "answerType": "single",
+          "answers": [
+            "Izvor vode nalazio se duboko ispod razine ulice",
+            "Ulaz je bio uređen na krovu",
+            "Stepenice su vodile na gradski bedem",
+            "To je bila dekorativna zamisao"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Što se od stare Velike mikve danas može vidjeti u podrumima zgrade?",
+          "answerType": "multi",
+          "answers": [
+            "Ulomke kamenog zida",
+            "Dijelove arkade",
+            "Raspored prostorija",
+            "Srednjovjekovne freske"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Kome je u 1990-ima vraćen objekt Velike mikve?",
+          "answerType": "single",
+          "answers": [
+            "Židovskoj vjerskoj zajednici",
+            "Gradskom muzeju Krakova",
+            "Privatnom hotelskom operateru",
+            "Jagiellonskom sveučilištu"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "it": [
+        {
+          "question": "Che cosa si trova oggi nell'edificio della Grande mikveh in via Larga, 6 a Kazimierz?",
+          "answerType": "multi",
+          "answers": [
+            "Complesso ristorante-albergo",
+            "Libreria",
+            "Solo un museo della storia ebraica",
+            "Edificio per uffici senza spazi pubblici"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "A quale anno risale la prima menzione attendibile della Grande mikveh?",
+          "answerType": "single",
+          "answers": [
+            "1467",
+            "1567",
+            "1667",
+            "1767"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "Perché al bagno della Grande mikveh conducevano circa quaranta gradini?",
+          "answerType": "single",
+          "answers": [
+            "La fonte d'acqua si trovava molto più in basso del livello della strada",
+            "L'ingresso era sistemato sul tetto",
+            "I gradini conducevano alle mura cittadine",
+            "Si trattava di una scelta puramente decorativa"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Cosa della vecchia Grande mikveh si può vedere oggi nei sotterranei dell'edificio?",
+          "answerType": "multi",
+          "answers": [
+            "Frammenti di muratura in pietra",
+            "Parti dell'arcata",
+            "La disposizione degli ambienti",
+            "Affreschi medievali"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "A chi fu restituito l'immobile della Grande mikveh negli anni Novanta?",
+          "answerType": "single",
+          "answers": [
+            "Alla comunità religiosa ebraica",
+            "Al Museo Civico di Cracovia",
+            "A un operatore alberghiero privato",
+            "All'Università Jagellonica"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "pl": [
+        {
+          "question": "Co dziś znajduje się w budynku Wielkiej mykwy przy ulicy Szerokiej 6 w Kazimierzu?",
+          "answerType": "multi",
+          "answers": [
+            "Kompleks restauracyjno-hotelowy",
+            "Księgarnia",
+            "Tylko muzeum historii żydowskiej",
+            "Budynek biurowy bez pomieszczeń publicznych"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "Z którego roku pochodzi pierwsza wiarygodna wzmianka o Wielkiej mykwie?",
+          "answerType": "single",
+          "answers": [
+            "1467 rok",
+            "1567 rok",
+            "1667 rok",
+            "1767 rok"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "Dlaczego do łaźni Wielkiej mykwy prowadziło około czterdziestu stopni?",
+          "answerType": "single",
+          "answers": [
+            "Źródło wody znajdowało się głęboko poniżej poziomu ulicy",
+            "Wejście znajdowało się na dachu",
+            "Stopnie prowadziły na wał miejski",
+            "Taki był zamysł dekoracyjny"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Co ze starej Wielkiej mykwy można dziś zobaczyć w piwnicach budynku?",
+          "answerType": "multi",
+          "answers": [
+            "Fragmenty kamiennej muru",
+            "Części arkady",
+            "Układ pomieszczeń",
+            "Średniowieczne freski"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Komu w latach 90. zwrócono obiekt Wielkiej mykwy?",
+          "answerType": "single",
+          "answers": [
+            "Żydowskiej gminie wyznaniowej",
+            "Miejskiemu Muzeum Krakowa",
+            "Prywatnemu operatorowi hotelowemu",
+            "Uniwersytetowi Jagiellońskiemu"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        }
+      ],
+      "ua": [
+        {
+          "question": "Що сьогодні знаходиться в будівлі Великої мікви на вулиці Широкій, 6 у Казімежі?",
+          "answerType": "multi",
+          "answers": [
+            "Ресторанно-готельний комплекс",
+            "Книжковий магазин",
+            "Лише музей єврейської історії",
+            "Офісна будівля без громадських приміщень"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "question": "До якого року належить перша достовірна згадка про Велику мікву?",
+          "answerType": "single",
+          "answers": [
+            "1467 рік",
+            "1567 рік",
+            "1667 рік",
+            "1767 рік"
+          ],
+          "correctAnswerIndexes": [
+            1
+          ]
+        },
+        {
+          "question": "Чому до лазні Великої мікви вели близько сорока сходинок?",
+          "answerType": "single",
+          "answers": [
+            "Джерело води знаходилося глибоко нижче рівня вулиці",
+            "Вхід було влаштовано на даху",
+            "Сходинки вели на міський вал",
+            "Такою була декоративна задумка"
+          ],
+          "correctAnswerIndexes": [
+            0
+          ]
+        },
+        {
+          "question": "Що зі старої Великої мікви сьогодні можна побачити в підвалах будівлі?",
+          "answerType": "multi",
+          "answers": [
+            "Фрагменти кам'яної кладки",
+            "Частини аркади",
+            "Планування приміщень",
+            "Середньовічні фрески"
+          ],
+          "correctAnswerIndexes": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "question": "Кому у 1990-х роках повернули об'єкт Великої мікви?",
+          "answerType": "single",
+          "answers": [
+            "Єврейській релігійній громаді",
+            "Міському музею Кракова",
+            "Приватному готельному оператору",
+            "Ягеллонському університету"
           ],
           "correctAnswerIndexes": [
             0

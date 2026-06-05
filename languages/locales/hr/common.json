@@ -399,6 +399,52 @@
     "Legends": "Legende",
     "Person": "Osoba",
     "Paid": "Plaćen"
+  },
+  "quiz": {
+    "tooltip": "Kviz",
+    "title": {
+      "route": "Kviz: {{title}}",
+      "city": "Gradski kviz: {{title}}"
+    },
+    "leagues": {
+      "rookie": "Početnik",
+      "amateur": "Ljubitelj",
+      "expert": "Stručnjak"
+    },
+    "start": {
+      "questionCount": "{{count}} pitanja",
+      "routeAllPoints": "Pitanja u kvizu rute: {{count}}"
+    },
+    "actions": {
+      "choose": "Odaberi",
+      "start": "Pokreni kviz",
+      "hint": "Pomoć",
+      "answer": "Odgovori",
+      "newQuiz": "Novi kviz"
+    },
+    "messages": {
+      "noQuestions": "Još nema pitanja za kviz na trenutačnom jeziku.",
+      "offlineLimited": "Kviz je dostupan offline, ali pomoć i ljestvica prvaka zahtijevaju internet.",
+      "offlineResults": "Rezultat je prikazan lokalno. Spremanje bodova i ljestvica prvaka zahtijevaju internet."
+    },
+    "nickname": {
+      "title": "Odaberite ime za kviz",
+      "description": "Ovo ime prikazivat će se na ljestvici prvaka. Kasnije ga možete promijeniti u postavkama.",
+      "label": "Nadimak",
+      "anonymous": "Anonimni šetač",
+      "settingsLabel": "Ime za kviz",
+      "edit": "Uredi ime za kviz"
+    },
+    "progress": "Pitanje {{current}} od {{total}}",
+    "results": {
+      "title": "Kviz završen",
+      "correct": "{{correct}} od {{total}} točno"
+    },
+    "champions": {
+      "title": "Prvaci",
+      "loading": "Učitavanje prvaka...",
+      "empty": "Još nema prvaka.",
+      "yourPlace": "Vaše mjesto: {{place}}"
+    }
   }
 }
-

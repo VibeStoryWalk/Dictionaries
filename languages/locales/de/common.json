@@ -396,6 +396,52 @@
     "Legends": "Legenden",
     "Person": "Person",
     "Paid": "Kostenpflichtig"
+  },
+  "quiz": {
+    "tooltip": "Quiz",
+    "title": {
+      "route": "Quiz: {{title}}",
+      "city": "Stadtquiz: {{title}}"
+    },
+    "leagues": {
+      "rookie": "Anfänger",
+      "amateur": "Liebhaber",
+      "expert": "Experte"
+    },
+    "start": {
+      "questionCount": "{{count}} Fragen",
+      "routeAllPoints": "Fragen im Routenquiz: {{count}}"
+    },
+    "actions": {
+      "choose": "Auswählen",
+      "start": "Quiz starten",
+      "hint": "Hinweis",
+      "answer": "Antworten",
+      "newQuiz": "Neues Quiz"
+    },
+    "messages": {
+      "noQuestions": "In der aktuellen Sprache gibt es noch keine Quizfragen.",
+      "offlineLimited": "Das Quiz ist offline verfügbar, aber Hinweise und Champions benötigen Internet.",
+      "offlineResults": "Dein Ergebnis wird lokal angezeigt. Zum Speichern und für Champions ist Internet nötig."
+    },
+    "nickname": {
+      "title": "Wähle deinen Quiznamen",
+      "description": "Dieser Name erscheint in der Championsliste. Du kannst ihn später in den Einstellungen ändern.",
+      "label": "Nickname",
+      "anonymous": "Anonymer Spaziergänger",
+      "settingsLabel": "Quizname",
+      "edit": "Quizname bearbeiten"
+    },
+    "progress": "Frage {{current}} von {{total}}",
+    "results": {
+      "title": "Quiz abgeschlossen",
+      "correct": "{{correct}} von {{total}} richtig"
+    },
+    "champions": {
+      "title": "Champions",
+      "loading": "Champions werden geladen...",
+      "empty": "Noch keine Champions.",
+      "yourPlace": "Dein Platz: {{place}}"
+    }
   }
 }
-

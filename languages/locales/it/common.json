@@ -396,6 +396,52 @@
     "Legends": "Leggende",
     "Person": "Persona",
     "Paid": "A pagamento"
+  },
+  "quiz": {
+    "tooltip": "Quiz",
+    "title": {
+      "route": "Quiz: {{title}}",
+      "city": "Quiz della città: {{title}}"
+    },
+    "leagues": {
+      "rookie": "Principiante",
+      "amateur": "Appassionato",
+      "expert": "Esperto"
+    },
+    "start": {
+      "questionCount": "{{count}} domande",
+      "routeAllPoints": "Domande del quiz del percorso: {{count}}"
+    },
+    "actions": {
+      "choose": "Scegli",
+      "start": "Inizia quiz",
+      "hint": "Aiuto",
+      "answer": "Rispondi",
+      "newQuiz": "Nuovo quiz"
+    },
+    "messages": {
+      "noQuestions": "Non ci sono ancora domande quiz nella lingua corrente.",
+      "offlineLimited": "Il quiz funziona offline, ma aiuti e campioni richiedono internet.",
+      "offlineResults": "Il risultato è mostrato localmente. Salvataggio punteggio e campioni richiedono internet."
+    },
+    "nickname": {
+      "title": "Scegli il tuo nome quiz",
+      "description": "Questo nome apparirà nella classifica dei campioni. Potrai cambiarlo più tardi nelle impostazioni.",
+      "label": "Nome",
+      "anonymous": "Passeggiatore anonimo",
+      "settingsLabel": "Nome quiz",
+      "edit": "Modifica nome quiz"
+    },
+    "progress": "Domanda {{current}} di {{total}}",
+    "results": {
+      "title": "Quiz completato",
+      "correct": "{{correct}} di {{total}} corrette"
+    },
+    "champions": {
+      "title": "Campioni",
+      "loading": "Caricamento campioni...",
+      "empty": "Ancora nessun campione.",
+      "yourPlace": "La tua posizione: {{place}}"
+    }
   }
 }
-

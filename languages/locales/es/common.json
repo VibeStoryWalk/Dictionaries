@@ -396,6 +396,52 @@
     "Legends": "Leyendas",
     "Person": "Persona",
     "Paid": "De pago"
+  },
+  "quiz": {
+    "tooltip": "Quiz",
+    "title": {
+      "route": "Quiz: {{title}}",
+      "city": "Quiz de la ciudad: {{title}}"
+    },
+    "leagues": {
+      "rookie": "Principiante",
+      "amateur": "Aficionado",
+      "expert": "Experto"
+    },
+    "start": {
+      "questionCount": "{{count}} preguntas",
+      "routeAllPoints": "Preguntas del quiz de ruta: {{count}}"
+    },
+    "actions": {
+      "choose": "Elegir",
+      "start": "Iniciar quiz",
+      "hint": "Pista",
+      "answer": "Responder",
+      "newQuiz": "Nuevo quiz"
+    },
+    "messages": {
+      "noQuestions": "Todavía no hay preguntas de quiz en el idioma actual.",
+      "offlineLimited": "El quiz funciona sin conexión, pero las pistas y campeones requieren internet.",
+      "offlineResults": "Tu resultado se muestra localmente. Guardar puntos y ver campeones requiere internet."
+    },
+    "nickname": {
+      "title": "Elige tu nombre de quiz",
+      "description": "Este nombre aparecerá en la lista de campeones. Puedes cambiarlo más tarde en ajustes.",
+      "label": "Nombre",
+      "anonymous": "Caminante anónimo",
+      "settingsLabel": "Nombre de quiz",
+      "edit": "Editar nombre de quiz"
+    },
+    "progress": "Pregunta {{current}} de {{total}}",
+    "results": {
+      "title": "Quiz completado",
+      "correct": "{{correct}} de {{total}} correctas"
+    },
+    "champions": {
+      "title": "Campeones",
+      "loading": "Cargando campeones...",
+      "empty": "Aún no hay campeones.",
+      "yourPlace": "Tu puesto: {{place}}"
+    }
   }
 }
-

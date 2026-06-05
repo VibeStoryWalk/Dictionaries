@@ -400,6 +400,52 @@
     "Legends": "Legendy",
     "Person": "Osoba",
     "Paid": "Płatny"
+  },
+  "quiz": {
+    "tooltip": "Quiz",
+    "title": {
+      "route": "Quiz: {{title}}",
+      "city": "Quiz miejski: {{title}}"
+    },
+    "leagues": {
+      "rookie": "Nowicjusz",
+      "amateur": "Amator",
+      "expert": "Ekspert"
+    },
+    "start": {
+      "questionCount": "{{count}} pytań",
+      "routeAllPoints": "Pytania w quizie trasy: {{count}}"
+    },
+    "actions": {
+      "choose": "Wybierz",
+      "start": "Rozpocznij quiz",
+      "hint": "Podpowiedź",
+      "answer": "Odpowiedz",
+      "newQuiz": "Nowy quiz"
+    },
+    "messages": {
+      "noQuestions": "W bieżącym języku nie ma jeszcze pytań quizowych.",
+      "offlineLimited": "Quiz działa offline, ale podpowiedzi i tabela mistrzów wymagają internetu.",
+      "offlineResults": "Wynik jest pokazany lokalnie. Zapis wyniku i tabela mistrzów wymagają internetu."
+    },
+    "nickname": {
+      "title": "Wybierz nazwę do quizów",
+      "description": "Ta nazwa będzie widoczna w tabeli mistrzów. Możesz ją później zmienić w ustawieniach.",
+      "label": "Nazwa",
+      "anonymous": "Anonimowy spacerowicz",
+      "settingsLabel": "Nazwa w quizach",
+      "edit": "Edytuj nazwę w quizach"
+    },
+    "progress": "Pytanie {{current}} z {{total}}",
+    "results": {
+      "title": "Quiz ukończony",
+      "correct": "{{correct}} z {{total}} poprawnie"
+    },
+    "champions": {
+      "title": "Mistrzowie",
+      "loading": "Ładowanie mistrzów...",
+      "empty": "Nie ma jeszcze mistrzów.",
+      "yourPlace": "Twoje miejsce: {{place}}"
+    }
   }
 }
-

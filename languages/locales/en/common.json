@@ -394,6 +394,52 @@
     "Legends": "Legends",
     "Person": "Person",
     "Paid": "Paid"
+  },
+  "quiz": {
+    "tooltip": "Quiz",
+    "title": {
+      "route": "Quiz: {{title}}",
+      "city": "City quiz: {{title}}"
+    },
+    "leagues": {
+      "rookie": "Rookie",
+      "amateur": "Amateur",
+      "expert": "Expert"
+    },
+    "start": {
+      "questionCount": "{{count}} questions",
+      "routeAllPoints": "Route quiz questions: {{count}}"
+    },
+    "actions": {
+      "choose": "Choose",
+      "start": "Start quiz",
+      "hint": "Hint",
+      "answer": "Answer",
+      "newQuiz": "New quiz"
+    },
+    "messages": {
+      "noQuestions": "There are no quiz questions in the current language yet.",
+      "offlineLimited": "Offline mode is available for the quiz, but hints and champions require internet.",
+      "offlineResults": "Your result is shown locally. Champions and score saving require internet."
+    },
+    "nickname": {
+      "title": "Choose your quiz nickname",
+      "description": "This name will be shown in quiz champions. You can change it later in settings.",
+      "label": "Nickname",
+      "anonymous": "Anonymous walker",
+      "settingsLabel": "Quiz nickname",
+      "edit": "Edit quiz nickname"
+    },
+    "progress": "Question {{current}} of {{total}}",
+    "results": {
+      "title": "Quiz completed",
+      "correct": "{{correct}} of {{total}} correct"
+    },
+    "champions": {
+      "title": "Champions",
+      "loading": "Loading champions...",
+      "empty": "No champions yet.",
+      "yourPlace": "Your place: {{place}}"
+    }
   }
 }
-

@@ -396,6 +396,52 @@
     "Legends": "Légendes",
     "Person": "Personnage",
     "Paid": "Payant"
+  },
+  "quiz": {
+    "tooltip": "Quiz",
+    "title": {
+      "route": "Quiz: {{title}}",
+      "city": "Quiz de ville: {{title}}"
+    },
+    "leagues": {
+      "rookie": "Débutant",
+      "amateur": "Amateur",
+      "expert": "Expert"
+    },
+    "start": {
+      "questionCount": "{{count}} questions",
+      "routeAllPoints": "Questions du quiz de parcours: {{count}}"
+    },
+    "actions": {
+      "choose": "Choisir",
+      "start": "Démarrer le quiz",
+      "hint": "Indice",
+      "answer": "Répondre",
+      "newQuiz": "Nouveau quiz"
+    },
+    "messages": {
+      "noQuestions": "Il n’y a pas encore de questions de quiz dans la langue actuelle.",
+      "offlineLimited": "Le quiz fonctionne hors ligne, mais les indices et champions nécessitent internet.",
+      "offlineResults": "Votre résultat est affiché localement. L’enregistrement du score et les champions nécessitent internet."
+    },
+    "nickname": {
+      "title": "Choisissez votre nom de quiz",
+      "description": "Ce nom apparaîtra dans le classement des champions. Vous pourrez le modifier plus tard dans les paramètres.",
+      "label": "Pseudo",
+      "anonymous": "Promeneur anonyme",
+      "settingsLabel": "Pseudo du quiz",
+      "edit": "Modifier le pseudo du quiz"
+    },
+    "progress": "Question {{current}} sur {{total}}",
+    "results": {
+      "title": "Quiz terminé",
+      "correct": "{{correct}} sur {{total}} correctes"
+    },
+    "champions": {
+      "title": "Champions",
+      "loading": "Chargement des champions...",
+      "empty": "Aucun champion pour le moment.",
+      "yourPlace": "Votre place: {{place}}"
+    }
   }
 }
-

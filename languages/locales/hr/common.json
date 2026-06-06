@@ -463,6 +463,11 @@
       "open": "Ljestvica",
       "leagueTitle": "Ljestvica {{league}}"
     },
+    "exitConfirm": {
+      "title": "Izaći iz kviza?",
+      "stay": "Ostani",
+      "leave": "Izađi"
+    },
     "questionTypes": {
       "single": "Jedan odgovor",
       "multi": "Više odgovora"

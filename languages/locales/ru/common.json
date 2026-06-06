@@ -464,6 +464,11 @@
       "open": "Таблица лидеров",
       "leagueTitle": "Лидеры лиги {{league}}"
     },
+    "exitConfirm": {
+      "title": "Выйти из квиза?",
+      "stay": "Остаться",
+      "leave": "Выйти"
+    },
     "questionTypes": {
       "single": "Один ответ",
       "multi": "Несколько ответов"

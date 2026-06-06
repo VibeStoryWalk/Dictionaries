@@ -464,6 +464,11 @@
       "open": "Таблиця лідерів",
       "leagueTitle": "Лідери ліги {{league}}"
     },
+    "exitConfirm": {
+      "title": "Вийти з квізу?",
+      "stay": "Залишитися",
+      "leave": "Вийти"
+    },
     "questionTypes": {
       "single": "Одна відповідь",
       "multi": "Кілька відповідей"

@@ -458,6 +458,11 @@
       "open": "Leaderboard",
       "leagueTitle": "{{league}} leaderboard"
     },
+    "exitConfirm": {
+      "title": "Leave the quiz?",
+      "stay": "Stay",
+      "leave": "Leave"
+    },
     "questionTypes": {
       "single": "Single answer",
       "multi": "Multiple answers"

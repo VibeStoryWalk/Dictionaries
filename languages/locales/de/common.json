@@ -460,6 +460,11 @@
       "open": "Bestenliste",
       "leagueTitle": "Bestenliste {{league}}"
     },
+    "exitConfirm": {
+      "title": "Quiz verlassen?",
+      "stay": "Bleiben",
+      "leave": "Verlassen"
+    },
     "questionTypes": {
       "single": "Eine Antwort",
       "multi": "Mehrere Antworten"

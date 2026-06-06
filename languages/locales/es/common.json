@@ -460,6 +460,11 @@
       "open": "Clasificación",
       "leagueTitle": "Clasificación de {{league}}"
     },
+    "exitConfirm": {
+      "title": "¿Salir del quiz?",
+      "stay": "Quedarse",
+      "leave": "Salir"
+    },
     "questionTypes": {
       "single": "Una respuesta",
       "multi": "Varias respuestas"

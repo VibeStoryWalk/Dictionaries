@@ -464,6 +464,11 @@
       "open": "Tabela liderów",
       "leagueTitle": "Liderzy ligi {{league}}"
     },
+    "exitConfirm": {
+      "title": "Wyjść z quizu?",
+      "stay": "Zostań",
+      "leave": "Wyjdź"
+    },
     "questionTypes": {
       "single": "Jedna odpowiedź",
       "multi": "Wiele odpowiedzi"

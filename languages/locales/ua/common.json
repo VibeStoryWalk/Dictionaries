@@ -405,23 +405,28 @@
     "tooltip": "Квіз",
     "title": {
       "route": "Квіз: {{title}}",
-      "city": "Квіз містом: {{title}}"
+      "city": "Квіз містом: {{title}}",
+      "routeLabel": "Квіз маршрутом",
+      "cityShort": "{{title}}-квіз"
     },
     "leagues": {
-      "rookie": "Новачок",
-      "amateur": "Любитель",
-      "expert": "Експерт"
+      "rookie": "Туристи",
+      "amateur": "Містяни",
+      "expert": "Експерти"
     },
     "start": {
       "questionCount": "{{count}} питань",
-      "routeAllPoints": "Питань у квізі маршруту: {{count}}"
+      "routeAllPoints": "Питань у квізі маршруту: {{count}}",
+      "leaguePrefix": "Ліга"
     },
     "actions": {
       "choose": "Вибрати",
       "start": "Почати квіз",
       "hint": "Підказка",
       "answer": "Відповісти",
-      "newQuiz": "Новий квіз"
+      "newQuiz": "Новий квіз",
+      "selectAndStart": "Вибрати й почати",
+      "close": "Закрити"
     },
     "messages": {
       "noQuestions": "У поточній мові поки немає питань для квізу.",
@@ -433,19 +438,32 @@
       "description": "Це ім’я буде відображатися в таблиці чемпіонів. Пізніше його можна змінити в налаштуваннях.",
       "label": "Нікнейм",
       "anonymous": "Анонімний мандрівник",
-      "settingsLabel": "Ім’я у квізах",
-      "edit": "Змінити ім’я у квізах"
+      "settingsLabel": "Nickname",
+      "edit": "Змінити ім’я у квізах",
+      "limit": "Максимум {{count}} символів",
+      "taken": "Цей nickname уже зайнятий.",
+      "saveFailed": "Не вдалося зберегти nickname. Спробуйте ще раз."
     },
     "progress": "Питання {{current}} з {{total}}",
     "results": {
       "title": "Квіз завершено",
-      "correct": "{{correct}} з {{total}} правильно"
+      "correct": "{{correct}} з {{total}} правильно",
+      "scorePrefix": "Ваш результат:",
+      "scoreLabel": "Рахунок:",
+      "placeLabel": "Місце:"
     },
     "champions": {
       "title": "Чемпіони",
       "loading": "Завантажуємо чемпіонів...",
       "empty": "Чемпіонів поки немає.",
-      "yourPlace": "Ваше місце: {{place}}"
+      "yourPlace": "Ваше місце: {{place}}",
+      "youSuffix": "(Ви)",
+      "open": "Таблиця лідерів",
+      "leagueTitle": "Лідери ліги {{league}}"
+    },
+    "questionTypes": {
+      "single": "Одна відповідь",
+      "multi": "Кілька відповідей"
     }
   }
 }

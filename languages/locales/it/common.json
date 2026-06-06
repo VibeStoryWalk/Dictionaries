@@ -401,23 +401,28 @@
     "tooltip": "Quiz",
     "title": {
       "route": "Quiz: {{title}}",
-      "city": "Quiz della città: {{title}}"
+      "city": "Quiz della città: {{title}}",
+      "routeLabel": "Quiz del percorso",
+      "cityShort": "{{title}}-quiz"
     },
     "leagues": {
-      "rookie": "Principiante",
-      "amateur": "Appassionato",
-      "expert": "Esperto"
+      "rookie": "Turisti",
+      "amateur": "Cittadini",
+      "expert": "Esperti"
     },
     "start": {
       "questionCount": "{{count}} domande",
-      "routeAllPoints": "Domande del quiz del percorso: {{count}}"
+      "routeAllPoints": "Domande del quiz del percorso: {{count}}",
+      "leaguePrefix": "Lega"
     },
     "actions": {
       "choose": "Scegli",
       "start": "Inizia quiz",
       "hint": "Aiuto",
       "answer": "Rispondi",
-      "newQuiz": "Nuovo quiz"
+      "newQuiz": "Nuovo quiz",
+      "selectAndStart": "Scegli e inizia",
+      "close": "Chiudi"
     },
     "messages": {
       "noQuestions": "Non ci sono ancora domande quiz nella lingua corrente.",
@@ -429,19 +434,32 @@
       "description": "Questo nome apparirà nella classifica dei campioni. Potrai cambiarlo più tardi nelle impostazioni.",
       "label": "Nome",
       "anonymous": "Passeggiatore anonimo",
-      "settingsLabel": "Nome quiz",
-      "edit": "Modifica nome quiz"
+      "settingsLabel": "Nickname",
+      "edit": "Modifica nome quiz",
+      "limit": "Massimo {{count}} caratteri",
+      "taken": "Questo nickname è già in uso.",
+      "saveFailed": "Impossibile salvare il nickname. Riprova."
     },
     "progress": "Domanda {{current}} di {{total}}",
     "results": {
       "title": "Quiz completato",
-      "correct": "{{correct}} di {{total}} corrette"
+      "correct": "{{correct}} di {{total}} corrette",
+      "scorePrefix": "Il tuo punteggio:",
+      "scoreLabel": "Punteggio:",
+      "placeLabel": "Posizione:"
     },
     "champions": {
       "title": "Campioni",
       "loading": "Caricamento campioni...",
       "empty": "Ancora nessun campione.",
-      "yourPlace": "La tua posizione: {{place}}"
+      "yourPlace": "La tua posizione: {{place}}",
+      "youSuffix": "(Tu)",
+      "open": "Classifica",
+      "leagueTitle": "Classifica {{league}}"
+    },
+    "questionTypes": {
+      "single": "Una risposta",
+      "multi": "Più risposte"
     }
   }
 }

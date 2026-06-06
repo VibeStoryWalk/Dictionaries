@@ -399,23 +399,28 @@
     "tooltip": "Quiz",
     "title": {
       "route": "Quiz: {{title}}",
-      "city": "City quiz: {{title}}"
+      "city": "City quiz: {{title}}",
+      "routeLabel": "Quiz for the route",
+      "cityShort": "{{title}}-quiz"
     },
     "leagues": {
-      "rookie": "Rookie",
-      "amateur": "Amateur",
-      "expert": "Expert"
+      "rookie": "Tourists",
+      "amateur": "Citizens",
+      "expert": "Experts"
     },
     "start": {
       "questionCount": "{{count}} questions",
-      "routeAllPoints": "Route quiz questions: {{count}}"
+      "routeAllPoints": "Route quiz questions: {{count}}",
+      "leaguePrefix": "League"
     },
     "actions": {
       "choose": "Choose",
       "start": "Start quiz",
       "hint": "Hint",
       "answer": "Answer",
-      "newQuiz": "New quiz"
+      "newQuiz": "New quiz",
+      "selectAndStart": "Select & start",
+      "close": "Close"
     },
     "messages": {
       "noQuestions": "There are no quiz questions in the current language yet.",
@@ -427,19 +432,32 @@
       "description": "This name will be shown in quiz champions. You can change it later in settings.",
       "label": "Nickname",
       "anonymous": "Anonymous walker",
-      "settingsLabel": "Quiz nickname",
-      "edit": "Edit quiz nickname"
+      "settingsLabel": "Nickname",
+      "edit": "Edit quiz nickname",
+      "limit": "Maximum {{count}} characters",
+      "taken": "This nickname is already taken.",
+      "saveFailed": "Could not save nickname. Please try again."
     },
     "progress": "Question {{current}} of {{total}}",
     "results": {
-      "title": "Quiz completed",
-      "correct": "{{correct}} of {{total}} correct"
+      "title": "Quiz is complete",
+      "correct": "{{correct}} of {{total}} correct",
+      "scorePrefix": "Your score is:",
+      "scoreLabel": "Score:",
+      "placeLabel": "Place:"
     },
     "champions": {
       "title": "Champions",
       "loading": "Loading champions...",
       "empty": "No champions yet.",
-      "yourPlace": "Your place: {{place}}"
+      "yourPlace": "Your place: {{place}}",
+      "youSuffix": "(You)",
+      "open": "Leaderboard",
+      "leagueTitle": "{{league}} leaderboard"
+    },
+    "questionTypes": {
+      "single": "Single answer",
+      "multi": "Multiple answers"
     }
   }
 }

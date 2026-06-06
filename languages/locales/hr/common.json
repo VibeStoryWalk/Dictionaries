@@ -404,23 +404,28 @@
     "tooltip": "Kviz",
     "title": {
       "route": "Kviz: {{title}}",
-      "city": "Gradski kviz: {{title}}"
+      "city": "Gradski kviz: {{title}}",
+      "routeLabel": "Kviz za rutu",
+      "cityShort": "{{title}}-kviz"
     },
     "leagues": {
-      "rookie": "Početnik",
-      "amateur": "Ljubitelj",
-      "expert": "Stručnjak"
+      "rookie": "Turisti",
+      "amateur": "Građani",
+      "expert": "Stručnjaci"
     },
     "start": {
       "questionCount": "{{count}} pitanja",
-      "routeAllPoints": "Pitanja u kvizu rute: {{count}}"
+      "routeAllPoints": "Pitanja u kvizu rute: {{count}}",
+      "leaguePrefix": "Liga"
     },
     "actions": {
       "choose": "Odaberi",
       "start": "Pokreni kviz",
       "hint": "Pomoć",
       "answer": "Odgovori",
-      "newQuiz": "Novi kviz"
+      "newQuiz": "Novi kviz",
+      "selectAndStart": "Odaberi i kreni",
+      "close": "Zatvori"
     },
     "messages": {
       "noQuestions": "Još nema pitanja za kviz na trenutačnom jeziku.",
@@ -432,19 +437,32 @@
       "description": "Ovo ime prikazivat će se na ljestvici prvaka. Kasnije ga možete promijeniti u postavkama.",
       "label": "Nadimak",
       "anonymous": "Anonimni šetač",
-      "settingsLabel": "Ime za kviz",
-      "edit": "Uredi ime za kviz"
+      "settingsLabel": "Nickname",
+      "edit": "Uredi ime za kviz",
+      "limit": "Najviše {{count}} znakova",
+      "taken": "Ovaj nickname je već zauzet.",
+      "saveFailed": "Nickname nije moguće spremiti. Pokušajte ponovno."
     },
     "progress": "Pitanje {{current}} od {{total}}",
     "results": {
-      "title": "Kviz završen",
-      "correct": "{{correct}} od {{total}} točno"
+      "title": "Kviz je završen",
+      "correct": "{{correct}} od {{total}} točno",
+      "scorePrefix": "Vaš rezultat:",
+      "scoreLabel": "Rezultat:",
+      "placeLabel": "Mjesto:"
     },
     "champions": {
       "title": "Prvaci",
       "loading": "Učitavanje prvaka...",
       "empty": "Još nema prvaka.",
-      "yourPlace": "Vaše mjesto: {{place}}"
+      "yourPlace": "Vaše mjesto: {{place}}",
+      "youSuffix": "(Vi)",
+      "open": "Ljestvica",
+      "leagueTitle": "Ljestvica {{league}}"
+    },
+    "questionTypes": {
+      "single": "Jedan odgovor",
+      "multi": "Više odgovora"
     }
   }
 }

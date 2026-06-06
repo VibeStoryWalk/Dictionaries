@@ -405,23 +405,28 @@
     "tooltip": "Quiz",
     "title": {
       "route": "Quiz: {{title}}",
-      "city": "Quiz miejski: {{title}}"
+      "city": "Quiz miejski: {{title}}",
+      "routeLabel": "Quiz trasy",
+      "cityShort": "{{title}}-quiz"
     },
     "leagues": {
-      "rookie": "Nowicjusz",
-      "amateur": "Amator",
-      "expert": "Ekspert"
+      "rookie": "Turyści",
+      "amateur": "Mieszkańcy",
+      "expert": "Eksperci"
     },
     "start": {
       "questionCount": "{{count}} pytań",
-      "routeAllPoints": "Pytania w quizie trasy: {{count}}"
+      "routeAllPoints": "Pytania w quizie trasy: {{count}}",
+      "leaguePrefix": "Liga"
     },
     "actions": {
       "choose": "Wybierz",
       "start": "Rozpocznij quiz",
       "hint": "Podpowiedź",
       "answer": "Odpowiedz",
-      "newQuiz": "Nowy quiz"
+      "newQuiz": "Nowy quiz",
+      "selectAndStart": "Wybierz i start",
+      "close": "Zamknij"
     },
     "messages": {
       "noQuestions": "W bieżącym języku nie ma jeszcze pytań quizowych.",
@@ -433,19 +438,32 @@
       "description": "Ta nazwa będzie widoczna w tabeli mistrzów. Możesz ją później zmienić w ustawieniach.",
       "label": "Nazwa",
       "anonymous": "Anonimowy spacerowicz",
-      "settingsLabel": "Nazwa w quizach",
-      "edit": "Edytuj nazwę w quizach"
+      "settingsLabel": "Nickname",
+      "edit": "Edytuj nazwę w quizach",
+      "limit": "Maksymalnie {{count}} znaków",
+      "taken": "Ten nickname jest już zajęty.",
+      "saveFailed": "Nie udało się zapisać nickname. Spróbuj ponownie."
     },
     "progress": "Pytanie {{current}} z {{total}}",
     "results": {
       "title": "Quiz ukończony",
-      "correct": "{{correct}} z {{total}} poprawnie"
+      "correct": "{{correct}} z {{total}} poprawnie",
+      "scorePrefix": "Twój wynik:",
+      "scoreLabel": "Wynik:",
+      "placeLabel": "Miejsce:"
     },
     "champions": {
       "title": "Mistrzowie",
       "loading": "Ładowanie mistrzów...",
       "empty": "Nie ma jeszcze mistrzów.",
-      "yourPlace": "Twoje miejsce: {{place}}"
+      "yourPlace": "Twoje miejsce: {{place}}",
+      "youSuffix": "(Ty)",
+      "open": "Tabela liderów",
+      "leagueTitle": "Liderzy ligi {{league}}"
+    },
+    "questionTypes": {
+      "single": "Jedna odpowiedź",
+      "multi": "Wiele odpowiedzi"
     }
   }
 }

@@ -401,23 +401,28 @@
     "tooltip": "Quiz",
     "title": {
       "route": "Quiz: {{title}}",
-      "city": "Quiz de ville: {{title}}"
+      "city": "Quiz de ville: {{title}}",
+      "routeLabel": "Quiz du parcours",
+      "cityShort": "{{title}}-quiz"
     },
     "leagues": {
-      "rookie": "Débutant",
-      "amateur": "Amateur",
-      "expert": "Expert"
+      "rookie": "Touristes",
+      "amateur": "Citadins",
+      "expert": "Experts"
     },
     "start": {
       "questionCount": "{{count}} questions",
-      "routeAllPoints": "Questions du quiz de parcours: {{count}}"
+      "routeAllPoints": "Questions du quiz de parcours: {{count}}",
+      "leaguePrefix": "Ligue"
     },
     "actions": {
       "choose": "Choisir",
       "start": "Démarrer le quiz",
       "hint": "Indice",
       "answer": "Répondre",
-      "newQuiz": "Nouveau quiz"
+      "newQuiz": "Nouveau quiz",
+      "selectAndStart": "Choisir et démarrer",
+      "close": "Fermer"
     },
     "messages": {
       "noQuestions": "Il n’y a pas encore de questions de quiz dans la langue actuelle.",
@@ -429,19 +434,32 @@
       "description": "Ce nom apparaîtra dans le classement des champions. Vous pourrez le modifier plus tard dans les paramètres.",
       "label": "Pseudo",
       "anonymous": "Promeneur anonyme",
-      "settingsLabel": "Pseudo du quiz",
-      "edit": "Modifier le pseudo du quiz"
+      "settingsLabel": "Nickname",
+      "edit": "Modifier le pseudo du quiz",
+      "limit": "Maximum {{count}} caractères",
+      "taken": "Ce nickname est déjà pris.",
+      "saveFailed": "Impossible d’enregistrer le nickname. Veuillez réessayer."
     },
     "progress": "Question {{current}} sur {{total}}",
     "results": {
       "title": "Quiz terminé",
-      "correct": "{{correct}} sur {{total}} correctes"
+      "correct": "{{correct}} sur {{total}} correctes",
+      "scorePrefix": "Votre score:",
+      "scoreLabel": "Score :",
+      "placeLabel": "Place :"
     },
     "champions": {
       "title": "Champions",
       "loading": "Chargement des champions...",
       "empty": "Aucun champion pour le moment.",
-      "yourPlace": "Votre place: {{place}}"
+      "yourPlace": "Votre place: {{place}}",
+      "youSuffix": "(Vous)",
+      "open": "Classement",
+      "leagueTitle": "Classement {{league}}"
+    },
+    "questionTypes": {
+      "single": "Une réponse",
+      "multi": "Plusieurs réponses"
     }
   }
 }

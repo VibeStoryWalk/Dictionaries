@@ -401,23 +401,28 @@
     "tooltip": "Quiz",
     "title": {
       "route": "Quiz: {{title}}",
-      "city": "Stadtquiz: {{title}}"
+      "city": "Stadtquiz: {{title}}",
+      "routeLabel": "Quiz zur Route",
+      "cityShort": "{{title}}-Quiz"
     },
     "leagues": {
-      "rookie": "Anfänger",
-      "amateur": "Liebhaber",
-      "expert": "Experte"
+      "rookie": "Touristen",
+      "amateur": "Stadtbewohner",
+      "expert": "Experten"
     },
     "start": {
       "questionCount": "{{count}} Fragen",
-      "routeAllPoints": "Fragen im Routenquiz: {{count}}"
+      "routeAllPoints": "Fragen im Routenquiz: {{count}}",
+      "leaguePrefix": "Liga"
     },
     "actions": {
       "choose": "Auswählen",
       "start": "Quiz starten",
       "hint": "Hinweis",
       "answer": "Antworten",
-      "newQuiz": "Neues Quiz"
+      "newQuiz": "Neues Quiz",
+      "selectAndStart": "Auswählen & starten",
+      "close": "Schließen"
     },
     "messages": {
       "noQuestions": "In der aktuellen Sprache gibt es noch keine Quizfragen.",
@@ -429,19 +434,32 @@
       "description": "Dieser Name erscheint in der Championsliste. Du kannst ihn später in den Einstellungen ändern.",
       "label": "Nickname",
       "anonymous": "Anonymer Spaziergänger",
-      "settingsLabel": "Quizname",
-      "edit": "Quizname bearbeiten"
+      "settingsLabel": "Nickname",
+      "edit": "Quizname bearbeiten",
+      "limit": "Maximal {{count}} Zeichen",
+      "taken": "Dieser Nickname ist bereits vergeben.",
+      "saveFailed": "Nickname konnte nicht gespeichert werden. Bitte versuche es erneut."
     },
     "progress": "Frage {{current}} von {{total}}",
     "results": {
       "title": "Quiz abgeschlossen",
-      "correct": "{{correct}} von {{total}} richtig"
+      "correct": "{{correct}} von {{total}} richtig",
+      "scorePrefix": "Deine Punktzahl:",
+      "scoreLabel": "Punktzahl:",
+      "placeLabel": "Platz:"
     },
     "champions": {
       "title": "Champions",
       "loading": "Champions werden geladen...",
       "empty": "Noch keine Champions.",
-      "yourPlace": "Dein Platz: {{place}}"
+      "yourPlace": "Dein Platz: {{place}}",
+      "youSuffix": "(Du)",
+      "open": "Bestenliste",
+      "leagueTitle": "Bestenliste {{league}}"
+    },
+    "questionTypes": {
+      "single": "Eine Antwort",
+      "multi": "Mehrere Antworten"
     }
   }
 }

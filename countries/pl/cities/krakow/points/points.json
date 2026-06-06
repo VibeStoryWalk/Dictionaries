@@ -7806,61 +7806,61 @@
       {
         "id": "question-1",
         "question": {
-          "pl": "Jaki film rozsławił podwórko z tego miasta?",
-          "ru": "Какой фильм сделал дворик из города известным?",
-          "en": "Which film made the courtyard from the city famous?",
           "de": "Welcher Film machte den Hof aus der Stadt bekannt?",
-          "ua": "Який фільм зробив дворик із міста відомим?",
-          "it": "Quale film ha reso famoso il cortile della città?",
-          "hr": "Koji je film učinio dvorište iz grada poznatim?",
+          "en": "Which film made the courtyard from the city famous?",
           "es": "¿Qué película hizo famoso el patio de la ciudad?",
-          "fr": "Quel film a rendu célèbre la cour de la ville ?"
+          "fr": "Quel film a rendu célèbre la cour de la ville ?",
+          "hr": "Koji je film učinio dvorište iz grada poznatim?",
+          "it": "Quale film ha reso famoso il cortile della città?",
+          "pl": "Jaki film rozsławił podwórko z tego miasta?",
+          "ru": "Какой фильм сделал известным один дворик из Казимежа?",
+          "ua": "Який фільм зробив дворик із міста відомим?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "„Schindlers Liste“",
+            "en": "\"Schindler's List\"",
+            "es": "«La lista de Schindler»",
+            "fr": "« La Liste de Schindler »",
+            "hr": "„Schindlerova lista”",
+            "it": "«Schindler's List»",
             "pl": "„Lista Schindlera”",
             "ru": "«Список Шиндлера»",
-            "en": "\"Schindler's List\"",
-            "de": "„Schindlers Liste“",
-            "ua": "«Список Шиндлера»",
-            "it": "«Schindler's List»",
-            "hr": "„Schindlerova lista”",
-            "es": "«La lista de Schindler»",
-            "fr": "« La Liste de Schindler »"
+            "ua": "«Список Шиндлера»"
           },
           {
+            "de": "„Der Pianist“",
+            "en": "\"The Pianist\"",
+            "es": "«El pianista»",
+            "fr": "« Le Pianiste »",
+            "hr": "„Pijanist”",
+            "it": "«Il pianista»",
             "pl": "„Pianista”",
             "ru": "«Пианист»",
-            "en": "\"The Pianist\"",
-            "de": "„Der Pianist“",
-            "ua": "«Піаніст»",
-            "it": "«Il pianista»",
-            "hr": "„Pijanist”",
-            "es": "«El pianista»",
-            "fr": "« Le Pianiste »"
+            "ua": "«Піаніст»"
           },
           {
+            "de": "„Krakauer Geschichte“",
+            "en": "\"Krakow Story\"",
+            "es": "«Historia de Cracovia»",
+            "fr": "« Histoire de Cracovie »",
+            "hr": "„Krakovska priča”",
+            "it": "«Storia di Cracovia»",
             "pl": "„Krakowska historia”",
             "ru": "«Краковская история»",
-            "en": "\"Krakow Story\"",
-            "de": "„Krakauer Geschichte“",
-            "ua": "«Краківська історія»",
-            "it": "«Storia di Cracovia»",
-            "hr": "„Krakovska priča”",
-            "es": "«Historia de Cracovia»",
-            "fr": "« Histoire de Cracovie »"
+            "ua": "«Краківська історія»"
           },
           {
+            "de": "„Die Krakauer Liste“",
+            "en": "\"The Krakow List\"",
+            "es": "«La lista de Cracovia»",
+            "fr": "« La Liste de Cracovie »",
+            "hr": "„Krakovski popis”",
+            "it": "«La lista di Cracovia»",
             "pl": "„Lista Krakowa”",
             "ru": "«Список Кракова»",
-            "en": "\"The Krakow List\"",
-            "de": "„Die Krakauer Liste“",
-            "ua": "«Список Кракова»",
-            "it": "«La lista di Cracovia»",
-            "hr": "„Krakovski popis”",
-            "es": "«La lista de Cracovia»",
-            "fr": "« La Liste de Cracovie »"
+            "ua": "«Список Кракова»"
           }
         ],
         "correctAnswerIndexes": [
@@ -7870,61 +7870,61 @@
       {
         "id": "question-2",
         "question": {
-          "pl": "Kto nakręcił film, dzięki któremu to podwórko stało się sławne?",
-          "ru": "Кто снял фильм, благодаря которому прославился этот дворик?",
-          "en": "Who directed the film thanks to which this courtyard became famous?",
           "de": "Wer drehte den Film, dank dem dieser Hof berühmt wurde?",
-          "ua": "Хто зняв фільм, завдяки якому прославився цей дворик?",
-          "it": "Chi ha diretto il film grazie al quale questo cortile è diventato famoso?",
-          "hr": "Tko je snimio film zahvaljujući kojem je ovo dvorište postalo poznato?",
+          "en": "Who directed the film thanks to which this courtyard became famous?",
           "es": "¿Quién dirigió la película gracias a la cual se hizo famoso este patio?",
-          "fr": "Qui a réalisé le film grâce auquel cette cour est devenue célèbre ?"
+          "fr": "Qui a réalisé le film grâce auquel cette cour est devenue célèbre ?",
+          "hr": "Tko je snimio film zahvaljujući kojem je ovo dvorište postalo poznato?",
+          "it": "Chi ha diretto il film grazie al quale questo cortile è diventato famoso?",
+          "pl": "Kto nakręcił film, dzięki któremu to podwórko stało się sławne?",
+          "ru": "Кто снял фильм, благодаря которому прославился один дворик из Казимежа?",
+          "ua": "Хто зняв фільм, завдяки якому прославився цей дворик?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Steven Spielberg",
+            "en": "Steven Spielberg",
+            "es": "Steven Spielberg",
+            "fr": "Steven Spielberg",
+            "hr": "Steven Spielberg",
+            "it": "Steven Spielberg",
             "pl": "Steven Spielberg",
             "ru": "Стивен Спилберг",
-            "en": "Steven Spielberg",
-            "de": "Steven Spielberg",
-            "ua": "Стівен Спілберг",
-            "it": "Steven Spielberg",
-            "hr": "Steven Spielberg",
-            "es": "Steven Spielberg",
-            "fr": "Steven Spielberg"
+            "ua": "Стівен Спілберг"
           },
           {
+            "de": "Roman Polański",
+            "en": "Roman Polanski",
+            "es": "Roman Polanski",
+            "fr": "Roman Polanski",
+            "hr": "Roman Polanski",
+            "it": "Roman Polański",
             "pl": "Roman Polański",
             "ru": "Роман Полански",
-            "en": "Roman Polanski",
-            "de": "Roman Polański",
-            "ua": "Роман Полянський",
-            "it": "Roman Polański",
-            "hr": "Roman Polanski",
-            "es": "Roman Polanski",
-            "fr": "Roman Polanski"
+            "ua": "Роман Полянський"
           },
           {
+            "de": "Andrzej Wajda",
+            "en": "Andrzej Wajda",
+            "es": "Andrzej Wajda",
+            "fr": "Andrzej Wajda",
+            "hr": "Andrzej Wajda",
+            "it": "Andrzej Wajda",
             "pl": "Andrzej Wajda",
             "ru": "Анджей Вайда",
-            "en": "Andrzej Wajda",
-            "de": "Andrzej Wajda",
-            "ua": "Анджей Вайда",
-            "it": "Andrzej Wajda",
-            "hr": "Andrzej Wajda",
-            "es": "Andrzej Wajda",
-            "fr": "Andrzej Wajda"
+            "ua": "Анджей Вайда"
           },
           {
+            "de": "Krzysztof Kieślowski",
+            "en": "Krzysztof Kieślowski",
+            "es": "Krzysztof Kieślowski",
+            "fr": "Krzysztof Kieślowski",
+            "hr": "Krzysztof Kieślowski",
+            "it": "Krzysztof Kieślowski",
             "pl": "Krzysztof Kieślowski",
             "ru": "Кшиштоф Кесьлёвский",
-            "en": "Krzysztof Kieślowski",
-            "de": "Krzysztof Kieślowski",
-            "ua": "Кшиштоф Кесльовський",
-            "it": "Krzysztof Kieślowski",
-            "hr": "Krzysztof Kieślowski",
-            "es": "Krzysztof Kieślowski",
-            "fr": "Krzysztof Kieślowski"
+            "ua": "Кшиштоф Кесльовський"
           }
         ],
         "correctAnswerIndexes": [
@@ -7934,61 +7934,61 @@
       {
         "id": "question-3",
         "question": {
+          "de": "Welche Besonderheiten des Hofes aus dem Film „Schindlers Liste“ halfen, die passende Atmosphäre zu schaffen?",
+          "en": "What features of the courtyard from the film \"Schindler's List\" helped create the right atmosphere?",
+          "es": "¿Qué características del patio de la película «La lista de Schindler» ayudaban a crear la atmósfera adecuada?",
+          "fr": "Quelles particularités de la cour du film « La Liste de Schindler » aidaient à créer l’atmosphère voulue ?",
+          "hr": "Koje su značajke dvorišta iz filma „Schindlerova lista” pomogle stvoriti odgovarajuću atmosferu?",
+          "it": "Quali caratteristiche del cortile del film «Schindler's List» aiutavano a creare l'atmosfera giusta?",
           "pl": "Jakie cechy podwórka z filmu „Lista Schindlera” pomagały stworzyć odpowiednią atmosferę?",
           "ru": "Какие особенности дворика из фильма «Список Шиндлера» помогали создать нужную атмосферу?",
-          "en": "What features of the courtyard from the film \"Schindler's List\" helped create the right atmosphere?",
-          "de": "Welche Besonderheiten des Hofes aus dem Film „Schindlers Liste“ halfen, die passende Atmosphäre zu schaffen?",
-          "ua": "Які особливості дворика з фільму «Список Шиндлера» допомагали створити потрібну атмосферу?",
-          "it": "Quali caratteristiche del cortile del film «Schindler's List» aiutavano a creare l'atmosfera giusta?",
-          "hr": "Koje su značajke dvorišta iz filma „Schindlerova lista” pomogle stvoriti odgovarajuću atmosferu?",
-          "es": "¿Qué características del patio de la película «La lista de Schindler» ayudaban a crear la atmósfera adecuada?",
-          "fr": "Quelles particularités de la cour du film « La Liste de Schindler » aidaient à créer l’atmosphère voulue ?"
+          "ua": "Які особливості дворика з фільму «Список Шиндлера» допомагали створити потрібну атмосферу?"
         },
         "answerType": "multi",
         "answers": [
           {
+            "de": "Steinerne Treppen",
+            "en": "Stone stairs",
+            "es": "Escaleras de piedra",
+            "fr": "Escaliers en pierre",
+            "hr": "Kamene stepenice",
+            "it": "Scale di pietra",
             "pl": "Kamienne schody",
             "ru": "Каменные лестницы",
-            "en": "Stone stairs",
-            "de": "Steinerne Treppen",
-            "ua": "Кам'яні сходи",
-            "it": "Scale di pietra",
-            "hr": "Kamene stepenice",
-            "es": "Escaleras de piedra",
-            "fr": "Escaliers en pierre"
+            "ua": "Кам'яні сходи"
           },
           {
+            "de": "Enge Gänge",
+            "en": "Narrow passages",
+            "es": "Pasajes estrechos",
+            "fr": "Passages étroits",
+            "hr": "Uski prolazi",
+            "it": "Passaggi stretti",
             "pl": "Wąskie przejścia",
             "ru": "Узкие проходы",
-            "en": "Narrow passages",
-            "de": "Enge Gänge",
-            "ua": "Вузькі проходи",
-            "it": "Passaggi stretti",
-            "hr": "Uski prolazi",
-            "es": "Pasajes estrechos",
-            "fr": "Passages étroits"
+            "ua": "Вузькі проходи"
           },
           {
+            "de": "Abgeschlossener Raum",
+            "en": "Enclosed space",
+            "es": "Espacio cerrado",
+            "fr": "Espace fermé",
+            "hr": "Zatvoren prostor",
+            "it": "Spazio chiuso",
             "pl": "Zamknięta przestrzeń",
             "ru": "Замкнутое пространство",
-            "en": "Enclosed space",
-            "de": "Abgeschlossener Raum",
-            "ua": "Замкнений простір",
-            "it": "Spazio chiuso",
-            "hr": "Zatvoren prostor",
-            "es": "Espacio cerrado",
-            "fr": "Espace fermé"
+            "ua": "Замкнений простір"
           },
           {
+            "de": "Breite Plätze",
+            "en": "Wide squares",
+            "es": "Plazas amplias",
+            "fr": "Grandes places",
+            "hr": "Široki trgovi",
+            "it": "Ampie piazze",
             "pl": "Szerokie place",
             "ru": "Широкие площади",
-            "en": "Wide squares",
-            "de": "Breite Plätze",
-            "ua": "Широкі площі",
-            "it": "Ampie piazze",
-            "hr": "Široki trgovi",
-            "es": "Plazas amplias",
-            "fr": "Grandes places"
+            "ua": "Широкі площі"
           }
         ],
         "correctAnswerIndexes": [
@@ -8000,61 +8000,61 @@
       {
         "id": "question-4",
         "question": {
+          "de": "Welche Stimmung vermittelte der Hof aus dem Film „Schindlers Liste“?",
+          "en": "What mood did the courtyard from the film \"Schindler's List\" convey?",
+          "es": "¿Qué ambiente transmitía el patio de la película «La lista de Schindler»?",
+          "fr": "Quelle ambiance la cour du film « La Liste de Schindler » transmettait-elle ?",
+          "hr": "Koje je raspoloženje prenosilo dvorište iz filma „Schindlerova lista”?",
+          "it": "Quale atmosfera trasmetteva il cortile del film «Schindler's List»?",
           "pl": "Jakie nastroje przekazywało podwórko z filmu „Lista Schindlera”?",
           "ru": "Какое настроение передавал дворик из фильма «Список Шиндлера»?",
-          "en": "What mood did the courtyard from the film \"Schindler's List\" convey?",
-          "de": "Welche Stimmung vermittelte der Hof aus dem Film „Schindlers Liste“?",
-          "ua": "Який настрій передавав дворик з фільму «Список Шиндлера»?",
-          "it": "Quale atmosfera trasmetteva il cortile del film «Schindler's List»?",
-          "hr": "Koje je raspoloženje prenosilo dvorište iz filma „Schindlerova lista”?",
-          "es": "¿Qué ambiente transmitía el patio de la película «La lista de Schindler»?",
-          "fr": "Quelle ambiance la cour du film « La Liste de Schindler » transmettait-elle ?"
+          "ua": "Який настрій передавав дворик з фільму «Список Шиндлера»?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Ausweglosigkeit und Unruhe",
+            "en": "Hopelessness and anxiety",
+            "es": "Desesperanza y angustia",
+            "fr": "Désespoir et inquiétude",
+            "hr": "Beznadnost i tjeskobu",
+            "it": "Sconforto e ansia",
             "pl": "Beznadzieję i niepokój",
             "ru": "Безысходность и тревогу",
-            "en": "Hopelessness and anxiety",
-            "de": "Ausweglosigkeit und Unruhe",
-            "ua": "Безвихідь і тривогу",
-            "it": "Sconforto e ansia",
-            "hr": "Beznadnost i tjeskobu",
-            "es": "Desesperanza y angustia",
-            "fr": "Désespoir et inquiétude"
+            "ua": "Безвихідь і тривогу"
           },
           {
+            "de": "Festlichkeit und Freude",
+            "en": "Festivity and joy",
+            "es": "Festividad y alegría",
+            "fr": "Fête et joie",
+            "hr": "Svečanost i radost",
+            "it": "Festa e gioia",
             "pl": "Uroczystość i radość",
             "ru": "Праздничность и радость",
-            "en": "Festivity and joy",
-            "de": "Festlichkeit und Freude",
-            "ua": "Святковість і радість",
-            "it": "Festa e gioia",
-            "hr": "Svečanost i radost",
-            "es": "Festividad y alegría",
-            "fr": "Fête et joie"
+            "ua": "Святковість і радість"
           },
           {
+            "de": "Gemütlichkeit und Ruhe",
+            "en": "Coziness and calm",
+            "es": "Calidez y tranquilidad",
+            "fr": "Confort et calme",
+            "hr": "Udobnost i mir",
+            "it": "Accoglienza e tranquillità",
             "pl": "Przytulność i spokój",
             "ru": "Уют и спокойствие",
-            "en": "Coziness and calm",
-            "de": "Gemütlichkeit und Ruhe",
-            "ua": "Затишок і спокій",
-            "it": "Accoglienza e tranquillità",
-            "hr": "Udobnost i mir",
-            "es": "Calidez y tranquilidad",
-            "fr": "Confort et calme"
+            "ua": "Затишок і спокій"
           },
           {
+            "de": "Leichte Ironie",
+            "en": "Light irony",
+            "es": "Ligera ironía",
+            "fr": "Légère ironie",
+            "hr": "Laganu ironiju",
+            "it": "Leggera ironia",
             "pl": "Lekki humor",
             "ru": "Лёгкую иронию",
-            "en": "Light irony",
-            "de": "Leichte Ironie",
-            "ua": "Легку іронію",
-            "it": "Leggera ironia",
-            "hr": "Laganu ironiju",
-            "es": "Ligera ironía",
-            "fr": "Légère ironie"
+            "ua": "Легку іронію"
           }
         ],
         "correctAnswerIndexes": [
@@ -8064,61 +8064,61 @@
       {
         "id": "question-5",
         "question": {
+          "de": "Welche historische Szene wurde im Hof aus dem Film „Schindlers Liste“ gedreht?",
+          "en": "Which historical scene was filmed in the courtyard from the film \"Schindler's List\"?",
+          "es": "¿Qué escena histórica se rodó en el patio de la película «La lista de Schindler»?",
+          "fr": "Quelle scène historique a été tournée dans la cour du film « La Liste de Schindler » ?",
+          "hr": "Koja je povijesna scena snimana u dvorištu iz filma „Schindlerova lista”?",
+          "it": "Quale scena storica è stata girata nel cortile del film «Schindler's List»?",
           "pl": "Jaka historyczna scena była kręcona na podwórku z filmu „Lista Schindlera”?",
           "ru": "Какая историческая сцена снималась во дворике из фильма «Список Шиндлера»?",
-          "en": "Which historical scene was filmed in the courtyard from the film \"Schindler's List\"?",
-          "de": "Welche historische Szene wurde im Hof aus dem Film „Schindlers Liste“ gedreht?",
-          "ua": "Яку історичну сцену знімали у дворику з фільму «Список Шиндлера»?",
-          "it": "Quale scena storica è stata girata nel cortile del film «Schindler's List»?",
-          "hr": "Koja je povijesna scena snimana u dvorištu iz filma „Schindlerova lista”?",
-          "es": "¿Qué escena histórica se rodó en el patio de la película «La lista de Schindler»?",
-          "fr": "Quelle scène historique a été tournée dans la cour du film « La Liste de Schindler » ?"
+          "ua": "Яку історичну сцену знімали у дворику з фільму «Список Шиндлера»?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Die Liquidierung des Krakauer Ghettos",
+            "en": "The liquidation of the Krakow Ghetto",
+            "es": "La liquidación del gueto de Cracovia",
+            "fr": "La liquidation du ghetto de Cracovie",
+            "hr": "Likvidacija krakovskog geta",
+            "it": "La liquidazione del ghetto di Cracovia",
             "pl": "Likwidacja getta krakowskiego",
             "ru": "Ликвидация Краковского гетто",
-            "en": "The liquidation of the Krakow Ghetto",
-            "de": "Die Liquidierung des Krakauer Ghettos",
-            "ua": "Ліквідацію Краківського гетто",
-            "it": "La liquidazione del ghetto di Cracovia",
-            "hr": "Likvidacija krakovskog geta",
-            "es": "La liquidación del gueto de Cracovia",
-            "fr": "La liquidation du ghetto de Cracovie"
+            "ua": "Ліквідацію Краківського гетто"
           },
           {
+            "de": "Die Krönung des Königs",
+            "en": "The king's coronation",
+            "es": "La coronación del rey",
+            "fr": "Le couronnement du roi",
+            "hr": "Krunidba kralja",
+            "it": "L'incoronazione del re",
             "pl": "Koronacja króla",
             "ru": "Коронация короля",
-            "en": "The king's coronation",
-            "de": "Die Krönung des Königs",
-            "ua": "Коронацію короля",
-            "it": "L'incoronazione del re",
-            "hr": "Krunidba kralja",
-            "es": "La coronación del rey",
-            "fr": "Le couronnement du roi"
+            "ua": "Коронацію короля"
           },
           {
+            "de": "Die Eröffnung des Museums",
+            "en": "The opening of the museum",
+            "es": "La apertura del museo",
+            "fr": "L’ouverture du musée",
+            "hr": "Otvaranje muzeja",
+            "it": "L'apertura del museo",
             "pl": "Otwarcie muzeum",
             "ru": "Открытие музея",
-            "en": "The opening of the museum",
-            "de": "Die Eröffnung des Museums",
-            "ua": "Відкриття музею",
-            "it": "L'apertura del museo",
-            "hr": "Otvaranje muzeja",
-            "es": "La apertura del museo",
-            "fr": "L’ouverture du musée"
+            "ua": "Відкриття музею"
           },
           {
+            "de": "Der Stadtkarneval",
+            "en": "The city carnival",
+            "es": "El carnaval de la ciudad",
+            "fr": "Le carnaval de la ville",
+            "hr": "Gradski karneval",
+            "it": "Il carnevale cittadino",
             "pl": "Miejski karnawał",
             "ru": "Городской карнавал",
-            "en": "The city carnival",
-            "de": "Der Stadtkarneval",
-            "ua": "Міський карнавал",
-            "it": "Il carnevale cittadino",
-            "hr": "Gradski karneval",
-            "es": "El carnaval de la ciudad",
-            "fr": "Le carnaval de la ville"
+            "ua": "Міський карнавал"
           }
         ],
         "correctAnswerIndexes": [

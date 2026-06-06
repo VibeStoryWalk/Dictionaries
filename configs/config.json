@@ -52,6 +52,6 @@
   "newVersionCheck": 5,
   "featureFlags": {
     "buildMyMap": true,
-    "quizes": false
+    "quizes": true
   }
 }

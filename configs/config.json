@@ -53,5 +53,8 @@
   "featureFlags": {
     "buildMyMap": true,
     "quizes": true
+  },
+  "firebase": {
+    "firestore": "my-test-firebase-mt"
   }
 }

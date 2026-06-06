@@ -8,5 +8,8 @@
     "nativeBannerAdUnitId": "ca-app-pub-9625623256171202/1803814094",
     "nativeInterstitialAdUnitId": "ca-app-pub-9625623256171202/3879313094",
     "hiddenPointRewardAdv": "ca-app-pub-9625623256171202/7617107462"
+  },
+  "firebase": {
+    "firestore": "samowalk-prod"
   }
 }

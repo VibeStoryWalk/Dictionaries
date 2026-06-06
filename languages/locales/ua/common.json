@@ -452,6 +452,7 @@
       "correct": "{{correct}} з {{total}} правильно",
       "scorePrefix": "Ваш результат:",
       "scoreLabel": "Рахунок:",
+      "recordLabel": "Рекорд:",
       "placeLabel": "Місце:"
     },
     "champions": {

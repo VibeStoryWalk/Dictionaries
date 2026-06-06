@@ -448,6 +448,7 @@
       "correct": "{{correct}} di {{total}} corrette",
       "scorePrefix": "Il tuo punteggio:",
       "scoreLabel": "Punteggio:",
+      "recordLabel": "Record:",
       "placeLabel": "Posizione:"
     },
     "champions": {

@@ -12438,61 +12438,61 @@
       {
         "id": "question-1",
         "question": {
-          "pl": "Na jakim placu stoi pomnik Adama Mickiewicza w Krakowie?",
-          "ru": "У памятника Адаму Мицкевичу в Кракове на какой площади он стоит?",
-          "en": "At the Adam Mickiewicz Monument in Krakow, on which square does it stand?",
           "de": "Auf welchem Platz steht das Denkmal für Adam Mickiewicz in Krakau?",
-          "ua": "На якій площі стоїть пам’ятник Адаму Міцкевичу в Кракові?",
-          "it": "Al monumento ad Adam Mickiewicz a Cracovia, in quale piazza si trova?",
-          "hr": "Na kojem se trgu nalazi spomenik Adamu Mickiewiczu u Krakovu?",
+          "en": "At the Adam Mickiewicz Monument in Krakow, on which square does it stand?",
           "es": "En el Monumento a Adam Mickiewicz de Cracovia, ¿en qué plaza se encuentra?",
-          "fr": "Au monument Adam Mickiewicz à Cracovie, sur quelle place se trouve-t-il ?"
+          "fr": "Au monument Adam Mickiewicz à Cracovie, sur quelle place se trouve-t-il ?",
+          "hr": "Na kojem se trgu nalazi spomenik Adamu Mickiewiczu u Krakovu?",
+          "it": "Al monumento ad Adam Mickiewicz a Cracovia, in quale piazza si trova?",
+          "pl": "Na jakim placu stoi pomnik Adama Mickiewicza w Krakowie?",
+          "ru": "На какой площади стоит памятник Адаму Мицкевичу?",
+          "ua": "На якій площі стоїть пам’ятник Адаму Міцкевичу в Кракові?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Hauptmarkt",
+            "en": "Main Market Square",
+            "es": "Plaza del Mercado Principal",
+            "fr": "Grande Place du Marché",
+            "hr": "Glavni trg",
+            "it": "Piazza del Mercato Principale",
             "pl": "Rynek Główny",
             "ru": "Главная рыночная площадь",
-            "en": "Main Market Square",
-            "de": "Hauptmarkt",
-            "ua": "Головний ринок",
-            "it": "Piazza del Mercato Principale",
-            "hr": "Glavni trg",
-            "es": "Plaza del Mercado Principal",
-            "fr": "Grande Place du Marché"
+            "ua": "Головний ринок"
           },
           {
+            "de": "Schlossplatz",
+            "en": "Castle Square",
+            "es": "Plaza del Castillo",
+            "fr": "Place du Château",
+            "hr": "Dvorni trg",
+            "it": "Piazza del Castello",
             "pl": "Plac Zamkowy",
             "ru": "Площадь Замка",
-            "en": "Castle Square",
-            "de": "Schlossplatz",
-            "ua": "Площа Замку",
-            "it": "Piazza del Castello",
-            "hr": "Dvorni trg",
-            "es": "Plaza del Castillo",
-            "fr": "Place du Château"
+            "ua": "Площа Замку"
           },
           {
+            "de": "Rynek-Platz",
+            "en": "Rynek Square",
+            "es": "Plaza Rynek",
+            "fr": "Place Rynek",
+            "hr": "Trg Rynek",
+            "it": "Piazza Rynek",
             "pl": "Rynek",
             "ru": "Площадь Рынек",
-            "en": "Rynek Square",
-            "de": "Rynek-Platz",
-            "ua": "Площа Ринок",
-            "it": "Piazza Rynek",
-            "hr": "Trg Rynek",
-            "es": "Plaza Rynek",
-            "fr": "Place Rynek"
+            "ua": "Площа Ринок"
           },
           {
+            "de": "Wawelhof",
+            "en": "Wawel Courtyard",
+            "es": "Patio de Wawel",
+            "fr": "Cour de Wawel",
+            "hr": "Dvorište Wawela",
+            "it": "Cortile del Wawel",
             "pl": "Dziedziniec Wawelski",
             "ru": "Вавельский двор",
-            "en": "Wawel Courtyard",
-            "de": "Wawelhof",
-            "ua": "Вавельський двір",
-            "it": "Cortile del Wawel",
-            "hr": "Dvorište Wawela",
-            "es": "Patio de Wawel",
-            "fr": "Cour de Wawel"
+            "ua": "Вавельський двір"
           }
         ],
         "correctAnswerIndexes": [
@@ -12502,61 +12502,61 @@
       {
         "id": "question-2",
         "question": {
+          "de": "Welcher Spitzname hat sich für das Adam-Mickiewicz-Denkmal als Treffpunkt in Krakau eingebürgert?",
+          "en": "What nickname has become established for the Adam Mickiewicz Monument as a meeting place in Krakow?",
+          "es": "¿Qué apodo se ha consolidado para el Monumento a Adam Mickiewicz como lugar de encuentro en Cracovia?",
+          "fr": "Quel surnom s’est imposé pour le monument Adam Mickiewicz comme lieu de rendez-vous à Cracovie ?",
+          "hr": "Koji se nadimak ustalio za spomenik Adamu Mickiewiczu kao mjesto susreta u Krakovu?",
+          "it": "Quale soprannome si è affermato per il monumento ad Adam Mickiewicz come luogo d’incontro a Cracovia?",
           "pl": "Jaki przydomek przyjął się dla pomnika Adama Mickiewicza jako miejsca spotkań w Krakowie?",
           "ru": "Какое прозвище закрепилось за памятником Адаму Мицкевичу как за местом встреч в Кракове?",
-          "en": "What nickname has become established for the Adam Mickiewicz Monument as a meeting place in Krakow?",
-          "de": "Welcher Spitzname hat sich für das Adam-Mickiewicz-Denkmal als Treffpunkt in Krakau eingebürgert?",
-          "ua": "Яке прізвисько закріпилося за пам’ятником Адаму Міцкевичу як місцем зустрічей у Кракові?",
-          "it": "Quale soprannome si è affermato per il monumento ad Adam Mickiewicz come luogo d’incontro a Cracovia?",
-          "hr": "Koji se nadimak ustalio za spomenik Adamu Mickiewiczu kao mjesto susreta u Krakovu?",
-          "es": "¿Qué apodo se ha consolidado para el Monumento a Adam Mickiewicz como lugar de encuentro en Cracovia?",
-          "fr": "Quel surnom s’est imposé pour le monument Adam Mickiewicz comme lieu de rendez-vous à Cracovie ?"
+          "ua": "Яке прізвисько закріпилося за пам’ятником Адаму Міцкевичу як місцем зустрічей у Кракові?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Unter Adaś",
+            "en": "Under Adaś",
+            "es": "Bajo Adaś",
+            "fr": "Sous Adaś",
+            "hr": "Pod Adasiem",
+            "it": "Sotto Adaś",
             "pl": "Pod Adasiem",
             "ru": "Под Адасием",
-            "en": "Under Adaś",
-            "de": "Unter Adaś",
-            "ua": "Під Адасем",
-            "it": "Sotto Adaś",
-            "hr": "Pod Adasiem",
-            "es": "Bajo Adaś",
-            "fr": "Sous Adaś"
+            "ua": "Під Адасем"
           },
           {
+            "de": "Unter der Glocke",
+            "en": "Under the Bell",
+            "es": "Bajo la campana",
+            "fr": "Sous la cloche",
+            "hr": "Pod zvonom",
+            "it": "Sotto la campana",
             "pl": "Pod Dzwonem",
             "ru": "Под Колоколом",
-            "en": "Under the Bell",
-            "de": "Unter der Glocke",
-            "ua": "Під Дзвоном",
-            "it": "Sotto la campana",
-            "hr": "Pod zvonom",
-            "es": "Bajo la campana",
-            "fr": "Sous la cloche"
+            "ua": "Під Дзвоном"
           },
           {
+            "de": "Beim Sigismund",
+            "en": "By Sigismund",
+            "es": "Junto a Segismundo",
+            "fr": "Chez Sigismond",
+            "hr": "Kod Sigismunda",
+            "it": "Da Sigismondo",
             "pl": "Pod Zygmuntem",
             "ru": "У Сигизмунда",
-            "en": "By Sigismund",
-            "de": "Beim Sigismund",
-            "ua": "Під Сигізмундом",
-            "it": "Da Sigismondo",
-            "hr": "Kod Sigismunda",
-            "es": "Junto a Segismundo",
-            "fr": "Chez Sigismond"
+            "ua": "Під Сигізмундом"
           },
           {
+            "de": "Beim Barbakane",
+            "en": "By the Barbican",
+            "es": "Junto al Barbicano",
+            "fr": "Chez le Barbican",
+            "hr": "Kod Barbikana",
+            "it": "Dal Barbican",
             "pl": "Pod Barbakanem",
             "ru": "У Барбакана",
-            "en": "By the Barbican",
-            "de": "Beim Barbakane",
-            "ua": "Під Барбаканом",
-            "it": "Dal Barbican",
-            "hr": "Kod Barbikana",
-            "es": "Junto al Barbicano",
-            "fr": "Chez le Barbican"
+            "ua": "Під Барбаканом"
           }
         ],
         "correctAnswerIndexes": [
@@ -12566,61 +12566,61 @@
       {
         "id": "question-3",
         "question": {
+          "de": "Welche Werke von Adam Mickiewicz werden in der Geschichte des Adam-Mickiewicz-Denkmals erwähnt?",
+          "en": "Which works by Adam Mickiewicz are mentioned in the history of the Adam Mickiewicz Monument?",
+          "es": "¿Qué obras de Adam Mickiewicz se mencionan en la historia del Monumento a Adam Mickiewicz?",
+          "fr": "Quelles œuvres d’Adam Mickiewicz sont mentionnées dans l’histoire du monument Adam Mickiewicz ?",
+          "hr": "Koja su djela Adama Mickiewicza spomenuta u povijesti spomenika Adamu Mickiewiczu?",
+          "it": "Quali opere di Adam Mickiewicz sono menzionate nella storia del monumento ad Adam Mickiewicz?",
           "pl": "Jakie dzieła Adama Mickiewicza są wymienione w historii pomnika Adama Mickiewicza?",
           "ru": "Какие произведения Адама Мицкевича упомянуты в истории памятника Адаму Мицкевичу?",
-          "en": "Which works by Adam Mickiewicz are mentioned in the history of the Adam Mickiewicz Monument?",
-          "de": "Welche Werke von Adam Mickiewicz werden in der Geschichte des Adam-Mickiewicz-Denkmals erwähnt?",
-          "ua": "Які твори Адама Міцкевича згадано в історії пам’ятника Адаму Міцкевичу?",
-          "it": "Quali opere di Adam Mickiewicz sono menzionate nella storia del monumento ad Adam Mickiewicz?",
-          "hr": "Koja su djela Adama Mickiewicza spomenuta u povijesti spomenika Adamu Mickiewiczu?",
-          "es": "¿Qué obras de Adam Mickiewicz se mencionan en la historia del Monumento a Adam Mickiewicz?",
-          "fr": "Quelles œuvres d’Adam Mickiewicz sont mentionnées dans l’histoire du monument Adam Mickiewicz ?"
+          "ua": "Які твори Адама Міцкевича згадано в історії пам’ятника Адаму Міцкевичу?"
         },
         "answerType": "multi",
         "answers": [
           {
+            "de": "„Dziady“",
+            "en": "\"Dziady\"",
+            "es": "«Dziady»",
+            "fr": "« Dziady »",
+            "hr": "„Dziady”",
+            "it": "«Dziady»",
             "pl": "„Dziady”",
             "ru": "«Дзяды»",
-            "en": "\"Dziady\"",
-            "de": "„Dziady“",
-            "ua": "«Дзяди»",
-            "it": "«Dziady»",
-            "hr": "„Dziady”",
-            "es": "«Dziady»",
-            "fr": "« Dziady »"
+            "ua": "«Дзяди»"
           },
           {
+            "de": "„Pan Tadeusz“",
+            "en": "\"Pan Tadeusz\"",
+            "es": "«Pan Tadeusz»",
+            "fr": "« Pan Tadeusz »",
+            "hr": "„Pan Tadeusz”",
+            "it": "«Pan Tadeusz»",
             "pl": "„Pan Tadeusz”",
             "ru": "«Пан Тадеуш»",
-            "en": "\"Pan Tadeusz\"",
-            "de": "„Pan Tadeusz“",
-            "ua": "«Пан Тадеуш»",
-            "it": "«Pan Tadeusz»",
-            "hr": "„Pan Tadeusz”",
-            "es": "«Pan Tadeusz»",
-            "fr": "« Pan Tadeusz »"
+            "ua": "«Пан Тадеуш»"
           },
           {
+            "de": "„Krim-Sonette“",
+            "en": "\"Crimean Sonnets\"",
+            "es": "«Sonetos de Crimea»",
+            "fr": "« Sonnets de Crimée »",
+            "hr": "„Krimski soneti”",
+            "it": "«Sonetti di Crimea»",
             "pl": "„Sonety krymskie”",
             "ru": "«Крымские сонеты»",
-            "en": "\"Crimean Sonnets\"",
-            "de": "„Krim-Sonette“",
-            "ua": "«Кримські сонети»",
-            "it": "«Sonetti di Crimea»",
-            "hr": "„Krimski soneti”",
-            "es": "«Sonetos de Crimea»",
-            "fr": "« Sonnets de Crimée »"
+            "ua": "«Кримські сонети»"
           },
           {
+            "de": "„Oden an die Freude“",
+            "en": "\"Odes to Joy\"",
+            "es": "«Odas a la alegría»",
+            "fr": "« Odes à la joie »",
+            "hr": "„Ode radosti”",
+            "it": "«Odi alla gioia»",
             "pl": "„Ody do radości”",
             "ru": "«Оды к радости»",
-            "en": "\"Odes to Joy\"",
-            "de": "„Oden an die Freude“",
-            "ua": "«Оди до радості»",
-            "it": "«Odi alla gioia»",
-            "hr": "„Ode radosti”",
-            "es": "«Odas a la alegría»",
-            "fr": "« Odes à la joie »"
+            "ua": "«Оди до радості»"
           }
         ],
         "correctAnswerIndexes": [
@@ -12632,61 +12632,61 @@
       {
         "id": "question-4",
         "question": {
+          "de": "Was geschah 1940 mit dem Adam-Mickiewicz-Denkmal und wann wurde es erneut eröffnet?",
+          "en": "What happened to the Adam Mickiewicz Monument in 1940 and when was it reopened?",
+          "es": "¿Qué le ocurrió al Monumento a Adam Mickiewicz en 1940 y cuándo se reabrió?",
+          "fr": "Que s’est-il passé avec le monument Adam Mickiewicz en 1940 et quand a-t-il rouvert ?",
+          "hr": "Što se dogodilo sa spomenikom Adamu Mickiewiczu 1940. godine i kada je ponovno otvoren?",
+          "it": "Cosa è successo al monumento ad Adam Mickiewicz nel 1940 e quando è stato riaperto?",
           "pl": "Co stało się z pomnikiem Adama Mickiewicza w 1940 roku i kiedy został ponownie otwarty?",
           "ru": "Что произошло с памятником Адаму Мицкевичу в 1940 году и когда его вновь открыли?",
-          "en": "What happened to the Adam Mickiewicz Monument in 1940 and when was it reopened?",
-          "de": "Was geschah 1940 mit dem Adam-Mickiewicz-Denkmal und wann wurde es erneut eröffnet?",
-          "ua": "Що сталося з пам’ятником Адаму Міцкевичу у 1940 році і коли його знову відкрили?",
-          "it": "Cosa è successo al monumento ad Adam Mickiewicz nel 1940 e quando è stato riaperto?",
-          "hr": "Što se dogodilo sa spomenikom Adamu Mickiewiczu 1940. godine i kada je ponovno otvoren?",
-          "es": "¿Qué le ocurrió al Monumento a Adam Mickiewicz en 1940 y cuándo se reabrió?",
-          "fr": "Que s’est-il passé avec le monument Adam Mickiewicz en 1940 et quand a-t-il rouvert ?"
+          "ua": "Що сталося з пам’ятником Адаму Міцкевичу у 1940 році і коли його знову відкрили?"
         },
         "answerType": "single",
         "answers": [
           {
+            "de": "Es wurde zerstört und dann 1955 wieder eröffnet",
+            "en": "It was destroyed, and then reopened in 1955",
+            "es": "Fue destruido y luego reabierto en 1955",
+            "fr": "Il a été détruit, puis rouvert en 1955",
+            "hr": "Bio je uništen, a zatim ponovno otvoren 1955. godine",
+            "it": "Fu distrutto e poi riaperto nel 1955",
             "pl": "Został zniszczony, a następnie otwarty ponownie w 1955 roku",
             "ru": "Его уничтожили, а потом открыли в 1955 году",
-            "en": "It was destroyed, and then reopened in 1955",
-            "de": "Es wurde zerstört und dann 1955 wieder eröffnet",
-            "ua": "Його знищили, а потім відкрили у 1955 році",
-            "it": "Fu distrutto e poi riaperto nel 1955",
-            "hr": "Bio je uništen, a zatim ponovno otvoren 1955. godine",
-            "es": "Fue destruido y luego reabierto en 1955",
-            "fr": "Il a été détruit, puis rouvert en 1955"
+            "ua": "Його знищили, а потім відкрили у 1955 році"
           },
           {
+            "de": "Es wurde auf den Wawel verlegt und dann 1945 wieder eröffnet",
+            "en": "It was moved to Wawel, and then reopened in 1945",
+            "es": "Fue trasladado a Wawel y luego reabierto en 1945",
+            "fr": "Il a été déplacé au Wawel, puis rouvert en 1945",
+            "hr": "Premješten je na Wawel, a zatim ponovno otvoren 1945. godine",
+            "it": "Fu spostato a Wawel e poi riaperto nel 1945",
             "pl": "Został przeniesiony na Wawel, a następnie otwarty ponownie w 1945 roku",
             "ru": "Его перенесли на Вавель, а потом открыли в 1945 году",
-            "en": "It was moved to Wawel, and then reopened in 1945",
-            "de": "Es wurde auf den Wawel verlegt und dann 1945 wieder eröffnet",
-            "ua": "Його перенесли на Вавель, а потім відкрили у 1945 році",
-            "it": "Fu spostato a Wawel e poi riaperto nel 1945",
-            "hr": "Premješten je na Wawel, a zatim ponovno otvoren 1945. godine",
-            "es": "Fue trasladado a Wawel y luego reabierto en 1945",
-            "fr": "Il a été déplacé au Wawel, puis rouvert en 1945"
+            "ua": "Його перенесли на Вавель, а потім відкрили у 1945 році"
           },
           {
+            "de": "Es wurde restauriert und dann 1968 wieder eröffnet",
+            "en": "It was restored, and then reopened in 1968",
+            "es": "Fue restaurado y luego reabierto en 1968",
+            "fr": "Il a été restauré, puis rouvert en 1968",
+            "hr": "Obnovljen je, a zatim ponovno otvoren 1968. godine",
+            "it": "Fu restaurato e poi riaperto nel 1968",
             "pl": "Został odrestaurowany, a następnie otwarty ponownie w 1968 roku",
             "ru": "Его отреставрировали, а потом открыли в 1968 году",
-            "en": "It was restored, and then reopened in 1968",
-            "de": "Es wurde restauriert und dann 1968 wieder eröffnet",
-            "ua": "Його відреставрували, а потім відкрили у 1968 році",
-            "it": "Fu restaurato e poi riaperto nel 1968",
-            "hr": "Obnovljen je, a zatim ponovno otvoren 1968. godine",
-            "es": "Fue restaurado y luego reabierto en 1968",
-            "fr": "Il a été restauré, puis rouvert en 1968"
+            "ua": "Його відреставрували, а потім відкрили у 1968 році"
           },
           {
+            "de": "Es wurde zur Reparatur geschlossen und dann 1937 wieder eröffnet",
+            "en": "It was closed for repairs, and then reopened in 1937",
+            "es": "Fue cerrado por reparaciones y luego reabierto en 1937",
+            "fr": "Il a été fermé pour réparations, puis rouvert en 1937",
+            "hr": "Zatvoren je zbog popravaka, a zatim ponovno otvoren 1937. godine",
+            "it": "Fu chiuso per riparazioni e poi riaperto nel 1937",
             "pl": "Został zamknięty na remont, a następnie otwarty ponownie w 1937 roku",
             "ru": "Его закрыли на ремонт, а потом открыли в 1937 году",
-            "en": "It was closed for repairs, and then reopened in 1937",
-            "de": "Es wurde zur Reparatur geschlossen und dann 1937 wieder eröffnet",
-            "ua": "Його закрили на ремонт, а потім відкрили у 1937 році",
-            "it": "Fu chiuso per riparazioni e poi riaperto nel 1937",
-            "hr": "Zatvoren je zbog popravaka, a zatim ponovno otvoren 1937. godine",
-            "es": "Fue cerrado por reparaciones y luego reabierto en 1937",
-            "fr": "Il a été fermé pour réparations, puis rouvert en 1937"
+            "ua": "Його закрили на ремонт, а потім відкрили у 1937 році"
           }
         ],
         "correctAnswerIndexes": [
@@ -12696,61 +12696,61 @@
       {
         "id": "question-5",
         "question": {
+          "de": "Welche allegorischen Figuren stehen am Sockel des Adam-Mickiewicz-Denkmals?",
+          "en": "Which allegorical figures stand at the base of the Adam Mickiewicz Monument?",
+          "es": "¿Qué figuras alegóricas están al pie del Monumento a Adam Mickiewicz?",
+          "fr": "Quelles figures allégoriques se trouvent au pied du monument Adam Mickiewicz ?",
+          "hr": "Koje alegorijske figure stoje u podnožju spomenika Adamu Mickiewiczu?",
+          "it": "Quali figure allegoriche si trovano alla base del monumento ad Adam Mickiewicz?",
           "pl": "Jakie figury alegoryczne stoją u podstawy pomnika Adama Mickiewicza?",
           "ru": "Какие аллегорические фигуры стоят у основания памятника Адаму Мицкевичу?",
-          "en": "Which allegorical figures stand at the base of the Adam Mickiewicz Monument?",
-          "de": "Welche allegorischen Figuren stehen am Sockel des Adam-Mickiewicz-Denkmals?",
-          "ua": "Які алегоричні фігури стоять біля основи пам’ятника Адаму Міцкевичу?",
-          "it": "Quali figure allegoriche si trovano alla base del monumento ad Adam Mickiewicz?",
-          "hr": "Koje alegorijske figure stoje u podnožju spomenika Adamu Mickiewiczu?",
-          "es": "¿Qué figuras alegóricas están al pie del Monumento a Adam Mickiewicz?",
-          "fr": "Quelles figures allégoriques se trouvent au pied du monument Adam Mickiewicz ?"
+          "ua": "Які алегоричні фігури стоять біля основи пам’ятника Адаму Міцкевичу?"
         },
         "answerType": "multi",
         "answers": [
           {
+            "de": "Heimat",
+            "en": "Homeland",
+            "es": "Patria",
+            "fr": "Patrie",
+            "hr": "Domovina",
+            "it": "Patria",
             "pl": "Ojczyzna",
             "ru": "Родина",
-            "en": "Homeland",
-            "de": "Heimat",
-            "ua": "Батьківщина",
-            "it": "Patria",
-            "hr": "Domovina",
-            "es": "Patria",
-            "fr": "Patrie"
+            "ua": "Батьківщина"
           },
           {
+            "de": "Poesie",
+            "en": "Poetry",
+            "es": "Poesía",
+            "fr": "Poésie",
+            "hr": "Poezija",
+            "it": "Poesia",
             "pl": "Poezja",
             "ru": "Поэзия",
-            "en": "Poetry",
-            "de": "Poesie",
-            "ua": "Поезія",
-            "it": "Poesia",
-            "hr": "Poezija",
-            "es": "Poesía",
-            "fr": "Poésie"
+            "ua": "Поезія"
           },
           {
+            "de": "Mut",
+            "en": "Courage",
+            "es": "Valor",
+            "fr": "Courage",
+            "hr": "Hrabrost",
+            "it": "Coraggio",
             "pl": "Odwaga",
             "ru": "Мужество",
-            "en": "Courage",
-            "de": "Mut",
-            "ua": "Мужність",
-            "it": "Coraggio",
-            "hr": "Hrabrost",
-            "es": "Valor",
-            "fr": "Courage"
+            "ua": "Мужність"
           },
           {
+            "de": "Wissenschaft",
+            "en": "Science",
+            "es": "Ciencia",
+            "fr": "Science",
+            "hr": "Znanost",
+            "it": "Scienza",
             "pl": "Nauka",
             "ru": "Наука",
-            "en": "Science",
-            "de": "Wissenschaft",
-            "ua": "Наука",
-            "it": "Scienza",
-            "hr": "Znanost",
-            "es": "Ciencia",
-            "fr": "Science"
+            "ua": "Наука"
           }
         ],
         "correctAnswerIndexes": [

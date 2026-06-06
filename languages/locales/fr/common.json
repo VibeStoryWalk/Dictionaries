@@ -318,10 +318,12 @@
       "stepsMenuButton": "Voir tous les points de l’itinéraire.",
       "offlinePackageButton": "Mode hors ligne. Pratique si vous n’avez pas internet pendant le voyage.",
       "freeWalkButton": "Explorez librement sans suivre un itinéraire. Les lieux s’activent automatiquement quand vous vous approchez.",
-      "settingsButton": "Réglez ici la langue et d’autres préférences.",
-      "hiddenPointButton": "Ouvrir le point secret de l’itinéraire."
-    }
-  },
+        "settingsButton": "Réglez ici la langue et d’autres préférences.",
+        "hiddenPointButton": "Ouvrir le point secret de l’itinéraire.",
+        "cityQuizButton": "Quiz de la ville : lancez un défi aux autres joueurs et découvrez qui connaît le mieux les sites de la ville et les faits intéressants à leur sujet.",
+        "routeQuizButton": "Quiz d'itinéraire : vérifiez à quel point vous vous souvenez des points de l'itinéraire parcouru et rivalisez avec d'autres utilisateurs en répondant à des questions à leur sujet."
+      }
+    },
   "buildMyRoute": {
     "title": "Créer mon itinéraire",
     "tooltips": {

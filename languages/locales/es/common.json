@@ -318,10 +318,12 @@
       "stepsMenuButton": "Ver todos los puntos de la ruta.",
       "offlinePackageButton": "Modo sin conexión. Útil si durante el viaje no tendrás internet.",
       "freeWalkButton": "Explora libremente sin seguir una ruta. Los lugares se activan automáticamente cuando te acercas.",
-      "settingsButton": "Aquí puedes ajustar el idioma y otras preferencias.",
-      "hiddenPointButton": "Abrir el punto secreto de la ruta."
-    }
-  },
+        "settingsButton": "Aquí puedes ajustar el idioma y otras preferencias.",
+        "hiddenPointButton": "Abrir el punto secreto de la ruta.",
+        "cityQuizButton": "Quiz de la ciudad: reta a otros jugadores y descubre quién conoce mejor los lugares de interés de la ciudad y los datos curiosos sobre ellos.",
+        "routeQuizButton": "Quiz de la ruta: comprueba qué tan bien recuerdas los puntos de la ruta completada y compite con otros usuarios respondiendo preguntas sobre ellos."
+      }
+    },
   "buildMyRoute": {
     "title": "Crear mi ruta",
     "tooltips": {

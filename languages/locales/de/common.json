@@ -318,10 +318,12 @@
       "stepsMenuButton": "Alle Punkte der Route ansehen.",
       "offlinePackageButton": "Offline-Modus. Praktisch, wenn unterwegs kein Internet verfügbar ist.",
       "freeWalkButton": "Frei spazieren, ohne einer Route zu folgen. Orte aktivieren sich automatisch, wenn du näher kommst.",
-      "settingsButton": "Hier kannst du Sprache und weitere Einstellungen anpassen.",
-      "hiddenPointButton": "Den geheimen Routenpunkt öffnen."
-    }
-  },
+        "settingsButton": "Hier kannst du Sprache und weitere Einstellungen anpassen.",
+        "hiddenPointButton": "Den geheimen Routenpunkt öffnen.",
+        "cityQuizButton": "Stadtquiz: Fordere andere Spieler heraus und finde heraus, wer sich mit den Sehenswürdigkeiten der Stadt und interessanten Fakten über sie am besten auskennt.",
+        "routeQuizButton": "Routenquiz: Prüfe, wie gut du dir die Punkte der absolvierten Route gemerkt hast, und tritt gegen andere Nutzer an, indem du Fragen dazu beantwortest."
+      }
+    },
   "buildMyRoute": {
     "title": "Meine Route erstellen",
     "tooltips": {

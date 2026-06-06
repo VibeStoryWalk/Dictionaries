@@ -318,10 +318,12 @@
       "stepsMenuButton": "Vedi tutti i punti del percorso.",
       "offlinePackageButton": "Modalità offline. Utile se durante il viaggio non avrai internet.",
       "freeWalkButton": "Esplora liberamente senza seguire un percorso. I luoghi si attivano automaticamente quando ti avvicini.",
-      "settingsButton": "Qui puoi regolare la lingua e le altre impostazioni.",
-      "hiddenPointButton": "Apri il punto segreto del percorso."
-    }
-  },
+        "settingsButton": "Qui puoi regolare la lingua e le altre impostazioni.",
+        "hiddenPointButton": "Apri il punto segreto del percorso.",
+        "cityQuizButton": "Quiz della città: sfida altri giocatori e scopri chi conosce meglio i luoghi d'interesse della città e le curiosità su di essi.",
+        "routeQuizButton": "Quiz del percorso: verifica quanto ricordi bene i punti del percorso completato e gareggia con altri utenti rispondendo a domande su di essi."
+      }
+    },
   "buildMyRoute": {
     "title": "Crea il mio percorso",
     "tooltips": {

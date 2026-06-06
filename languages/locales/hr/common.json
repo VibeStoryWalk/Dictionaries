@@ -320,10 +320,12 @@
       "stepsMenuButton": "Pogledaj sve točke rute.",
       "offlinePackageButton": "Offline način rada. Korisno ako na putovanju neće biti interneta.",
       "freeWalkButton": "Slobodno istražuj bez praćenja rute. Mjesta se aktiviraju automatski kada im se približiš.",
-      "settingsButton": "Ovdje možeš prilagoditi jezik i druge postavke.",
-      "hiddenPointButton": "Otvori tajnu točku rute."
-    }
-  },
+        "settingsButton": "Ovdje možeš prilagoditi jezik i druge postavke.",
+        "hiddenPointButton": "Otvori tajnu točku rute.",
+        "cityQuizButton": "Gradski kviz: izazovite druge igrače i saznajte tko najbolje poznaje gradske znamenitosti i zanimljive činjenice o njima.",
+        "routeQuizButton": "Kviz o ruti: provjerite koliko dobro pamtite točke prijeđene rute i natječite se s drugim korisnicima odgovarajući na pitanja o njima."
+      }
+    },
   "buildMyRoute": {
     "title": "Izradi svoju rutu",
     "tooltips": {

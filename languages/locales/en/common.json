@@ -316,10 +316,12 @@
       "stepsMenuButton": "See all route points.",
       "offlinePackageButton": "Offline mode. Handy when you may not have internet while travelling.",
       "freeWalkButton": "Explore freely without following a route. Places activate automatically when you get close.",
-      "settingsButton": "Adjust language and other settings here.",
-      "hiddenPointButton": "Unlock the secret route point."
-    }
-  },
+        "settingsButton": "Adjust language and other settings here.",
+        "hiddenPointButton": "Unlock the secret route point.",
+        "cityQuizButton": "City quiz: challenge other players and find out who knows the city's landmarks and interesting facts about them best.",
+        "routeQuizButton": "Route quiz: check how well you remember the points from the completed route and compete with other users by answering questions about them."
+      }
+    },
   "buildMyRoute": {
     "title": "Build My Route",
     "tooltips": {

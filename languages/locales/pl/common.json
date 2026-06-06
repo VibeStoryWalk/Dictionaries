@@ -320,10 +320,12 @@
       "stepsMenuButton": "Zobacz wszystkie punkty trasy.",
       "offlinePackageButton": "Tryb offline. Przyda się, jeśli w podróży zabraknie internetu.",
       "freeWalkButton": "Swobodny spacer bez trzymania się trasy. Miejsca aktywują się automatycznie, gdy podejdziesz bliżej.",
-      "settingsButton": "Tutaj ustawisz język i inne preferencje.",
-      "hiddenPointButton": "Otwórz sekretny punkt trasy."
-    }
-  },
+        "settingsButton": "Tutaj ustawisz język i inne preferencje.",
+        "hiddenPointButton": "Otwórz sekretny punkt trasy.",
+        "cityQuizButton": "Quiz miejski — rzuć wyzwanie innym graczom i sprawdź, kto najlepiej zna miejskie zabytki oraz ciekawostki o nich.",
+        "routeQuizButton": "Quiz o trasie — sprawdź, jak dobrze zapamiętałeś punkty ukończonej trasy, i rywalizuj z innymi użytkownikami, odpowiadając na pytania o nie."
+      }
+    },
   "buildMyRoute": {
     "title": "Stwórz swoją trasę",
     "tooltips": {

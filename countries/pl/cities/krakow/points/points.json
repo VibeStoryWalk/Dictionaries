@@ -10999,61 +10999,61 @@
       {
         "id": "question-1",
         "question": {
-          "de": "Wo in Krakau befindet sich der Standplatz für Pferdegespanne, der mit Kutschfahrten verbunden ist?",
-          "en": "Where in Krakow is the horse-drawn carriage stand associated with carriage rides located?",
-          "es": "¿Dónde en Cracovia se encuentra la parada de carruajes de caballos asociada con los paseos en coche de caballos?",
-          "fr": "Où se trouve à Cracovie la station des attelages de chevaux liée aux promenades en calèche ?",
-          "hr": "Gdje se u Krakovu nalazi stajalište konjskih zaprega povezano s vožnjom kočijama?",
-          "it": "Dove si trova a Cracovia la stazione delle carrozze trainate da cavalli, collegata alle gite in carrozza?",
-          "pl": "Gdzie w Krakowie znajduje się postój zaprzęgów konnych związany z przejażdżkami dorożkami?",
+          "pl": "Gdzie w Krakowie znajduje się postój konnych powozów związany z przejażdżkami dorożką?",
           "ru": "Где в Кракове находится стоянка конных экипажей, связанная с катанием на каретах?",
-          "ua": "Де в Кракові розташована стоянка кінних екіпажів, пов’язана з катанням на каретах?"
+          "en": "Where in Krakow is the horse-drawn carriage stand associated with carriage rides located?",
+          "de": "Wo in Krakau befindet sich der Pferdekutschenstand, der mit Kutschfahrten verbunden ist?",
+          "ua": "Де в Кракові розташована стоянка кінних екіпажів, пов'язана з катанням на каретах?",
+          "it": "Dove si trova a Cracovia la stazione delle carrozze trainate da cavalli legata ai giri in carrozza?",
+          "hr": "Gdje se u Krakovu nalazi stajalište konjske zaprege povezano s vožnjom kočijama?",
+          "es": "¿Dónde en Cracovia se encuentra la parada de coches de caballos relacionada con los paseos en carruaje?",
+          "fr": "Où se trouve à Cracovie la station de voitures hippomobiles liée aux promenades en calèche ?"
         },
         "answerType": "single",
         "answers": [
           {
-            "de": "Auf dem Hauptmarkt",
-            "en": "On the Main Market Square",
-            "es": "En la Plaza del Mercado Principal",
-            "fr": "Sur la place du Marché principal",
-            "hr": "Na Glavnom trgu",
-            "it": "Sulla Piazza del Mercato Principale",
             "pl": "Na Rynku Głównym",
             "ru": "На Главной рыночной площади",
-            "ua": "На Головній ринковій площі"
+            "en": "In the Main Market Square",
+            "de": "Auf dem Hauptmarkt",
+            "ua": "На Головній ринковій площі",
+            "it": "Nella Piazza del Mercato",
+            "hr": "Na Glavnom trgu",
+            "es": "En la Plaza del Mercado Principal",
+            "fr": "Sur la place du Grand Marché"
           },
           {
-            "de": "Am Wawel-Schloss",
-            "en": "By Wawel Castle",
-            "es": "Junto al castillo de Wawel",
-            "fr": "Près du château du Wawel",
-            "hr": "Kod dvorca Wawel",
-            "it": "Vicino al Castello del Wawel",
-            "pl": "Przy Zamku Wawelskim",
+            "pl": "Przy zamku Wawel",
             "ru": "У Вавельского замка",
-            "ua": "Біля Вавельського замку"
+            "en": "Near Wawel Castle",
+            "de": "Beim Wawelschloss",
+            "ua": "Біля Вавельського замку",
+            "it": "Vicino al castello di Wawel",
+            "hr": "Kod dvorca Wawel",
+            "es": "Junto al castillo de Wawel",
+            "fr": "Près du château du Wawel"
           },
           {
-            "de": "Am Bahnhof",
-            "en": "At the train station",
-            "es": "En la estación de tren",
-            "fr": "À la gare",
-            "hr": "Na željezničkom kolodvoru",
-            "it": "Alla stazione ferroviaria",
             "pl": "Na dworcu kolejowym",
             "ru": "На вокзале",
-            "ua": "На залізничному вокзалі"
+            "en": "At the train station",
+            "de": "Am Bahnhof",
+            "ua": "На вокзалі",
+            "it": "Alla stazione ferroviaria",
+            "hr": "Na željezničkom kolodvoru",
+            "es": "En la estación de tren",
+            "fr": "À la gare"
           },
           {
-            "de": "In Kazimierz",
-            "en": "In Kazimierz",
-            "es": "En Kazimierz",
-            "fr": "À Kazimierz",
-            "hr": "U Kazimierzu",
-            "it": "A Kazimierz",
             "pl": "Na Kazimierzu",
             "ru": "В Казимеже",
-            "ua": "У Казімежі"
+            "en": "In Kazimierz",
+            "de": "In Kazimierz",
+            "ua": "У Казімежі",
+            "it": "A Kazimierz",
+            "hr": "U Kazimierzu",
+            "es": "En Kazimierz",
+            "fr": "À Kazimierz"
           }
         ],
         "correctAnswerIndexes": [
@@ -11063,61 +11063,61 @@
       {
         "id": "question-2",
         "question": {
-          "de": "Zwischen welchen zwei Objekten befindet sich der Kutschstand an diesem Ort in Krakau?",
-          "en": "Between which two landmarks is the carriage stand located at this place in Krakow?",
-          "es": "¿Entre qué dos lugares está situada la parada de carruajes en este lugar de Cracovia?",
-          "fr": "Entre quels deux sites se trouve la station des calèches à cet endroit de Cracovie ?",
-          "hr": "Između kojih se dvaju objekata nalazi stajalište kočija na ovom mjestu u Krakovu?",
-          "it": "Tra quali due luoghi si trova la stazione delle carrozze in questo punto di Cracovia?",
-          "pl": "Między jakimi dwoma obiektami znajduje się postój dorożek w tym miejscu Krakowa?",
+          "pl": "Między jakimi dwoma obiektami znajduje się postój dorożek w centrum Krakowa?",
           "ru": "Между какими двумя объектами расположена стоянка карет в центре Кракова?",
-          "ua": "Між якими двома об’єктами розташована стоянка карет у цьому місці Кракова?"
+          "en": "Between which two landmarks is the carriage stand located in the center of Krakow?",
+          "de": "Zwischen welchen zwei Objekten befindet sich der Kutschenstand im Zentrum von Krakau?",
+          "ua": "Між якими двома об'єктами розташована стоянка карет у центрі Кракова?",
+          "it": "Tra quali due punti si trova la stazione delle carrozze nel centro di Cracovia?",
+          "hr": "Između kojih se dvaju objekata nalazi stajalište kočija u središtu Krakova?",
+          "es": "¿Entre qué dos puntos de interés se encuentra la parada de carruajes en el centro de Cracovia?",
+          "fr": "Entre quels deux monuments se trouve la station de calèches au centre de Cracovie ?"
         },
         "answerType": "single",
         "answers": [
           {
-            "de": "Zwischen der Marienkirche und den Tuchhallen",
-            "en": "Between St. Mary's Church and the Cloth Hall",
-            "es": "Entre la iglesia de Santa María y la Lonja de los Paños",
-            "fr": "Entre l'église Sainte-Marie et la Halle aux Draps",
-            "hr": "Između crkve sv. Marije i Sukiennica",
-            "it": "Tra la chiesa di Santa Maria e i Sukiennice",
             "pl": "Między kościołem Mariackim a Sukiennicami",
             "ru": "Между Мариацким костёлом и Суконными рядами",
-            "ua": "Між Маріацьким костелом і Суконними рядами"
+            "en": "Between St. Mary's Basilica and the Cloth Hall",
+            "de": "Zwischen der Marienkirche und den Tuchhallen",
+            "ua": "Між Маріацьким костелом і Суконними рядами",
+            "it": "Tra la basilica di Santa Maria e i Tuchhallen",
+            "hr": "Između crkve sv. Marije i Sukiennica",
+            "es": "Entre la basílica de Santa María y las Lonjas de los Paños",
+            "fr": "Entre la basilique Sainte-Marie et les Halles aux draps"
           },
           {
-            "de": "Zwischen dem Rathaus und dem Park",
-            "en": "Between the town hall and the park",
-            "es": "Entre el ayuntamiento y el parque",
-            "fr": "Entre l'hôtel de ville et le parc",
-            "hr": "Između gradske vijećnice i parka",
-            "it": "Tra il municipio e il parco",
             "pl": "Między ratuszem a parkiem",
             "ru": "Между ратушей и парком",
-            "ua": "Між ратушею і парком"
+            "en": "Between the town hall and the park",
+            "de": "Zwischen dem Rathaus und dem Park",
+            "ua": "Між ратушею і парком",
+            "it": "Tra il municipio e il parco",
+            "hr": "Između gradske vijećnice i parka",
+            "es": "Entre el ayuntamiento y el parque",
+            "fr": "Entre l'hôtel de ville et le parc"
           },
           {
-            "de": "Zwischen der Kathedrale und dem Museum",
-            "en": "Between the cathedral and the museum",
-            "es": "Entre la catedral y el museo",
-            "fr": "Entre la cathédrale et le musée",
-            "hr": "Između katedrale i muzeja",
-            "it": "Tra la cattedrale e il museo",
             "pl": "Między katedrą a muzeum",
             "ru": "Между собором и музеем",
-            "ua": "Між собором і музеєм"
+            "en": "Between the cathedral and the museum",
+            "de": "Zwischen der Kathedrale und dem Museum",
+            "ua": "Між собором і музеєм",
+            "it": "Tra la cattedrale e il museo",
+            "hr": "Između katedrale i muzeja",
+            "es": "Entre la catedral y el museo",
+            "fr": "Entre la cathédrale et le musée"
           },
           {
-            "de": "Zwischen dem Theater und der Brücke",
-            "en": "Between the theater and the bridge",
-            "es": "Entre el teatro y el puente",
-            "fr": "Entre le théâtre et le pont",
-            "hr": "Između kazališta i mosta",
-            "it": "Tra il teatro e il ponte",
             "pl": "Między teatrem a mostem",
             "ru": "Между театром и мостом",
-            "ua": "Між театром і мостом"
+            "en": "Between the theater and the bridge",
+            "de": "Zwischen dem Theater und der Brücke",
+            "ua": "Між театром і мостом",
+            "it": "Tra il teatro e il ponte",
+            "hr": "Između kazališta i mosta",
+            "es": "Entre el teatro y el puente",
+            "fr": "Entre le théâtre et le pont"
           }
         ],
         "correctAnswerIndexes": [
@@ -11127,61 +11127,61 @@
       {
         "id": "question-3",
         "question": {
-          "de": "Welche Anforderungen gelten für Kutschen, die an ihrem Standplatz im Zentrum Krakaus zugelassen sind?",
-          "en": "What requirements do carriages have to meet to be allowed at their stand in central Krakow?",
-          "es": "¿Qué requisitos deben cumplir los carruajes para ser admitidos en su parada en el centro de Cracovia?",
-          "fr": "Quelles exigences doivent respecter les calèches pour être admises à leur station dans le centre de Cracovie ?",
-          "hr": "Koji su uvjeti za kočije dopuštene na njihovo stajalište u središtu Krakova?",
-          "it": "Quali requisiti devono rispettare le carrozze per essere ammesse alla loro stazione nel centro di Cracovia?",
-          "pl": "Jakie wymagania muszą spełniać dorożki dopuszczone do postoju w centrum Krakowa?",
+          "pl": "Jakie wymagania dotyczące dorożek dopuszczono na ich postój w centrum Krakowa?",
           "ru": "Какие требования к каретам допущены на их стоянку в центре Кракова?",
-          "ua": "Які вимоги до карет допускаються для їхньої стоянки в центрі Кракова?"
+          "en": "What requirements for carriages are allowed at their stand in central Krakow?",
+          "de": "Welche Anforderungen für Kutschen sind für ihren Stand im Zentrum von Krakau zulässig?",
+          "ua": "Які вимоги до карет допускаються на їхню стоянку в центрі Кракова?",
+          "it": "Quali requisiti per le carrozze sono ammessi alla loro stazione nel centro di Cracovia?",
+          "hr": "Koji su zahtjevi za kočije dopuštene na njihovu stajalištu u središtu Krakova?",
+          "es": "¿Qué requisitos para los carruajes se permiten en su parada del centro de Cracovia?",
+          "fr": "Quelles conditions pour les calèches sont autorisées à leur station dans le centre de Cracovie ?"
         },
         "answerType": "multi",
         "answers": [
           {
-            "de": "Länge bis zu 420 cm",
-            "en": "Length up to 420 cm",
-            "es": "Longitud de hasta 420 cm",
-            "fr": "Longueur jusqu'à 420 cm",
-            "hr": "Duljina do 420 cm",
-            "it": "Lunghezza fino a 420 cm",
             "pl": "Długość do 420 cm",
             "ru": "Длина до 420 см",
-            "ua": "Довжина до 420 см"
+            "en": "Length up to 420 cm",
+            "de": "Länge bis zu 420 cm",
+            "ua": "Довжина до 420 см",
+            "it": "Lunghezza fino a 420 cm",
+            "hr": "Duljina do 420 cm",
+            "es": "Longitud de hasta 420 cm",
+            "fr": "Longueur jusqu'à 420 cm"
           },
           {
-            "de": "Nur zwei Pferde",
-            "en": "Only two horses",
-            "es": "Solo dos caballos",
-            "fr": "Seulement deux chevaux",
-            "hr": "Samo dva konja",
-            "it": "Solo due cavalli",
             "pl": "Tylko dwa konie",
             "ru": "Только две лошади",
-            "ua": "Лише два коні"
+            "en": "Only two horses",
+            "de": "Nur zwei Pferde",
+            "ua": "Лише два коні",
+            "it": "Solo due cavalli",
+            "hr": "Samo dva konja",
+            "es": "Solo dos caballos",
+            "fr": "Seulement deux chevaux"
           },
           {
-            "de": "Bis zu sechs Pferde",
-            "en": "Up to six horses",
-            "es": "Hasta seis caballos",
-            "fr": "Jusqu'à six chevaux",
-            "hr": "Do šest konja",
-            "it": "Fino a sei cavalli",
             "pl": "Do sześciu koni",
             "ru": "До шести лошадей",
-            "ua": "До шести коней"
+            "en": "Up to six horses",
+            "de": "Bis zu sechs Pferde",
+            "ua": "До шести коней",
+            "it": "Fino a sei cavalli",
+            "hr": "Do šest konja",
+            "es": "Hasta seis caballos",
+            "fr": "Jusqu'à six chevaux"
           },
           {
-            "de": "Länge mehr als 500 cm",
-            "en": "Length over 500 cm",
-            "es": "Longitud superior a 500 cm",
-            "fr": "Longueur supérieure à 500 cm",
-            "hr": "Duljina veća od 500 cm",
-            "it": "Lunghezza superiore a 500 cm",
-            "pl": "Długość większa niż 500 cm",
+            "pl": "Długość ponad 500 cm",
             "ru": "Длина более 500 см",
-            "ua": "Довжина понад 500 см"
+            "en": "Length over 500 cm",
+            "de": "Länge über 500 cm",
+            "ua": "Довжина понад 500 см",
+            "it": "Lunghezza superiore a 500 cm",
+            "hr": "Duljina veća od 500 cm",
+            "es": "Longitud superior a 500 cm",
+            "fr": "Longueur supérieure à 500 cm"
           }
         ],
         "correctAnswerIndexes": [
@@ -11192,61 +11192,61 @@
       {
         "id": "question-4",
         "question": {
-          "de": "Wann wird der Kutschstand in Krakau wegen Hitze geschlossen?",
-          "en": "When is the carriage stand in Krakow closed because of heat?",
-          "es": "¿Cuándo se cierra la parada de carruajes en Cracovia debido al calor?",
-          "fr": "Quand la station des calèches à Cracovie est-elle fermée à cause de la chaleur ?",
-          "hr": "Kada se stajalište kočija u Krakovu zatvara zbog vrućine?",
-          "it": "Quando la stazione delle carrozze a Cracovia viene chiusa a causa del caldo?",
-          "pl": "Kiedy postój dorożek w Krakowie jest zamykany z powodu upału?",
+          "pl": "Kiedy postój dorożek w Krakowie zamyka się z powodu upału?",
           "ru": "Когда стоянка карет в Кракове закрывается из-за жары?",
-          "ua": "Коли стоянка карет у Кракові закривається через спеку?"
+          "en": "When does the carriage stand in Krakow close because of heat?",
+          "de": "Wann schließt der Kutschenstand in Krakau wegen der Hitze?",
+          "ua": "Коли стоянка карет у Кракові закривається через спеку?",
+          "it": "Quando chiude la stazione delle carrozze a Cracovia a causa del caldo?",
+          "hr": "Kada se stajalište kočija u Krakovu zatvara zbog vrućine?",
+          "es": "¿Cuándo cierra la parada de carruajes en Cracovia debido al calor?",
+          "fr": "Quand la station de calèches à Cracovie ferme-t-elle à cause de la chaleur ?"
         },
         "answerType": "single",
         "answers": [
           {
-            "de": "Von 12:00 bis 18:00 Uhr",
-            "en": "From 12:00 to 18:00",
-            "es": "De 12:00 a 18:00",
-            "fr": "De 12 h 00 à 18 h 00",
-            "hr": "Od 12:00 do 18:00",
-            "it": "Dalle 12:00 alle 18:00",
             "pl": "Od 12:00 do 18:00",
             "ru": "С 12:00 до 18:00",
-            "ua": "З 12:00 до 18:00"
+            "en": "From 12:00 to 18:00",
+            "de": "Von 12:00 bis 18:00 Uhr",
+            "ua": "З 12:00 до 18:00",
+            "it": "Dalle 12:00 alle 18:00",
+            "hr": "Od 12:00 do 18:00",
+            "es": "De 12:00 a 18:00",
+            "fr": "De 12:00 à 18:00"
           },
           {
-            "de": "Von 8:00 bis 10:00 Uhr",
-            "en": "From 8:00 to 10:00",
-            "es": "De 8:00 a 10:00",
-            "fr": "De 8 h 00 à 10 h 00",
-            "hr": "Od 8:00 do 10:00",
-            "it": "Dalle 8:00 alle 10:00",
             "pl": "Od 8:00 do 10:00",
             "ru": "С 8:00 до 10:00",
-            "ua": "З 8:00 до 10:00"
+            "en": "From 8:00 to 10:00",
+            "de": "Von 8:00 bis 10:00 Uhr",
+            "ua": "З 8:00 до 10:00",
+            "it": "Dalle 8:00 alle 10:00",
+            "hr": "Od 8:00 do 10:00",
+            "es": "De 8:00 a 10:00",
+            "fr": "De 8:00 à 10:00"
           },
           {
-            "de": "Von 18:00 bis 22:00 Uhr",
-            "en": "From 18:00 to 22:00",
-            "es": "De 18:00 a 22:00",
-            "fr": "De 18 h 00 à 22 h 00",
-            "hr": "Od 18:00 do 22:00",
-            "it": "Dalle 18:00 alle 22:00",
             "pl": "Od 18:00 do 22:00",
             "ru": "С 18:00 до 22:00",
-            "ua": "З 18:00 до 22:00"
+            "en": "From 18:00 to 22:00",
+            "de": "Von 18:00 bis 22:00 Uhr",
+            "ua": "З 18:00 до 22:00",
+            "it": "Dalle 18:00 alle 22:00",
+            "hr": "Od 18:00 do 22:00",
+            "es": "De 18:00 a 22:00",
+            "fr": "De 18:00 à 22:00"
           },
           {
-            "de": "Nur nachts",
-            "en": "Only at night",
-            "es": "Solo por la noche",
-            "fr": "Seulement la nuit",
-            "hr": "Samo noću",
-            "it": "Solo di notte",
             "pl": "Tylko w nocy",
             "ru": "Только ночью",
-            "ua": "Лише вночі"
+            "en": "Only at night",
+            "de": "Nur nachts",
+            "ua": "Лише вночі",
+            "it": "Solo di notte",
+            "hr": "Samo noću",
+            "es": "Solo por la noche",
+            "fr": "Seulement la nuit"
           }
         ],
         "correctAnswerIndexes": [
@@ -11256,61 +11256,61 @@
       {
         "id": "question-5",
         "question": {
-          "de": "Welche Arbeitsregeln für die Pferde sind für ihren Standplatz im Zentrum Krakaus angegeben?",
-          "en": "What work rules for the horses are stated for their stand in central Krakow?",
-          "es": "¿Qué normas de trabajo para los caballos se indican para su parada en el centro de Cracovia?",
-          "fr": "Quelles règles de travail pour les chevaux sont indiquées pour leur station dans le centre de Cracovie ?",
-          "hr": "Koja su pravila rada za konje navedena za njihovo stajalište u središtu Krakova?",
-          "it": "Quali regole di lavoro per i cavalli sono indicate per la loro stazione nel centro di Cracovia?",
-          "pl": "Jakie zasady pracy koni wskazano dla ich postoju w centrum Krakowa?",
+          "pl": "Jakie zasady pracy koni podano dla ich postoju w centrum Krakowa?",
           "ru": "Какие правила работы лошадей указаны для их стоянки в центре Кракова?",
-          "ua": "Які правила роботи коней зазначені для їхньої стоянки в центрі Кракова?"
+          "en": "What rules for the horses' work are specified for their stand in central Krakow?",
+          "de": "Welche Regeln für die Arbeit der Pferde sind für ihren Stand im Zentrum von Krakau angegeben?",
+          "ua": "Які правила роботи коней зазначені для їхньої стоянки в центрі Кракова?",
+          "it": "Quali regole sul lavoro dei cavalli sono indicate per la loro stazione nel centro di Cracovia?",
+          "hr": "Koja su pravila rada konja navedena za njihovo stajalište u središtu Krakova?",
+          "es": "¿Qué normas sobre el trabajo de los caballos se indican para su parada en el centro de Cracovia?",
+          "fr": "Quelles règles concernant le travail des chevaux sont indiquées pour leur station dans le centre de Cracovie ?"
         },
         "answerType": "multi",
         "answers": [
           {
-            "de": "Nicht mehr als 12 Stunden pro Tag",
-            "en": "No more than 12 hours a day",
-            "es": "No más de 12 horas al día",
-            "fr": "Pas plus de 12 heures par jour",
-            "hr": "Najviše 12 sati dnevno",
-            "it": "Non più di 12 ore al giorno",
             "pl": "Nie więcej niż 12 godzin dziennie",
             "ru": "Не более 12 часов в день",
-            "ua": "Не більше 12 годин на день"
+            "en": "No more than 12 hours a day",
+            "de": "Nicht mehr als 12 Stunden am Tag",
+            "ua": "Не більше 12 годин на день",
+            "it": "Non più di 12 ore al giorno",
+            "hr": "Najviše 12 sati dnevno",
+            "es": "No más de 12 horas al día",
+            "fr": "Pas plus de 12 heures par jour"
           },
           {
-            "de": "Arbeit im Wechsel jeden zweiten Tag",
-            "en": "Work alternates every other day",
-            "es": "El trabajo se alterna cada dos días",
-            "fr": "Le travail alterne un jour sur deux",
-            "hr": "Rad se izmjenjuje svaki drugi dan",
-            "it": "Il lavoro si alterna a giorni alterni",
             "pl": "Praca odbywa się naprzemiennie co drugi dzień",
             "ru": "Работа чередуется через день",
-            "ua": "Робота чергується через день"
+            "en": "Work alternates every other day",
+            "de": "Die Arbeit wechselt jeden zweiten Tag",
+            "ua": "Робота чергується через день",
+            "it": "Il lavoro si alterna a giorni alterni",
+            "hr": "Rad se izmjenjuje svaki drugi dan",
+            "es": "El trabajo se alterna cada dos días",
+            "fr": "Le travail alterne un jour sur deux"
           },
           {
-            "de": "Ohne tägliche Beschränkungen",
-            "en": "No daily restrictions",
-            "es": "Sin restricciones diarias",
-            "fr": "Sans restrictions quotidiennes",
-            "hr": "Bez dnevnih ograničenja",
-            "it": "Senza limitazioni giornaliere",
             "pl": "Bez codziennych ograniczeń",
             "ru": "Без ежедневных ограничений",
-            "ua": "Без щоденних обмежень"
+            "en": "Without daily limits",
+            "de": "Ohne tägliche Beschränkungen",
+            "ua": "Без щоденних обмежень",
+            "it": "Senza limiti giornalieri",
+            "hr": "Bez dnevnih ograničenja",
+            "es": "Sin límites diarios",
+            "fr": "Sans limites quotidiennes"
           },
           {
-            "de": "Nur eine Stunde pro Tag",
-            "en": "Only one hour a day",
-            "es": "Solo una hora al día",
-            "fr": "Seulement une heure par jour",
-            "hr": "Samo jedan sat dnevno",
-            "it": "Solo un'ora al giorno",
             "pl": "Tylko jedna godzina dziennie",
             "ru": "Только один час в сутки",
-            "ua": "Лише одна година на добу"
+            "en": "Only one hour per day",
+            "de": "Nur eine Stunde pro Tag",
+            "ua": "Лише одна година на добу",
+            "it": "Solo un'ora al giorno",
+            "hr": "Samo jedan sat dnevno",
+            "es": "Solo una hora al día",
+            "fr": "Seulement une heure par jour"
           }
         ],
         "correctAnswerIndexes": [

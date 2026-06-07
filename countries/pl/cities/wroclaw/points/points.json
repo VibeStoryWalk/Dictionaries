@@ -1841,8 +1841,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.109406,
-      17.029362
+      51.10941922985634,
+      17.029566044001722
     ],
     "story": {
       "pl": "",
@@ -1857,10 +1857,13 @@
     },
     "quiz": [],
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 66,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Entertainment",
+      "PublicSpace"
+    ],
     "debug_entity": false
   },
   {

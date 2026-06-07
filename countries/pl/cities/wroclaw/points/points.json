@@ -2117,7 +2117,7 @@
     "dwellTimeMinutes": 5,
     "radius": 66,
     "image": "wroclaw/points/points_images/plac-solny-wroclaw.jpg",
-    "imageHash": "9d522e9a4c098673ff89f903dfd55c8cf54251b819c81fe8ea2a5a56910b4b73",
+    "imageHash": "e1288da68aec6104241ebb0c90137a92a93cee068029f128f537f8a867f95292",
     "categories": [
       "Entertainment",
       "PublicSpace",
@@ -2494,7 +2494,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/bazylika-sw-elzbiety.jpg",
-    "imageHash": "244bf014fd5c9372a92b1dd0679d16833956ed6ed41a119f0d8b0889b007d069",
+    "imageHash": "81982db5b112d5b2f41f550119e58c2dc32b23d4c994fdee184f14ec5122fc33",
     "categories": [
       "Architecture",
       "Religion",
@@ -2872,7 +2872,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/archikatedra-sw-jana-chrzciciela.jpg",
-    "imageHash": "c4ea305186888369051c9ba65a2121f90248814f1a9cb7f0a05a418b67cb7b71",
+    "imageHash": "3cf0e74976ecc85965362a1e2e232be02efc525390cf8587f1d1bd792abf19cc",
     "categories": [
       "Architecture",
       "Religion"
@@ -3246,7 +3246,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/kolegiata-sw-krzyza-i-sw-bartlomieja.jpg",
-    "imageHash": "3f2aedceb06f1fcb52892b40ca878c86aa7edad707b04d444af7ccf2e8764771",
+    "imageHash": "d2083c33ad5eb4ae298f38976467618e5db74647e428d1438230fcf6fa943143",
     "categories": [
       "Architecture",
       "Religion"
@@ -3622,7 +3622,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/most-tumski.jpg",
-    "imageHash": "9257bc86f017e1825218e97d97a2d0c7e51d64c5ef93c981aec2883d47f59b66",
+    "imageHash": "33ec43ac89ef7912d392952a450badd5005be1644000966de31e24f377aaf50b",
     "categories": [
       "Architecture",
       "Sculpture",
@@ -3933,7 +3933,7 @@
     "dwellTimeMinutes": 5,
     "radius": 57,
     "image": "wroclaw/points/points_images/grass-labirint.jpg",
-    "imageHash": "7dc37dd7c405d909748b9a122d751304142a479ab9dd9c79bb02605d50d02a70",
+    "imageHash": "9f26fc487bbe7c4f84f0a549a73e91e45edec994c6e0d3b28ab5bedc33281196",
     "categories": [
       "Architecture",
       "PublicSpace",
@@ -4311,7 +4311,7 @@
     "dwellTimeMinutes": 5,
     "radius": 19,
     "image": "wroclaw/points/points_images/boleslaw-kominek.jpg",
-    "imageHash": "c90c8ce06a32c1dd19f28dcb74b2a3ceddbf4d8a998d9d8eb297d0beac425316",
+    "imageHash": "c508ab71e0cf44dc33a84b5d870585667c0f50cb30cb3de47ba7b6d463ff70f9",
     "categories": [
       "Sculpture",
       "Religion",
@@ -4345,8 +4345,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.11040745603302,
-      17.033549286163712
+      51.11172284273897,
+      17.045868120297804
     ],
     "story": {
       "pl": "",
@@ -4361,10 +4361,13 @@
     },
     "quiz": [],
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 22,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "ViewPoint",
+      "PublicSpace"
+    ],
     "debug_entity": false
   },
   {
@@ -4879,7 +4882,7 @@
     "dwellTimeMinutes": 5,
     "radius": 94,
     "image": "wroclaw/points/points_images/kopernikus-park.jpg",
-    "imageHash": "c9de483f004ba4fa0bb3e26d0b27148660c87cbe89405730ed7b02989ffa5a44",
+    "imageHash": "4f6fad3e8f88d628ca78fa54eb39d33b889618421718cffaaf76a1651b2382ea",
     "categories": [
       "PublicSpace",
       "Entertainment",
@@ -5640,7 +5643,7 @@
     "dwellTimeMinutes": 5,
     "radius": 34,
     "image": "wroclaw/points/points_images/olaw-gate.jpg",
-    "imageHash": "6854c21e2169382b4763cf059612aa009c21fd6622dc8ff73b946b7dfb7153b7",
+    "imageHash": "d90eb2bff62d260f0077c6ce15c68323fd3d72bbc0bc7644b51236e805d016be",
     "categories": [
       "Architecture",
       "History",

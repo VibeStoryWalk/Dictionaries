@@ -3,15 +3,15 @@
     "id": "rynek-wroclaw",
     "order": 1,
     "title": {
-      "pl": "",
+      "pl": "Rynek we Wrocławiu",
       "ru": "Площадь во Вроцлаве",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "Square in Wrocław",
+      "de": "Platz in Wrocław",
+      "ua": "Площа у Вроцлаві",
+      "it": "Piazza a Wrocław",
+      "hr": "Trg u Wrocławu",
+      "es": "Plaza en Wrocław",
+      "fr": "Place à Wrocław"
     },
     "approachText": {
       "pl": "",

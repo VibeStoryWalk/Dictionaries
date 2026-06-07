@@ -3033,53 +3033,5 @@
     "imageHash": "",
     "categories": [],
     "debug_entity": false
-  },
-  {
-    "id": "wyspa-piasek",
-    "order": 14,
-    "title": {
-      "pl": "Wyspa Piasek",
-      "ru": "Песчаный остров",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "Zakończ spacer na spokojniejszym odcinku nad wodą, gdzie dobrze widać, jak miasto układa się wokół dawnego koryta Odry. Spójrz za siebie, aby złapać perspektywę na katedrę i mosty.",
-      "ru": "Завершайте прогулку на более спокойном участке у воды, где видно, как город раскрывается вокруг старого русла Одры. Оглянитесь назад, чтобы поймать перспективу на собор и мосты.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.1146,
-      17.0406
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 50,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
   }
 ]

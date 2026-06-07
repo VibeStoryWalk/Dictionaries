@@ -2096,7 +2096,10 @@
     "radius": 50,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "Religion"
+    ],
     "debug_entity": false
   },
   {

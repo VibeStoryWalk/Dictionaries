@@ -4695,54 +4695,6 @@
     "debug_entity": false
   },
   {
-    "id": "klodki-milosci",
-    "order": 14,
-    "title": {
-      "pl": "",
-      "ru": "Замки любви",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.1144540377708,
-      17.041968149078116
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 18,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
-  },
-  {
     "id": "katyn-family",
     "order": 15,
     "title": {

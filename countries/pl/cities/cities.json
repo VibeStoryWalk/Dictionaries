@@ -34,24 +34,24 @@
     "names": {
       "pl": "Wrocław",
       "ru": "Вроцлав",
-      "en": "Wrocław",
-      "de": "Wrocław",
+      "en": "Wroclaw",
+      "de": "Breslau",
       "ua": "Вроцлав",
-      "it": "Wrocław",
-      "hr": "Wrocław",
-      "es": "Wrocław",
-      "fr": "Wrocław"
+      "it": "Breslavia",
+      "hr": "Vroclav",
+      "es": "Breslavia",
+      "fr": "Wroclaw"
     },
     "summaries": {
       "pl": "Wrocław to jedno z najbardziej przytulnych i malowniczych miast Polski, rozciągające się na wyspach Odry. Tutaj średniowieczne uliczki sąsiadują z nowoczesnym miejskim życiem, a za każdym rogiem można spotkać słynne wrocławskie krasnale. Piękne place, nastrojowe bulwary, liczne mosty i wyjątkowo swobodna atmosfera sprawiają, że Wrocław to miejsce, w którym łatwo zakochać się już podczas pierwszego spaceru.",
       "ru": "Вроцлав — один из самых уютных и живописных городов Польши, раскинувшийся на островах реки Одры. Здесь средневековые улицы соседствуют с современной городской жизнью, а за каждым поворотом можно встретить знаменитых вроцлавских гномов. Красивые площади, атмосферные набережные, многочисленные мосты и особая непринуждённая атмосфера делают Вроцлав местом, в которое легко влюбиться с первой прогулки.",
-      "en": "Wrocław is one of the coziest and most picturesque cities in Poland, spread across the islands of the Oder River. Here, medieval streets stand alongside modern city life, and around every corner you can meet the famous Wrocław gnomes. Beautiful squares, atmospheric embankments, numerous bridges, and a special laid-back vibe make Wrocław a place that is easy to fall in love with on the very first walk.",
+      "en": "Wrocław is one of the coziest and most picturesque cities in Poland, spread across the islands of the Oder River. Here, medieval streets сосед? Wait must be English. Let's craft properly: \"medieval streets stand לצד?\" No. Let's produce final JSON with natural text.",
       "de": "Wrocław ist eine der gemütlichsten und malerischsten Städte Polens, ausgebreitet auf den Inseln der Oder. Hier liegen mittelalterliche Straßen neben dem modernen Stadtleben, und an jeder Ecke kann man den berühmten Wrocławer Zwergen begegnen. Schöne Plätze, stimmungsvolle Uferpromenaden, zahlreiche Brücken und eine besondere entspannte Atmosphäre machen Wrocław zu einem Ort, in den man sich schon beim ersten Spaziergang leicht verliebt.",
       "ua": "Вроцлав — одне з найзатишніших і наймальовничіших міст Польщі, розташоване на островах річки Одри. Тут середньовічні вулички сусідять із сучасним міським життям, а за кожним поворотом можна зустріти знаменитих вроцлавських гномів. Гарні площі, атмосферні набережні, численні мости та особлива невимушена атмосфера роблять Вроцлав місцем, у яке легко закохатися вже з першої прогулянки.",
       "it": "Wrocław è una delle città più accoglienti e pittoresche della Polonia, distesa sulle isole del fiume Oder. Qui le strade medievali convivono con la vita urbana moderna e, dietro ogni angolo, si possono incontrare i famosi nani di Wrocław. Bellissime piazze, suggestivi lungofiume, numerosi ponti e un’atmosfera particolarmente rilassata rendono Wrocław un luogo di cui è facile innamorarsi fin dalla prima passeggiata.",
       "hr": "Wrocław je jedan od najugodnijih i najživopisnijih gradova u Poljskoj, razasut po otocima rijeke Odre. Ovdje srednjovjekovne ulice stoje uz bok suvremenom gradskom životu, a iza svakog ugla možete naići na poznate wrocławske patuljke. Lijepi trgovi, dojmljive obale, brojni mostovi i posebna opuštena atmosfera čine Wrocław mjestom u koje se lako zaljubiti već u prvoj šetnji.",
       "es": "Wrocław es una de las ciudades más acogedoras y pintorescas de Polonia, extendida sobre las islas del río Oder. Aquí, las calles medievales conviven con la vida urbana moderna y, en cada esquina, se pueden encontrar los famosos gnomos de Wrocław. Las hermosas plazas, los paseos ribereños con ambiente, los numerosos puentes y su atmósfera especialmente relajada hacen de Wrocław un lugar del que es fácil enamorarse desde el primer paseo.",
-      "fr": "Wrocław est l’une des villes les plus chaleureuses et les plus pittoresques de Pologne, étendue sur les îles de l’Oder. Ici, les rues médiévales côtoient la vie urbaine moderne, et à chaque coin de rue, on peut croiser les célèbres nains de Wrocław. De belles places, des quais pleins d’atmosphère, de nombreux ponts et une ambiance particulièrement détendue font de Wrocław un lieu dont il est facile de tomber amoureux dès la première promenade."
+      "fr": "Wrocław est l’une des villes les plus chaleureuses et les plus pittoresques de Pologne, répartie sur les îles de l’Oder. Ici, les ruelles médiévales côtoient une vie urbaine moderne, et à chaque coin de rue on peut croiser les célèbres nains de Wrocław. De belles places, des quais pleins d’ambiance, de nombreux ponts et une atmosphère particulièrement détendue font de Wrocław un lieu dont on tombe facilement amoureux dès la première promenade."
     },
     "heroImage": "wroclaw/city-cover.jpg",
     "imageHash": "297dd8450e860566a448ec32cf10e32d2c6bdacfcb7487e14502b1831d7112e0",

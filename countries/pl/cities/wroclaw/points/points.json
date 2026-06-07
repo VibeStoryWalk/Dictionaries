@@ -2284,54 +2284,6 @@
     "debug_entity": false
   },
   {
-    "id": "uniwersytet-wroclawski",
-    "order": 9,
-    "title": {
-      "pl": "Uniwersytet Wrocławski",
-      "ru": "Вроцлавский университет",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "Spójrz na barokową fasadę i szeroką przestrzeń przed głównym gmachом — to jeden z najbardziej reprezentacyjnych widoków akademickich w centrum. Widać tu wyraźnie przejście od starego handlowego rdzenia do dzielnicy uniwersyteckiej.",
-      "ru": "Смотрите на барочный фасад и широкое пространство перед главным зданием — это один из самых репрезентативных университетских видов в центре города. Здесь хорошо читается переход от старого торгового ядра к академическому кварталу.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.11361,
-      17.03333
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 50,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
-  },
-  {
     "id": "ostrow-tumski",
     "order": 10,
     "title": {

@@ -5451,7 +5451,11 @@
     "radius": 114,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "PublicSpace",
+      "Entertainment",
+      "InterestingForChildren"
+    ],
     "debug_entity": false
   },
   {

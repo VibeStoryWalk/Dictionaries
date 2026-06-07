@@ -5359,54 +5359,6 @@
     "debug_entity": false
   },
   {
-    "id": "hala-stulecia",
-    "order": 21,
-    "title": {
-      "pl": "Hala Stulecia",
-      "ru": "Зал Столетия",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "Podejdź do budynku jak do zewnętrznego punktu orientacyjnego: najlepiej widać go z dystansu. Nawet bez wchodzenia warto tu podejść dla skali, geometrii i dobrego miejsca na rodzinne zdjęcie.",
-      "ru": "Подойдите к зданию как к внешнему ориентиру: его силуэт лучше всего читается издалека. Даже без входа сюда стоит прийти ради масштаба, геометрии и хорошей фототочki для семейной прогулки.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.10694,
-      17.07722
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 50,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
-  },
-  {
     "id": "wroclawska-fontanna-multimedialna",
     "order": 22,
     "title": {

@@ -4558,5 +4558,245 @@
     "imageHash": "",
     "categories": [],
     "debug_entity": false
+  },
+  {
+    "id": "promenada-staromiejska",
+    "order": 18,
+    "title": {
+      "pl": "Promenada Staromiejska",
+      "ru": "Староместская променада",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Idź wzdłuż zielonej linii dawnej fosy i nie przyspieszaj: liczą się sama ścieżka, drzewa i brak samochodów. Dla dzieci to dobry odcinek na swobodny spacer i chwilę ruchu.",
+      "ru": "Двигайтесь вдоль зелёной линии старой фосы и не спешите: здесь важно сама дорожка, деревья и ощущение маршрута без машин. Для детей это хороший участок для свободного шага и паузы на движение.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.106444,
+      17.040389
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "wyspa-slodowa",
+    "order": 19,
+    "title": {
+      "pl": "Wyspa Słodowa",
+      "ru": "Остров Слодова",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Wyjdziesz na otwartą wyspę z trawą i widokami na wodę. To jeden z najlepszych bezpłatnych przystanków, żeby dzieci mogły pobiegać i popatrzeć na Odrę.",
+      "ru": "Вы выйдете к открытому островному пространству с травой и видами на воду. Это одна из лучших бесплатных остановок, чтобы детям дать побегать и посмотреть на город с берега Одры.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11617,
+      17.03932
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "park-szczytnicki",
+    "order": 20,
+    "title": {
+      "pl": "Park Szczytnicki",
+      "ru": "Парк Щитницкий",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Zwróć uwagę na szerokie wejścia do dużego parku i długie aleje pod starymi drzewami. Po miejskich odcinkach to najlepsze miejsce na spokojny spacer, piknik i krótki odpoczynek.",
+      "ru": "Смотрите на широкий вход в большой парк и ищите длинные аллеи под старыми деревьями. После городских участков это лучшее место для спокойного шага, пикника и короткого отдыха.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.113221,
+      17.081052
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "hala-stulecia",
+    "order": 21,
+    "title": {
+      "pl": "Hala Stulecia",
+      "ru": "Зал Столетия",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Podejdź do budynku jak do zewnętrznego punktu orientacyjnego: najlepiej widać go z dystansu. Nawet bez wchodzenia warto tu podejść dla skali, geometrii i dobrego miejsca na rodzinne zdjęcie.",
+      "ru": "Подойдите к зданию как к внешнему ориентиру: его силуэт лучше всего читается издалека. Даже без входа сюда стоит прийти ради масштаба, геометрии и хорошей фототочki для семейной прогулки.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.10694,
+      17.07722
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "wroclawska-fontanna-multimedialna",
+    "order": 22,
+    "title": {
+      "pl": "Wrocławska Fontanna Multimedialna",
+      "ru": "Вроцлавский мультимедийный фонтан",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Podejdź do szerokiej niecki fontanny i otwartej przestrzeni wokół niej. W dzień najważniejsza jest sama woda, a wieczorem największe wrażenie robią pokazy światła i muzyki.",
+      "ru": "Идите к широкой чаше фонтана и свободному пространству вокруг неё. Днём здесь важна сама игра воды, а вечером особенно эффектны световые и музыкальные показы.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.1094,
+      17.0783
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
   }
 ]

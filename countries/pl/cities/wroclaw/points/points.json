@@ -236,7 +236,10 @@
     "radius": 50,
     "image": "wroclaw/points/points_images/jatki.jpg",
     "imageHash": "52d9c9838e4f2e62e4ce04599d2c3a61fcbdf0af6e1fc5d1b49742d85dc767b3",
-    "categories": [],
+    "categories": [
+      "PublicSpace",
+      "InterestingForChildren"
+    ],
     "debug_entity": false
   }
 ]

@@ -131,30 +131,12 @@
     },
     {
       "fromPointId": "bazylika-sw-elzbiety",
-      "toPointId": "ostrow-tumski",
+      "toPointId": "archikatedra-sw-jana-chrzciciela",
       "path": [
         {
           "coordinates": [
             51.11167,
             17.03
-          ]
-        },
-        {
-          "coordinates": [
-            51.114167,
-            17.045833
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "ostrow-tumski",
-      "toPointId": "archikatedra-sw-jana-chrzciciela",
-      "path": [
-        {
-          "coordinates": [
-            51.114167,
-            17.045833
           ]
         },
         {
@@ -226,7 +208,6 @@
     "jatki",
     "pomnik-zwierzat-rzeznych",
     "bazylika-sw-elzbiety",
-    "ostrow-tumski",
     "archikatedra-sw-jana-chrzciciela",
     "kolegiata-sw-krzyza-i-sw-bartlomieja",
     "most-tumski",

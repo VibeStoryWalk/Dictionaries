@@ -2057,13 +2057,13 @@
     "title": {
       "pl": "Archikatedra św. Jana Chrzciciela",
       "ru": "Собор святого Иоанна Крестителя",
-      "en": "Archcathedral of St. John the Baptist",
-      "de": "Erzkathedrale des heiligen Johannes des Täufers",
-      "ua": "Собор святого Івана Хрестителя",
-      "it": "Arcicattedrale di San Giovanni Battista",
-      "hr": "Arhikatedrala svetog Ivana Krstitelja",
-      "es": "Arzicatedral de San Juan Bautista",
-      "fr": "Archicathédrale de Saint-Jean-Baptiste"
+      "en": "Cathedral of St. John the Baptist",
+      "de": "Erzkathedrale des Heiligen Johannes des Täufers",
+      "ua": "Архикатедральний собор святого Івана Хрестителя",
+      "it": "Cattedrale di San Giovanni Battista",
+      "hr": "Katedrala svetog Ivana Krstitelja",
+      "es": "Catedral de San Juan Bautista",
+      "fr": "Cathédrale Saint-Jean-Baptiste"
     },
     "approachText": {
       "pl": "Podejdź do katedry od otwartej przestrzeni, aby zobaczyć jej bryłę i piony bez zwartej zabudowy. Już z zewnątrz widać gotycką formę i neogotyckie uzupełnienia.",
@@ -2081,75 +2081,75 @@
       17.04611
     ],
     "story": {
-      "pl": "",
+      "pl": "Archikatedra św. Jana Chrzciciela, biblijnego proroka i poprzednika Jezusa, stoi na Ostrowie Tumskim, w najstarszej części Wrocławia. \n\nDawniej stały tu cztery świątynie. Obecną gotycką katedrę wzniesiono w XIII i XIV wieku na miejscu trzech wcześniejszych kościołów, a jej wygląd do dziś obejmuje późniejsze warstwy powstałe po pożarach, wojnach i odbudowach. W 1540 roku pożar zniszczył dach, dzwony i wieżyczkę wieży; później wieżyczkę odbudowano w formie renesansowej. Po wojnach ze Szwedami w pierwszej połowie XVII wieku świątynię rozbudowano o barokowe kaplice, w tym kaplicę Najświętszego Sakramentu, kaplicę św. Elżbiety, kaplicę Wybranych Ciała Chrystusa i kaplicę zmarłych.\n\nNajwiększe zniszczenia katedra poniosła w 1945 roku: podczas oblężenia została zniszczona w około 70 procentach, utracono dachy, wieżyczki, sklepienia nawy głównej, organy i dużą część wnętrza. Odbudowa do celów liturgicznych trwała do 1951 roku, a nowe wieżyczki wież ustawiono dopiero w latach 90. Obecna sylwetka katedry ukształtowała się stopniowo w toku powojennej odbudowy.\n\nWnętrze to trójnawowa gotycka bazylika z transeptem i prezbiterium. W nawie głównej znajdują się sklepienia krzyżowo-żebrowe, a w nawach bocznych sklepienia kolebkowe krzyżowe. W prezbiterium wyróżniają się barokowe dębowe stalle z lat 1662–1665: niemal zasłaniają arkady prowadzące do obejścia i zamykają przestrzeń. W oknach prezbiterium przedstawiono Jana Chrzciciela, świętego Wincentego, chrześcijańskiego męczennika, świętego Bartłomieja, jednego z apostołów, oraz Henryka II Pobożnego, śląskiego księcia z dynastii Piastów, a także głowę Jana na misie i herby Wrocławia oraz diecezji.\n\nOdrębna historia wiąże się ze srebrnym ołtarzem biskupa Eryna. Został zamówiony w 1591 roku przez biskupa Andreasa Eryna; ołtarz kosztował 10 000 talarów i wykonał go złotnik Paul Nitsch oraz malarz Bartolomeus Fichtenberger. W 1944 roku ołtarz rozmontowano, a następnie jego część utracono w pożarze z 1945 roku. W 2019 roku wrócił do prezbiterium; według danych muzealnych zachowało się około 80 procent oryginalnego materiału.\n\nZ wieży widać Ostrów Tumski, Rynek, a przy dobrej pogodzie także Ślężę, Karkonosze i Śnieżkę. Katedra pozostaje czynnym kościołem, a jej obecny wygląd jest wynikiem wielokrotnych strat i odbudów.",
       "ru": "Архикафедральный собор святого Иоанна Крестителя, библейского пророка и предтечи Иисуса, стоит на Тумском острове, в старейшей части Вроцлава. \n\nРаньше здесь стояли четыре храма. Нынешний готический собор возвели в XIII–XIV веках на месте трёх более ранних церквей, и его облик до сих пор включает более поздние слои, появившиеся после пожаров, войн и восстановлений. В 1540 году пожар уничтожил крышу, колокола и башенный шпиль; позже шпиль восстановили в ренессансной форме. После шведских войн первой половины XVII века храм расширили барочными капеллами, в том числе капеллой Пресвятых Даров, капеллой святой Елизаветы, капеллой Избранников Тела Христова и капеллой умерших.\n\nСамый тяжёлый урон собор получил в 1945 году: во время осады он был разрушен примерно на 70 процентов, были утрачены крыши, башенные шпили, своды главного нефа, орган и большая часть интерьера. Восстановление для богослужебного использования продолжалось до 1951 года, а новые башенные шпили установили только в 1990-х. Нынешний силуэт собора сложился постепенно, в ходе послевоенного восстановления.\n\nВнутри это трёхнефная готическая базилика с трансептом и пресвитерием. В главном нефе — ребристые своды, в боковых нефах — крестовые цилиндрические своды. В пресвитерии выделяются барочные дубовые хоры 1662–1665 годов: они почти перекрывают арки к обходу и замыкают пространство. В окнах пресвитерия изображены Иоанн Креститель, святой Винцент, христианский мученик, святой Варфоломей, один из апостолов, и Генрих II Благочестивый, силезский князь из династии Пястов, а также голова Иоанна на блюде и гербы Вроцлава и епархии.\n\nОтдельная история связана с серебряным алтарём епископа Ерина. Его заказал в 1591 году епископ Андреас Ерин; алтарь стоил 10 000 талеров и был выполнен золотых дел мастером Паулем Нитшем и художником Бартоломеусом Фихтенбергером. В 1944 году алтарь разобрали, затем часть его была утрачена при пожаре 1945 года. В 2019 году он вернулся в пресвитерий; по музейным данным, сохранилось около 80 процентов исходного материала.\n\nС башни видны Тумский остров, Рыночная площадь и, в ясную погоду, Сленжа, Карконоше и Снежка. Собор остаётся действующим храмом, а его нынешний вид — результат многократных утрат и восстановлений.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "The Archcathedral of St. John the Baptist, the biblical prophet and forerunner of Jesus, stands on Cathedral Island in the oldest part of Wrocław. \n\nFour churches once stood here. The present Gothic cathedral was built in the 13th and 14th centuries on the site of three earlier churches, and its appearance still includes later layers that emerged after fires, wars, and restorations. In 1540 a fire destroyed the roof, bells, and tower spire; the spire was later rebuilt in Renaissance form. After the Swedish wars of the first half of the 17th century, the church was expanded with Baroque chapels, including the Chapel of the Blessed Sacrament, the Chapel of St. Elizabeth, the Chapel of the Elect of the Body of Christ, and the Chapel of the Dead.\n\nThe cathedral suffered its heaviest damage in 1945: during the siege it was destroyed by about 70 percent, and the roofs, tower spires, vaults of the nave, the organ, and much of the interior were lost. Restoration for liturgical use continued until 1951, and the new tower spires were installed only in the 1990s. The cathedral's current silhouette took shape gradually during the postwar reconstruction.\n\nInside, it is a three-aisled Gothic basilica with a transept and presbytery. The nave has rib vaults, while the side aisles have cross barrel vaults. The presbytery is distinguished by Baroque oak choir stalls from 1662–1665: they almost cover the arches to the ambulatory and close off the space. The presbytery windows depict John the Baptist, Saint Vincent, a Christian martyr, Saint Bartholomew, one of the apostles, and Henry II the Pious, a Silesian prince of the Piast dynasty, as well as the head of John on a dish and the coats of arms of Wrocław and the diocese.\n\nA separate story is connected with the silver altar of Bishop Eryn. It was commissioned in 1591 by Bishop Andreas Eryn; the altar cost 10,000 thalers and was made by the goldsmith Paul Nitsch and the painter Bartolomeus Fichtenberger. In 1944 the altar was dismantled, and part of it was later lost in the fire of 1945. In 2019 it returned to the presbytery; according to museum data, about 80 percent of the original material has survived.\n\nFrom the tower, you can see Cathedral Island, the Market Square and, in clear weather, Ślęża, the Karkonosze Mountains, and Śnieżka. The cathedral remains an active church, and its present appearance is the result of repeated losses and restorations.",
+      "de": "Die Erzkathedrale des Heiligen Johannes des Täufers, des biblischen Propheten und Vorläufers Jesu, steht auf der Dominsel, im ältesten Teil Breslaus. \n\nFrüher standen hier vier Kirchen. Die heutige gotische Kathedrale wurde im 13. und 14. Jahrhundert an der Stelle von drei älteren Kirchen errichtet, und ihr Erscheinungsbild umfasst bis heute spätere Schichten, die nach Bränden, Kriegen und Wiederaufbauten entstanden sind. Im Jahr 1540 zerstörte ein Brand das Dach, die Glocken und den Turmhelm; später wurde der Helm in Renaissanceform wiederaufgebaut. Nach den schwedischen Kriegen der ersten Hälfte des 17. Jahrhunderts wurde die Kirche um barocke Kapellen erweitert, darunter die Kapelle des Allerheiligsten, die Kapelle der heiligen Elisabeth, die Kapelle der Auserwählten des Leibes Christi und die Kapelle der Verstorbenen.\n\nDen schwersten Schaden erlitt die Kathedrale 1945: Während der Belagerung wurde sie zu etwa 70 Prozent zerstört, verloren gingen die Dächer, die Turmhelme, die Gewölbe des Hauptschiffs, die Orgel und ein großer Teil des Innenraums. Der Wiederaufbau für den gottesdienstlichen Gebrauch dauerte bis 1951, und neue Turmhelme wurden erst in den 1990er Jahren aufgesetzt. Die heutige Silhouette der Kathedrale entstand allmählich im Zuge des Wiederaufbaus nach dem Krieg.\n\nIm Inneren handelt es sich um eine dreischiffige gotische Basilika mit Querhaus und Chor. Im Hauptschiff befinden sich Rippengewölbe, in den Seitenschiffen Kreuzgratgewölbe. Im Chor fallen die barocken Eichenchorgestühle aus den Jahren 1662–1665 auf: Sie überdecken fast die Arkaden zum Umgang und schließen den Raum ab. In den Fenstern des Chors sind Johannes der Täufer, der heilige Vinzenz, christlicher Märtyrer, der heilige Bartholomäus, einer der Apostel, und Heinrich II. der Fromme, ein schlesischer Fürst aus der Piasten-Dynastie, dargestellt, ebenso wie der Kopf des Johannes auf einer Schale und die Wappen von Breslau und der Diözese.\n\nEine eigene Geschichte ist mit dem silbernen Altar des Bischofs Eryn verbunden. Er wurde 1591 von Bischof Andreas Eryn in Auftrag gegeben; der Altar kostete 10.000 Taler und wurde vom Goldschmied Paul Nitsch und dem Maler Bartolomeus Fichtenberger ausgeführt. 1944 wurde der Altar zerlegt, danach ging ein Teil von ihm beim Brand von 1945 verloren. 2019 kehrte er in den Chor zurück; nach Museumsangaben sind etwa 80 Prozent des ursprünglichen Materials erhalten geblieben.\n\nVom Turm aus sieht man die Dominsel, den Marktplatz und bei klarem Wetter die Kleinstadt Zobten, das Riesengebirge und die Schneekoppe. Die Kathedrale bleibt eine aktive Kirche, und ihr heutiges Erscheinungsbild ist das Ergebnis wiederholter Verluste und Wiederaufbauten.",
+      "ua": "Архикатедральний собор святого Івана Хрестителя, біблійного пророка і предтечі Ісуса, стоїть на Тумському острові, в найстарішій частині Вроцлава. \n\nРаніше тут стояли чотири храми. Нинішній готичний собор збудували у XIII–XIV століттях на місці трьох давніших церков, і його вигляд і досі включає пізніші нашарування, що з’явилися після пожеж, воєн і відновлень. У 1540 році пожежа знищила дах, дзвони та баштовий шпиль; пізніше шпиль відновили в ренесансній формі. Після шведських воєн першої половини XVII століття храм розширили бароковими каплицями, зокрема каплицею Пресвятих Дарів, каплицею святої Єлизавети, каплицею Обраних Тіла Христового і каплицею померлих.\n\nНайбільшої шкоди собор зазнав у 1945 році: під час облоги його було зруйновано приблизно на 70 відсотків, було втрачено дахи, баштові шпилі, склепіння головного нефу, орган і велику частину інтер’єру. Відновлення для богослужбового використання тривало до 1951 року, а нові баштові шпилі встановили лише у 1990-х. Нинішній силует собору формувався поступово, під час повоєнної реконструкції.\n\nВсередині це тринефна готична базиліка з трансептом і пресвітерієм. У головному нефі — ребристі склепіння, у бічних нефах — хрестові циліндричні склепіння. У пресвітерії вирізняються барокові дубові хори 1662–1665 років: вони майже перекривають арки до обходу й замикають простір. У вікнах пресвітерія зображені Іван Хреститель, святий Вінцент, християнський мученик, святий Варфоломій, один із апостолів, і Генріх II Побожний, силезький князь із династії П’ястів, а також голова Івана на блюді та герби Вроцлава і єпархії.\n\nОкрема історія пов’язана зі срібним вівтарем єпископа Єрина. Його замовив у 1591 році єпископ Андреас Єрин; вівтар коштував 10 000 талерів і був виконаний золотарем Паулем Нітшем та художником Бартоломеусом Фіхтенбергером. У 1944 році вівтар розібрали, потім частина його була втрачена під час пожежі 1945 року. У 2019 році він повернувся до пресвітерія; за музейними даними, збереглося близько 80 відсотків первісного матеріалу.\n\nЗ вежі видно Тумський острів, Ринкову площу і, за ясної погоди, Сленжу, Карконоше та Снєжку. Собор залишається діючим храмом, а його нинішній вигляд є результатом багаторазових втрат і відновлень.",
+      "it": "L’arcicattedrale di San Giovanni Battista, profeta biblico e precursore di Gesù, sorge sull’Isola della Cattedrale, nella parte più antica di Breslavia. \n\nUn tempo qui sorgevano quattro chiese. L’attuale cattedrale gotica fu costruita nei secoli XIII e XIV sul sito di tre chiese precedenti, e il suo aspetto comprende ancora strati successivi comparsi dopo incendi, guerre e restauri. Nel 1540 un incendio distrusse il tetto, le campane e la guglia della torre; in seguito la guglia fu ricostruita in forma rinascimentale. Dopo le guerre svedesi della prima metà del XVII secolo, la chiesa fu ampliata con cappelle barocche, tra cui la cappella del Santissimo Sacramento, la cappella di Sant’Elisabetta, la cappella degli Eletti del Corpo di Cristo e la cappella dei defunti.\n\nLa cattedrale subì i danni più gravi nel 1945: durante l’assedio fu distrutta per circa il 70 per cento, e andarono perduti i tetti, le guglie delle torri, le volte della navata centrale, l’organo e gran parte degli interni. Il restauro per l’uso liturgico proseguì fino al 1951, mentre le nuove guglie delle torri furono installate solo negli anni 1990. L’attuale silhouette della cattedrale si è formata gradualmente nel corso della ricostruzione del dopoguerra.\n\nAll’interno è una basilica gotica a tre navate con transetto e presbiterio. Nella navata centrale si trovano volte a costoloni, mentre nelle navate laterali volte a botte incrociata. Nel presbiterio spiccano i cori lignei barocchi in quercia del 1662–1665: coprono quasi gli archi verso il deambulatorio e chiudono lo spazio. Nelle finestre del presbiterio sono raffigurati Giovanni Battista, san Vincenzo, martire cristiano, san Bartolomeo, uno degli apostoli, e Enrico II il Pio, principe di Slesia della dinastia dei Piasti, oltre alla testa di Giovanni su un piatto e gli stemmi di Breslavia e della diocesi.\n\nUna storia a parte è legata all’altare d’argento del vescovo Eryn. Fu commissionato nel 1591 dal vescovo Andreas Eryn; l’altare costò 10.000 talleri e fu realizzato dall’orafo Paul Nitsch e dal pittore Bartolomeus Fichtenberger. Nel 1944 l’altare fu smontato, e poi una parte andò perduta nell’incendio del 1945. Nel 2019 è tornato nel presbiterio; secondo i dati del museo, si è conservato circa l’80 per cento del materiale originale.\n\nDalla torre si vedono l’Isola della Cattedrale, la Piazza del Mercato e, con il bel tempo, Ślęża, i Monti dei Giganti e Śnieżka. La cattedrale resta una chiesa attiva, e il suo aspetto attuale è il risultato di ripetute perdite e restauri.",
+      "hr": "Arhikatedrala svetog Ivana Krstitelja, biblijskog proroka i preteče Isusa, stoji na Tumsom otoku, u najstarijem dijelu Wrocława. \n\nNekada su ovdje stajale četiri crkve. Današnja gotička katedrala podignuta je u 13. i 14. stoljeću na mjestu triju starijih crkava, a njezin izgled i dalje uključuje kasnije slojeve nastale nakon požara, ratova i obnova. Godine 1540. požar je uništio krov, zvona i toranjski šiljak; šiljak je kasnije obnovljen u renesansnom obliku. Nakon švedskih ratova u prvoj polovici 17. stoljeća crkva je proširena baroknim kapelama, među kojima su kapela Presvetog Sakramenta, kapela svete Elizabete, kapela Izabranih Tijela Kristova i kapela umrlih.\n\nNajveću štetu katedrala je pretrpjela 1945. godine: tijekom opsade bila je uništena otprilike 70 posto, a izgubljeni su krovovi, toranjski šiljci, svodovi glavne lađe, orgulje i velik dio unutrašnjosti. Obnova za liturgijsku uporabu trajala je do 1951., a novi toranjski šiljci postavljeni su tek 1990-ih. Današnja silueta katedrale oblikovala se postupno, tijekom poslijeratne obnove.\n\nUnutra je trobrodna gotička bazilika s transeptom i prezbiterijem. U glavnoj lađi nalaze se rebrasti svodovi, a u bočnim lađama križni bačvasti svodovi. U prezbiteriju se ističu barokni hrastovi korovi iz 1662.–1665.: gotovo prekrivaju lukove prema ophodu i zatvaraju prostor. U prozorima prezbiterija prikazani su Ivan Krstitelj, sveti Vincent, kršćanski mučenik, sveti Bartolomej, jedan od apostola, i Henrik II. Pobožni, šleski knez iz dinastije Pjasta, kao i Ivanova glava na pladnju te grbovi Wrocława i biskupije.\n\nPosebna priča povezana je sa srebrnim oltarom biskupa Erina. Naručio ga je 1591. biskup Andreas Erin; oltar je koštao 10 000 talira i izradili su ga zlatar Paul Nitsch i slikar Bartolomeus Fichtenberger. Godine 1944. oltar je rastavljen, a dio je potom izgubljen u požaru 1945. Godine 2019. vratio se u prezbiterij; prema muzejskim podacima, sačuvano je oko 80 posto izvornog materijala.\n\nS tornja se vide Tumski otok, Trg rynek i, za vedra vremena, Ślęża, Karkonosze i Śnieżka. Katedrala ostaje aktivna crkva, a njezin današnji izgled rezultat je višestrukih gubitaka i obnova.",
+      "es": "La archicatedral de San Juan Bautista, profeta bíblico y precursor de Jesús, se alza en la Isla de la Catedral, en la parte más antigua de Breslavia. \n\nAntes hubo aquí cuatro templos. La actual catedral gótica fue levantada en los siglos XIII y XIV sobre el emplazamiento de tres iglesias anteriores, y su aspecto conserva todavía capas posteriores surgidas después de incendios, guerras y restauraciones. En 1540 un incendio destruyó el tejado, las campanas y la aguja de la torre; más tarde, la aguja fue reconstruida en forma renacentista. Tras las guerras suecas de la primera mitad del siglo XVII, la iglesia se amplió con capillas barrocas, entre ellas la capilla del Santísimo Sacramento, la capilla de Santa Isabel, la capilla de los Elegidos del Cuerpo de Cristo y la capilla de los Difuntos.\n\nLa catedral sufrió los daños más graves en 1945: durante el asedio quedó destruida en aproximadamente un 70 por ciento, y se perdieron los tejados, las agujas de las torres, las bóvedas de la nave central, el órgano y gran parte del interior. La restauración para el culto continuó hasta 1951, y las nuevas agujas de las torres solo se instalaron en la década de 1990. La silueta actual de la catedral se fue formando gradualmente durante la reconstrucción de posguerra.\n\nEn el interior es una basílica gótica de tres naves con transepto y presbiterio. En la nave central hay bóvedas de crucería, mientras que en las naves laterales hay bóvedas de cañón con aristas. En el presbiterio destacan los coros barrocos de roble de 1662–1665: casi cubren los arcos hacia la girola y cierran el espacio. En las ventanas del presbiterio aparecen Juan Bautista, San Vicente, mártir cristiano, San Bartolomé, uno de los apóstoles, y Enrique II el Piadoso, príncipe de Silesia de la dinastía Piasta, así como la cabeza de Juan en una bandeja y los escudos de Breslavia y de la diócesis.\n\nUna historia aparte está vinculada al altar de plata del obispo Eryn. Fue encargado en 1591 por el obispo Andreas Eryn; el altar costó 10 000 táleros y fue realizado por el platero Paul Nitsch y el pintor Bartolomeus Fichtenberger. En 1944 el altar fue desmontado y luego parte de él se perdió en el incendio de 1945. En 2019 regresó al presbiterio; según los datos del museo, se ha conservado alrededor del 80 por ciento del material original.\n\nDesde la torre se ven la Isla de la Catedral, la Plaza del Mercado y, con buen tiempo, Ślęża, las montañas Karkonosze y Śnieżka. La catedral sigue siendo un templo en uso, y su aspecto actual es el resultado de sucesivas pérdidas y restauraciones.",
+      "fr": "L’archicathédrale Saint-Jean-Baptiste, prophète biblique et précurseur de Jésus, se dresse sur l’île de la Cathédrale, dans la plus ancienne partie de Wrocław. \n\nAutrefois, quatre églises se trouvaient ici. La cathédrale gothique actuelle fut élevée aux XIIIe et XIVe siècles à l’emplacement de trois édifices plus anciens, et son apparence conserve encore des couches plus tardives apparues après des incendies, des guerres et des restaurations. En 1540, un incendie détruisit le toit, les cloches et la flèche de la tour ; celle-ci fut ensuite reconstruite dans une forme Renaissance. Après les guerres suédoises de la première moitié du XVIIe siècle, l’église fut agrandie par des chapelles baroques, dont la chapelle du Très-Saint-Sacrement, la chapelle sainte Élisabeth, la chapelle des Élus du Corps du Christ et la chapelle des défunts.\n\nLa cathédrale subit ses dommages les plus graves en 1945 : pendant le siège, elle fut détruite à environ 70 %, et les toitures, les flèches des tours, les voûtes de la nef principale, l’orgue et une grande partie de l’intérieur furent perdus. La restauration pour le service liturgique se poursuivit jusqu’en 1951, et les nouvelles flèches de tour ne furent installées que dans les années 1990. La silhouette actuelle de la cathédrale s’est formée progressivement au cours de la reconstruction d’après-guerre.\n\nÀ l’intérieur, c’est une basilique gothique à trois nefs avec transept et chœur. La nef principale est couverte de voûtes d’ogives, tandis que les nefs latérales présentent des voûtes en berceau croisé. Dans le chœur se distinguent les stalles baroques en chêne de 1662–1665 : elles recouvrent presque les arcades vers le déambulatoire et ferment l’espace. Les vitraux du chœur représentent Jean-Baptiste, saint Vincent, martyr chrétien, saint Barthélemy, l’un des apôtres, et Henri II le Pieux, prince silésien de la dynastie des Piast, ainsi que la tête de Jean sur un plat et les armoiries de Wrocław et du diocèse.\n\nUne histoire particulière est liée à l’autel d’argent de l’évêque Eryn. Il fut commandé en 1591 par l’évêque Andreas Eryn ; l’autel coûta 10 000 thalers et fut réalisé par l’orfèvre Paul Nitsch et le peintre Bartolomeus Fichtenberger. En 1944, l’autel fut démonté, puis une partie fut perdue lors de l’incendie de 1945. En 2019, il est revenu dans le chœur ; selon les données du musée, environ 80 % du matériau d’origine a été conservé.\n\nDepuis la tour, on aperçoit l’île de la Cathédrale, la place du Marché et, par temps clair, le mont Ślęża, les monts des Géants et la Śnieżka. La cathédrale reste une église en activité, et son aspect actuel est le résultat de pertes et de restaurations répétées."
     },
     "quiz": [
       {
         "id": "question-1",
         "question": {
-          "de": "",
-          "en": "",
-          "es": "",
-          "fr": "",
-          "hr": "",
-          "it": "",
-          "pl": "",
+          "pl": "Gdzie we Wrocławiu stoi Katedra św. Jana Chrzciciela?",
           "ru": "Где в Вроцлаве стоит Собор святого Иоанна Крестителя?",
-          "ua": ""
+          "en": "Where in Wrocław is the Cathedral of St. John the Baptist located?",
+          "de": "Wo in Breslau steht die Kathedrale des heiligen Johannes des Täufers?",
+          "ua": "Де у Вроцлаві стоїть Собор святого Івана Хрестителя?",
+          "it": "Dove si trova la Cattedrale di San Giovanni Battista a Breslavia?",
+          "hr": "Gdje se u Wrocławu nalazi katedrala svetog Ivana Krstitelja?",
+          "es": "¿Dónde se encuentra la Catedral de San Juan Bautista en Wrocław?",
+          "fr": "Où se trouve la cathédrale Saint-Jean-Baptiste à Wrocław ?"
         },
         "answerType": "single",
         "answers": [
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Na Ostrowie Tumskim",
             "ru": "На Тумском острове",
-            "ua": ""
+            "en": "On Cathedral Island",
+            "de": "Auf der Dominsel",
+            "ua": "На Тумському острові",
+            "it": "Sull’Isola della Cattedrale",
+            "hr": "Na Katedralnom otoku",
+            "es": "En la Isla de la Catedral",
+            "fr": "Sur l’île de la Cathédrale"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Na Rynku",
             "ru": "На Рыночной площади",
-            "ua": ""
+            "en": "In the Market Square",
+            "de": "Am Marktplatz",
+            "ua": "На Ринковій площі",
+            "it": "Nella Piazza del Mercato",
+            "hr": "Na Tržnom trgu",
+            "es": "En la Plaza del Mercado",
+            "fr": "Sur la place du Marché"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Przy Starym Mieście",
             "ru": "У Старого города",
-            "ua": ""
+            "en": "By the Old Town",
+            "de": "Beim Altstadtviertel",
+            "ua": "Біля Старого міста",
+            "it": "Vicino alla Città Vecchia",
+            "hr": "Uz Stari grad",
+            "es": "Junto al casco antiguo",
+            "fr": "Près de la vieille ville"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Na Piasku",
             "ru": "На Пясеке",
-            "ua": ""
+            "en": "On Piasek",
+            "de": "Auf dem Sand",
+            "ua": "На Пяску",
+            "it": "A Piasek",
+            "hr": "Na Pijesku",
+            "es": "En Piasek",
+            "fr": "À Piasek"
           }
         ],
         "correctAnswerIndexes": [
@@ -2159,61 +2159,61 @@
       {
         "id": "question-2",
         "question": {
-          "de": "",
-          "en": "",
-          "es": "",
-          "fr": "",
-          "hr": "",
-          "it": "",
-          "pl": "",
+          "pl": "Z jakiego okresu pochodzi obecny gotycki wygląd Katedry św. Jana Chrzciciela?",
           "ru": "К какому времени относится нынешний готический облик Собора святого Иоанна Крестителя?",
-          "ua": ""
+          "en": "Which period does the current Gothic appearance of the Cathedral of St. John the Baptist belong to?",
+          "de": "Auf welche Zeit geht das heutige gotische Erscheinungsbild der Kathedrale des heiligen Johannes des Täufers zurück?",
+          "ua": "До якого часу належить нинішній готичний вигляд Собору святого Івана Хрестителя?",
+          "it": "A quale periodo risale l’attuale aspetto gotico della Cattedrale di San Giovanni Battista?",
+          "hr": "Iz kojeg razdoblja potječe današnji gotički izgled katedrale svetog Ivana Krstitelja?",
+          "es": "¿A qué época corresponde la actual apariencia gótica de la Catedral de San Juan Bautista?",
+          "fr": "À quelle période remonte l’aspect gothique actuel de la cathédrale Saint-Jean-Baptiste ?"
         },
         "answerType": "single",
         "answers": [
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Z XIII–XIV wieku",
             "ru": "К XIII–XIV векам",
-            "ua": ""
+            "en": "The 13th–14th centuries",
+            "de": "Auf das 13.–14. Jahrhundert",
+            "ua": "До XIII–XIV століть",
+            "it": "Ai secoli XIII–XIV",
+            "hr": "Iz 13. i 14. stoljeća",
+            "es": "A los siglos XIII–XIV",
+            "fr": "Aux XIIIe–XIVe siècles"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Z XVI wieku",
             "ru": "К XVI веку",
-            "ua": ""
+            "en": "The 16th century",
+            "de": "Auf das 16. Jahrhundert",
+            "ua": "До XVI століття",
+            "it": "Al XVI secolo",
+            "hr": "Iz 16. stoljeća",
+            "es": "Al siglo XVI",
+            "fr": "Au XVIe siècle"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Z XVII wieku",
             "ru": "К XVII веку",
-            "ua": ""
+            "en": "The 17th century",
+            "de": "Auf das 17. Jahrhundert",
+            "ua": "До XVII століття",
+            "it": "Al XVII secolo",
+            "hr": "Iz 17. stoljeća",
+            "es": "Al siglo XVII",
+            "fr": "Au XVIIe siècle"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Z XIX wieku",
             "ru": "К XIX веку",
-            "ua": ""
+            "en": "The 19th century",
+            "de": "Auf das 19. Jahrhundert",
+            "ua": "До XIX століття",
+            "it": "Al XIX secolo",
+            "hr": "Iz 19. stoljeća",
+            "es": "Al siglo XIX",
+            "fr": "Au XIXe siècle"
           }
         ],
         "correctAnswerIndexes": [
@@ -2223,61 +2223,61 @@
       {
         "id": "question-3",
         "question": {
-          "de": "",
-          "en": "",
-          "es": "",
-          "fr": "",
-          "hr": "",
-          "it": "",
-          "pl": "",
+          "pl": "Co z poniższych Katedra św. Jana Chrzciciela utraciła podczas zniszczeń w 1945 roku?",
           "ru": "Что из перечисленного Собор святого Иоанна Крестителя утратил во время разрушений 1945 года?",
-          "ua": ""
+          "en": "Which of the following did the Cathedral of St. John the Baptist lose during the destruction of 1945?",
+          "de": "Was von den folgenden Dingen hat die Kathedrale des heiligen Johannes des Täufers während der Zerstörungen von 1945 verloren?",
+          "ua": "Що з переліченого Собор святого Івана Хрестителя втратив під час руйнувань 1945 року?",
+          "it": "Che cosa ha perso la Cattedrale di San Giovanni Battista durante le distruzioni del 1945?",
+          "hr": "Što je od navedenog katedrala svetog Ivana Krstitelja izgubila tijekom razaranja 1945. godine?",
+          "es": "¿Qué perdió la Catedral de San Juan Bautista durante las destrucciones de 1945?",
+          "fr": "Que la cathédrale Saint-Jean-Baptiste a-t-elle perdu lors des destructions de 1945 ?"
         },
         "answerType": "multi",
         "answers": [
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Dachy",
             "ru": "Крыши",
-            "ua": ""
+            "en": "Roofs",
+            "de": "Dächer",
+            "ua": "Дахи",
+            "it": "I tetti",
+            "hr": "Krovove",
+            "es": "Los techos",
+            "fr": "Les toits"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Wieże ze szczytami",
             "ru": "Башенные шпили",
-            "ua": ""
+            "en": "Tower spires",
+            "de": "Turmspitzen",
+            "ua": "Вежові шпилі",
+            "it": "Le guglie delle torri",
+            "hr": "Toranske vrhove",
+            "es": "Las agujas de las torres",
+            "fr": "Les flèches des tours"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Organy",
             "ru": "Орган",
-            "ua": ""
+            "en": "The organ",
+            "de": "Orgel",
+            "ua": "Орган",
+            "it": "L’organo",
+            "hr": "Orgulje",
+            "es": "El órgano",
+            "fr": "L’orgue"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Barokowe kaplice",
             "ru": "Барочные капеллы",
-            "ua": ""
+            "en": "Baroque chapels",
+            "de": "barocke Kapellen",
+            "ua": "Барокові каплиці",
+            "it": "Le cappelle barocche",
+            "hr": "Barokne kapele",
+            "es": "Las capillas barrocas",
+            "fr": "Les chapelles baroques"
           }
         ],
         "correctAnswerIndexes": [
@@ -2289,61 +2289,61 @@
       {
         "id": "question-4",
         "question": {
-          "de": "",
-          "en": "",
-          "es": "",
-          "fr": "",
-          "hr": "",
-          "it": "",
-          "pl": "",
+          "pl": "Jakie postacie są przedstawione w oknach prezbiterium Katedry św. Jana Chrzciciela?",
           "ru": "Какие фигуры изображены в окнах пресвитерия Собора святого Иоанна Крестителя?",
-          "ua": ""
+          "en": "Which figures are depicted in the windows of the presbytery of the Cathedral of St. John the Baptist?",
+          "de": "Welche Figuren sind in den Fenstern des Presbyteriums der Kathedrale des heiligen Johannes des Täufers dargestellt?",
+          "ua": "Які постаті зображені у вікнах пресвітерію Собору святого Івана Хрестителя?",
+          "it": "Quali figure sono raffigurate nelle finestre del presbiterio della Cattedrale di San Giovanni Battista?",
+          "hr": "Koje su figure prikazane na prozorima prezbiterija katedrale svetog Ivana Krstitelja?",
+          "es": "¿Qué figuras aparecen en las ventanas del presbiterio de la Catedral de San Juan Bautista?",
+          "fr": "Quels personnages sont représentés dans les vitraux du chœur de la cathédrale Saint-Jean-Baptiste ?"
         },
         "answerType": "multi",
         "answers": [
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Jan Chrzciciel",
             "ru": "Иоанн Креститель",
-            "ua": ""
+            "en": "John the Baptist",
+            "de": "Johannes der Täufer",
+            "ua": "Іван Хреститель",
+            "it": "Giovanni Battista",
+            "hr": "Ivan Krstitelj",
+            "es": "Juan Bautista",
+            "fr": "Jean-Baptiste"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Święty Wincenty",
             "ru": "Святой Винцент",
-            "ua": ""
+            "en": "Saint Vincent",
+            "de": "Der heilige Vinzenz",
+            "ua": "Святий Вінсент",
+            "it": "San Vincenzo",
+            "hr": "Sveti Vinko",
+            "es": "San Vicente",
+            "fr": "Saint Vincent"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Święty Bartłomiej",
             "ru": "Святой Варфоломей",
-            "ua": ""
+            "en": "Saint Bartholomew",
+            "de": "Der heilige Bartholomäus",
+            "ua": "Святий Варфоломій",
+            "it": "San Bartolomeo",
+            "hr": "Sveti Bartolomej",
+            "es": "San Bartolomé",
+            "fr": "Saint Barthélemy"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Henryk II Pobożny",
             "ru": "Генрих II Благочестивый",
-            "ua": ""
+            "en": "Henry II the Pious",
+            "de": "Heinrich II. der Fromme",
+            "ua": "Генріх II Побожний",
+            "it": "Enrico II il Pio",
+            "hr": "Henrik II. Pobožni",
+            "es": "Enrique II el Piadoso",
+            "fr": "Henri II le Pieux"
           }
         ],
         "correctAnswerIndexes": [
@@ -2356,61 +2356,61 @@
       {
         "id": "question-5",
         "question": {
-          "de": "",
-          "en": "",
-          "es": "",
-          "fr": "",
-          "hr": "",
-          "it": "",
-          "pl": "",
+          "pl": "Jaki historyczny obiekt Katedry św. Jana Chrzciciela wrócił do prezbiterium w 2019 roku?",
           "ru": "Какой исторический объект Собора святого Иоанна Крестителя вернулся в пресвитерий в 2019 году?",
-          "ua": ""
+          "en": "Which historical object of the Cathedral of St. John the Baptist returned to the presbytery in 2019?",
+          "de": "Welcher historische Gegenstand der Kathedrale des heiligen Johannes des Täufers kehrte 2019 ins Presbyterium zurück?",
+          "ua": "Який історичний об’єкт Собору святого Івана Хрестителя повернувся до пресвітерію у 2019 році?",
+          "it": "Quale oggetto storico della Cattedrale di San Giovanni Battista è tornato nel presbiterio nel 2019?",
+          "hr": "Koji se povijesni objekt katedrale svetog Ivana Krstitelja vratio u prezbiterij 2019. godine?",
+          "es": "¿Qué objeto histórico de la Catedral de San Juan Bautista regresó al presbiterio en 2019?",
+          "fr": "Quel objet historique de la cathédrale Saint-Jean-Baptiste est revenu au chœur en 2019 ?"
         },
         "answerType": "single",
         "answers": [
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Srebrny ołtarz biskupa Erina",
             "ru": "Серебряный алтарь епископа Ерина",
-            "ua": ""
+            "en": "The silver altar of Bishop Erin",
+            "de": "Der silberne Altar von Bischof Erin",
+            "ua": "Срібний вівтар єпископа Еріна",
+            "it": "L’altare d’argento del vescovo Erin",
+            "hr": "Srebrni oltar biskupa Erina",
+            "es": "El altar de plata del obispo Erin",
+            "fr": "L’autel en argent de l’évêque Erin"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Główne organy",
             "ru": "Главный орган",
-            "ua": ""
+            "en": "The main organ",
+            "de": "Die Hauptorgel",
+            "ua": "Головний орган",
+            "it": "L’organo principale",
+            "hr": "Glavne orgulje",
+            "es": "El órgano principal",
+            "fr": "Le grand orgue"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Renesansowa iglica",
             "ru": "Ренессансный шпиль",
-            "ua": ""
+            "en": "The Renaissance spire",
+            "de": "Der Renaissanceturm",
+            "ua": "Ренесансний шпиль",
+            "it": "La guglia rinascimentale",
+            "hr": "Renesansni toranj",
+            "es": "La aguja renacentista",
+            "fr": "La flèche Renaissance"
           },
           {
-            "de": "",
-            "en": "",
-            "es": "",
-            "fr": "",
-            "hr": "",
-            "it": "",
-            "pl": "",
+            "pl": "Dębowe stalle",
             "ru": "Дубовые хоры",
-            "ua": ""
+            "en": "The oak choir stalls",
+            "de": "Die Eichenchöre",
+            "ua": "Дубові хори",
+            "it": "Le stalli di quercia",
+            "hr": "Hrastov kor",
+            "es": "Los asientos corales de roble",
+            "fr": "Les stalles en chêne"
           }
         ],
         "correctAnswerIndexes": [

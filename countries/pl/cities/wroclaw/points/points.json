@@ -5432,8 +5432,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.1094,
-      17.0783
+      51.1086345477009,
+      17.078774609450114
     ],
     "story": {
       "pl": "",
@@ -5448,7 +5448,7 @@
     },
     "quiz": [],
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 114,
     "image": "",
     "imageHash": "",
     "categories": [],

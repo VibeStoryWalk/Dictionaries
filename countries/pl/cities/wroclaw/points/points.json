@@ -366,7 +366,7 @@
     "dwellTimeMinutes": 5,
     "radius": 68,
     "image": "wroclaw/points/points_images/rynek-wroclaw.jpg",
-    "imageHash": "747ab658f4240d3b58c0cf19c1460db255820913e1802a04e455276478389d82",
+    "imageHash": "92f5263fb1ae5b56da9f0223c0f3c72204093bb81f6811187b043b7427b90b84",
     "categories": [
       "PublicSpace",
       "Entertainment"
@@ -742,7 +742,7 @@
     "dwellTimeMinutes": 5,
     "radius": 43,
     "image": "wroclaw/points/points_images/old-ratusha.jpg",
-    "imageHash": "e69bfecd492c7bfc7b726f1d1f5b004f3849ab0988192915f209226cb4b13def",
+    "imageHash": "5a208dd5e0c83847a36097e89cdcd027b78482fca65c2ca3454c7e5fdc91fe1e",
     "categories": [
       "Architecture",
       "History",
@@ -1055,7 +1055,7 @@
     "dwellTimeMinutes": 5,
     "radius": 26,
     "image": "wroclaw/points/points_images/prengierz.jpg",
-    "imageHash": "a384de753104330f4f2c2c1655a526febfc60f3b88bf1ab2cfe7349879240486",
+    "imageHash": "fae1a2e801e842b924bb1954c91719e7994f23a75e192820d727f31da6f0f0b9",
     "categories": [],
     "debug_entity": false
   },
@@ -1809,6 +1809,438 @@
       "PublicSpace",
       "InterestingForChildren"
     ],
+    "debug_entity": false
+  },
+  {
+    "id": "plac-solny-wroclaw",
+    "order": 6,
+    "title": {
+      "pl": "Plac Solny",
+      "ru": "Соляная площадь",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Plac odbieraj jako bardziej kameralne przedłużenie Rynku. Wypatruj całodobowego kwiaciarzanego pasa i małej rzeźby Mała Iglica, które nadają mu dzisiejszy charakter.",
+      "ru": "Площадь стоит читать как более камерное продолжение Рыночной площади. Ищите цветочный ряд и небольшую скульптуру Mała Iglica, которые задают ее сегодняшний характер.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.109406,
+      17.029362
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "pomnik-zwierzat-rzeznych",
+    "order": 7,
+    "title": {
+      "pl": "Pomnik Ku Czci Zwierząt Rzeźnych",
+      "ru": "Памятник во славу убойных животных",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Pomnik stoi tuż przy wejściu na Stare Jatki, więc łatwo go dostrzec z ulicy. To niewielki, ale bardzo charakterystyczny punkt, który przypomina o dawnej funkcji tej części miasta.",
+      "ru": "Памятник стоит прямо у входа в Старые Ятки, поэтому его легко заметить с улицы. Это небольшой, но очень характерный ориентир, который помогает понять прежнюю функцию этого квартала.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.111944,
+      17.030833
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "bazylika-sw-elzbiety",
+    "order": 8,
+    "title": {
+      "pl": "Bazylika św. Elżbiety",
+      "ru": "Базилика святой Елизаветы",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Podejdź tak, aby wieża była widoczna ponad linią dachów Starego Miasta. Z tego miejsca najlepiej widać, jak świątynia dominuje nad panoramą Rynku.",
+      "ru": "Подойдите так, чтобы башня читалась целиком над линией крыш Старого города. С этой точки особенно заметно, как храм доминирует над панорамой Рынка.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11167,
+      17.03
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "uniwersytet-wroclawski",
+    "order": 9,
+    "title": {
+      "pl": "Uniwersytet Wrocławski",
+      "ru": "Вроцлавский университет",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Spójrz na barokową fasadę i szeroką przestrzeń przed głównym gmachом — to jeden z najbardziej reprezentacyjnych widoków akademickich w centrum. Widać tu wyraźnie przejście od starego handlowego rdzenia do dzielnicy uniwersyteckiej.",
+      "ru": "Смотрите на барочный фасад и широкое пространство перед главным зданием — это один из самых репрезентативных университетских видов в центре города. Здесь хорошо читается переход от старого торгового ядра к академическому кварталу.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11361,
+      17.03333
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "ostrow-tumski",
+    "order": 10,
+    "title": {
+      "pl": "Ostrów Tumski",
+      "ru": "Остров Тумский",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Przejdź do najstarszej części miasta i zwolnij tempo: tu ważne są nie tylko pojedyncze budynki, ale też cisza ulic. Szukaj atmosfery sakralnej dzielnicy i historycznych perspektyw nad wodą.",
+      "ru": "Перейдите в старейшую часть города и замедлитесь: здесь важны не только отдельные здания, но и общая тишина улиц. Ищите атмосферу сакрального квартала и исторические перспективы вдоль воды.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.114167,
+      17.045833
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "archikatedra-sw-jana-chrzciciela",
+    "order": 11,
+    "title": {
+      "pl": "Archikatedra św. Jana Chrzciciela",
+      "ru": "Архикафедральный собор святого Иоанна Крестителя",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Podejdź do katedry od otwartej przestrzeni, aby zobaczyć jej bryłę i piony bez zwartej zabudowy. Już z zewnątrz widać gotycką formę i neogotyckie uzupełnienia.",
+      "ru": "Подойдите к собору со стороны открытого пространства, чтобы увидеть его объем и вертикали без плотной застройки. Даже снаружи хорошо заметны готические формы и неоготические дополнения.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11417,
+      17.04611
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "kolegiata-sw-krzyza-i-sw-bartlomieja",
+    "order": 12,
+    "title": {
+      "pl": "Kolegiata Świętego Krzyża i św. Bartłomieja",
+      "ru": "Коллегиальный костёл Святого Креста и святого Варфоломея",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Szukaj niezwykłej, dwupoziomowej kompozycji i porównaj górny oraz dolny poziom świątyni. To jedna z najbardziej niezwykłych sylwetek na Ostrowie Tumskim.",
+      "ru": "Ищите необычную двухэтажную композицию и внимательно сравните верхний и нижний уровни храма. Это один из самых редких силуэтов на Острове Тумском.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.115,
+      17.0439
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "most-tumski",
+    "order": 13,
+    "title": {
+      "pl": "Most Tumski",
+      "ru": "Тумский мост",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Podejdź do mostu jak do punktu fotograficznego: stąd dobrze widać wodę, sylwetki świątyń i ruch między wyspami. To naturalne przejście od sakralnej dzielnicy do otwartych nadodrzańskich widoków.",
+      "ru": "Подойдите к мосту как к фототочке: отсюда хорошо видны вода, храмовые силуэты и движение между островами. Это естественный переход из сакрального квартала к более открытым речным видам.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.1147,
+      17.042319
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "wyspa-piasek",
+    "order": 14,
+    "title": {
+      "pl": "Wyspa Piasek",
+      "ru": "Песчаный остров",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "Zakończ spacer na spokojniejszym odcinku nad wodą, gdzie dobrze widać, jak miasto układa się wokół dawnego koryta Odry. Spójrz za siebie, aby złapać perspektywę na katedrę i mosty.",
+      "ru": "Завершайте прогулку на более спокойном участке у воды, где видно, как город раскрывается вокруг старого русла Одры. Оглянитесь назад, чтобы поймать перспективу на собор и мосты.",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.1146,
+      17.0406
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
     "debug_entity": false
   }
 ]

@@ -4313,5 +4313,197 @@
     "imageHash": "c90c8ce06a32c1dd19f28dcb74b2a3ceddbf4d8a998d9d8eb297d0beac425316",
     "categories": [],
     "debug_entity": false
+  },
+  {
+    "id": "tumski0viewpoint",
+    "order": 13,
+    "title": {
+      "pl": "",
+      "ru": "Вид на Тумский остров",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11040745603302,
+      17.033549286163712
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "klodki-milosci",
+    "order": 14,
+    "title": {
+      "pl": "",
+      "ru": "Замки любви",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11040745603302,
+      17.033549286163712
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "katyn-family",
+    "order": 15,
+    "title": {
+      "pl": "",
+      "ru": "Катыньская семья Нижней Силезии",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11040745603302,
+      17.033549286163712
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
+  },
+  {
+    "id": "bastion-sakwowy",
+    "order": 16,
+    "title": {
+      "pl": "",
+      "ru": "Саквовый бастион",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11040745603302,
+      17.033549286163712
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
   }
 ]

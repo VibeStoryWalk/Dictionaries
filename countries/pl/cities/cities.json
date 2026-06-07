@@ -53,8 +53,8 @@
       "es": "Wrocław es una de las ciudades más acogedoras y pintorescas de Polonia, extendida sobre las islas del río Oder. Aquí, las calles medievales conviven con la vida urbana moderna y, en cada esquina, se pueden encontrar los famosos gnomos de Wrocław. Las hermosas plazas, los paseos ribereños con ambiente, los numerosos puentes y su atmósfera especialmente relajada hacen de Wrocław un lugar del que es fácil enamorarse desde el primer paseo.",
       "fr": "Wrocław est l’une des villes les plus chaleureuses et les plus pittoresques de Pologne, étendue sur les îles de l’Oder. Ici, les rues médiévales côtoient la vie urbaine moderne, et à chaque coin de rue, on peut croiser les célèbres nains de Wrocław. De belles places, des quais pleins d’atmosphère, de nombreux ponts et une ambiance particulièrement détendue font de Wrocław un lieu dont il est facile de tomber amoureux dès la première promenade."
     },
-    "heroImage": "",
-    "imageHash": "",
+    "heroImage": "wroclaw/city-cover.jpg",
+    "imageHash": "297dd8450e860566a448ec32cf10e32d2c6bdacfcb7487e14502b1831d7112e0",
     "debug_entity": true
   }
 ]

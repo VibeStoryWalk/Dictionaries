@@ -1860,54 +1860,6 @@
     "debug_entity": false
   },
   {
-    "id": "pomnik-zwierzat-rzeznych",
-    "order": 7,
-    "title": {
-      "pl": "Pomnik Ku Czci Zwierząt Rzeźnych",
-      "ru": "Памятник во славу убойных животных",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "Pomnik stoi tuż przy wejściu na Stare Jatki, więc łatwo go dostrzec z ulicy. To niewielki, ale bardzo charakterystyczny punkt, który przypomina o dawnej funkcji tej części miasta.",
-      "ru": "Памятник стоит прямо у входа в Старые Ятки, поэтому его легко заметить с улицы. Это небольшой, но очень характерный ориентир, который помогает понять прежнюю функцию этого квартала.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.111944,
-      17.030833
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 50,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
-  },
-  {
     "id": "bazylika-sw-elzbiety",
     "order": 8,
     "title": {

@@ -95,30 +95,12 @@
     },
     {
       "fromPointId": "jatki",
-      "toPointId": "pomnik-zwierzat-rzeznych",
+      "toPointId": "bazylika-sw-elzbiety",
       "path": [
         {
           "coordinates": [
             51.112046204702715,
             17.03097649887114
-          ]
-        },
-        {
-          "coordinates": [
-            51.111944,
-            17.030833
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "pomnik-zwierzat-rzeznych",
-      "toPointId": "bazylika-sw-elzbiety",
-      "path": [
-        {
-          "coordinates": [
-            51.111944,
-            17.030833
           ]
         },
         {
@@ -206,7 +188,6 @@
     "rynek-wroclaw",
     "plac-solny-wroclaw",
     "jatki",
-    "pomnik-zwierzat-rzeznych",
     "bazylika-sw-elzbiety",
     "archikatedra-sw-jana-chrzciciela",
     "kolegiata-sw-krzyza-i-sw-bartlomieja",

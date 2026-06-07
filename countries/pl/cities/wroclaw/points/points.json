@@ -743,7 +743,11 @@
     "radius": 43,
     "image": "wroclaw/points/points_images/old-ratusha.jpg",
     "imageHash": "e69bfecd492c7bfc7b726f1d1f5b004f3849ab0988192915f209226cb4b13def",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "History",
+      "Legends"
+    ],
     "debug_entity": false
   },
   {

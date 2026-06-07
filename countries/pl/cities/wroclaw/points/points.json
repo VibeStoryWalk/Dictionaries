@@ -2284,54 +2284,6 @@
     "debug_entity": false
   },
   {
-    "id": "ostrow-tumski",
-    "order": 10,
-    "title": {
-      "pl": "Ostrów Tumski",
-      "ru": "Остров Тумский",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "Przejdź do najstarszej części miasta i zwolnij tempo: tu ważne są nie tylko pojedyncze budynki, ale też cisza ulic. Szukaj atmosfery sakralnej dzielnicy i historycznych perspektyw nad wodą.",
-      "ru": "Перейдите в старейшую часть города и замедлитесь: здесь важны не только отдельные здания, но и общая тишина улиц. Ищите атмосферу сакрального квартала и исторические перспективы вдоль воды.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.114167,
-      17.045833
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 50,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
-  },
-  {
     "id": "archikatedra-sw-jana-chrzciciela",
     "order": 11,
     "title": {

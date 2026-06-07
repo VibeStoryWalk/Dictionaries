@@ -6055,7 +6055,11 @@
     "radius": 28,
     "image": "wroclaw/points/points_images/kanal-mlyna.jpg",
     "imageHash": "a69fa1d1c1178145c1f7eb982115a6f3e75932db48a27f3d24d0ec2dc7ec1eaf",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "PublicSpace",
+      "ViewPoint"
+    ],
     "debug_entity": false
   },
   {

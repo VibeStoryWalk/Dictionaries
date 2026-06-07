@@ -1,0 +1,255 @@
+{
+  "id": "",
+  "cityId": "wroclaw",
+  "title": {
+    "pl": "Historyczna pętla Wrocławia: Rynek, Jatki i Ostrów Tumski",
+    "ru": "Исторический круг Вроцлава: Рынок, Ятки и Остров Тумский",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "coverImage": "",
+  "imageHash": "",
+  "description": {
+    "pl": "Długa trasa piesza po historycznym centrum Wrocławia: od Rynku przez Plac Solny i Jatki do barokowego uniwersytetu, a następnie na Ostrów Tumski i nadodrzańskie widoki. Szlak łączy bezpłatne przestrzenie miejskie, architekturę, rzeźby i najlepsze panoramy nad rzeką.",
+    "ru": "Большой пеший маршрут по историческому ядру Вроцлава: от Рыночной площади через Соляную площадь и Старые Ятки к барочному университету, затем к сакральному комплексу Острова Тумского и прогулке вдоль Одры. Маршрут собран из бесплатных городских пространств, архитектуры, скульптур и лучших речных видов.",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "intro": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "durationMinutes": 150,
+  "distanceKm": 2.16,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06143,
+    19.93658
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "segments": [
+    {
+      "fromPointId": "rynek-wroclaw",
+      "toPointId": "plac-solny-wroclaw",
+      "path": [
+        {
+          "coordinates": [
+            51.11016279765979,
+            17.03084845121954
+          ]
+        },
+        {
+          "coordinates": [
+            51.109406,
+            17.029362
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "plac-solny-wroclaw",
+      "toPointId": "jatki",
+      "path": [
+        {
+          "coordinates": [
+            51.109406,
+            17.029362
+          ]
+        },
+        {
+          "coordinates": [
+            51.112046204702715,
+            17.03097649887114
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "jatki",
+      "toPointId": "pomnik-zwierzat-rzeznych",
+      "path": [
+        {
+          "coordinates": [
+            51.112046204702715,
+            17.03097649887114
+          ]
+        },
+        {
+          "coordinates": [
+            51.111944,
+            17.030833
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "pomnik-zwierzat-rzeznych",
+      "toPointId": "bazylika-sw-elzbiety",
+      "path": [
+        {
+          "coordinates": [
+            51.111944,
+            17.030833
+          ]
+        },
+        {
+          "coordinates": [
+            51.11167,
+            17.03
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bazylika-sw-elzbiety",
+      "toPointId": "uniwersytet-wroclawski",
+      "path": [
+        {
+          "coordinates": [
+            51.11167,
+            17.03
+          ]
+        },
+        {
+          "coordinates": [
+            51.11361,
+            17.03333
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "uniwersytet-wroclawski",
+      "toPointId": "ostrow-tumski",
+      "path": [
+        {
+          "coordinates": [
+            51.11361,
+            17.03333
+          ]
+        },
+        {
+          "coordinates": [
+            51.114167,
+            17.045833
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "ostrow-tumski",
+      "toPointId": "archikatedra-sw-jana-chrzciciela",
+      "path": [
+        {
+          "coordinates": [
+            51.114167,
+            17.045833
+          ]
+        },
+        {
+          "coordinates": [
+            51.11417,
+            17.04611
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "archikatedra-sw-jana-chrzciciela",
+      "toPointId": "kolegiata-sw-krzyza-i-sw-bartlomieja",
+      "path": [
+        {
+          "coordinates": [
+            51.11417,
+            17.04611
+          ]
+        },
+        {
+          "coordinates": [
+            51.115,
+            17.0439
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "kolegiata-sw-krzyza-i-sw-bartlomieja",
+      "toPointId": "most-tumski",
+      "path": [
+        {
+          "coordinates": [
+            51.115,
+            17.0439
+          ]
+        },
+        {
+          "coordinates": [
+            51.1147,
+            17.042319
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "most-tumski",
+      "toPointId": "wyspa-piasek",
+      "path": [
+        {
+          "coordinates": [
+            51.1147,
+            17.042319
+          ]
+        },
+        {
+          "coordinates": [
+            51.1146,
+            17.0406
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "rynek-wroclaw",
+    "plac-solny-wroclaw",
+    "jatki",
+    "pomnik-zwierzat-rzeznych",
+    "bazylika-sw-elzbiety",
+    "uniwersytet-wroclawski",
+    "ostrow-tumski",
+    "archikatedra-sw-jana-chrzciciela",
+    "kolegiata-sw-krzyza-i-sw-bartlomieja",
+    "most-tumski",
+    "wyspa-piasek"
+  ],
+  "debug_entity": false
+}

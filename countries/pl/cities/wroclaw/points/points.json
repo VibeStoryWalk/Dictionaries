@@ -3945,15 +3945,15 @@
     "id": "boleslaw-kominek",
     "order": 12,
     "title": {
-      "pl": "Kardynał Bolesław Kominek",
-      "ru": "Кардинал Болеслав Коминек",
-      "en": "Cardinal Bolesław Kominek",
-      "de": "Kardinal Bolesław Kominek",
-      "ua": "Кардинал Болеслав Коминек",
-      "it": "Cardinale Bolesław Kominek",
-      "hr": "Kardinal Bolesław Kominek",
-      "es": "Cardenal Bolesław Kominek",
-      "fr": "Cardinal Bolesław Kominek"
+      "pl": "Pomnik kardynała Bolesława Kominka",
+      "ru": "Памятник кардинау Болеславу Коминку",
+      "en": "Monument to Cardinal Bolesław Kominek",
+      "de": "Denkmal für Kardinal Bolesław Kominek",
+      "ua": "Пам'ятник кардиналу Болеславу Комінку",
+      "it": "Monumento al cardinale Bolesław Kominek",
+      "hr": "Spomenik kardinalu Bolesłavu Kominku",
+      "es": "Monumento al cardenal Bolesław Kominek",
+      "fr": "Monument au cardinal Bolesław Kominek"
     },
     "approachText": {
       "pl": "",

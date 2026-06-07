@@ -4312,7 +4312,11 @@
     "radius": 19,
     "image": "wroclaw/points/points_images/boleslaw-kominek.jpg",
     "imageHash": "c90c8ce06a32c1dd19f28dcb74b2a3ceddbf4d8a998d9d8eb297d0beac425316",
-    "categories": [],
+    "categories": [
+      "Sculpture",
+      "Religion",
+      "Person"
+    ],
     "debug_entity": false
   },
   {

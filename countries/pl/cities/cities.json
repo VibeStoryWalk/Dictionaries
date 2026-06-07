@@ -55,6 +55,10 @@
     },
     "heroImage": "wroclaw/city-cover.jpg",
     "imageHash": "297dd8450e860566a448ec32cf10e32d2c6bdacfcb7487e14502b1831d7112e0",
-    "debug_entity": true
+    "debug_entity": true,
+    "cityCenter": [
+      51.11040745603302,
+      17.033549286163712
+    ]
   }
 ]

@@ -1056,7 +1056,11 @@
     "radius": 26,
     "image": "wroclaw/points/points_images/prengierz.jpg",
     "imageHash": "fae1a2e801e842b924bb1954c91719e7994f23a75e192820d727f31da6f0f0b9",
-    "categories": [],
+    "categories": [
+      "Legends",
+      "Architecture",
+      "PublicSpace"
+    ],
     "debug_entity": false
   },
   {

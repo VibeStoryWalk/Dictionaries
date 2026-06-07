@@ -3674,7 +3674,12 @@
     "radius": 57,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "PublicSpace",
+      "InterestingForChildren",
+      "Entertainment"
+    ],
     "debug_entity": false
   }
 ]

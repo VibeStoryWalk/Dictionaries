@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 150,
-  "distanceKm": 2.1,
+  "distanceKm": 1.98,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -164,24 +164,6 @@
           ]
         }
       ]
-    },
-    {
-      "fromPointId": "most-tumski",
-      "toPointId": "wyspa-piasek",
-      "path": [
-        {
-          "coordinates": [
-            51.1147,
-            17.042319
-          ]
-        },
-        {
-          "coordinates": [
-            51.1146,
-            17.0406
-          ]
-        }
-      ]
     }
   ],
   "pointIds": [
@@ -191,8 +173,7 @@
     "bazylika-sw-elzbiety",
     "archikatedra-sw-jana-chrzciciela",
     "kolegiata-sw-krzyza-i-sw-bartlomieja",
-    "most-tumski",
-    "wyspa-piasek"
+    "most-tumski"
   ],
   "debug_entity": false
 }

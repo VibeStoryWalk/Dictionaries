@@ -3940,5 +3940,53 @@
       "Entertainment"
     ],
     "debug_entity": false
+  },
+  {
+    "id": "boleslaw-kominek",
+    "order": 12,
+    "title": {
+      "pl": "",
+      "ru": "Кардинал Болеслав Коминек",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11040745603302,
+      17.033549286163712
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 50,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
   }
 ]

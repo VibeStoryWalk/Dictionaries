@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 150,
-  "distanceKm": 2.16,
+  "distanceKm": 2.1,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -131,30 +131,12 @@
     },
     {
       "fromPointId": "bazylika-sw-elzbiety",
-      "toPointId": "uniwersytet-wroclawski",
+      "toPointId": "ostrow-tumski",
       "path": [
         {
           "coordinates": [
             51.11167,
             17.03
-          ]
-        },
-        {
-          "coordinates": [
-            51.11361,
-            17.03333
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "uniwersytet-wroclawski",
-      "toPointId": "ostrow-tumski",
-      "path": [
-        {
-          "coordinates": [
-            51.11361,
-            17.03333
           ]
         },
         {
@@ -244,7 +226,6 @@
     "jatki",
     "pomnik-zwierzat-rzeznych",
     "bazylika-sw-elzbiety",
-    "uniwersytet-wroclawski",
     "ostrow-tumski",
     "archikatedra-sw-jana-chrzciciela",
     "kolegiata-sw-krzyza-i-sw-bartlomieja",

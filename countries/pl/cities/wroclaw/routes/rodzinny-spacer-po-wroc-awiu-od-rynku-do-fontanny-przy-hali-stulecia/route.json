@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 155,
-  "distanceKm": 5.82,
+  "distanceKm": 5.39,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -131,30 +131,12 @@
     },
     {
       "fromPointId": "park-szczytnicki",
-      "toPointId": "hala-stulecia",
+      "toPointId": "wroclawska-fontanna-multimedialna",
       "path": [
         {
           "coordinates": [
             51.113221,
             17.081052
-          ]
-        },
-        {
-          "coordinates": [
-            51.10694,
-            17.07722
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "hala-stulecia",
-      "toPointId": "wroclawska-fontanna-multimedialna",
-      "path": [
-        {
-          "coordinates": [
-            51.10694,
-            17.07722
           ]
         },
         {
@@ -172,7 +154,6 @@
     "promenada-staromiejska",
     "wyspa-slodowa",
     "park-szczytnicki",
-    "hala-stulecia",
     "wroclawska-fontanna-multimedialna"
   ],
   "debug_entity": false

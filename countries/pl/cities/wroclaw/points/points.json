@@ -6331,8 +6331,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.11040745603302,
-      17.033549286163712
+      51.10811552990955,
+      17.07684098766083
     ],
     "story": {
       "pl": "",
@@ -6350,7 +6350,12 @@
     "radius": 50,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "PublicSpace",
+      "ViewPoint",
+      "InterestingForChildren"
+    ],
     "debug_entity": false
   }
 ]

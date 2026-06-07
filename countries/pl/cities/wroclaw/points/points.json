@@ -217,8 +217,8 @@
       "fr": ""
     },
     "coordinates": [
-      50.06143,
-      19.93658
+      51.112046204702715,
+      17.03097649887114
     ],
     "story": {
       "pl": "",
@@ -233,7 +233,7 @@
     },
     "quiz": [],
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 16,
     "image": "wroclaw/points/points_images/jatki.jpg",
     "imageHash": "52d9c9838e4f2e62e4ce04599d2c3a61fcbdf0af6e1fc5d1b49742d85dc767b3",
     "categories": [

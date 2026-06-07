@@ -2277,7 +2277,10 @@
     "radius": 50,
     "image": "wroclaw/points/points_images/bazylika-sw-elzbiety.jpg",
     "imageHash": "244bf014fd5c9372a92b1dd0679d16833956ed6ed41a119f0d8b0889b007d069",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "Religion"
+    ],
     "debug_entity": false
   },
   {

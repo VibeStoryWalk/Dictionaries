@@ -5192,8 +5192,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.106444,
-      17.040389
+      51.10609479257599,
+      17.04030051949997
     ],
     "story": {
       "pl": "",
@@ -5208,7 +5208,7 @@
     },
     "quiz": [],
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 38,
     "image": "",
     "imageHash": "",
     "categories": [],
@@ -5679,7 +5679,7 @@
     "dwellTimeMinutes": 5,
     "radius": 114,
     "image": "wroclaw/points/points_images/wroclawska-fontanna-multimedialna.jpg",
-    "imageHash": "8311591599bbae63cb49b8349632f4252be4131b57345654be5d11cedfa8751a",
+    "imageHash": "96d6ed5486b2b6b7fd9758a1e5a97374b4a5148c4e77f30b2e2cbaf296f1f1bf",
     "categories": [
       "PublicSpace",
       "Entertainment",
@@ -6054,7 +6054,7 @@
     "dwellTimeMinutes": 5,
     "radius": 28,
     "image": "wroclaw/points/points_images/kanal-mlyna.jpg",
-    "imageHash": "a69fa1d1c1178145c1f7eb982115a6f3e75932db48a27f3d24d0ec2dc7ec1eaf",
+    "imageHash": "f2bd6fc7150dd8f1f1e63aba3df904d3d5f14d22145f2ea877db161c99b44114",
     "categories": [
       "Architecture",
       "PublicSpace",
@@ -6905,7 +6905,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/pergola.jpg",
-    "imageHash": "e6b69f171391ba29b52ded504413cb62a2091d4b6a17e5e1ac7f6f8f84047280",
+    "imageHash": "a51ed6a66d7b1a7311354af20202a9b61fcbeaf217076efd2e993000989d731f",
     "categories": [
       "Architecture",
       "PublicSpace",

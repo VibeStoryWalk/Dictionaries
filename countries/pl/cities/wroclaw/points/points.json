@@ -4737,8 +4737,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 36,
-    "image": "",
-    "imageHash": "",
+    "image": "wroclaw/points/points_images/katyn-family.jpg",
+    "imageHash": "1a62de80e70003bd6037b43f0865386183ec9a71949d7ae3abc378c7798aa9ba",
     "categories": [
       "Sculpture",
       "History"

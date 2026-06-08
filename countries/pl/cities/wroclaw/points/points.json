@@ -4720,8 +4720,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.11040745603302,
-      17.033549286163712
+      51.11025761863142,
+      17.045932402594094
     ],
     "story": {
       "pl": "",
@@ -4736,10 +4736,13 @@
     },
     "quiz": [],
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 36,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Sculpture",
+      "History"
+    ],
     "debug_entity": false
   },
   {

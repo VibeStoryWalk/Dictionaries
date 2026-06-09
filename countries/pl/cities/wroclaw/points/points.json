@@ -6942,8 +6942,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.11040745603302,
-      17.033549286163712
+      51.10643500157117,
+      17.027060476733382
     ],
     "story": {
       "pl": "",
@@ -6958,10 +6958,13 @@
     },
     "quiz": [],
     "dwellTimeMinutes": 5,
-    "radius": 50,
+    "radius": 18,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Sculpture",
+      "InterestingForChildren"
+    ],
     "debug_entity": false
   }
 ]

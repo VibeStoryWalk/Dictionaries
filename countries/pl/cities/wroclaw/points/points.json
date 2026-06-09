@@ -7168,7 +7168,11 @@
     "radius": 89,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "PublicSpace",
+      "ViewPoint",
+      "InterestingForChildren"
+    ],
     "debug_entity": false
   }
 ]

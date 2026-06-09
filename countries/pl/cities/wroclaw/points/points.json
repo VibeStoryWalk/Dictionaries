@@ -6967,7 +6967,10 @@
     "radius": 72,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "PublicSpace",
+      "ViewPoint"
+    ],
     "debug_entity": false
   },
   {

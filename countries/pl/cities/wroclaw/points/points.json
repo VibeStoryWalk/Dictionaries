@@ -7476,5 +7476,53 @@
     "imageHash": "",
     "categories": [],
     "debug_entity": false
+  },
+  {
+    "id": "krasnale-syzyfki",
+    "order": 37,
+    "title": {
+      "pl": "",
+      "ru": "Гномы-Сизифы",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.108953229311105,
+      17.03290770145787
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 18,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
   }
 ]

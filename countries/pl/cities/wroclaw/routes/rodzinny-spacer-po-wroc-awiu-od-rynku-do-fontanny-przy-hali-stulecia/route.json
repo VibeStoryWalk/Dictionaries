@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 155,
-  "distanceKm": 5.45,
+  "distanceKm": 4.35,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -95,30 +95,12 @@
     },
     {
       "fromPointId": "promenada-staromiejska",
-      "toPointId": "wyspa-slodowa",
+      "toPointId": "park-szczytnicki",
       "path": [
         {
           "coordinates": [
             51.10609479257599,
             17.04030051949997
-          ]
-        },
-        {
-          "coordinates": [
-            51.11617,
-            17.03932
-          ]
-        }
-      ]
-    },
-    {
-      "fromPointId": "wyspa-slodowa",
-      "toPointId": "park-szczytnicki",
-      "path": [
-        {
-          "coordinates": [
-            51.11617,
-            17.03932
           ]
         },
         {
@@ -152,7 +134,6 @@
     "rynek-wroclaw",
     "bastion-sakwowy",
     "promenada-staromiejska",
-    "wyspa-slodowa",
     "park-szczytnicki",
     "wroclawska-fontanna-multimedialna"
   ],

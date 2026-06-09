@@ -7222,5 +7222,53 @@
     "imageHash": "",
     "categories": [],
     "debug_entity": false
+  },
+  {
+    "id": "accoustic-mirrors",
+    "order": 32,
+    "title": {
+      "pl": "",
+      "ru": "Акустические зеркала",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11599972996206,
+      17.02920611088917
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 26,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
   }
 ]

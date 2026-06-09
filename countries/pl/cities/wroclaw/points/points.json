@@ -7527,5 +7527,53 @@
       "InterestingForChildren"
     ],
     "debug_entity": false
+  },
+  {
+    "id": "Jan-nepomucen",
+    "order": 38,
+    "title": {
+      "pl": "",
+      "ru": "Памятник святому Яну Непомуцкому",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11461795881789,
+      17.043657919589474
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 18,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
   }
 ]

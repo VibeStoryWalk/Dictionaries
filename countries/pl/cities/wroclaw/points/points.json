@@ -7573,7 +7573,11 @@
     "radius": 18,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Sculpture",
+      "Religion",
+      "Person"
+    ],
     "debug_entity": false
   }
 ]

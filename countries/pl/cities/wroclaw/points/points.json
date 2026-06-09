@@ -7377,5 +7377,56 @@
       "Sculpture"
     ],
     "debug_entity": false
+  },
+  {
+    "id": "stalinism-victims-monument",
+    "order": 35,
+    "title": {
+      "pl": "",
+      "ru": "Памятник жертвам сталинизма",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.10497652281951,
+      17.030193330126806
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 24,
+    "image": "",
+    "imageHash": "",
+    "categories": [
+      "History",
+      "Sculpture"
+    ],
+    "debug_entity": false
   }
 ]

@@ -5218,54 +5218,6 @@
     "debug_entity": false
   },
   {
-    "id": "wyspa-slodowa",
-    "order": 19,
-    "title": {
-      "pl": "Wyspa Słodowa",
-      "ru": "Остров Слодова",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "Wyjdziesz na otwartą wyspę z trawą i widokami na wodę. To jeden z najlepszych bezpłatnych przystanków, żeby dzieci mogły pobiegać i popatrzeć na Odrę.",
-      "ru": "Вы выйдете к открытому островному пространству с травой и видами на воду. Это одна из лучших бесплатных остановок, чтобы детям дать побегать и посмотреть на город с берега Одры.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.11617037577892,
-      17.039082182898206
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 50,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
-  },
-  {
     "id": "park-szczytnicki",
     "order": 20,
     "title": {

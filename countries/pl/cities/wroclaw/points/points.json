@@ -7320,7 +7320,11 @@
     "radius": 30,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Mural",
+      "ViewPoint",
+      "PublicSpace"
+    ],
     "debug_entity": false
   }
 ]

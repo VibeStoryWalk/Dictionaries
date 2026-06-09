@@ -7113,7 +7113,11 @@
     "radius": 39,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Mural",
+      "ViewPoint",
+      "InterestingForChildren"
+    ],
     "debug_entity": false
   }
 ]

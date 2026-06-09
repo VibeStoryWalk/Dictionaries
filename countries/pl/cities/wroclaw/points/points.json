@@ -7579,5 +7579,53 @@
       "Person"
     ],
     "debug_entity": false
+  },
+  {
+    "id": "sculpture-nave",
+    "order": 39,
+    "title": {
+      "pl": "",
+      "ru": "Скульптура «Нава»",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.11432494924141,
+      17.03857777337921
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 20,
+    "image": "",
+    "imageHash": "",
+    "categories": [],
+    "debug_entity": false
   }
 ]

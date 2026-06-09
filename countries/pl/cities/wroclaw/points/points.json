@@ -7522,7 +7522,10 @@
     "radius": 18,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Sculpture",
+      "InterestingForChildren"
+    ],
     "debug_entity": false
   }
 ]

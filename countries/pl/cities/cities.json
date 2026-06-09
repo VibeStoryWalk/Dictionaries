@@ -26,7 +26,11 @@
     },
     "heroImage": "krakow/city-cover.jpg",
     "imageHash": "6dccb21d0ddf3090bffedbf81430eb66959f2021ca111f03fc726e19da1ab126",
-    "debug_entity": false
+    "debug_entity": false,
+    "cityCenter": [
+      50.049955182773466,
+      19.947449743423288
+    ]
   },
   {
     "id": "wroclaw",

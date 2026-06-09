@@ -5218,54 +5218,6 @@
     "debug_entity": false
   },
   {
-    "id": "park-szczytnicki",
-    "order": 20,
-    "title": {
-      "pl": "Park Szczytnicki",
-      "ru": "Парк Щитницкий",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "approachText": {
-      "pl": "Zwróć uwagę na szerokie wejścia do dużego parku i długie aleje pod starymi drzewami. Po miejskich odcinkach to najlepsze miejsce na spokojny spacer, piknik i krótki odpoczynek.",
-      "ru": "Смотрите на широкий вход в большой парк и ищите длинные аллеи под старыми деревьями. После городских участков это лучшее место для спокойного шага, пикника и короткого отдыха.",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "coordinates": [
-      51.113221,
-      17.081052
-    ],
-    "story": {
-      "pl": "",
-      "ru": "",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
-    },
-    "quiz": [],
-    "dwellTimeMinutes": 5,
-    "radius": 50,
-    "image": "",
-    "imageHash": "",
-    "categories": [],
-    "debug_entity": false
-  },
-  {
     "id": "wroclawska-fontanna-multimedialna",
     "order": 22,
     "title": {

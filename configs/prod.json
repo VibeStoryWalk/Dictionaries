@@ -11,8 +11,5 @@
   },
   "firebase": {
     "firestore": "samowalk-prod"
-  },
-  "featureFlags": {
-    "quizes": false
   }
 }

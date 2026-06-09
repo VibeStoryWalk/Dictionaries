@@ -7326,5 +7326,56 @@
       "PublicSpace"
     ],
     "debug_entity": false
+  },
+  {
+    "id": "fredo-monument",
+    "order": 34,
+    "title": {
+      "pl": "",
+      "ru": "Памятник Александру Фредро",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "approachText": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "coordinates": [
+      51.109594326331376,
+      17.031308992996895
+    ],
+    "story": {
+      "pl": "",
+      "ru": "",
+      "en": "",
+      "de": "",
+      "ua": "",
+      "it": "",
+      "hr": "",
+      "es": "",
+      "fr": ""
+    },
+    "quiz": [],
+    "dwellTimeMinutes": 5,
+    "radius": 20,
+    "image": "",
+    "imageHash": "",
+    "categories": [
+      "Person",
+      "Sculpture"
+    ],
+    "debug_entity": false
   }
 ]

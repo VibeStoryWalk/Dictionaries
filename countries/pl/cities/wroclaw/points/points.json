@@ -9169,7 +9169,9 @@
     "radius": 30,
     "image": "",
     "imageHash": "",
-    "categories": [],
+    "categories": [
+      "Mural"
+    ],
     "debug_entity": false
   },
   {

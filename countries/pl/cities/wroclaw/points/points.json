@@ -8687,7 +8687,332 @@
       "es": "El mural Wroclove es una de las obras de arte urbano más románticas de Wrocław. Su nombre une las palabras Wrocław y love, destacando la atmósfera especial de la ciudad y el amor de sus habitantes por su hogar. Esta composición vibrante se ha convertido en un punto de interés popular en el barrio de Ołbin y atrae tanto a turistas como a aficionados a la cultura urbana contemporánea. El mural está situado en la calle Mikołaja Reja y es muy conocido entre los admiradores del arte urbano de Wrocław.\n\nEl mural Wroclove suele ser un lugar para fotos memorables gracias a su mensaje positivo y a su nombre reconocible. Simboliza la apertura, la energía creativa y el carácter amable de Wrocław, una ciudad que ha sabido combinar un rico patrimonio histórico con el arte moderno y la cultura juvenil.",
       "fr": "Le mural Wroclove est l'une des œuvres de street art les plus romantiques de Wrocław. Son nom associe les mots Wrocław et love, soulignant l'atmosphère particulière de la ville et l'amour de ses habitants pour leur foyer. Cette composition colorée est devenue une attraction populaire du quartier d'Ołbin et attire aussi bien les touristes que les amateurs de culture urbaine contemporaine. Le mural se trouve rue Mikołaja Reja et est bien connu des passionnés de street art de Wrocław.\n\nLe mural Wroclove est souvent un lieu de photos souvenirs grâce à son message positif et à son nom reconnaissable. Il symbolise l'ouverture, l'énergie créative et le caractère chaleureux de Wrocław, une ville qui a su unir un riche héritage historique à l'art moderne et à la culture jeune."
     },
-    "quiz": [],
+    "quiz": [
+      {
+        "id": "question-1",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что объясняет название мурала Wroclove во Вроцлаве?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Wrocław и love",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "река и мост",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "история и легенда",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "город и замок",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-2",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "В каком районе Вроцлава находится мурал Wroclove?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Ольбин",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Старе-Място",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Кжики",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Псие-Поле",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-3",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "На какой улице расположен мурал Wroclove во Вроцлаве?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "улица Миколая Рея",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "улица Свидницкая",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "улица Оджаньска",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "улица Руська",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-4",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Какие идеи, по описанию, символизирует мурал Wroclove?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "открытость",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "творческая энергия",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "дружелюбный характер",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "средневековую строгость",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "id": "question-5",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Почему мурал Wroclove часто становится местом для памятных фото?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "у него позитивный посыл",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "название легко узнаётся",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "он привлекает любителей стрит-арта",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "он находится внутри музея",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
     "dwellTimeMinutes": 5,
     "radius": 28,
     "image": "wroclaw/points/points_images/mural-wroclove.jpg",

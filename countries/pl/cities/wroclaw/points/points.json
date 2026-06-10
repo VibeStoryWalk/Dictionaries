@@ -6911,7 +6911,203 @@
       "es": "Piastoslav I el Dorado es uno de los gnomos más coloridos de Breslavia, y se le puede encontrar en la isla Słodowa. Su nombre hace referencia a la dinastía Piasta, los primeros gobernantes de Polonia, y su apodo está relacionado con la bebida dorada que durante siglos fue una parte inseparable de la cultura de la ciudad.\n\nLa figurita apareció en Breslavia en 2010 y pronto se convirtió en una de las paradas favoritas de la ruta de los gnomos urbanos. Piastoslav está representado como un alegre guardián de las tradiciones, que recuerda la historia medieval de la ciudad y sus centenarias costumbres cerveceras. Gracias a su aspecto característico, llama fácilmente la atención tanto de turistas adultos como de niños.\n\nAl pasear por la isla Słodowa, conviene mirar con atención a los alrededores: como la mayoría de los gnomos de Breslavia, a Piastoslav le gusta “esconderse” entre la arquitectura urbana. Buscarlo se convierte en parte de un juego divertido que ayuda a descubrir rincones menos conocidos de la ciudad y a conocer una de las tradiciones más inusuales de Breslavia.",
       "fr": "Piastoslav I le Doré est l’un des nains les plus colorés de Wrocław, que l’on peut trouver sur l’île de Słodowa. Son nom fait référence à la dynastie des Piast, les premiers souverains de Pologne, et son surnom est lié à la boisson dorée qui, pendant des siècles, a fait partie intégrante de la culture urbaine.\n\nLa figurine est apparue à Wrocław en 2010 et est rapidement devenue l’une des étapes préférées du parcours de recherche des nains de la ville. Piastoslav est représenté comme un joyeux gardien des traditions, rappelant l’histoire médiévale de la ville et ses coutumes brassicoles séculaires. Grâce à son apparence caractéristique, il attire facilement l’attention des touristes adultes comme des enfants.\n\nLors d’une promenade sur l’île de Słodowa, il vaut la peine de regarder attentivement autour de soi : comme la plupart des nains de Wrocław, Piastoslav aime se « cacher » parmi l’architecture urbaine. Sa recherche devient partie intégrante d’un jeu captivant qui aide à découvrir les coins moins connus de la ville et à se familiariser avec l’une des traditions les plus insolites de Wrocław."
     },
-    "quiz": [],
+    "quiz": [
+      {
+        "id": "question-2",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "С каким годом связано появление гнома Пястослава I Золотистого во Вроцлаве?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "2010",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "1998",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "2005",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "2018",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-3",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что, по истории гнома Пястослава I Золотистого, отражено в его имени и образе?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Династия Пястов",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Средневековая история города",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Морская навигация",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Горные рудники",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "id": "question-5",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Какие детали лучше всего подходят к описанию гнома Пястослава I Золотистого из вроцлавского маршрута?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Весёлый хранитель традиций",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Связан с пивоваренными обычаями",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Легко прячется среди архитектуры",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Стоит только на главной площади",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
     "dwellTimeMinutes": 5,
     "radius": 20,
     "image": "wroclaw/points/points_images/krasnal-piastoslaw.jpg",

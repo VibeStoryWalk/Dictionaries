@@ -9167,8 +9167,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 30,
-    "image": "",
-    "imageHash": "",
+    "image": "wroclaw/points/points_images/mural-il-cane.jpg",
+    "imageHash": "e4ab413666a6e9984e0970cdfc141a2855d8e49d9a41b56f60f2d1beecd19cda",
     "categories": [
       "Mural"
     ],

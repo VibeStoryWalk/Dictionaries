@@ -8317,8 +8317,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 29,
-    "image": "",
-    "imageHash": "",
+    "image": "wroclaw/points/points_images/mural-inkom.jpg",
+    "imageHash": "49630a818cb07add0189c1f3416eaa8b5b6e71088eecca7d3332204b5c5f1fbf",
     "categories": [
       "Mural"
     ],

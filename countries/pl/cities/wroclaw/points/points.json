@@ -8883,7 +8883,268 @@
       "es": "Los enanos Sísifo son una de las esculturas más singulares y simbólicas entre los famosos enanos de Wrocław. Dos pequeñas figuras de bronce pueden verse en la calle Świdnicka: una de ellas empuja con enorme esfuerzo una bola de piedra cuesta arriba, mientras la otra le ayuda a superar el obstáculo. La composición remite al antiguo mito griego de Sísifo, condenado a rodar eternamente una piedra hasta la cima de una montaña.\n\nEl monumento apareció en Wrocław en 2005 y se convirtió en un recordatorio peculiar del trabajo cotidiano, la perseverancia y la capacidad de no rendirse ante las dificultades. A pesar de su pequeño tamaño, las figuras llaman la atención por la multitud de detalles y las poses expresivas que transmiten la tensión y la tenacidad de los protagonistas.\n\nLos enanos Sísifo se encuentran cerca del lugar donde antaño tuvieron lugar acciones del movimiento «Alternativa Naranja», gracias al cual la figura del enano se convirtió en uno de los símbolos de Wrocław. Hoy en día, los turistas suelen detenerse aquí para hacer fotos y buscar el significado oculto de la composición, ya que cada uno puede ver en ella su propia historia de superación de obstáculos y logro de objetivos.\n\nComo muchos otros enanos de Wrocław, los Sísifo se han convertido en una parte inseparable del paisaje urbano, transformando un paseo cualquiera por el centro de la ciudad en un viaje fascinante por el mundo de los pequeños héroes de bronce.",
       "fr": "Les nains Sisyphe comptent parmi les sculptures les plus insolites et symboliques des célèbres nains de Wrocław. Deux petites figurines en bronze se trouvent rue Świdnicka : l'une pousse avec un immense effort une boule de pierre vers le haut, tandis que l'autre l'aide à surmonter l'obstacle. La composition fait référence au mythe grec antique de Sisyphe, condamné à rouler éternellement un rocher jusqu’au sommet d’une montagne.\n\nLe monument est apparu à Wrocław en 2005 et est devenu une sorte de rappel du travail quotidien, de la persévérance et de la capacité à ne pas abandonner face aux difficultés. Malgré leur petite taille, les figurines attirent l’attention par la richesse de leurs détails et leurs poses expressives, qui traduisent la tension et la détermination des personnages.\n\nLes nains Sisyphe sont situés près de l’endroit où se déroulaient autrefois des actions du mouvement « Alternative orange », grâce auquel l’image du nain est devenue l’un des symboles de Wrocław. Aujourd’hui, les touristes s’y arrêtent souvent pour prendre des photos et chercher le sens caché de la composition, car chacun peut y voir sa propre histoire de dépassement des obstacles et d’atteinte des objectifs.\n\nComme beaucoup d’autres nains de Wrocław, les Sisyphe sont devenus une partie intégrante du paysage urbain, transformant une simple promenade dans le centre-ville en un voyage captivant dans l’univers de petits héros de bronze."
     },
-    "quiz": [],
+    "quiz": [
+      {
+        "id": "question-2",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "С каким древнегреческим мифом связаны вроцлавские «Гномы-Сизифы»?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "О Сизифе",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "О Прометее",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Об Одиссее",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "О Геракле",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-3",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что верно о вроцлавских «Гномах-Сизифах»?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Появились в 2005 году",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Сделаны из бронзы",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Находятся на улице Свидницкой",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Стоят у реки Одры",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "id": "question-4",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Какую идею передают вроцлавские «Гномы-Сизифы»?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Настойчивость",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Ежедневный труд",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Умение не сдаваться",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Случайную удачу",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "id": "question-5",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "С чем связано место, где стоят вроцлавские «Гномы-Сизифы»?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "С акциями «Оранжевой альтернативы»",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "С коронацией королей",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "С рыночной ярмаркой",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "С открытием вокзала",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      }
+    ],
     "dwellTimeMinutes": 5,
     "radius": 18,
     "image": "wroclaw/points/points_images/krasnale-syzyfki.jpg",

@@ -9591,7 +9591,269 @@
       "es": "El mural de Maria Koterbska es una de las obras contemporáneas de arte urbano más reconocibles de Wrocław. El enorme retrato de la famosa cantante polaca adorna la fachada de un edificio en la calle Teatralna y recuerda a la mujer gracias a la cual toda Polonia conoció la célebre «Canción de Wrocław», con versos sobre los tranvías azules de la ciudad.\n\nLa obra monumental, de unos 260 metros cuadrados, fue creada en 2022 por los artistas Marek Grela y Marta Pirog, del dúo creativo Crazy Murals. En el mural, Maria Koterbska aparece junto al tranvía de la línea 17, que recorre los barrios de Sępolno, Zalesie y Krzyki, precisamente los que se mencionan en su famosa canción.\n\nLa ubicación de la obra no fue elegida al azar. El mural está situado en una zona muy concurrida de la ciudad, cerca de las vías del tranvía, por lo que miles de habitantes y visitantes de Wrocław lo ven a diario. La composición resulta especialmente impactante cuando pasa en primer plano un tranvía azul de verdad, como si continuara la historia del cuadro.\n\nHoy el mural se ha convertido no solo en un lugar popular para fotografías, sino también en un símbolo de respeto por el patrimonio cultural de la ciudad. Une música, historia y transporte urbano en una sola imagen artística, recordando a una persona cuya voz estará para siempre vinculada a Wrocław.",
       "fr": "Le mural de Maria Koterbska est l’une des œuvres contemporaines de street art les plus reconnaissables de Wrocław. L’immense portrait de la célèbre chanteuse polonaise orne la façade d’un immeuble de la rue Teatralna et rappelle la femme grâce à qui toute la Pologne a découvert la célèbre « chanson de Wrocław », avec ses vers sur les tramways bleus de la ville.\n\nCette œuvre monumentale, d’une superficie d’environ 260 mètres carrés, a été créée en 2022 par les artistes Marek Grela et Marta Pirog, du duo créatif Crazy Murals. Sur le mural, Maria Koterbska est représentée à côté du tramway de la ligne 17, qui traverse les quartiers de Sępolno, Zalesie et Krzyki - précisément ceux mentionnés dans sa célèbre chanson.\n\nLe lieu n’a pas été choisi au hasard. Le mural se trouve dans un quartier animé de la ville, près des voies de tramway, de sorte que des milliers d’habitants et de visiteurs de Wrocław le voient chaque jour. La composition est particulièrement saisissante lorsqu’un véritable tramway bleu passe au premier plan, comme s’il prolongeait l’histoire du tableau.\n\nAujourd’hui, le mural est devenu non seulement un lieu de photo très apprécié, mais aussi un symbole de respect pour l’héritage culturel de la ville. Il unit musique, histoire et transport urbain en une seule image artistique, rappelant une personne dont la voix est à jamais liée à Wrocław."
     },
-    "quiz": [],
+    "quiz": [
+      {
+        "id": "question-1",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что изображает вроцлавский мурал Марии Котербской на фасаде здания?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Портрет певицы",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Трамвай",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Абстрактные формы",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Историческую карту",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "id": "question-2",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Какие авторы создали мурал Марии Котербской во Вроцлаве?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Марек Грела и Марта Пирог",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Ян Матейко и Эва Новак",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Павел Альтман и Зофия Рудь",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Томаш Коваль и Анна Лис",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-3",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что из перечисленного связано с муралом Марии Котербской?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Улица Театральная",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "2022 год",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Около 260 м²",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Стадион во Вроцлаве",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "id": "question-5",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Какие районы упоминаются в песне, связанной с муралом Марии Котербской?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Сэмпольно",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Залесье",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Кшики",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Ольбин",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
     "dwellTimeMinutes": 5,
     "radius": 30,
     "image": "wroclaw/points/points_images/mural-marya-koterbska.jpg",

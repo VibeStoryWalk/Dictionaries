@@ -9164,7 +9164,330 @@
       "es": "Este mural poco común en la calle Cybulskiego es una de las obras más conocidas del artista italiano de street art Eric Il Cane en Wrocław. El artista se hizo famoso en todo el mundo gracias a sus imágenes de animales a gran escala, que, mediante alegorías y sátira, hablan sobre la sociedad humana, los problemas sociales y la relación del ser humano con la naturaleza.\n\nLa obra de Wrocław está realizada en el estilo característico del autor: aquí los animales se convierten en los protagonistas del relato, y la composición misma invita al espectador a reflexionar sobre la protección de la naturaleza y los derechos de los animales. El mural apareció en el marco del proyecto internacional «Breakin' the Wall», gracias al cual se crearon en la ciudad decenas de obras de famosos artistas de arte urbano de todo el mundo.\n\nA diferencia de las llamativas pinturas decorativas, las obras de Eric Il Cane están llenas de símbolos y significados ocultos. Cada espectador puede interpretar la imagen a su manera, encontrando en ella nuevos detalles e ideas. Precisamente esa riqueza de capas hace que el mural sea interesante no solo para los amantes del street art, sino también para todos los interesados en el arte contemporáneo.",
       "fr": "Cette fresque inhabituelle de la rue Cybulskiego est l’une des œuvres les plus connues de l’artiste italien de street art Eric Il Cane à Wrocław. L’artiste s’est fait connaître dans le monde entier grâce à ses grandes représentations d’animaux, qui, par l’allégorie et la satire, parlent de la société humaine, des problèmes sociaux et du rapport de l’être humain à la nature.\n\nL’œuvre de Wrocław est réalisée dans le style caractéristique de l’auteur : ici, les animaux deviennent les protagonistes du récit, et la composition elle-même amène le spectateur à réfléchir aux questions de protection de la nature et des droits des animaux. La fresque a vu le jour dans le cadre du projet international « Breakin' the Wall », grâce auquel des dizaines d’œuvres de célèbres artistes de street art venus du monde entier ont été créées dans la ville.\n\nContrairement aux peintures décoratives éclatantes, les œuvres d’Eric Il Cane sont remplies de symboles et de significations cachées. Chaque spectateur peut interpréter l’image à sa manière, en y découvrant de nouveaux détails et de nouvelles idées. C’est précisément cette richesse de niveaux qui rend la fresque intéressante non seulement pour les amateurs de street art, mais aussi pour tous ceux qui s’intéressent à l’art contemporain."
     },
-    "quiz": [],
+    "quiz": [
+      {
+        "id": "question-1",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что изображено на мурале Эрика Иль Кане во Вроцлаве?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Птицы",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Животные",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Растения",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Города",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          1
+        ]
+      },
+      {
+        "id": "question-2",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Какие темы, по словам истории мурала Эрика Иль Кане, раскрываются через животных?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Социальные проблемы",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Отношения человека с природой",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Модные тренды",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Транспорт",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "id": "question-3",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "В рамках какого проекта появился мурал Эрика Иль Кане во Вроцлаве?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Breakin' the Wall",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Open City",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Urban Dream",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Street Stories",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-4",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Чем особенно ценятся работы Эрика Иль Кане, включая вроцлавский мурал?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Яркой декоративностью",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Скрытыми смыслами",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Только реализмом",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Минимализмом",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          1
+        ]
+      },
+      {
+        "id": "question-5",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что можно сказать о мурале Эрика Иль Кане на улице Цыбульского?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Он создан итальянским художником",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Он известен во Вроцлаве",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Он нарисован слепым художником",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Он посвящён космосу",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1
+        ]
+      }
+    ],
     "dwellTimeMinutes": 5,
     "radius": 30,
     "image": "wroclaw/points/points_images/mural-il-cane.jpg",

@@ -8886,8 +8886,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 18,
-    "image": "",
-    "imageHash": "",
+    "image": "wroclaw/points/points_images/krasnale-syzyfki.jpg",
+    "imageHash": "82b43114e08582d475ffbedcfdda33ffc67c1284489b933f12309988d6abe2f5",
     "categories": [
       "Sculpture",
       "InterestingForChildren"

@@ -6334,11 +6334,270 @@
       "es": "El Bastión de ladrillo es uno de los pocos fragmentos conservados de las antiguas fortificaciones de Wrocław. Fue construido en 1585 sobre el emplazamiento de las antiguas defensas junto a la Puerta de los Albañiles y formaba parte del sistema de fortificaciones urbanas que protegía la ciudad por el este. El proyecto del bastión fue elaborado por el conocido ingeniero militar Hans Schneider von Lindau, que participó en la construcción de fortificaciones en muchas ciudades de Silesia.\n\nDespués de perder su importancia militar y de la demolición de las fortificaciones de la ciudad a comienzos del siglo XIX, el bastión se transformó en una pintoresca colina para pasear. Hoy forma parte del Monte Polaco, una zona verde en el centro de la ciudad desde la que se abren hermosas vistas de Ostrów Tumski, el Oder y el casco histórico de Wrocław.\n\nHasta nuestros días se han conservado los muros de ladrillo, las casamatas abovedadas y algunos elementos de las posiciones de artillería. Estas ruinas permiten imaginar la magnitud del sistema defensivo del antiguo Wrocław y recuerdan los tiempos en que la ciudad era una de las fortalezas más importantes de la región.\n\nSituado junto al Museo Nacional y la Panorámica de Racławice, el Bastión de ladrillo sigue siendo una parada interesante para los amantes de la historia y la arquitectura. Aquí no solo se puede tocar el legado del siglo XVI, sino también disfrutar de una de las panorámicas urbanas más pintorescas.",
       "fr": "Le Bastion de brique est l’un des rares fragments conservés des anciennes fortifications de Wrocław. Il a été construit en 1585 à l’emplacement d’anciennes défenses près de la Porte des Tuiliers et faisait partie du système de fortifications urbaines qui protégeait la ville par l’est. Le projet du bastion a été conçu par le célèbre ingénieur militaire Hans Schneider von Lindau, qui a participé à la construction des fortifications de nombreuses villes de Silésie.\n\nAprès avoir perdu son importance militaire et avec la démolition des fortifications de la ville au début du XIXe siècle, le bastion a été transformé en une colline de promenade pittoresque. Aujourd’hui, il fait partie de la Colline polonaise, un espace vert au centre-ville, d’où l’on admire de belles vues sur Ostrów Tumski, l’Oder et le bâti historique de Wrocław.\n\nJusqu’à nos jours, les murs de brique, les casemates voûtées et certains éléments des positions d’artillerie ont été conservés. Ces ruines permettent d’imaginer l’ampleur du système défensif de l’ancienne Wrocław et rappellent l’époque où la ville était l’une des forteresses les plus importantes de la région.\n\nSitué à proximité du Musée national et de la Panorama de Racławice, le Bastion de brique reste une halte intéressante pour les amateurs d’histoire et d’architecture. Ici, on peut non seulement toucher à l’héritage du XVIe siècle, mais aussi profiter de l’un des panoramas urbains les plus pittoresques."
     },
-    "quiz": [],
+    "quiz": [
+      {
+        "id": "question-1",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Кирпичный бастион во Вроцлаве был построен в каком году?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "1585",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "1620",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "1703",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "1801",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-2",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Кто разработал проект Кирпичного бастиона?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Ганс Шнайдер фон Линдау",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Ян Матейко",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Карл Фридрих Шинкель",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Анджей Тадеуш",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-3",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Что стало с Кирпичным бастионом после утраты военного значения в начале XIX века?",
+          "ua": ""
+        },
+        "answerType": "single",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Его превратили в прогулочный холм",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Его полностью разобрали",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Его сделали мостом через Одру",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Его перестроили в ратушу",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0
+        ]
+      },
+      {
+        "id": "question-4",
+        "question": {
+          "de": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "hr": "",
+          "it": "",
+          "pl": "",
+          "ru": "Какие элементы Кирпичного бастиона сохранились до наших дней?",
+          "ua": ""
+        },
+        "answerType": "multi",
+        "answers": [
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Кирпичные стены",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Сводчатые казематы",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Купола собора",
+            "ua": ""
+          },
+          {
+            "de": "",
+            "en": "",
+            "es": "",
+            "fr": "",
+            "hr": "",
+            "it": "",
+            "pl": "",
+            "ru": "Артиллерийские позиции",
+            "ua": ""
+          }
+        ],
+        "correctAnswerIndexes": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/brick-bastion.jpg",
-    "imageHash": "d48b138f448a6902eccc9fee218fc9506a83633caf743a452b9d2f42adbd825c",
+    "imageHash": "01bdfc3ebcd98b0b01410ed442fa44a8e61919dfe4fc9e2ada5d150986a3f20e",
     "categories": [],
     "debug_entity": false
   },

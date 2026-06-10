@@ -7411,15 +7411,15 @@
     "id": "kraslane-muzycy",
     "order": 26,
     "title": {
-      "pl": "",
+      "pl": "Orkiestra krasnoludków",
       "ru": "Музыкальный оркестр гномов",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "Gnome Orchestra",
+      "de": "Musikorchester der Zwerge",
+      "ua": "Музичний оркестр гномів",
+      "it": "Orchestra musicale dei nani",
+      "hr": "Glazbeni orkestar patuljaka",
+      "es": "Orquesta de los gnomos",
+      "fr": "Orchestre des gnomes"
     },
     "approachText": {
       "pl": "",

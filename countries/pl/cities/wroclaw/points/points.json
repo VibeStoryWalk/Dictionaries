@@ -8278,15 +8278,15 @@
     "id": "mural-inkom",
     "order": 27,
     "title": {
-      "pl": "",
+      "pl": "Mural INKOM",
       "ru": "Мурал INKOM",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "INKOM Mural",
+      "de": "INKOM-Mural",
+      "ua": "Мурал INKOM",
+      "it": "Murale INKOM",
+      "hr": "Mural INKOM",
+      "es": "Mural INKOM",
+      "fr": "Mural INKOM"
     },
     "approachText": {
       "pl": "",

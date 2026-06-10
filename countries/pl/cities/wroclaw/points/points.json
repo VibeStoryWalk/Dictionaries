@@ -6597,7 +6597,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/brick-bastion.jpg",
-    "imageHash": "01bdfc3ebcd98b0b01410ed442fa44a8e61919dfe4fc9e2ada5d150986a3f20e",
+    "imageHash": "0012c9d7706f70f3282ec4ab792973f506bfa8e7f79eb9c02ed84381bfcccd6d",
     "categories": [
       "Architecture",
       "History"
@@ -7774,7 +7774,7 @@
     "dwellTimeMinutes": 5,
     "radius": 18,
     "image": "wroclaw/points/points_images/kraslane-muzycy.jpg",
-    "imageHash": "a78c86cce50b79c20764ced33bcaa42787353b4dcb84e51625b69f275bd8d904",
+    "imageHash": "a0306ca759a7464f03b64286cf0c29b2784c28dcf587be0d4186292fc8fe52b6",
     "categories": [
       "Sculpture",
       "InterestingForChildren"
@@ -8021,7 +8021,7 @@
     "dwellTimeMinutes": 5,
     "radius": 20,
     "image": "wroclaw/points/points_images/krasnal-piastoslaw.jpg",
-    "imageHash": "1a7ccf014c84f51ed0338c0b233980be268e331682d09d5ff68c30506594062e",
+    "imageHash": "796899041fdd1311145b172ff305828507e04d5ea90247b4c2fd923638c1d948",
     "categories": [
       "Sculpture",
       "InterestingForChildren"
@@ -8267,7 +8267,7 @@
     "dwellTimeMinutes": 5,
     "radius": 72,
     "image": "wroclaw/points/points_images/sakura-walley.jpg",
-    "imageHash": "ddaeb7debac6608066ab2d2c671bd0fc3c52f05f8a481fde4e7a7ccec595629a",
+    "imageHash": "571f07c22e988fbd6cdde9cbdca7d71e48e9e46e07a2f922d5f1c6ab40d16d02",
     "categories": [
       "PublicSpace",
       "ViewPoint"
@@ -8641,7 +8641,7 @@
     "dwellTimeMinutes": 5,
     "radius": 29,
     "image": "wroclaw/points/points_images/mural-inkom.jpg",
-    "imageHash": "49630a818cb07add0189c1f3416eaa8b5b6e71088eecca7d3332204b5c5f1fbf",
+    "imageHash": "2b25b2d859adee2093bffe59bbc0da34456c9e98b7db09201dd342ae603a9ce9",
     "categories": [
       "Mural"
     ],
@@ -9064,7 +9064,7 @@
     "dwellTimeMinutes": 5,
     "radius": 39,
     "image": "wroclaw/points/points_images/backyards-nadodrze.jpg",
-    "imageHash": "2f9a82b5947e792467a1d22da6690bd84fb9515045bd9498be50c3c35a7062e4",
+    "imageHash": "4e272b67b601c02ff37f3748f0e29aeff989afa469db758f7d8d568d865e7782",
     "categories": [
       "Mural",
       "ViewPoint",
@@ -9543,7 +9543,7 @@
     "dwellTimeMinutes": 5,
     "radius": 26,
     "image": "wroclaw/points/points_images/accoustic-mirrors.jpg",
-    "imageHash": "512af9d7449d3df0fed4f4f6d21b85cc1345a5c9e3f00389816ac75747980e8d",
+    "imageHash": "ec76f591517a35da2a139e36bfc358114edfc5283f0451097b2b201abc1f9a1c",
     "categories": [
       "PublicSpace",
       "Entertainment",
@@ -9594,8 +9594,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 30,
-    "image": "",
-    "imageHash": "",
+    "image": "wroclaw/points/points_images/mural-marya-koterbska.jpg",
+    "imageHash": "523eabab97f5a6c1b1bad8d5e2d8b9fcd21f8450181b68db80894c678ccf6be1",
     "categories": [
       "Mural",
       "ViewPoint",
@@ -10074,7 +10074,7 @@
     "dwellTimeMinutes": 5,
     "radius": 13,
     "image": "wroclaw/points/points_images/krasnal-papa.jpg",
-    "imageHash": "db34cfda1c0b8c259f81fc883bf727daeb3680821abb5f018cce064c57807e66",
+    "imageHash": "dd8fa0b0495467253ebac98c96898cf3a904308cc8af96d004f09b7e9f006574",
     "categories": [],
     "debug_entity": false
   },
@@ -10383,7 +10383,7 @@
     "dwellTimeMinutes": 5,
     "radius": 18,
     "image": "wroclaw/points/points_images/krasnale-syzyfki.jpg",
-    "imageHash": "82b43114e08582d475ffbedcfdda33ffc67c1284489b933f12309988d6abe2f5",
+    "imageHash": "88499bce832a835963c734de07930438c8c4da6c98b87e836e39efd86143a75a",
     "categories": [
       "Sculpture",
       "InterestingForChildren"

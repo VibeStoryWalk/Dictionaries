@@ -6598,7 +6598,10 @@
     "radius": 50,
     "image": "wroclaw/points/points_images/brick-bastion.jpg",
     "imageHash": "01bdfc3ebcd98b0b01410ed442fa44a8e61919dfe4fc9e2ada5d150986a3f20e",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "History"
+    ],
     "debug_entity": false
   },
   {

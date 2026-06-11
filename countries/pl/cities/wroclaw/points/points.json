@@ -12815,7 +12815,11 @@
     "radius": 13,
     "image": "wroclaw/points/points_images/krasnal-papa.jpg",
     "imageHash": "dd8fa0b0495467253ebac98c96898cf3a904308cc8af96d004f09b7e9f006574",
-    "categories": [],
+    "categories": [
+      "Sculpture",
+      "InterestingForChildren",
+      "History"
+    ],
     "debug_entity": false
   },
   {

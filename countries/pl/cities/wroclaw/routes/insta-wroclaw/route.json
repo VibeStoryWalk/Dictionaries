@@ -65,7 +65,8 @@
           "coordinates": [
             51.12017827477961,
             17.05363634176189
-          ]
+          ],
+          "radiusMeters": 131
         },
         {
           "coordinates": [

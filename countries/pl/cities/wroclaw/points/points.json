@@ -9016,7 +9016,7 @@
     "dwellTimeMinutes": 5,
     "radius": 28,
     "image": "wroclaw/points/points_images/mural-wroclove.jpg",
-    "imageHash": "1ea80884dcba287b6f2dd5ed471a14bff406ad577b0da75b0b6759f86ecfc47f",
+    "imageHash": "1afcf9672838ad3a7449f1342e82fb7f6ef84edd2728c414447043cedcf5c8c6",
     "categories": [],
     "debug_entity": false
   },
@@ -9816,7 +9816,7 @@
     "dwellTimeMinutes": 5,
     "radius": 30,
     "image": "wroclaw/points/points_images/mural-il-cane.jpg",
-    "imageHash": "f0f4be69aa05a6aa08c75347bc730f122714961d90e6ed074c3d70872ff312e7",
+    "imageHash": "80b49d77f060cc2f16a76de7e2bf4f65eb854e11850f14d967de3bcf8f1764df",
     "categories": [
       "Mural"
     ],
@@ -10505,7 +10505,7 @@
     "dwellTimeMinutes": 5,
     "radius": 30,
     "image": "wroclaw/points/points_images/mural-marya-koterbska.jpg",
-    "imageHash": "523eabab97f5a6c1b1bad8d5e2d8b9fcd21f8450181b68db80894c678ccf6be1",
+    "imageHash": "8d4c7dc7c45050a70e014e0e132020ada06ad9cfa116c05ba1092d13f403c91b",
     "categories": [
       "Mural",
       "ViewPoint",
@@ -10517,15 +10517,15 @@
     "id": "fredo-monument",
     "order": 34,
     "title": {
-      "pl": "",
+      "pl": "Pomnik Aleksandra Fredry",
       "ru": "Памятник Александру Фредро",
-      "en": "",
-      "de": "",
-      "ua": "",
-      "it": "",
-      "hr": "",
-      "es": "",
-      "fr": ""
+      "en": "Monument to Aleksander Fredro",
+      "de": "Denkmal für Alexander Fredro",
+      "ua": "Пам'ятник Александру Фредро",
+      "it": "Monumento ad Alessandro Fredro",
+      "hr": "Spomenik Aleksandru Fredru",
+      "es": "Monumento a Aleksander Fredro",
+      "fr": "Monument à Alexandre Fredro"
     },
     "approachText": {
       "pl": "",
@@ -10544,7 +10544,7 @@
     ],
     "story": {
       "pl": "",
-      "ru": "",
+      "ru": "Памятник Александру Фредро на Рыночной площади во Вроцлаве — бронзовая статуя одного из самых известных польских драматургов. Он стоит в центре старого города, но история самого памятника началась во Львове.\n\nАлександр Фредро родился в 1793 году в Сурохуве, в 16 лет вступил в польскую армию, участвовал в наполеоновских войнах и получил орден Virtuti Militari и орден Почётного легиона. Позднее он стал заметной фигурой польской литературы, поэтому памятник связан не только с автором комедий, но и с биографией, в которой соединились военная служба, литература и общественная память.\n\nСкульптор Леонард Маркони создал памятник во Львове в 1897 году по заказу и при поддержке местного литературно-художественного общества. Его открыли 24 октября 1897 года на Академической площади. В первоначальном виде у памятника был песчаниковый постамент с надписями с трёх сторон, а Фредро изображали сидящим, с рулоном бумаги и гусиным пером. После войны памятник перевезли в Варшаву в 1950 году, затем во Вроцлав в 1956 году; здесь его открыли 15 июля 1956 года. На нынешнем месте он занял площадку, где прежде стоял памятник Фридриху Вильгельму III Прусскому, и это придало месту ещё один исторический слой.\n\nНа оборотной стороне постамента сохранилась львовская надпись: «STARANIEM KOŁA LITERACKO- ARTYSTYCZNEGO WE LWOWIE 1897». Во Вроцлаве память о Фредро поддерживает и Оссолинеум, где хранится значительный архив его произведений и документов. Памятник стал не только перенесённым объектом, но и частью городской памяти о Фредро.",
       "en": "",
       "de": "",
       "ua": "",
@@ -10556,8 +10556,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 20,
-    "image": "",
-    "imageHash": "",
+    "image": "wroclaw/points/points_images/fredo-monument.jpg",
+    "imageHash": "a3163e084b183f844110419b61057f4c9effc58f0e46590846b06d70991a0ecd",
     "categories": [
       "Person",
       "Sculpture"

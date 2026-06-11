@@ -5864,7 +5864,12 @@
     "radius": 38,
     "image": "wroclaw/points/points_images/promenada-staromiejska.jpg",
     "imageHash": "9e86287ed7bccd338e31a439beb3644bbdb64def78cb4daf6e83d0fc4dbb2050",
-    "categories": [],
+    "categories": [
+      "PublicSpace",
+      "Entertainment",
+      "ViewPoint",
+      "History"
+    ],
     "debug_entity": false
   },
   {

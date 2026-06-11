@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 90,
-  "distanceKm": 0,
+  "distanceKm": 7.82,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -56,7 +56,618 @@
     "es": "",
     "fr": ""
   },
-  "segments": [],
-  "pointIds": [],
+  "segments": [
+    {
+      "fromPointId": "kraslane-muzycy",
+      "toPointId": "krasnale-syzyfki",
+      "path": [
+        {
+          "coordinates": [
+            51.10643500157117,
+            17.027060476733382
+          ]
+        },
+        {
+          "coordinates": [
+            51.108953229311105,
+            17.03290770145787
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "krasnale-syzyfki",
+      "toPointId": "prengierz",
+      "path": [
+        {
+          "coordinates": [
+            51.108953229311105,
+            17.03290770145787
+          ]
+        },
+        {
+          "coordinates": [
+            51.1094219960709,
+            17.03269371425367
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "prengierz",
+      "toPointId": "old-ratusha",
+      "path": [
+        {
+          "coordinates": [
+            51.1094219960709,
+            17.03269371425367
+          ]
+        },
+        {
+          "coordinates": [
+            51.10950275671476,
+            17.031974997149803
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "old-ratusha",
+      "toPointId": "fredo-monument",
+      "path": [
+        {
+          "coordinates": [
+            51.10950275671476,
+            17.031974997149803
+          ]
+        },
+        {
+          "coordinates": [
+            51.109594326331376,
+            17.031308992996895
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "fredo-monument",
+      "toPointId": "plac-solny-wroclaw",
+      "path": [
+        {
+          "coordinates": [
+            51.109594326331376,
+            17.031308992996895
+          ]
+        },
+        {
+          "coordinates": [
+            51.10941922985634,
+            17.029566044001722
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "plac-solny-wroclaw",
+      "toPointId": "rynek-wroclaw",
+      "path": [
+        {
+          "coordinates": [
+            51.10941922985634,
+            17.029566044001722
+          ]
+        },
+        {
+          "coordinates": [
+            51.11016279765979,
+            17.03084845121954
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "rynek-wroclaw",
+      "toPointId": "jas-and-margo",
+      "path": [
+        {
+          "coordinates": [
+            51.11016279765979,
+            17.03084845121954
+          ]
+        },
+        {
+          "coordinates": [
+            51.11108959517804,
+            17.030740446333784
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "jas-and-margo",
+      "toPointId": "bazylika-sw-elzbiety",
+      "path": [
+        {
+          "coordinates": [
+            51.11108959517804,
+            17.030740446333784
+          ]
+        },
+        {
+          "coordinates": [
+            51.11167,
+            17.03
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bazylika-sw-elzbiety",
+      "toPointId": "jatki",
+      "path": [
+        {
+          "coordinates": [
+            51.11167,
+            17.03
+          ]
+        },
+        {
+          "coordinates": [
+            51.112046204702715,
+            17.03097649887114
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "jatki",
+      "toPointId": "Jan-nepomucen",
+      "path": [
+        {
+          "coordinates": [
+            51.112046204702715,
+            17.03097649887114
+          ]
+        },
+        {
+          "coordinates": [
+            51.112887052769565,
+            17.03614852966063
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "Jan-nepomucen",
+      "toPointId": "ossolineum-garden",
+      "path": [
+        {
+          "coordinates": [
+            51.112887052769565,
+            17.03614852966063
+          ]
+        },
+        {
+          "coordinates": [
+            51.113408954275734,
+            17.036539348959952
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "ossolineum-garden",
+      "toPointId": "sculpture-nave",
+      "path": [
+        {
+          "coordinates": [
+            51.113408954275734,
+            17.036539348959952
+          ]
+        },
+        {
+          "coordinates": [
+            51.11432494924141,
+            17.03857777337921
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "sculpture-nave",
+      "toPointId": "krasnal-papa",
+      "path": [
+        {
+          "coordinates": [
+            51.11432494924141,
+            17.03857777337921
+          ]
+        },
+        {
+          "coordinates": [
+            51.10751282780369,
+            17.032521408927668
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "krasnal-papa",
+      "toPointId": "olaw-gate",
+      "path": [
+        {
+          "coordinates": [
+            51.10751282780369,
+            17.032521408927668
+          ]
+        },
+        {
+          "coordinates": [
+            51.10725318903429,
+            17.040536668805398
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "olaw-gate",
+      "toPointId": "katyn-family",
+      "path": [
+        {
+          "coordinates": [
+            51.10725318903429,
+            17.040536668805398
+          ]
+        },
+        {
+          "coordinates": [
+            51.11025761863142,
+            17.045932402594094
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "katyn-family",
+      "toPointId": "tumski0viewpoint",
+      "path": [
+        {
+          "coordinates": [
+            51.11025761863142,
+            17.045932402594094
+          ]
+        },
+        {
+          "coordinates": [
+            51.11172284273897,
+            17.045868120297804
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "tumski0viewpoint",
+      "toPointId": "brick-bastion",
+      "path": [
+        {
+          "coordinates": [
+            51.11172284273897,
+            17.045868120297804
+          ]
+        },
+        {
+          "coordinates": [
+            51.111459614842914,
+            17.045540594445683
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "brick-bastion",
+      "toPointId": "archikatedra-sw-jana-chrzciciela",
+      "path": [
+        {
+          "coordinates": [
+            51.111459614842914,
+            17.045540594445683
+          ]
+        },
+        {
+          "coordinates": [
+            51.11417,
+            17.04611
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "archikatedra-sw-jana-chrzciciela",
+      "toPointId": "most-tumski",
+      "path": [
+        {
+          "coordinates": [
+            51.11417,
+            17.04611
+          ]
+        },
+        {
+          "coordinates": [
+            51.1147,
+            17.042319
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "most-tumski",
+      "toPointId": "kolegiata-sw-krzyza-i-sw-bartlomieja",
+      "path": [
+        {
+          "coordinates": [
+            51.1147,
+            17.042319
+          ]
+        },
+        {
+          "coordinates": [
+            51.115,
+            17.0439
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "kolegiata-sw-krzyza-i-sw-bartlomieja",
+      "toPointId": "grass-labirint",
+      "path": [
+        {
+          "coordinates": [
+            51.115,
+            17.0439
+          ]
+        },
+        {
+          "coordinates": [
+            51.11528874931524,
+            17.042424659695584
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "grass-labirint",
+      "toPointId": "boleslaw-kominek",
+      "path": [
+        {
+          "coordinates": [
+            51.11528874931524,
+            17.042424659695584
+          ]
+        },
+        {
+          "coordinates": [
+            51.114905277914836,
+            17.04161959193833
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "boleslaw-kominek",
+      "toPointId": "kanal-mlyna",
+      "path": [
+        {
+          "coordinates": [
+            51.114905277914836,
+            17.04161959193833
+          ]
+        },
+        {
+          "coordinates": [
+            51.115474454913,
+            17.038829922194637
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "kanal-mlyna",
+      "toPointId": "krasnal-piastoslaw",
+      "path": [
+        {
+          "coordinates": [
+            51.115474454913,
+            17.038829922194637
+          ]
+        },
+        {
+          "coordinates": [
+            51.11576406617606,
+            17.038245143173352
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "krasnal-piastoslaw",
+      "toPointId": "zalane-artysty",
+      "path": [
+        {
+          "coordinates": [
+            51.11576406617606,
+            17.038245143173352
+          ]
+        },
+        {
+          "coordinates": [
+            51.115127609914765,
+            17.033959030623592
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "zalane-artysty",
+      "toPointId": "mural-il-cane",
+      "path": [
+        {
+          "coordinates": [
+            51.115127609914765,
+            17.033959030623592
+          ]
+        },
+        {
+          "coordinates": [
+            51.116151151550376,
+            17.031550364592203
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "mural-il-cane",
+      "toPointId": "accoustic-mirrors",
+      "path": [
+        {
+          "coordinates": [
+            51.116151151550376,
+            17.031550364592203
+          ]
+        },
+        {
+          "coordinates": [
+            51.11599972996206,
+            17.02920611088917
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "accoustic-mirrors",
+      "toPointId": "promenada-staromiejska",
+      "path": [
+        {
+          "coordinates": [
+            51.11599972996206,
+            17.02920611088917
+          ]
+        },
+        {
+          "coordinates": [
+            51.10609479257599,
+            17.04030051949997
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "promenada-staromiejska",
+      "toPointId": "bastion-sakwowy",
+      "path": [
+        {
+          "coordinates": [
+            51.10609479257599,
+            17.04030051949997
+          ]
+        },
+        {
+          "coordinates": [
+            51.104848739182245,
+            17.03849069377744
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bastion-sakwowy",
+      "toPointId": "mural-marya-koterbska",
+      "path": [
+        {
+          "coordinates": [
+            51.104848739182245,
+            17.03849069377744
+          ]
+        },
+        {
+          "coordinates": [
+            51.105057484114056,
+            17.037848188335154
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "mural-marya-koterbska",
+      "toPointId": "kopernikus-park",
+      "path": [
+        {
+          "coordinates": [
+            51.105057484114056,
+            17.037848188335154
+          ]
+        },
+        {
+          "coordinates": [
+            51.10481375407313,
+            17.034454174433186
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "kopernikus-park",
+      "toPointId": "stalinism-victims-monument",
+      "path": [
+        {
+          "coordinates": [
+            51.10481375407313,
+            17.034454174433186
+          ]
+        },
+        {
+          "coordinates": [
+            51.10497652281951,
+            17.030193330126806
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "kraslane-muzycy",
+    "krasnale-syzyfki",
+    "prengierz",
+    "old-ratusha",
+    "fredo-monument",
+    "plac-solny-wroclaw",
+    "rynek-wroclaw",
+    "jas-and-margo",
+    "bazylika-sw-elzbiety",
+    "jatki",
+    "Jan-nepomucen",
+    "ossolineum-garden",
+    "sculpture-nave",
+    "krasnal-papa",
+    "olaw-gate",
+    "katyn-family",
+    "tumski0viewpoint",
+    "brick-bastion",
+    "archikatedra-sw-jana-chrzciciela",
+    "most-tumski",
+    "kolegiata-sw-krzyza-i-sw-bartlomieja",
+    "grass-labirint",
+    "boleslaw-kominek",
+    "kanal-mlyna",
+    "krasnal-piastoslaw",
+    "zalane-artysty",
+    "mural-il-cane",
+    "accoustic-mirrors",
+    "promenada-staromiejska",
+    "bastion-sakwowy",
+    "mural-marya-koterbska",
+    "kopernikus-park",
+    "stalinism-victims-monument"
+  ],
   "debug_entity": false
 }

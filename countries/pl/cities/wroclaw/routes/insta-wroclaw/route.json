@@ -2326,7 +2326,7 @@
                 ],
                 "type": "portal",
                 "radiusMeters": 15,
-                "targetParentVertexIndex": 0
+                "targetParentVertexIndex": 30
               },
               {
                 "coordinates": [

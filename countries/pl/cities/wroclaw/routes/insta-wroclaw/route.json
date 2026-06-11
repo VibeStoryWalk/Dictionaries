@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 90,
-  "distanceKm": 0,
+  "distanceKm": 7.34,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -56,7 +56,181 @@
     "es": "",
     "fr": ""
   },
-  "segments": [],
-  "pointIds": [],
+  "segments": [
+    {
+      "fromPointId": "mural-marya-koterbska",
+      "toPointId": "bazylika-sw-elzbiety",
+      "path": [
+        {
+          "coordinates": [
+            51.105057484114056,
+            17.037848188335154
+          ]
+        },
+        {
+          "coordinates": [
+            51.11167,
+            17.03
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "bazylika-sw-elzbiety",
+      "toPointId": "park-tolpa",
+      "path": [
+        {
+          "coordinates": [
+            51.11167,
+            17.03
+          ]
+        },
+        {
+          "coordinates": [
+            51.12017827477961,
+            17.05363634176189
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "park-tolpa",
+      "toPointId": "backyards-nadodrze",
+      "path": [
+        {
+          "coordinates": [
+            51.12017827477961,
+            17.05363634176189
+          ]
+        },
+        {
+          "coordinates": [
+            51.12247512483269,
+            17.043223483377147
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "backyards-nadodrze",
+      "toPointId": "kanal-mlyna",
+      "path": [
+        {
+          "coordinates": [
+            51.12247512483269,
+            17.043223483377147
+          ]
+        },
+        {
+          "coordinates": [
+            51.115474454913,
+            17.038829922194637
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "kanal-mlyna",
+      "toPointId": "sculpture-nave",
+      "path": [
+        {
+          "coordinates": [
+            51.115474454913,
+            17.038829922194637
+          ]
+        },
+        {
+          "coordinates": [
+            51.11432494924141,
+            17.03857777337921
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "sculpture-nave",
+      "toPointId": "zalane-artysty",
+      "path": [
+        {
+          "coordinates": [
+            51.11432494924141,
+            17.03857777337921
+          ]
+        },
+        {
+          "coordinates": [
+            51.115127609914765,
+            17.033959030623592
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "zalane-artysty",
+      "toPointId": "tumski0viewpoint",
+      "path": [
+        {
+          "coordinates": [
+            51.115127609914765,
+            17.033959030623592
+          ]
+        },
+        {
+          "coordinates": [
+            51.11172284273897,
+            17.045868120297804
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "tumski0viewpoint",
+      "toPointId": "ossolineum-garden",
+      "path": [
+        {
+          "coordinates": [
+            51.11172284273897,
+            17.045868120297804
+          ]
+        },
+        {
+          "coordinates": [
+            51.113408954275734,
+            17.036539348959952
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "ossolineum-garden",
+      "toPointId": "promenada-staromiejska",
+      "path": [
+        {
+          "coordinates": [
+            51.113408954275734,
+            17.036539348959952
+          ]
+        },
+        {
+          "coordinates": [
+            51.10609479257599,
+            17.04030051949997
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "mural-marya-koterbska",
+    "bazylika-sw-elzbiety",
+    "park-tolpa",
+    "backyards-nadodrze",
+    "kanal-mlyna",
+    "sculpture-nave",
+    "zalane-artysty",
+    "tumski0viewpoint",
+    "ossolineum-garden",
+    "promenada-staromiejska"
+  ],
   "debug_entity": false
 }

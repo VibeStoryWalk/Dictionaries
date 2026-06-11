@@ -37,7 +37,7 @@
     "fr": ""
   },
   "durationMinutes": 90,
-  "distanceKm": 0,
+  "distanceKm": 6.18,
   "routeType": "walk",
   "mapCenter": [
     50.06143,
@@ -56,7 +56,124 @@
     "es": "",
     "fr": ""
   },
-  "segments": [],
-  "pointIds": [],
+  "segments": [
+    {
+      "fromPointId": "pergola",
+      "toPointId": "backyards-nadodrze",
+      "path": [
+        {
+          "coordinates": [
+            51.10811552990955,
+            17.07684098766083
+          ]
+        },
+        {
+          "coordinates": [
+            51.12247512483269,
+            17.043223483377147
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "backyards-nadodrze",
+      "toPointId": "park-tolpa",
+      "path": [
+        {
+          "coordinates": [
+            51.12247512483269,
+            17.043223483377147
+          ]
+        },
+        {
+          "coordinates": [
+            51.12017827477961,
+            17.05363634176189
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "park-tolpa",
+      "toPointId": "mural-wroclove",
+      "path": [
+        {
+          "coordinates": [
+            51.12017827477961,
+            17.05363634176189
+          ]
+        },
+        {
+          "coordinates": [
+            51.11593246241346,
+            17.0579326027027
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "mural-wroclove",
+      "toPointId": "mural-inkom",
+      "path": [
+        {
+          "coordinates": [
+            51.11593246241346,
+            17.0579326027027
+          ]
+        },
+        {
+          "coordinates": [
+            51.11559169542662,
+            17.064719247555477
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "mural-inkom",
+      "toPointId": "sakura-walley",
+      "path": [
+        {
+          "coordinates": [
+            51.11559169542662,
+            17.064719247555477
+          ]
+        },
+        {
+          "coordinates": [
+            51.11336850555299,
+            17.078785870183502
+          ]
+        }
+      ]
+    },
+    {
+      "fromPointId": "sakura-walley",
+      "toPointId": "wroclawska-fontanna-multimedialna",
+      "path": [
+        {
+          "coordinates": [
+            51.11336850555299,
+            17.078785870183502
+          ]
+        },
+        {
+          "coordinates": [
+            51.1086345477009,
+            17.078774609450114
+          ]
+        }
+      ]
+    }
+  ],
+  "pointIds": [
+    "pergola",
+    "backyards-nadodrze",
+    "park-tolpa",
+    "mural-wroclove",
+    "mural-inkom",
+    "sakura-walley",
+    "wroclawska-fontanna-multimedialna"
+  ],
   "debug_entity": false
 }

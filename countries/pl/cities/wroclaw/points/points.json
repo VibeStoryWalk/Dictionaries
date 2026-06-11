@@ -5439,7 +5439,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "wroclaw/points/points_images/bastion-sakwowy.jpg",
-    "imageHash": "70ad6769f1aa3ed82895c9e61e8234efe537727a3643b1519c8a46fa963bff29",
+    "imageHash": "1ebd64cabc6057d56e719f2e10f5b73ac24264eab04a2c8becfa4d4351fcbf4f",
     "categories": [
       "Architecture",
       "PublicSpace",
@@ -6192,7 +6192,7 @@
     "dwellTimeMinutes": 5,
     "radius": 38,
     "image": "wroclaw/points/points_images/promenada-staromiejska.jpg",
-    "imageHash": "9e86287ed7bccd338e31a439beb3644bbdb64def78cb4daf6e83d0fc4dbb2050",
+    "imageHash": "a4e5137ed05ed5a7218db98e8662958481c5f5276e95e09f64d743854192b2a0",
     "categories": [
       "PublicSpace",
       "Entertainment",
@@ -7631,7 +7631,7 @@
     "dwellTimeMinutes": 5,
     "radius": 26,
     "image": "wroclaw/points/points_images/zalane-artysty.jpg",
-    "imageHash": "ae80bc44a0d7b87130f32fa9d5c669ae4e56c85ea990d3a1deee657915c0d2b1",
+    "imageHash": "e66fffcbe6ef7d44b220ee4f766c9fce1ffcf3737ab97bac644d8c6df5630117",
     "categories": [
       "Sculpture",
       "History",
@@ -10687,7 +10687,7 @@
     "dwellTimeMinutes": 5,
     "radius": 89,
     "image": "wroclaw/points/points_images/park-tolpa.jpg",
-    "imageHash": "ae1b8e38efa6fa0dc4b6eb54e15a882a23f8cd598ebe05c2c4a9151050964f57",
+    "imageHash": "7e37e825790bc8aee1944a18784986b80bf4c16a6a57d558309615cb46cc92b8",
     "categories": [
       "PublicSpace",
       "ViewPoint",
@@ -12438,7 +12438,7 @@
     "dwellTimeMinutes": 5,
     "radius": 24,
     "image": "wroclaw/points/points_images/stalinism-victims-monument.jpg",
-    "imageHash": "22eef1856f675f5ab7bf8b0ef00a63993b14b196fd3b2aa1ed3ed9905aa8b8a7",
+    "imageHash": "51f8228f71deab7443f2619fc6368524687d9e3e9502438a669820de490eb84e",
     "categories": [
       "History",
       "Sculpture"
@@ -13373,7 +13373,7 @@
     "dwellTimeMinutes": 5,
     "radius": 18,
     "image": "wroclaw/points/points_images/jan-nepomucen.jpg",
-    "imageHash": "21ad07cb9657f2c8edbbb984c06383ead16b43cc85474e3872c354575c212800",
+    "imageHash": "24e68547f22b1d8999696006e65ae0f4a65f0eeb86f903d070cad19e61e3945d",
     "categories": [
       "Sculpture",
       "Religion",
@@ -13750,7 +13750,7 @@
     "dwellTimeMinutes": 5,
     "radius": 20,
     "image": "wroclaw/points/points_images/sculpture-nave.jpg",
-    "imageHash": "4e5ecfa22a2b56cd23a21f8c19b0f8b712f81b773c4ce05a5a99463c3863b441",
+    "imageHash": "1cd6dfc540f0e5fc2c352ae67cb1e01d99a5a5296989887e3965f39ff534c97f",
     "categories": [
       "Architecture",
       "Sculpture",
@@ -14126,7 +14126,7 @@
     "dwellTimeMinutes": 5,
     "radius": 30,
     "image": "wroclaw/points/points_images/ossolineum-garden.jpg",
-    "imageHash": "9a877882736dce5820d052712822500c12620476b31ce1a36bb65bd8f4ff857b",
+    "imageHash": "718830f1e81e14e4c7f1e922ffbe2fc6f74e70816e7e8ddfd51a85c22d066129",
     "categories": [
       "PublicSpace",
       "InterestingForChildren",

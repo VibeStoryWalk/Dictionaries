@@ -64,5 +64,38 @@
       51.11040745603302,
       17.033549286163712
     ]
+  },
+  {
+    "id": "warszawa",
+    "countryId": "pl",
+    "names": {
+      "pl": "Warszawa",
+      "ru": "Варшава",
+      "en": "Warsaw",
+      "de": "Warschau",
+      "ua": "Варшава",
+      "it": "Varsavia",
+      "hr": "Varšava",
+      "es": "Varsovia",
+      "fr": "Varsovie"
+    },
+    "summaries": {
+      "pl": "Stolica Polski i największe miasto kraju, gdzie bogata historia harmonijnie łączy się z nowoczesną architekturą i dynamicznym życiem miejskim. Położona nad brzegami Wisły, jest politycznym, gospodarczym i kulturalnym centrum państwa.",
+      "ru": "Столица Польши и крупнейший город страны, где богатая история гармонично сочетается с современной архитектурой и динамичной городской жизнью. Расположенная на берегах реки Вислы, она является политическим, экономическим и культурным центром государства.",
+      "en": "The capital of Poland and the country's largest city, where rich history blends harmoniously with modern architecture and a dynamic urban life. Located on the banks of the Vistula River, it is the political, economic, and cultural center of the country.",
+      "de": "Die Hauptstadt Polens und die größte Stadt des Landes, in der sich reiche Geschichte harmonisch mit moderner Architektur und einem dynamischen Stadtleben verbindet. Am Ufer der Weichsel gelegen, ist sie das politische, wirtschaftliche und kulturelle Zentrum des Landes.",
+      "ua": "Столиця Польщі та найбільше місто країни, де багата історія гармонійно поєднується із сучасною архітектурою та динамічним міським життям. Розташована на берегах річки Вісла, вона є політичним, економічним і культурним центром держави.",
+      "it": "La capitale della Polonia e la città più grande del paese, dove la ricca storia si unisce armoniosamente all'architettura moderna e a una vivace vita urbana. Situata sulle rive della Vistola, è il centro politico, economico e culturale del paese.",
+      "hr": "Glavni grad Poljske i najveći grad zemlje, u kojem se bogata povijest skladno spaja sa suvremenom arhitekturom i dinamičnim urbanim životom. Smještena na obalama rijeke Visle, ona je političko, gospodarsko i kulturno središte države.",
+      "es": "La capital de Polonia y la ciudad más grande del país, donde la rica historia se combina armoniosamente con la arquitectura moderna y una vida urbana dinámica. Situada a orillas del río Vístula, es el centro político, económico y cultural del país.",
+      "fr": "La capitale de la Pologne et la plus grande ville du pays, où la riche histoire se mêle harmonieusement à l'architecture moderne et à une vie urbaine dynamique. Située sur les rives de la Vistule, elle est le centre politique, économique et culturel du pays."
+    },
+    "cityCenter": [
+      52.24978287475099,
+      21.012153287345665
+    ],
+    "heroImage": "warszawa/city-cover.jpg",
+    "imageHash": "ae7d5febc41ca8e02d859084ddc288f3189d9606c016b98e279f6308ee1231d3",
+    "debug_entity": true
   }
 ]

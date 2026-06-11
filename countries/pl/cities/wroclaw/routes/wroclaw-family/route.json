@@ -1059,6 +1059,209 @@
         },
         {
           "coordinates": [
+            51.11408639183151,
+            17.039414597044292
+          ],
+          "type": "HiddenPointProposal",
+          "radiusMeters": 16,
+          "debug_entity": false,
+          "hiddenPointDenyRoute": {
+            "toPointId": "krasnal-piastoslaw",
+            "path": [
+              {
+                "coordinates": [
+                  51.114325,
+                  17.038569
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114306,
+                  17.038569
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114288,
+                  17.038601
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114215,
+                  17.038678
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114195,
+                  17.038856
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.11407,
+                  17.038983
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.113968,
+                  17.039037
+                ],
+                "type": "turn",
+                "radiusMeters": 15,
+                "text": {
+                  "pl": "",
+                  "ru": "",
+                  "en": "Turn slightly left and then after 3 meters Turn slightly left",
+                  "de": "",
+                  "ua": "",
+                  "it": "",
+                  "hr": "",
+                  "es": "",
+                  "fr": ""
+                }
+              },
+              {
+                "coordinates": [
+                  51.113955,
+                  17.039072
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.113964,
+                  17.039208
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114,
+                  17.039301
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114054,
+                  17.03944
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114076,
+                  17.03942
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114669,
+                  17.038877
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114849,
+                  17.038703
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.114991,
+                  17.038563
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.115036,
+                  17.038513
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.115145,
+                  17.038415
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.115243,
+                  17.038387
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.115258,
+                  17.038385
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.11559321049757,
+                  17.038334684428357
+                ],
+                "type": "portal",
+                "radiusMeters": 15,
+                "targetParentVertexIndex": 0
+              },
+              {
+                "coordinates": [
+                  51.115751,
+                  17.038311
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.11576,
+                  17.03831
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.115757,
+                  17.038275
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.115756,
+                  17.038274
+                ],
+                "type": "hidden"
+              },
+              {
+                "coordinates": [
+                  51.11576406617606,
+                  17.038245143173352
+                ],
+                "radiusMeters": 20
+              }
+            ]
+          }
+        },
+        {
+          "coordinates": [
             51.114076,
             17.03942
           ],
@@ -1134,7 +1337,7 @@
           "type": "portal",
           "radiusMeters": 15,
           "debug_entity": false,
-          "targetVertexIndex": 52
+          "targetVertexIndex": 53
         },
         {
           "coordinates": [

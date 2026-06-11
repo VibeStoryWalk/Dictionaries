@@ -13,7 +13,7 @@
     "fr": "Wrocław Instagrammable"
   },
   "coverImage": "images/route-cover.jpg",
-  "imageHash": "1a1b33d9e5aac2811e6ac3858537a91898eb6af1af9689041befb0538c1d5745",
+  "imageHash": "8f80109fa5aa9a8c17f0db23db2a42e14bb29f599efa9dae4290aa7ae46d5c88",
   "description": {
     "pl": "Instagramowa trasa po najbardziej charakterystycznych punktach Wrocławia: od parku do centrum",
     "ru": "Инстаграмный маршрут по самым выразительным точкам Вроцлава: от парка до центра",
@@ -36,7 +36,7 @@
     "es": "Una ruta muy instagramable por los lugares más llamativos de Wrocław: del parque al centro",
     "fr": "Un itinéraire Instagram à travers les lieux les plus emblématiques de Wrocław: du parc au centre-ville"
   },
-  "durationMinutes": 320,
+  "durationMinutes": 220,
   "distanceKm": 6.37,
   "routeType": "walk",
   "mapCenter": [

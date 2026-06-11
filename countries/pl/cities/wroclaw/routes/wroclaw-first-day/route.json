@@ -1,0 +1,62 @@
+{
+  "id": "wroclaw-first-day",
+  "cityId": "wroclaw",
+  "title": {
+    "pl": "",
+    "ru": "Большая прогулка по Вроцлаву",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "coverImage": "",
+  "imageHash": "",
+  "description": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "intro": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "durationMinutes": 90,
+  "distanceKm": 0,
+  "routeType": "walk",
+  "mapCenter": [
+    50.06143,
+    19.93658
+  ],
+  "zoom": 14,
+  "unlockRadiusMeters": 50,
+  "completionMessage": {
+    "pl": "",
+    "ru": "",
+    "en": "",
+    "de": "",
+    "ua": "",
+    "it": "",
+    "hr": "",
+    "es": "",
+    "fr": ""
+  },
+  "segments": [],
+  "pointIds": [],
+  "debug_entity": false
+}

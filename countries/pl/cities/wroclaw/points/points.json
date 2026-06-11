@@ -5096,8 +5096,8 @@
       "fr": ""
     },
     "coordinates": [
-      51.11040745603302,
-      17.033549286163712
+      51.104848739182245,
+      17.03849069377744
     ],
     "story": {
       "pl": "",
@@ -5440,7 +5440,11 @@
     "radius": 50,
     "image": "wroclaw/points/points_images/bastion-sakwowy.jpg",
     "imageHash": "70ad6769f1aa3ed82895c9e61e8234efe537727a3643b1519c8a46fa963bff29",
-    "categories": [],
+    "categories": [
+      "Architecture",
+      "PublicSpace",
+      "History"
+    ],
     "debug_entity": false
   },
   {

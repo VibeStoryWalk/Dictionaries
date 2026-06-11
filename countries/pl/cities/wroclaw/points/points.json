@@ -6608,15 +6608,15 @@
     "id": "zalane-artysty",
     "order": 25,
     "title": {
-      "pl": "Pomnik zatopionych artystów",
-      "ru": "Памятник затопленным художникам",
-      "en": "Monument to the Drowned Artists",
-      "de": "Denkmal für die ertrunkenen Künstler",
-      "ua": "Пам'ятник затопленим художникам",
-      "it": "Monumento agli artisti sommersi",
-      "hr": "Spomenik potopljenim umjetnicima",
-      "es": "Monumento a los artistas sumergidos",
-      "fr": "Monument aux artistes submergés"
+      "pl": "Powodzianka",
+      "ru": "Поводзянка",
+      "en": "Povodyanka",
+      "de": "Povodyanka",
+      "ua": "Поводзянка",
+      "it": "Povodyanka",
+      "hr": "Povodyanka",
+      "es": "Povodyanka",
+      "fr": "Povodyanka"
     },
     "approachText": {
       "pl": "",

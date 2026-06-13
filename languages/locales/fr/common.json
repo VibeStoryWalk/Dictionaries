@@ -96,6 +96,7 @@
       "nextVertexShort": "Sommet suivant"
     },
     "labels": {
+      "routeStartOnly": "Début de l’itinéraire",
       "routeStart": "Début de l’itinéraire - {{title}}",
       "nextPoint": "Suivant - {{title}}",
       "approachStartToBegin": "Approchez-vous du point de départ afin que l’itinéraire s’active automatiquement, ou",

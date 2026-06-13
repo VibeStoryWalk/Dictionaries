@@ -98,6 +98,7 @@
       "nextVertexShort": "Наступна вершина"
     },
     "labels": {
+      "routeStartOnly": "Початок маршруту",
       "routeStart": "Початок маршруту - {{title}}",
       "nextPoint": "Далі - {{title}}",
       "approachStartToBegin": "Підійдіть ближче до точки старту, щоб маршрут активувався автоматично, або",

@@ -96,6 +96,7 @@
       "nextVertexShort": "Siguiente vértice"
     },
     "labels": {
+      "routeStartOnly": "Inicio de la ruta",
       "routeStart": "Inicio de la ruta - {{title}}",
       "nextPoint": "Siguiente - {{title}}",
       "approachStartToBegin": "Acérquese al punto de inicio para que la ruta se active automáticamente, o",

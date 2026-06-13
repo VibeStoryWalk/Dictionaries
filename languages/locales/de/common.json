@@ -96,6 +96,7 @@
       "nextVertexShort": "Nächster Punkt"
     },
     "labels": {
+      "routeStartOnly": "Routenstart",
       "routeStart": "Routenstart - {{title}}",
       "nextPoint": "Weiter - {{title}}",
       "approachStartToBegin": "Gehe näher an den Startpunkt heran, damit die Route automatisch aktiviert wird, oder",

@@ -98,6 +98,7 @@
       "nextVertexShort": "Następny wierzchołek"
     },
     "labels": {
+      "routeStartOnly": "Początek trasy",
       "routeStart": "Początek trasy - {{title}}",
       "nextPoint": "Dalej - {{title}}",
       "approachStartToBegin": "Podejdź bliżej punktu startu, aby trasa aktywowała się automatycznie, albo",

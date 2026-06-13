@@ -94,6 +94,7 @@
       "nextVertexShort": "Next vertex"
     },
     "labels": {
+      "routeStartOnly": "Route start",
       "routeStart": "Route start - {{title}}",
       "nextPoint": "Next - {{title}}",
       "approachStartToBegin": "Move closer to the start point so the route activates automatically, or",

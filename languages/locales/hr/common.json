@@ -98,6 +98,7 @@
       "nextVertexShort": "Sljedeći vrh"
     },
     "labels": {
+      "routeStartOnly": "Početak rute",
       "routeStart": "Početak rute - {{title}}",
       "nextPoint": "Dalje - {{title}}",
       "approachStartToBegin": "Približite se početnoj točki kako bi se ruta automatski aktivirala ili",

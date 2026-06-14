@@ -2471,8 +2471,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 25,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/relief-plon.jpg",
+    "imageHash": "dc64f50b5cd8a8ea345293feb332325002d8a87a2096d52daa52e2c430f9f2ec",
     "categories": [
       "Sculpture",
       "Mural"

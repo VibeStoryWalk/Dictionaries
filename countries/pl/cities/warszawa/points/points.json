@@ -1594,8 +1594,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 20,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-boleslavu-prusu.jpg",
+    "imageHash": "f5997384598cc4ecee8dc693b19dba3fa7073a7b8d470025de60fe9453aad555",
     "categories": [
       "Sculpture",
       "Person",

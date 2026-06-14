@@ -147,8 +147,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 35,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/varshavskiy-barbakan.jpg",
+    "imageHash": "3c9f87293c8e2704519a7c9e501c53f8eaafbcf0c5e0485dafeae9a6e7d61fb4",
     "categories": [
       "Architecture",
       "History"

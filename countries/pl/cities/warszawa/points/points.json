@@ -403,8 +403,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 49,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/sad-na-kryshe-buw.jpg",
+    "imageHash": "a472f00869c9ef7cd615f6aaf291351c9a0dde281fdeebd9f623c277c8053080",
     "categories": [
       "ViewPoint",
       "PublicSpace",

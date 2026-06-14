@@ -2522,8 +2522,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 211,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/peshekhodnyy-most-magdaleny-abakanovich.jpg",
+    "imageHash": "6e1cc923e63b07c543c95a31a7383d5ab1e8dc7e32c9a394eb3051dba5d0126a",
     "categories": [
       "Architecture",
       "ViewPoint",

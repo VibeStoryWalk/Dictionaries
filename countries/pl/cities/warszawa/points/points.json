@@ -717,8 +717,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 32,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-varshavskomu-vosstaniyu.jpg",
+    "imageHash": "5ad805ad1adc5abf4ed1b12b6a82e8c2f2dacf2ecdf464abb5feaca9d301cfc2",
     "categories": [
       "History",
       "Sculpture",

@@ -2263,8 +2263,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 79,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/kurgan-cvilya.jpg",
+    "imageHash": "254af1637269d8db06520e95a8022e97039812ce148957cbb5e747a1e13bad62",
     "categories": [
       "ViewPoint",
       "PublicSpace",

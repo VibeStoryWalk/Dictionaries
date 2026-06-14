@@ -2782,8 +2782,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/skulptura-alina-devochka-s-kuvshinom.jpg",
+    "imageHash": "0c4689291a900a09247500b5a83e43f3c8e07f80ea4b1e98df50c8775438ad87",
     "categories": [
       "Sculpture",
       "InterestingForChildren"

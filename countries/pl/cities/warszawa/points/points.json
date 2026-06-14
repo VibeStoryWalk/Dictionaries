@@ -457,8 +457,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 200,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/dvorec-kultury-i-nauki.jpg",
+    "imageHash": "8d3525331850cca9b2d37ddeeb05ade0b1248759848101eed71877f13ba18006",
     "categories": [
       "Architecture",
       "ViewPoint",

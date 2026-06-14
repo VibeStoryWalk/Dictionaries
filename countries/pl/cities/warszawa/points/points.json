@@ -1079,8 +1079,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/ploshchad-pyati-uglov.jpg",
+    "imageHash": "6d76bcc9fb45ec9980308779f6b698532d8a7b0af10754acfb6ae5e87c6b63c2",
     "categories": [
       "PublicSpace",
       "Architecture"

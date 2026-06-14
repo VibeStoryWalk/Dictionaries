@@ -2574,8 +2574,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/vislinskie-bulvary.jpg",
+    "imageHash": "f79fb92164086382eb6f1b4821917f054690ff1a08eff022917d7cceb9ae80da",
     "categories": [
       "PublicSpace",
       "ViewPoint",

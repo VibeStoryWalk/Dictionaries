@@ -2160,8 +2160,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/ploshchad-bankovaya.jpg",
+    "imageHash": "a2d3d4055fd8be731d054d67edfb14dd3528f57774b5fc4ecb6ed751b6f4ea7f",
     "categories": [
       "PublicSpace",
       "History",

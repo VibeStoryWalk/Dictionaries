@@ -2678,8 +2678,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-tadeushu-kostyushko.jpg",
+    "imageHash": "2d7ce03c40b9907f22903d553ce895d35f56d79905618122a062112b599e7534",
     "categories": [
       "Person",
       "History",

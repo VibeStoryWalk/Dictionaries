@@ -666,8 +666,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/ploshchad-pilsudskogo.jpg",
+    "imageHash": "00d76b9c20e7f799685d721a51ed9e7f9c57a18b31ff1bb9f6af50db6de1e888",
     "categories": [
       "PublicSpace",
       "History"

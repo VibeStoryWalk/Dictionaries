@@ -1749,8 +1749,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 28,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-pogibshim-i-ubitym-na-vostoke.jpg",
+    "imageHash": "7869fb6f557665051bbf2439547c8c729599ada421af52f74c0a15922ca0f1be",
     "categories": [
       "History",
       "Sculpture"

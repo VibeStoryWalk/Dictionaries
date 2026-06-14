@@ -300,8 +300,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 58,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/kostel-svyatoy-anny.jpg",
+    "imageHash": "4b88edc349749e22f8ee02597447a13b3c231a9da0fd7eedda3b07f41d6a2753",
     "categories": [
       "Religion",
       "Architecture"

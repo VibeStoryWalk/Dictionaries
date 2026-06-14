@@ -561,8 +561,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 66,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/kostel-svyatogo-kresta.jpg",
+    "imageHash": "dc842ad6aa19b478d1240da57bc2af45764850d57ea483ab4f7565ae798cd00d",
     "categories": [
       "Religion",
       "Architecture",

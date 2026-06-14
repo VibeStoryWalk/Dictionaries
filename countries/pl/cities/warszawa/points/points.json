@@ -1800,8 +1800,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 23,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/lavochka-ezhi-yanickogo.jpg",
+    "imageHash": "022dd16b9d67b78c378d76b0d6fdac45231adeb3dcd2bf13ad4cc9dc2eb8707b",
     "categories": [
       "Person",
       "Sculpture",

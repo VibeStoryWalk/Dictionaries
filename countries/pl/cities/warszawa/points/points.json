@@ -1646,8 +1646,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-pragskoy-dvorovoy-kapelle.jpg",
+    "imageHash": "bcb3745a887d739eea9912192e366f7cf6a16782494c509ea5b736acde5b56e1",
     "categories": [
       "Sculpture",
       "Entertainment",

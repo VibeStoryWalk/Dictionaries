@@ -1336,8 +1336,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 49,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/multimedialny-park-fontanov.jpg",
+    "imageHash": "4acf49c17a48a1c220aaf8c565bf3df6e93c828052f7276342ede0d1a9856ac4",
     "categories": [
       "PublicSpace",
       "Entertainment",

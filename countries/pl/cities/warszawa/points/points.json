@@ -2833,8 +2833,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 53,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/park-yaniny-porazinskoy.jpg",
+    "imageHash": "3c9f720a450c093e8018871596fd8372ab9f697acebe3e153eff31191aa69cfe",
     "categories": [
       "PublicSpace",
       "InterestingForChildren",

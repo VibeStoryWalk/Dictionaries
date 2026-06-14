@@ -198,8 +198,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-fridriku-shopenu.jpg",
+    "imageHash": "48a45c3690795d41070cb1590fa691553fb46282c9469fad998f1bb9b74fc8a9",
     "categories": [
       "Sculpture",
       "Person"

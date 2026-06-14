@@ -1542,8 +1542,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 17,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-marii-sklodovskoy-kyuri.jpg",
+    "imageHash": "81969e34f28e5e8e14aa70ebd2c36125dfd8d5ec5847bce5a09928a71e5ab90b",
     "categories": [
       "Sculpture",
       "Person",

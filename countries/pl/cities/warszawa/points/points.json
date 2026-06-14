@@ -1698,8 +1698,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 25,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-stefanu-starzhinskomu.jpg",
+    "imageHash": "695b8d1b7474942e94e1ff6bd2515773d00d5163f53134c456b420a3b26711b6",
     "categories": [
       "Person",
       "History"

@@ -2885,8 +2885,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 40,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/skulptura-tancovshica.jpg",
+    "imageHash": "9612053fea144f6e8bc2ff84d7a7414f67a586c3098a06b7a9684ea8cb71e2e0",
     "categories": [
       "Sculpture",
       "PublicSpace",

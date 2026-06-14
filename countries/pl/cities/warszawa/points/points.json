@@ -1439,8 +1439,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/arkhikafedralnyy-sobor-svyatogo-ioanna-krestitelya.jpg",
+    "imageHash": "cdf39515f5f7965f5cf3a0135ad56a080743a4cd632074834c960936b17b3699",
     "categories": [
       "Religion",
       "Architecture",

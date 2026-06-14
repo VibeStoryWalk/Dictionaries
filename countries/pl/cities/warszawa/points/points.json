@@ -249,8 +249,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/mogila-neizvestnogo-soldata.jpg",
+    "imageHash": "f737739f64d027d23bd68d2073e1e36b19404896cba782c4151d6e5d6558b19e",
     "categories": [
       "History",
       "PublicSpace"

@@ -1903,8 +1903,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/skulptura-medved-vojtek.jpg",
+    "imageHash": "45c062d399aa2ffd31808ca764bb63a1157da1e58da785a522a97ba8db7410a1",
     "categories": [
       "Sculpture",
       "InterestingForChildren"

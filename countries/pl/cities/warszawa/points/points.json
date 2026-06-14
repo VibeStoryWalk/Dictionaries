@@ -1954,8 +1954,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 28,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/skulptura-nezavisimyj-kot-cyryl.jpg",
+    "imageHash": "53ee3cd35beb643cfbb1100b7386a5ac0455d641218e758c4193705297b56311",
     "categories": [
       "Sculpture",
       "InterestingForChildren"

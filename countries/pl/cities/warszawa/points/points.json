@@ -1130,8 +1130,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/ulitsa-pruzhna.jpg",
+    "imageHash": "2f3beaee97d9c376d98e8909900d28aba07ad3b0dd20be8b36de4e1b2edd6d08",
     "categories": [
       "History",
       "Architecture",

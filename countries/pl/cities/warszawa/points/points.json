@@ -94,8 +94,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 29,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-varsavskoy-rusalke.jpg",
+    "imageHash": "d3f758df18f83e631ea7cfcfade0ab68831834ca069c3e472b36f30d82c4be16",
     "categories": [
       "Sculpture",
       "Legends",

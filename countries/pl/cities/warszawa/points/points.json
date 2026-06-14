@@ -1492,8 +1492,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 68,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/palac-shtshica.jpg",
+    "imageHash": "2efe5917a67f41b331a6cc0fed5fd61fe797040ec1acb718f1c40281bcbeb022",
     "categories": [
       "Architecture",
       "History"

@@ -2419,8 +2419,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 23,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-marii-konopnickoy.jpg",
+    "imageHash": "0ff24ddf5d26845cdf490cfec21476ad076bfae68133bb80fcf2d921a4a0d3e9",
     "categories": [
       "Sculpture",
       "Person",

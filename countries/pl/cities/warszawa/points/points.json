@@ -1234,8 +1234,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 243,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/most-ponyatovskogo.jpg",
+    "imageHash": "9d616ae07ff8833783b5c3b162ec4c02d0a29630bd645b4dc81673e3360f2432",
     "categories": [
       "ViewPoint",
       "Architecture",

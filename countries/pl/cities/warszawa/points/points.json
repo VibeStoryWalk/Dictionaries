@@ -2626,8 +2626,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/kostel-vizitok.jpg",
+    "imageHash": "8ac81971f8be95f7f51ad0684752e71945b5e546436d06b457487fa04d5b50d6",
     "categories": [
       "Religion",
       "Architecture",

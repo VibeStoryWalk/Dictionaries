@@ -2005,8 +2005,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 20,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/varshavskiy-meridian.jpg",
+    "imageHash": "e2dedf8680aad5af85168b997a4de6dbc36cad98bfd59755361f17e772cec35e",
     "categories": [
       "History",
       "PublicSpace"

@@ -509,8 +509,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 25,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-nikolayu-koperniku.jpg",
+    "imageHash": "93c1280d3a4caebfd5d51465ba0aafa0d0f70aba5b1a75f1c2f9a9b9aa019d12",
     "categories": [
       "Sculpture",
       "Person",

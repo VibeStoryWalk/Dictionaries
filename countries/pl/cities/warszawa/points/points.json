@@ -976,8 +976,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 19,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-agneshke-oseckoy.jpg",
+    "imageHash": "f4e65b2c001d790490256d50c3cb2b841476230617aa21bed8006fc291de5718",
     "categories": [
       "Sculpture",
       "Person"

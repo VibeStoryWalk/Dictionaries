@@ -2108,8 +2108,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/ploshchad-grzhibovskogo.jpg",
+    "imageHash": "118b37322511ae828953790dc8233acf0a889772b4850bfa0885008b23df0bf7",
     "categories": [
       "PublicSpace",
       "History",

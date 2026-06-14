@@ -820,8 +820,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/gorka-shenshlivitskaya.jpg",
+    "imageHash": "9b5090587f6ef9f0968525e8cbefc401d1e8d20e3c5aa1d0db22c239ddf108ea",
     "categories": [
       "ViewPoint",
       "PublicSpace",

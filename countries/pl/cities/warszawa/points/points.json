@@ -43,7 +43,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/kolonna-sigmunda.jpg",
-    "imageHash": "1de04883084bd4ef0943e86448ac3eee998c50a6de85ce66cae2bbebdf0323db",
+    "imageHash": "19cadf2a420c98596d27494772511a3e5913321117975918a159e6ffd14403f3",
     "categories": [
       "History",
       "Sculpture",
@@ -95,7 +95,7 @@
     "dwellTimeMinutes": 5,
     "radius": 29,
     "image": "warszawa/points/points_images/pamyatnik-varsavskoy-rusalke.jpg",
-    "imageHash": "d3f758df18f83e631ea7cfcfade0ab68831834ca069c3e472b36f30d82c4be16",
+    "imageHash": "6f3f8136250bdbf9e6c467c828a8b18080df4e7de6d1c1d881ffb51c8c7eaf9f",
     "categories": [
       "Sculpture",
       "Legends",
@@ -148,7 +148,7 @@
     "dwellTimeMinutes": 5,
     "radius": 35,
     "image": "warszawa/points/points_images/varshavskiy-barbakan.jpg",
-    "imageHash": "3c9f87293c8e2704519a7c9e501c53f8eaafbcf0c5e0485dafeae9a6e7d61fb4",
+    "imageHash": "e8821ec3f30493dd9f832f2a90edb16866cdad8bc9132ec7f4055f943d68fde0",
     "categories": [
       "Architecture",
       "History"
@@ -199,7 +199,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/pamyatnik-fridriku-shopenu.jpg",
-    "imageHash": "48a45c3690795d41070cb1590fa691553fb46282c9469fad998f1bb9b74fc8a9",
+    "imageHash": "634db6eedb9163e75a99f5f03c9db5d8e191b439e31c3c87d05e48ab68a66e39",
     "categories": [
       "Sculpture",
       "Person"
@@ -250,7 +250,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/mogila-neizvestnogo-soldata.jpg",
-    "imageHash": "f737739f64d027d23bd68d2073e1e36b19404896cba782c4151d6e5d6558b19e",
+    "imageHash": "3930955b5aaa67818e019d86d932305afe780f91096c19d347234f64dd503912",
     "categories": [
       "History",
       "PublicSpace"
@@ -301,7 +301,7 @@
     "dwellTimeMinutes": 5,
     "radius": 58,
     "image": "warszawa/points/points_images/kostel-svyatoy-anny.jpg",
-    "imageHash": "4b88edc349749e22f8ee02597447a13b3c231a9da0fd7eedda3b07f41d6a2753",
+    "imageHash": "4a2ee1c06ea1e3bd3747e775130e1b3499c24d9b064b5bdfc8596e9d4be718f3",
     "categories": [
       "Religion",
       "Architecture"
@@ -352,7 +352,7 @@
     "dwellTimeMinutes": 5,
     "radius": 263,
     "image": "warszawa/points/points_images/most-sventokshiskiy.jpg",
-    "imageHash": "4eee882871e9353b3eb79344441ecbccbf2194f96d5a4ab3f5f5a01a668f9561",
+    "imageHash": "244d7377743e120434f0f4ad8d58cd640f90040f108eaf2bfe831850cefe1d85",
     "categories": [
       "Architecture",
       "ViewPoint",
@@ -404,7 +404,7 @@
     "dwellTimeMinutes": 5,
     "radius": 49,
     "image": "warszawa/points/points_images/sad-na-kryshe-buw.jpg",
-    "imageHash": "a472f00869c9ef7cd615f6aaf291351c9a0dde281fdeebd9f623c277c8053080",
+    "imageHash": "0bf5384d1b56e54fff2ebc314557428c7b0f2dd395d2f3a45e595c11095188fd",
     "categories": [
       "ViewPoint",
       "PublicSpace",
@@ -458,7 +458,7 @@
     "dwellTimeMinutes": 5,
     "radius": 200,
     "image": "warszawa/points/points_images/dvorec-kultury-i-nauki.jpg",
-    "imageHash": "8d3525331850cca9b2d37ddeeb05ade0b1248759848101eed71877f13ba18006",
+    "imageHash": "1a783dd2da4460baf4a97ed8582b6e11d5be5a34e0b2f236a0d3f327cf6f88bc",
     "categories": [
       "Architecture",
       "ViewPoint",
@@ -510,7 +510,7 @@
     "dwellTimeMinutes": 5,
     "radius": 25,
     "image": "warszawa/points/points_images/pamyatnik-nikolayu-koperniku.jpg",
-    "imageHash": "93c1280d3a4caebfd5d51465ba0aafa0d0f70aba5b1a75f1c2f9a9b9aa019d12",
+    "imageHash": "07857c04cbb540577f66ee1e4964ecd230041de1d9c871fb5c4831eaa93afdc8",
     "categories": [
       "Sculpture",
       "Person",
@@ -562,7 +562,7 @@
     "dwellTimeMinutes": 5,
     "radius": 66,
     "image": "warszawa/points/points_images/kostel-svyatogo-kresta.jpg",
-    "imageHash": "dc842ad6aa19b478d1240da57bc2af45764850d57ea483ab4f7565ae798cd00d",
+    "imageHash": "ae61cebca29ecdf99bbbb73f171e8f19cd3f56a11629d2fca3f5083b7e65876f",
     "categories": [
       "Religion",
       "Architecture",
@@ -615,7 +615,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/krakovskoe-predmeste.jpg",
-    "imageHash": "6cf3fb664302f8a6767be73f5b179f403f5bb068f518caf420a01a2245fd6eed",
+    "imageHash": "7545cfe7a0ba87da459d220a584f7fd921a58b277b8474f9ff5e121e162a0131",
     "categories": [
       "PublicSpace",
       "Architecture",
@@ -667,7 +667,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/ploshchad-pilsudskogo.jpg",
-    "imageHash": "00d76b9c20e7f799685d721a51ed9e7f9c57a18b31ff1bb9f6af50db6de1e888",
+    "imageHash": "9ab5e6c90c7225672bc4e9fd3c11d2d7f5f2fc1301e0aadd668c5a002ea31bc2",
     "categories": [
       "PublicSpace",
       "History"
@@ -718,7 +718,7 @@
     "dwellTimeMinutes": 5,
     "radius": 32,
     "image": "warszawa/points/points_images/pamyatnik-varshavskomu-vosstaniyu.jpg",
-    "imageHash": "5ad805ad1adc5abf4ed1b12b6a82e8c2f2dacf2ecdf464abb5feaca9d301cfc2",
+    "imageHash": "a3d40231eb57664e170a4924abb7171778fb33f055bcebf2e22ebb5fa5663273",
     "categories": [
       "History",
       "Sculpture",
@@ -770,7 +770,7 @@
     "dwellTimeMinutes": 5,
     "radius": 20,
     "image": "warszawa/points/points_images/pamyatnik-malomu-povstantsu.jpg",
-    "imageHash": "d7d842198cbebdc9f6d2aa97a41a49c55bda50a3b40c111cbba3cded31c1d130",
+    "imageHash": "1cd5ec584a61771d499aca16e1df942153a963c8768444414cfbc2c3881e44bc",
     "categories": [
       "History",
       "Sculpture"
@@ -821,7 +821,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/gorka-shenshlivitskaya.jpg",
-    "imageHash": "9b5090587f6ef9f0968525e8cbefc401d1e8d20e3c5aa1d0db22c239ddf108ea",
+    "imageHash": "633d63923c06d57e1082ee232007230f3e4bb58c0abdd0ebe4f0fc9138590cfa",
     "categories": [
       "ViewPoint",
       "PublicSpace",
@@ -873,7 +873,7 @@
     "dwellTimeMinutes": 5,
     "radius": 69,
     "image": "warszawa/points/points_images/palma-na-rondo-sharlya-de-gollya.jpg",
-    "imageHash": "c98b3cb3b59c596d769b5ce99d222212da4396a22a135bc0f73aec9a2f0a59f9",
+    "imageHash": "cb211fd4a5fae60c97084d8e0f33b599810da608693223b278ade5e8461cbb65",
     "categories": [
       "PublicSpace",
       "Sculpture",
@@ -925,7 +925,7 @@
     "dwellTimeMinutes": 5,
     "radius": 21,
     "image": "warszawa/points/points_images/lavochka-yana-karskogo.jpg",
-    "imageHash": "0b62b541b013e845a31ab9efd77d574b6ef9b7a26abca414380758bc67f90185",
+    "imageHash": "101ae4fa98f4386101da54990ffe10ffa3599e54000ff0e64fca41521e9d3410",
     "categories": [
       "Sculpture",
       "History",
@@ -977,7 +977,7 @@
     "dwellTimeMinutes": 5,
     "radius": 19,
     "image": "warszawa/points/points_images/pamyatnik-agneshke-oseckoy.jpg",
-    "imageHash": "f4e65b2c001d790490256d50c3cb2b841476230617aa21bed8006fc291de5718",
+    "imageHash": "269c6b39f44d2454b7616dcd7242968a71c627dba395890f3e97f428ec398deb",
     "categories": [
       "Sculpture",
       "Person"
@@ -1028,7 +1028,7 @@
     "dwellTimeMinutes": 5,
     "radius": 23,
     "image": "warszawa/points/points_images/piskle-drozd-spevun.jpg",
-    "imageHash": "676d8284071587a3bb612dcf9a3123211f7e1850b4e091cda9595ce754e5ff55",
+    "imageHash": "4a3a879c36a5472dae946572351fea3752cd251fe44f8d13a2ade94b3c9c8bc3",
     "categories": [
       "Sculpture",
       "InterestingForChildren",
@@ -1080,7 +1080,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/ploshchad-pyati-uglov.jpg",
-    "imageHash": "6d76bcc9fb45ec9980308779f6b698532d8a7b0af10754acfb6ae5e87c6b63c2",
+    "imageHash": "3c476d324fc55eaaf887955cd893fb9d3b09b123fb3248ed5aa07bfab4b25092",
     "categories": [
       "PublicSpace",
       "Architecture"
@@ -1131,7 +1131,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/ulitsa-pruzhna.jpg",
-    "imageHash": "2f3beaee97d9c376d98e8909900d28aba07ad3b0dd20be8b36de4e1b2edd6d08",
+    "imageHash": "e625b22f3e59485f724cf6e0cfe5cfe9ad66d839d406c9782bb57b1a2838bdf5",
     "categories": [
       "History",
       "Architecture",
@@ -1183,7 +1183,7 @@
     "dwellTimeMinutes": 5,
     "radius": 70,
     "image": "warszawa/points/points_images/kostel-vseh-svyatyh.jpg",
-    "imageHash": "1b4c697bf4bd80118bf8929f9deba9befd55d00a94508d99e6e0e858603fb55c",
+    "imageHash": "52be197a1d154d4d6cdb755ad449baa282e953c4e3ef556cb6894d8b84e8595c",
     "categories": [
       "Religion",
       "Architecture",
@@ -1235,7 +1235,7 @@
     "dwellTimeMinutes": 5,
     "radius": 243,
     "image": "warszawa/points/points_images/most-ponyatovskogo.jpg",
-    "imageHash": "9d616ae07ff8833783b5c3b162ec4c02d0a29630bd645b4dc81673e3360f2432",
+    "imageHash": "a2eb12204b1dd7a9eeee17bd349ff6e0a0c84604a7cdc371a4629d63383bc819",
     "categories": [
       "ViewPoint",
       "Architecture",
@@ -1287,7 +1287,7 @@
     "dwellTimeMinutes": 5,
     "radius": 107,
     "image": "warszawa/points/points_images/saksonskiy-sad.jpg",
-    "imageHash": "4d1ebc44915540111ffc9870a8b64a765b25365f15c9e82a92c4998e6b1a3e92",
+    "imageHash": "b529df78c91b5ccc815f4f63684b39285ce3fe6580f8621c7cba72334b48ca30",
     "categories": [
       "PublicSpace"
     ],
@@ -1337,7 +1337,7 @@
     "dwellTimeMinutes": 5,
     "radius": 49,
     "image": "warszawa/points/points_images/multimedialny-park-fontanov.jpg",
-    "imageHash": "4acf49c17a48a1c220aaf8c565bf3df6e93c828052f7276342ede0d1a9856ac4",
+    "imageHash": "db785688a548f462fd0ee8f62a7133e9968380dd4b18fab48e5688381bf92944",
     "categories": [
       "PublicSpace",
       "Entertainment",
@@ -1389,7 +1389,7 @@
     "dwellTimeMinutes": 5,
     "radius": 156,
     "image": "warszawa/points/points_images/skarishevskij-park.jpg",
-    "imageHash": "77c091de2ea1669385b3beac1dffee90bf7eaa8199d9b4a5edec7b0ab314762f",
+    "imageHash": "4edbd45048540d9d954aff3fc8c55e8a127964667900c3da2211c161a06e7f55",
     "categories": [
       "PublicSpace",
       "InterestingForChildren"
@@ -1401,7 +1401,7 @@
     "order": 28,
     "title": {
       "pl": "",
-      "ru": "Архикафедральный собор Святого Иоанна Крестителя",
+      "ru": "Собор Святого Иоанна Крестителя",
       "en": "",
       "de": "",
       "ua": "",
@@ -1440,7 +1440,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/arkhikafedralnyy-sobor-svyatogo-ioanna-krestitelya.jpg",
-    "imageHash": "cdf39515f5f7965f5cf3a0135ad56a080743a4cd632074834c960936b17b3699",
+    "imageHash": "7fe247d9e4d2eefb21b53c7ce5bf1996e4dc13ca0e569bd735ab08044ed76ff4",
     "categories": [
       "Religion",
       "Architecture",
@@ -1543,7 +1543,7 @@
     "dwellTimeMinutes": 5,
     "radius": 17,
     "image": "warszawa/points/points_images/pamyatnik-marii-sklodovskoy-kyuri.jpg",
-    "imageHash": "81969e34f28e5e8e14aa70ebd2c36125dfd8d5ec5847bce5a09928a71e5ab90b",
+    "imageHash": "7fe5085a976a6964b5c9a0204ffad76275afa25b72b52e9a48b0a4eb84594bb5",
     "categories": [
       "Sculpture",
       "Person",
@@ -1595,7 +1595,7 @@
     "dwellTimeMinutes": 5,
     "radius": 20,
     "image": "warszawa/points/points_images/pamyatnik-boleslavu-prusu.jpg",
-    "imageHash": "f5997384598cc4ecee8dc693b19dba3fa7073a7b8d470025de60fe9453aad555",
+    "imageHash": "b3e7cbe60d0145f045f1f71cbbbf04a72235c6dd82add179add72807b485a2ba",
     "categories": [
       "Sculpture",
       "Person",
@@ -1647,7 +1647,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/pamyatnik-pragskoy-dvorovoy-kapelle.jpg",
-    "imageHash": "bcb3745a887d739eea9912192e366f7cf6a16782494c509ea5b736acde5b56e1",
+    "imageHash": "3529348358fc9c82c3ed978f0946ce07678904602ca9989057c542c1a70e4057",
     "categories": [
       "Sculpture",
       "Entertainment",
@@ -1699,7 +1699,7 @@
     "dwellTimeMinutes": 5,
     "radius": 25,
     "image": "warszawa/points/points_images/pamyatnik-stefanu-starzhinskomu.jpg",
-    "imageHash": "695b8d1b7474942e94e1ff6bd2515773d00d5163f53134c456b420a3b26711b6",
+    "imageHash": "fdc4f46b8bab0cb904efcea3287bf06d3cba617190bea780538ce0e90c010ca6",
     "categories": [
       "Person",
       "History"
@@ -1750,7 +1750,7 @@
     "dwellTimeMinutes": 5,
     "radius": 28,
     "image": "warszawa/points/points_images/pamyatnik-pogibshim-i-ubitym-na-vostoke.jpg",
-    "imageHash": "7869fb6f557665051bbf2439547c8c729599ada421af52f74c0a15922ca0f1be",
+    "imageHash": "9ee644c04f561356f5bd37f9af2700b4d63d722dd9e252a6e9323f82aee6b53c",
     "categories": [
       "History",
       "Sculpture"
@@ -1801,7 +1801,7 @@
     "dwellTimeMinutes": 5,
     "radius": 23,
     "image": "warszawa/points/points_images/lavochka-ezhi-yanickogo.jpg",
-    "imageHash": "022dd16b9d67b78c378d76b0d6fdac45231adeb3dcd2bf13ad4cc9dc2eb8707b",
+    "imageHash": "6d22fbb3438c975ffe93137d13bb9bee85eda585ecf8a2851b9feccdccb690f9",
     "categories": [
       "Person",
       "Sculpture",
@@ -1853,7 +1853,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/skulptura-shtafeta.jpg",
-    "imageHash": "f0fc48e8d5c626d23ae1297ee7467659533427c781c52a96e4ac6dbfa3405da1",
+    "imageHash": "00e134e3fd18023fc3e5591c114ecccdf7e07aabbd74919b4eceb2a2a93599fb",
     "categories": [
       "Sculpture",
       "PublicSpace"
@@ -1904,7 +1904,7 @@
     "dwellTimeMinutes": 5,
     "radius": 50,
     "image": "warszawa/points/points_images/skulptura-medved-vojtek.jpg",
-    "imageHash": "45c062d399aa2ffd31808ca764bb63a1157da1e58da785a522a97ba8db7410a1",
+    "imageHash": "65b8db487ab1264a913ad1d91f8a638069b87b3072426014500006454eda8ca1",
     "categories": [
       "Sculpture",
       "InterestingForChildren"
@@ -1955,7 +1955,7 @@
     "dwellTimeMinutes": 5,
     "radius": 28,
     "image": "warszawa/points/points_images/skulptura-nezavisimyj-kot-cyryl.jpg",
-    "imageHash": "53ee3cd35beb643cfbb1100b7386a5ac0455d641218e758c4193705297b56311",
+    "imageHash": "860cffb3dad1bd104b3cd3d45e9e70de7831bff023ee6899f106fb84354d66d0",
     "categories": [
       "Sculpture",
       "InterestingForChildren"
@@ -2006,7 +2006,7 @@
     "dwellTimeMinutes": 5,
     "radius": 20,
     "image": "warszawa/points/points_images/varshavskiy-meridian.jpg",
-    "imageHash": "e2dedf8680aad5af85168b997a4de6dbc36cad98bfd59755361f17e772cec35e",
+    "imageHash": "9bb95fbce8a6421d1e1474d049322f19f78de81913bc04db7659c3f90e746446",
     "categories": [
       "History",
       "PublicSpace"

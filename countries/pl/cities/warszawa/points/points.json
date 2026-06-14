@@ -1852,8 +1852,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/skulptura-shtafeta.jpg",
+    "imageHash": "f0fc48e8d5c626d23ae1297ee7467659533427c781c52a96e4ac6dbfa3405da1",
     "categories": [
       "Sculpture",
       "PublicSpace"

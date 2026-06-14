@@ -1182,8 +1182,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 70,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/kostel-vseh-svyatyh.jpg",
+    "imageHash": "1b4c697bf4bd80118bf8929f9deba9befd55d00a94508d99e6e0e858603fb55c",
     "categories": [
       "Religion",
       "Architecture",

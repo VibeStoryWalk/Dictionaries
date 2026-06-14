@@ -2057,8 +2057,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 81,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/kostel-svyatogo-aleksandra.jpg",
+    "imageHash": "706902fe9449f5845846ad91be8004ccb52288160e693ba11d0ae92cba07d515",
     "categories": [
       "Architecture",
       "Religion"

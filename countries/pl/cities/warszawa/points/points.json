@@ -924,8 +924,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 21,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/lavochka-yana-karskogo.jpg",
+    "imageHash": "0b62b541b013e845a31ab9efd77d574b6ef9b7a26abca414380758bc67f90185",
     "categories": [
       "Sculpture",
       "History",

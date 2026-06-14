@@ -2315,8 +2315,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 20,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-geroyam-varshavy.jpg",
+    "imageHash": "817b21937b533524cbd2edf4aef4805e56ae486fc8f598814a07a7c214556df6",
     "categories": [
       "Sculpture",
       "History"

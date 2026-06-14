@@ -1388,8 +1388,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 156,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/skarishevskij-park.jpg",
+    "imageHash": "77c091de2ea1669385b3beac1dffee90bf7eaa8199d9b4a5edec7b0ab314762f",
     "categories": [
       "PublicSpace",
       "InterestingForChildren"

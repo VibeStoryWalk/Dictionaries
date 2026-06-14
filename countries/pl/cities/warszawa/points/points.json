@@ -2730,8 +2730,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 16,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-yanu-kilinskomu.jpg",
+    "imageHash": "8eba52101ff04e40b68711466780f3fd28d9deae07501b905f29acb0d0011b7b",
     "categories": [
       "Person",
       "History",

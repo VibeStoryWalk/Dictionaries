@@ -1286,8 +1286,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 107,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/saksonskiy-sad.jpg",
+    "imageHash": "4d1ebc44915540111ffc9870a8b64a765b25365f15c9e82a92c4998e6b1a3e92",
     "categories": [
       "PublicSpace"
     ],

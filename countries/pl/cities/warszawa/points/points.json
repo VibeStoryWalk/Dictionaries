@@ -2212,8 +2212,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 105,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/park-uyazdovskiy.jpg",
+    "imageHash": "98b9c5b401a0dd9386b2cdfb8fbb0327fa0df201a43c9fb808d4b844cb53115c",
     "categories": [
       "PublicSpace",
       "InterestingForChildren"

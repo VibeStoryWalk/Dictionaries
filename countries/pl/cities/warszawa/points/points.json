@@ -769,8 +769,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 20,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/pamyatnik-malomu-povstantsu.jpg",
+    "imageHash": "d7d842198cbebdc9f6d2aa97a41a49c55bda50a3b40c111cbba3cded31c1d130",
     "categories": [
       "History",
       "Sculpture"

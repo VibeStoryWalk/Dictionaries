@@ -42,8 +42,8 @@
     "quiz": [],
     "dwellTimeMinutes": 5,
     "radius": 50,
-    "image": "",
-    "imageHash": "",
+    "image": "warszawa/points/points_images/kolonna-sigmunda.jpg",
+    "imageHash": "1de04883084bd4ef0943e86448ac3eee998c50a6de85ce66cae2bbebdf0323db",
     "categories": [
       "History",
       "Sculpture",
